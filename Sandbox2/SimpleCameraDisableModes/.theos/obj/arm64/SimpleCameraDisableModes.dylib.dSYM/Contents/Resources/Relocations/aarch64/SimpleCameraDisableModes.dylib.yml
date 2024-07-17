@@ -1,0 +1,24 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/SimpleCameraDisableModes/.theos/obj/arm64/SimpleCameraDisableModes.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x128 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CAMCaptureCapabilities$isBackTimelapseSupported', symObjAddr: 0x18C8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$CAMCaptureCapabilities$isFrontTimelapseSupported', symObjAddr: 0x18D0, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$CAMCaptureCapabilities$isBackSlomoSupported', symObjAddr: 0x18D8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0xCF, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$CAMCaptureCapabilities$isFrontSlomoSupported', symObjAddr: 0x18E0, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0xE8, offset: 0xE8, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$CAMCaptureCapabilities$isSquareModeSupported', symObjAddr: 0x18E8, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x101, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$CAMCaptureCapabilities$isBackPanoramaSupported', symObjAddr: 0x18F0, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CAMCaptureCapabilities$isFrontPanoramaSupported', symObjAddr: 0x18F8, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x133, offset: 0x133, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$CAMModeDial$initWithFrame$', symObjAddr: 0x1900, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x128 }
+  - { offsetInCU: 0x2FD, offset: 0x2FD, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CAMCaptureCapabilities$isBackTimelapseSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x8 }
+  - { offsetInCU: 0x34D, offset: 0x34D, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CAMCaptureCapabilities$isBackTimelapseSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x8 }
+  - { offsetInCU: 0x381, offset: 0x381, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$CAMCaptureCapabilities$isFrontTimelapseSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x130, symBinAddr: 0x4130, symSize: 0x8 }
+  - { offsetInCU: 0x3B5, offset: 0x3B5, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$CAMCaptureCapabilities$isBackSlomoSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x8 }
+  - { offsetInCU: 0x3E9, offset: 0x3E9, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$CAMCaptureCapabilities$isFrontSlomoSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x8 }
+  - { offsetInCU: 0x41D, offset: 0x41D, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$CAMCaptureCapabilities$isSquareModeSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x8 }
+  - { offsetInCU: 0x451, offset: 0x451, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$CAMCaptureCapabilities$isBackPanoramaSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+  - { offsetInCU: 0x485, offset: 0x485, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CAMCaptureCapabilities$isFrontPanoramaSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x8 }
+  - { offsetInCU: 0x4B9, offset: 0x4B9, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$CAMModeDial$initWithFrame$P11CAMModeDialP13objc_selector6CGRect', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x8 }
+...

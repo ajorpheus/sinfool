@@ -1,0 +1,16 @@
+Package: com.sinfool.dialertransparentbuttons
+Name: Dialer - Transparent Buttons  ₁₁₋₁₋₁₇
+Author: Sinfool
+Description: Makes the dialer keypad buttons transparent. Makes the dialer keypad buttons transparent.
+ .
+ [v.1] Tested with an iP6+ on 9.3.3.  (11-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39902
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,22 @@
+Package: com.sinfool.noyoutubev377732
+Name: No YouTube (v. 3.7.7732)  ₂₋₁₇₋₁₆
+Author: Sinfool
+Description: Provides the following hide/show options for YouTube... Provides the following hide/show options for YouTube...
+ .
+ - Disable
+ - Hide Album Artwork Icon
+ - Stop Button Animation
+ .
+ By default, I disabled YouTube entirely but you can delete or edit the units to your liking with "TRUE" or FALSE" values.
+  
+ [v.1] Tested with version 3.7.7732.  (2-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27777
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.PlayMusic
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

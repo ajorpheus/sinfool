@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/LSHSMoveStatusBarDown/.theos/obj/arm64/LSHSMoveStatusBarDown.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SBLockScreenViewController$statusBarStyle', symObjAddr: 0x2728, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL125_logos_orig$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$', symObjAddr: 0x2730, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x126, offset: 0x126, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$UIView$_canHandleStatusBarTouchAtLocation$', symObjAddr: 0x2738, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x9A8, offset: 0x9A8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0xA41, offset: 0xA41, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SBLockScreenViewController$statusBarStyleP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0xA7E, offset: 0xA7E, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SBLockScreenViewController$statusBarStyleP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0xAB2, offset: 0xAB2, size: 0x8, addend: 0x0, symName: '__ZL127_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$P36UIStatusBarForegroundStyleAttributesP13objc_selectordxP11objc_objectbx', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x14 }
+  - { offsetInCU: 0xB38, offset: 0xB38, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$UIView$_canHandleStatusBarTouchAtLocation$P6UIViewP13objc_selector7CGPoint', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x8 }
+  - { offsetInCU: 0xB6D, offset: 0xB6D, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$UIView$_canHandleStatusBarTouchAtLocation$P6UIViewP13objc_selector7CGPoint', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x8 }
+...

@@ -1,0 +1,15 @@
+Package: com.sinfool.switchershowstatusbar
+Name: Switcher - Show Status Bar
+Author: Sinfool
+Description: Shows the status bar in the switcher. Shows the status bar in the switcher.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-6-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34234
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

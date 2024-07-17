@@ -1,0 +1,15 @@
+Package: com.sinfool.allowbackgroundplaybackvideos
+Name: Allow Background Playback (Videos)
+Author: Sinfool
+Description: Prevents iOS from pausing videos whenever you leave Safari or open NC/CC and allows the content to continue playing in the background. Prevents iOS from pausing videos whenever you leave Safari or open NC/CC and allows the content to continue playing in the background.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-6-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36595
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

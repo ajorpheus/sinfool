@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NCSingleTapToClear/.theos/obj/arm64e/NCSingleTapToClear.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$NCNotificationListClearButton$clearButtonState', symObjAddr: 0xA80, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$NCNotificationListClearButton$_layoutSubviewsForState$', symObjAddr: 0xA88, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x12A, offset: 0x12A, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$NCNotificationListClearButton$clearButtonStateP29NCNotificationListClearButtonP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x181, offset: 0x181, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$NCNotificationListClearButton$clearButtonStateP29NCNotificationListClearButtonP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x1B5, offset: 0x1B5, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$NCNotificationListClearButton$_layoutSubviewsForState$P29NCNotificationListClearButtonP13objc_selectorx', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x10 }
+...

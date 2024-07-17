@@ -1,0 +1,18 @@
+Package: com.sinfool.lsilllooklaterpreventscreenwakingwhenreceivingnewnotifications
+Name: LS - IllLookLater (Prevent Screen Waking When Receiving New Notifications)
+Author: Sinfool
+Description: Prevents the lockscreen from waking/showing whenever new notifications are received.  This will prevent unnecessary battery drain by preventing the screen from lighting up. Prevents the lockscreen from waking/showing whenever new notifications are received.  This will prevent unnecessary battery drain by preventing the screen from lighting up.
+ .
+ I titled this patch "IllLookLater" since it does similar to that tweak but I have no affiliation.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-5-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34201
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 104

@@ -1,0 +1,19 @@
+Package: com.sinfool.lock1stspringboardpage
+Name: Lock 1st SpringBoard Page
+Author: Sinfool
+Description: Have you ever wanted to lock your Springboard to the first page?  If so, this may be for you! Have you ever wanted to lock your Springboard to the first page?  If so, this may be for you!
+ .
+ Locks the SpringBoard to the first page while also doing the following...
+ .
+ •  Prevents left & right scrolling & spring effect
+ •  Prevents swipe down spotlight search gesture
+ •  Essentially hides apps not on the 1st SpringBoard page (however they're still accessible via spotlight "IF" you set another gesture to activate spotlight, i.e. "At Home Screen->Flick Icon Down->Spotlight" etc.)
+ .
+ Briefly tested on an iP6+ 8.1.  (6-5-15) patchID: 21489
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

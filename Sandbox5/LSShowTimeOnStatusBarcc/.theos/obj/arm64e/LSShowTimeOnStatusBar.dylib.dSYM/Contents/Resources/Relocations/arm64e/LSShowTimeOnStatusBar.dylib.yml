@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/LSShowTimeOnStatusBarcc/.theos/obj/arm64e/LSShowTimeOnStatusBar.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$SBLockScreenViewController$shouldShowLockStatusBarTime', symObjAddr: 0xBB0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBLockScreenView$setTopGrabberHidden$forRequester$', symObjAddr: 0xBB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBLockScreenViewController$shouldShowLockStatusBarTimeP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1C5, offset: 0x1C5, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBLockScreenViewController$shouldShowLockStatusBarTimeP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBLockScreenView$setTopGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x10 }
+...

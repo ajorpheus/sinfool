@@ -1,0 +1,19 @@
+Package: com.sinfool.loadallmessages
+Name: Load All Messages  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: When searching for previous texts... are you tired of scrolling up & waiting for them to load?  Do you hate that Spotlight doesn't open up to the specific text you've searched for?  If so, then this is for you!!! When searching for previous texts... are you tired of scrolling up & waiting for them to load?  Do you hate that Spotlight doesn't open up to the specific text you've searched for?  If so, then this is for you!!!
+ .
+ Removes the spinning loading indicator/"Load Earlier Messages" prompt by loading as many texts you choose.
+ .
+ It's currently set to load "1000" texts but you can change this to any number you need to.  I suggest increasing the variable in 1000 increments since it has been reported that using "10,000" caused the sms app to crash & lock up the device/requiring SpringBoard to be killed.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25824
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

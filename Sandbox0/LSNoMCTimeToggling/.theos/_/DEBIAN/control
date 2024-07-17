@@ -1,0 +1,18 @@
+Package: com.sinfool.lsnomctimetoggling
+Name: LS • No MC Time Toggling  ₈₋₂₃₋₁₅
+Author: Sinfool
+Description: Disables lockscreen media control toggling when music is playing (i.e. disables the Time/Date from showing when the home button is pressed).  Made after reading a request on r/jailbreak. Disables lockscreen media control toggling when music is playing (i.e. disables the Time/Date from showing when the home button is pressed).  Made after reading a request on r/jailbreak.
+ .
+ [v.1] Tested with an iP6+ 8.4.  (8-23-15)
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 24061
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

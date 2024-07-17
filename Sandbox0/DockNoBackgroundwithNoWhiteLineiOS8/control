@@ -1,0 +1,13 @@
+Package: com.sinfool.docknobackgroundwithnowhitelineios8
+Name: Dock - No Background with No White Line (iOS 8)
+Author: Sinfool
+Description: Disables the blurred background of the dock and removes the white transverse line above the dock.  (iOS 8)   Disables the blurred background of the dock and removes the white transverse line above the dock.  (iOS 8)  
+ .
+ FYI's:   After a respring, the dock background will remain visible until an app or folder is opened...afterwards, it will disappear.  While in landscape on the iP6+, apps from the next springboard page will be visible under your dock apps. patchID: 13861
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,16 @@
+Package: com.sinfool.nctransparenttabs
+Name: NC - Transparent Tabs  ₄₋₇₋₁₆
+Author: Sinfool
+Description: Makes the "Today" & "Notifications" tabs in NC transparent and changes the text color.  Effects also apply to the "Edit" button. Makes the "Today" & "Notifications" tabs in NC transparent and changes the text color.  Effects also apply to the "Edit" button.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (4-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28385
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NoIconLabelsDockFolders/.theos/obj/arm64/NoIconLabelsDockFolders.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$SBRootFolderView$_setDockOffscreenFraction$', symObjAddr: 0x10E0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$', symObjAddr: 0x10E8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: '__ZL97_logos_orig$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$', symObjAddr: 0x10F0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x15C, offset: 0x15C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x1F5, offset: 0x1F5, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBRootFolderView$_setDockOffscreenFraction$P16SBRootFolderViewP13objc_selectord', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x14 }
+  - { offsetInCU: 0x23B, offset: 0x23B, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBRootFolderView$_setDockOffscreenFraction$P16SBRootFolderViewP13objc_selectord', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x14 }
+  - { offsetInCU: 0x284, offset: 0x284, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$P10SBIconViewP13objc_selectorxP11objc_object', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x60 }
+  - { offsetInCU: 0x29D, offset: 0x29D, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$P10SBIconViewP13objc_selectorxP11objc_object', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x60 }
+  - { offsetInCU: 0x2F8, offset: 0x2F8, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$P33SBMutableIconLabelImageParametersP13objc_selectorb', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x10 }
+  - { offsetInCU: 0x315, offset: 0x315, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$P33SBMutableIconLabelImageParametersP13objc_selectorb', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x10 }
+...

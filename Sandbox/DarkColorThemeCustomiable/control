@@ -1,0 +1,15 @@
+Package: com.sinfool.darkcolorthemecustomiable
+Name: Dark Color Theme (Customizable)  ₁₁₋₂₅₋₁₆
+Author: Sinfool
+Description: Allows for color customization of the calculator app.  By default, I made it a dark style but you can change the colors as you please. Allows for color customization of the calculator app.  By default, I made it a dark style but you can change the colors as you please.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Posted after reading a similar request via r/jailbreak.  (11-25-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32304
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.calculator
+Homepage: https://ipadkid.cf/sinfool/index.html

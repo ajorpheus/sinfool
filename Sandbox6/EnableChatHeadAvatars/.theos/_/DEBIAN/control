@@ -1,0 +1,29 @@
+Package: com.sinfool.enablechatheadavatars
+Name: Enable Chat Head Avatars  ₃₋₂₆₋₁₆
+Author: Sinfool
+Description: Enables chat head avatars/contact photos for the conversation list (in portrait too) and also adds the following options... Enables chat head avatars/contact photos for the conversation list (in portrait too) and also adds the following options...
+ .
+ * Hide Status Bar
+ * Move Chat Heads Left
+ * Hide Predictive Text Bar
+ .
+ Useful for those with older/smaller devices however also adds a few visual annoyances.
+ .
+ NOTE:  By default, the predictive text bar is hidden.  Use "TRUE" or "0" to enable options.
+ .
+ Known issues: (but there's likely more)
+ - Removes edit mode circles
+ - Rounds predictive text cell corners/bigger cell etc.
+ - Removes emoji category bar glyphs
+ .
+ [v.1] Tested with an iP5 9.0.2.  Made as a request via r/jailbreak.  (3-26-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28261
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,15 @@
+Package: com.sinfool.safariviewcontrollerdisablefullscreenmode
+Name: SafariViewController - Disable Full Screen Mode  ₁₂₋₁₇₋₁₅
+Author: Sinfool
+Description: Disables full screen mode (i.e. never hide bars) for all apps that use SafariViewController. Disables full screen mode (i.e. never hide bars) for all apps that use SafariViewController.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (12-17-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26962
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

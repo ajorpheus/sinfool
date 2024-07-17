@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/AnimationsImmediatelyOpenCloseAppsiOS10/.theos/obj/arm64/AnimationsImmediatelyOpenCloseAppsiOS10.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBUIAnimationZoomUpApp$initWithTransitionContextProvider$', symObjAddr: 0x1168, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xC4, offset: 0xC4, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBFolderIconZoomAnimator$_numberOfSignificantAnimations', symObjAddr: 0x1170, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x104, offset: 0x104, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$SBUIAnimationZoomDownApp$initWithTransitionContextProvider$', symObjAddr: 0x1178, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x142, offset: 0x142, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$SpringBoard$isMenuDoubleTapAllowed', symObjAddr: 0x1180, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x18C, offset: 0x18C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x25C, offset: 0x25C, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBUIAnimationZoomUpApp$initWithTransitionContextProvider$P22SBUIAnimationZoomUpAppP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBUIAnimationZoomUpApp$initWithTransitionContextProvider$P22SBUIAnimationZoomUpAppP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x2E1, offset: 0x2E1, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBFolderIconZoomAnimator$_numberOfSignificantAnimationsP24SBFolderIconZoomAnimatorP13objc_selector', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x315, offset: 0x315, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$SBUIAnimationZoomDownApp$initWithTransitionContextProvider$P24SBUIAnimationZoomDownAppP13objc_selectorP11objc_object', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x354, offset: 0x354, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$SpringBoard$isMenuDoubleTapAllowedP11SpringBoardP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

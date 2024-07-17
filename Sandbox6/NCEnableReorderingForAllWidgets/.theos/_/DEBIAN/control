@@ -1,0 +1,18 @@
+Package: com.sinfool.ncenablereorderingforallwidgets
+Name: NC - Enable Reordering For All Widgets  ₉₋₁₃₋₁₆
+Author: Sinfool
+Description: Enables reordering for all widgets (i.e. the "Today Summary" & "Tomorrow Summary" widgets etc). Enables reordering for all widgets (i.e. the "Today Summary" & "Tomorrow Summary" widgets etc).
+ .
+ Known Issues:  Changes are reverted whenever the "Edit" menu is accessed & after resprings/reboots/powering off etc.
+ .
+ [v.1] Tested with an iP6 9.3.3.  Made as a request via r/jailbreak.  (9-13-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31174
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

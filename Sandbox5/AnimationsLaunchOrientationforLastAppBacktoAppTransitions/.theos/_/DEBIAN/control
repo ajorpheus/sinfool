@@ -1,0 +1,20 @@
+Package: com.sinfool.animationslaunchorientationforlastappbacktoapptransitions
+Name: Animations - Launch Orientation for (LastApp/"Back to App") Transitions  ₈₋₅₋₁₆
+Author: Sinfool
+Description: Changes the default launch orientation for "App to App" transitions when switching between apps via LastApp or the "Back to App" button on the status bar. Changes the default launch orientation for "App to App" transitions when switching between apps via LastApp or the "Back to App" button on the status bar.
+ .
+ By default, launching is set to come from the top but you can change the slide open from orientation using the following values...
+ .
+  1=Right, 2=Left, 3=Bottom, 4=Top
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29692
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

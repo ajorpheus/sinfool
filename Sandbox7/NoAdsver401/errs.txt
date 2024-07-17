@@ -1,0 +1,17 @@
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64e)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox7/NoAdsver401/.theos/obj/arm64e/NoAdsver401.dylib
+[1mTweak.xm:27:137: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, BOOL); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, BOOL); static unsigned int (*_logos_orig$_ungrouped$FWAd$adId)(_LOGOS_SELF_TYPE_NORMAL FWAd* _LOGOS_SELF_CONST, SEL); static unsigned int _logos_method$_ungrouped$FWAd$adId(_LOGOS_SELF_TYPE_NORMAL FWAd* _LOGOS_SELF_CONST, SEL); 
+[0;1;32m                                                                                                                                        ^
+[0m[1mTweak.xm:27:290: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, BOOL); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, BOOL); static unsigned int (*_logos_orig$_ungrouped$FWAd$adId)(_LOGOS_SELF_TYPE_NORMAL FWAd* _LOGOS_SELF_CONST, SEL); static unsigned int _logos_method$_ungrouped$FWAd$adId(_LOGOS_SELF_TYPE_NORMAL FWAd* _LOGOS_SELF_CONST, SEL); 
+[0;1;32m                                                                                                                                                                                                                                                                                                 ^
+[0m[1mTweak.xm:4:164: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST __unused self, SEL __unused _cmd, GADAdSize arg1, BOOL arg2) {
+[0;1;32m                                                                                                                                                                   ^
+[0m3 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox7/NoAdsver401/.theos/obj/arm64/Tweak.mm.c47797c1.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:51: /Users/az/Desktop/sinfool/Sandbox7/NoAdsver401/.theos/obj/arm64/NoAdsver401.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: NoAdsver401.all.tweak.variables] Error 2

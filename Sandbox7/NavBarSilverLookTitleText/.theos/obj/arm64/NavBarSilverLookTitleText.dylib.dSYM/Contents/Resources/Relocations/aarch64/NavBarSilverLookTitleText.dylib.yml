@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NavBarSilverLookTitleText/.theos/obj/arm64/NavBarSilverLookTitleText.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$', symObjAddr: 0x790, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x105, offset: 0x105, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$P20UINavigationItemViewP13objc_selectori', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$P20UINavigationItemViewP13objc_selectori', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

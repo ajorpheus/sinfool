@@ -1,0 +1,15 @@
+Package: com.sinfool.nofacetimeaudioicon
+Name: No FaceTime Audio Icon
+Author: Sinfool
+Description: Removes the FaceTime audio icon from the "i" info button's FaceTime cell.  Useful if you mistakenly make audio calls instead of video calls. Removes the FaceTime audio icon from the "i" info button's FaceTime cell.  Useful if you mistakenly make audio calls instead of video calls.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (9-25-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39504
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

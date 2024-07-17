@@ -1,0 +1,19 @@
+Package: com.sinfool.docktransparent
+Name: Dock - Transparent  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Makes the home screen dock transparent. Makes the home screen dock transparent.
+ .
+ NOTE:  After resprings, the dock BG will be visible until an app/folder is opened.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-15-15)
+ .
+ ★ If you'd like to donate, please send money to...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25002
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

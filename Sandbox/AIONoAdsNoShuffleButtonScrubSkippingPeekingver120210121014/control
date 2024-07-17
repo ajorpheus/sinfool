@@ -1,0 +1,25 @@
+Package: com.sinfool.aionoadsnoshufflebuttonscrubskippingpeekingver120210121014
+Name: [AIO] No Ads, No Shuffle/Button, Scrub/Skipping & Peeking (ver. 1.2.0 - 2.1.0) [12-10-14]
+Author: Sinfool
+Description: All in one patch for Spotify.  Tested with versions 1.2.0 - 2.1.0.  Delete any entry you don't want.  (11-12-14) All in one patch for Spotify.  Tested with versions 1.2.0 - 2.1.0.  Delete any entry you don't want.  (11-12-14)
+ .
+ FYI's/known issues:  
+ (1) Versions above 1.7.1 can't use extreme quality.  
+ (2) You will get an "Unable to Play Song" message when selecting the same song twice in the same session & after playing 3 or more songs within an album.  Kill the app from multitasking to resolve this issue. 
+ (3) Use the media player's shuffle button to toggle shuffling.   Note: Shuffle mode is automatically enabled whenever a specific track is selected from a playlist.  Simply toggle shuffle off to disable it.
+ .
+ • No ads
+ • Disable shuffle mode
+ • Remove big green shuffle button
+ • Enable scrubbing/manual skipping
+ • Allow peeking at previous tracks (when not in shuffle mode)
+ • Allow peeking at next tracks
+ • Allow switching back to previous album views (preferably after skip limit is reached)
+ • Remove skip limit message/allows peeking at next track (after skip limit is reached) patchID: 14673
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.spotify.client
+Homepage: https://ipadkid.cf/sinfool/index.html

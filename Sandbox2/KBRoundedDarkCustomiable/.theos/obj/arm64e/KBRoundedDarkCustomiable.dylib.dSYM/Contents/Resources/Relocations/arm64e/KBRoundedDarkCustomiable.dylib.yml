@@ -1,0 +1,25 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/KBRoundedDarkCustomiable/.theos/obj/arm64e/KBRoundedDarkCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x174 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UIKBRenderConfig$lightKeyboard', symObjAddr: 0x1D68, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$UIKBRenderConfig$setKeycapOpacity$', symObjAddr: 0x1D70, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$UIKBTree$visualStyle', symObjAddr: 0x1D78, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x113, offset: 0x113, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$UIKBRenderGeometry$setRoundRectRadius$', symObjAddr: 0x1D80, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$UIKBTextStyle$setTextOpacity$', symObjAddr: 0x1D88, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x187, offset: 0x187, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UIKBRenderFactory$boldTextEnabled', symObjAddr: 0x1D90, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1C0, offset: 0x1C0, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UIDevice$_keyboardGraphicsQuality', symObjAddr: 0x1D98, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x3B2, offset: 0x3B2, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x174 }
+  - { offsetInCU: 0x4DA, offset: 0x4DA, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIKBRenderConfig$lightKeyboardP16UIKBRenderConfigP13objc_selector', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x8 }
+  - { offsetInCU: 0x517, offset: 0x517, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIKBRenderConfig$lightKeyboardP16UIKBRenderConfigP13objc_selector', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x8 }
+  - { offsetInCU: 0x54B, offset: 0x54B, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$UIKBRenderConfig$setKeycapOpacity$P16UIKBRenderConfigP13objc_selectord', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x10 }
+  - { offsetInCU: 0x58C, offset: 0x58C, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$UIKBTree$visualStyleP8UIKBTreeP13objc_selector', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x8 }
+  - { offsetInCU: 0x5A5, offset: 0x5A5, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$UIKBTree$visualStyleP8UIKBTreeP13objc_selector', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x8 }
+  - { offsetInCU: 0x5D9, offset: 0x5D9, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$UIKBRenderGeometry$setRoundRectRadius$P18UIKBRenderGeometryP13objc_selectord', symObjAddr: 0x194, symBinAddr: 0x4194, symSize: 0x14 }
+  - { offsetInCU: 0x622, offset: 0x622, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UIKBTextStyle$setTextOpacity$P13UIKBTextStyleP13objc_selectord', symObjAddr: 0x1A8, symBinAddr: 0x41A8, symSize: 0x14 }
+  - { offsetInCU: 0x63B, offset: 0x63B, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UIKBTextStyle$setTextOpacity$P13UIKBTextStyleP13objc_selectord', symObjAddr: 0x1A8, symBinAddr: 0x41A8, symSize: 0x14 }
+  - { offsetInCU: 0x684, offset: 0x684, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UIKBRenderFactory$boldTextEnabledP17UIKBRenderFactoryP13objc_selector', symObjAddr: 0x1BC, symBinAddr: 0x41BC, symSize: 0x8 }
+  - { offsetInCU: 0x69D, offset: 0x69D, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UIKBRenderFactory$boldTextEnabledP17UIKBRenderFactoryP13objc_selector', symObjAddr: 0x1BC, symBinAddr: 0x41BC, symSize: 0x8 }
+  - { offsetInCU: 0x6D1, offset: 0x6D1, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UIDevice$_keyboardGraphicsQualityP8UIDeviceP13objc_selector', symObjAddr: 0x1C4, symBinAddr: 0x41C4, symSize: 0x8 }
+...

@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/LSDisableNotifcationInteraction/.theos/obj/arm64/LSDisableNotifcationInteraction.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL87_logos_orig$_ungrouped$SBDashBoardScrollGestureController$gestureRecognizerShouldBegin$', symObjAddr: 0x1018, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$NCNotificationShortLookViewController$_shouldAddHintTextToLookView', symObjAddr: 0x1020, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x104, offset: 0x104, size: 0x8, addend: 0x0, symName: '__ZL111_logos_orig$_ungrouped$NCNotificationPriorityListViewController$shouldAddHintTextForNotificationViewController$', symObjAddr: 0x1028, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x14C, offset: 0x14C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x1E5, offset: 0x1E5, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$SBDashBoardScrollGestureController$gestureRecognizerShouldBegin$P34SBDashBoardScrollGestureControllerP13objc_selectorP11objc_object', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x22B, offset: 0x22B, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$SBDashBoardScrollGestureController$gestureRecognizerShouldBegin$P34SBDashBoardScrollGestureControllerP13objc_selectorP11objc_object', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x26A, offset: 0x26A, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$NCNotificationShortLookViewController$_shouldAddHintTextToLookViewP37NCNotificationShortLookViewControllerP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x29E, offset: 0x29E, size: 0x8, addend: 0x0, symName: '__ZL113_logos_method$_ungrouped$NCNotificationPriorityListViewController$shouldAddHintTextForNotificationViewController$P40NCNotificationPriorityListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+...

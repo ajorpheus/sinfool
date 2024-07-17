@@ -1,0 +1,18 @@
+Package: com.sinfool.childproof
+Name: Child Proof  ₁₀₋₂₆₋₁₅ ⚑
+Author: Sinfool
+Description: Disables photo deleting & editing.  By default, I've removed all buttons located on the top left & right sides of the navigation bar & disabled tool bar buttons however you can re-enable them & just disable photo deletion by deleting the entries specified below. Disables photo deleting & editing.  By default, I've removed all buttons located on the top left & right sides of the navigation bar & disabled tool bar buttons however you can re-enable them & just disable photo deletion by deleting the entries specified below.
+ .
+ [v.2] Made as a request via r/jailbreak.  Tested with an iPad mini2 9.0.2  (10-26-15)
+ .
+ ⚑ UPDATES:
+ (10-26-15) *Disabled Tool Bar Buttons
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25744
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

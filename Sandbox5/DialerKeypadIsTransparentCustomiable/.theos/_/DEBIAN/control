@@ -1,0 +1,36 @@
+Package: com.sinfool.dialerkeypadistransparentcustomiable
+Name: Dialer • Keypad Is Transparent (Customizable)  ₇₋₁₅₋₁₅ ⚑
+Author: Sinfool
+Description: Gives the Dialer Keypad a more transparent like appearance (use "Sleek View" for a true 100% transparent BG).  Everything is customizable so feel free to experiment.  Delete any entries you don't want to use.	Tested with an iP6+ 8.4.	(7-15-15) Gives the Dialer Keypad a more transparent like appearance (use "Sleek View" for a true 100% transparent BG).  Everything is customizable so feel free to experiment.  Delete any entries you don't want to use.	Tested with an iP6+ 8.4.	(7-15-15)
+ .
+ FEATURES:
+ • Status Bar · (BG & FG color/visibility)
+ • Dialer Wallpaper · (HS or color)
+ • Dialer Button · (color, alpha/visibility & animation)
+ • Call Button/Icon · (color & visibility)
+ • Tab Bar Image/Label/Backdrop · (color & visibility)
+ .
+ ⚑ UPDATES:	
+ (7-16-14) *Original release
+ (10-31-14) *Added Tab Bar Image Color
+ (11-4-14) *Confimed iOS 8 support
+ (7-10-15) *Confirmed 8.3/8.4 support, changed some methods & added more color options etc.
+ (7-13-15) *Added method for status bar color fix
+ (7-15-15) *Changed/added two methods
+ .
+ FYI:	For an even sleeker appearance, try theses patches...
+ .
+ ➠ Sleek View (SpringBoard section)
+ ➠ Dialer Is Numeric Only
+ .
+  ★ If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:	goin730@gmail.com patchID: 11765
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

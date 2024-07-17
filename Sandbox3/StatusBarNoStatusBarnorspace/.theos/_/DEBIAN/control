@@ -1,0 +1,20 @@
+Package: com.sinfool.statusbarnostatusbarnorspace
+Name: Status Bar - No Status Bar (nor space)
+Author: Sinfool
+Description: Removes the status bar (& leftover space) from the LS & HS but still allows you to view the status bar via pulling down NC. Removes the status bar (& leftover space) from the LS & HS but still allows you to view the status bar via pulling down NC.
+ .
+ IMPORTANT:  This disables all double sized "in use" status bars so therefore you'll need to access these apps via the switcher or from within other apps (if not using the System Wide patch) and by default it also makes NC/CC grabbers show on first swipe.
+ .
+ NOTE:  Use this along with the System Wide patch "Status Bar - No Status Bar (nor space)" to remove the status bar from everywhere.
+ .
+ [v.1] Tested with 10.2.  Made as a request via the Flex comments.  (6-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 37951
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

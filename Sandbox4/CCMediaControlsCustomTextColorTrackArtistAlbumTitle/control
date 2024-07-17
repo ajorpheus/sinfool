@@ -1,0 +1,19 @@
+Package: com.sinfool.ccmediacontrolscustomtextcolortrackartistalbumtitle
+Name: CC - Media Controls Custom Text Color (Track, Artist & Album Title)  ₆₋₂₂₋₁₇ ⚑
+Author: Sinfool
+Description: Allows you to use a custom color for the media controls text (i.e. Track, Artist & Album Titles) inside of control center.  By default, I have it set to white but you can change the color to your liking. Allows you to use a custom color for the media controls text (i.e. Track, Artist & Album Titles) inside of control center.  By default, I have it set to white but you can change the color to your liking.
+ .
+ [v.2] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (6-22-17)
+ .
+ UPDATES:
+ (6-21-17) *Initial release
+ (6-22-17) *Added method to use a custom color & changed the title from "CC - White Media Controls Text (Track, Artist & Album Title)"
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38233
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,17 @@
+Package: com.sinfool.spoofphotocreationdate
+Name: Spoof Photo Creation Date  ₁₁₋₂₅₋₁₆
+Author: Sinfool
+Description: Spoofs the creation date of all photos. Spoofs the creation date of all photos.
+ .
+ INSTRUCTIONS:  Change the date to whatever you want using the date picker however the time is determined by your device's current time so change Argument #1 to "pass-through" & back to "Custom Date" to set a new time.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (11-25-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32297
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

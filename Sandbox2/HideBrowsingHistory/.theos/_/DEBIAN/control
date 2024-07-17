@@ -1,0 +1,18 @@
+Package: com.sinfool.hidebrowsinghistory
+Name: Hide Browsing History
+Author: Sinfool
+Description: Hides your browsing history by making the history tab empty and removes "Top Hits" & "Bookmarks and History" suggestions from the URL/Search bar drop down list. Hides your browsing history by making the history tab empty and removes "Top Hits" & "Bookmarks and History" suggestions from the URL/Search bar drop down list.
+ .
+ Useful if you want to hide your history without using Private Browsing Mode etc.  Simply disable this patch whenever you want to view your browsing history.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (8-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38821
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

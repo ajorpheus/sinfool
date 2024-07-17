@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/AIOFasterStartupNoAdsCommercialsver20/.theos/obj/arm64/AIOFasterStartupNoAdsCommercialsver20.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$BETSplashScreenViewController$isVideoFinished', symObjAddr: 0xD18, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0xD20, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$BETVideoPlayerAdManagerDART$adsManager', symObjAddr: 0xD28, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$BETSplashScreenViewController$isVideoFinishedP29BETSplashScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$BETSplashScreenViewController$isVideoFinishedP29BETSplashScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x260, offset: 0x260, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x294, offset: 0x294, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$BETVideoPlayerAdManagerDART$adsManagerP27BETVideoPlayerAdManagerDARTP13objc_selector', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+...

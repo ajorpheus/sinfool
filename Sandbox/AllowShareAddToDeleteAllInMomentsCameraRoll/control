@@ -1,0 +1,16 @@
+Package: com.sinfool.allowshareaddtodeleteallinmomentscameraroll
+Name: Allow Share, Add To & Delete All (In Moments & Camera Roll)  ₁₀₋₁₈₋₁₆
+Author: Sinfool
+Description: Allows the option to share, add to or delete all photos in moments & the camera roll. Useful to delete all photos at once etc. Allows the option to share, add to or delete all photos in moments & the camera roll. Useful to delete all photos at once etc.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-18-16)
+ .
+ ☞PayPal:  goin730@gmail.com
+  patchID: 31739
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,14 @@
+Package: com.sinfool.disableshowscreenwhenconnectedtopower
+Name: Disable Show Screen When Connected To Power
+Author: Sinfool
+Description: Disables the screen from waking when connecting (or disconnecting) to a power source.  Made after reading a few requests on r/jailbreak. Tested on iP6+ 8.1.  (4-6-15) Disables the screen from waking when connecting (or disconnecting) to a power source.  Made after reading a few requests on r/jailbreak. Tested on iP6+ 8.1.  (4-6-15)
+ .
+ (Note):  Beware, using this patch will also nullify all Activator assignments utilizing the events "connected" or "disconnected" from power. patchID: 20318
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

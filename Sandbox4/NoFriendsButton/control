@@ -1,0 +1,19 @@
+Package: com.sinfool.nofriendsbutton
+Name: No Friends Button  ₁₋₂₆₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the Friends Button. Removes the Friends Button.
+ .
+ [v.2] Tested with versions 3.9.4 & 4.1.0.  (1-26-16)
+ .
+ ⚑ UPDATES:
+ (6-1-15) *Initial release
+ (1-26-16) *Updated
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 21438
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html

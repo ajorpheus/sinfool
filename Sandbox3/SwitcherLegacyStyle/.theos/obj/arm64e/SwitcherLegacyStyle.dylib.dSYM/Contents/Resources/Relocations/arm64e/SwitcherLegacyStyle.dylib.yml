@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/SwitcherLegacyStyle/.theos/obj/arm64e/SwitcherLegacyStyle.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$SBAppSwitcherSettings$switcherStyle', symObjAddr: 0xA38, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$SBAppSwitcherPageView$overlay', symObjAddr: 0xA40, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$SBAppSwitcherSettings$switcherStyleP21SBAppSwitcherSettingsP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1BF, offset: 0x1BF, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$SBAppSwitcherSettings$switcherStyleP21SBAppSwitcherSettingsP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$SBAppSwitcherPageView$overlayP21SBAppSwitcherPageViewP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

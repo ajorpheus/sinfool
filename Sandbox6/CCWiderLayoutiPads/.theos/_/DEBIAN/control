@@ -1,0 +1,18 @@
+Package: com.sinfool.ccwiderlayoutipads
+Name: CC - Wider Layout (iPads)
+Author: Sinfool
+Description: Widens the control center layout on iPads. Widens the control center layout on iPads.
+ .
+ NOTE:  This patch is only useful for iPad users.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (10-27-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39860
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

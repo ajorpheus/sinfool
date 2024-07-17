@@ -1,0 +1,17 @@
+Package: com.sinfool.cccream2customtoggleglyphcolor
+Name: CC - Cream 2 (Custom Toggle & Glyph Color)
+Author: Sinfool
+Description: I made this patch to mimic the tweak "Cream 2".  Allows you to customize the colors of each control center toggle as well as the glyph color of AirDrop, AirPlay and Night Shift buttons.  Also provides an option to change the highlight color. I made this patch to mimic the tweak "Cream 2".  Allows you to customize the colors of each control center toggle as well as the glyph color of AirDrop, AirPlay and Night Shift buttons.  Also provides an option to change the highlight color.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36.  Please add "http://getdelta.co/" to your Cydia repo sources and install the beta version before downloading this patch.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (10-5-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39616
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

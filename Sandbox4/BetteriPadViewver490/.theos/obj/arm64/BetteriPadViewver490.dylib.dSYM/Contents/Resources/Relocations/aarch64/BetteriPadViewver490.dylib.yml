@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/BetteriPadViewver490/.theos/obj/arm64/BetteriPadViewver490.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$CardUIBannerView$initWithFrame$serviceResolver$actionDelegate$', symObjAddr: 0xCC8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$GMSCopyrightOverlay$initWithFrame$', symObjAddr: 0xCD0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x1B0, offset: 0x1B0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x220, offset: 0x220, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$CardUIBannerView$initWithFrame$serviceResolver$actionDelegate$P16CardUIBannerViewP13objc_selector6CGRectP11objc_objectS5_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x266, offset: 0x266, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$CardUIBannerView$initWithFrame$serviceResolver$actionDelegate$P16CardUIBannerViewP13objc_selector6CGRectP11objc_objectS5_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x2BB, offset: 0x2BB, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$GMSCopyrightOverlay$initWithFrame$P19GMSCopyrightOverlayP13objc_selector6CGRect', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

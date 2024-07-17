@@ -1,0 +1,11 @@
+Package: com.sinfool.removeupdatealert
+Name: Remove Update Alert
+Author: Sinfool
+Description: Removes the popup which forces you to update the app.  Tested with version 4.0611 but should work with all versions.  (10-15-14) Removes the popup which forces you to update the app.  Tested with version 4.0611 but should work with all versions.  (10-15-14) patchID: 13430
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.nhl.gc1112.free
+Homepage: https://ipadkid.cf/sinfool/index.html

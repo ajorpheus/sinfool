@@ -1,0 +1,12 @@
+Package: com.sinfool.dialerkeypadbuttoncustomier
+Name: Dialer Keypad Button Customizer
+Author: Sinfool
+Description: Customizes the Dialer Keypad Button.  Change the button's size, shape and visibility.  By default, the inside button is invisible.  Experiment with the values.  For even more options...combine this patch with some of my other "Dialer Keypad Button.." titled patches. Customizes the Dialer Keypad Button.  Change the button's size, shape and visibility.  By default, the inside button is invisible.  Experiment with the values.  For even more options...combine this patch with some of my other "Dialer Keypad Button.." titled patches. patchID: 10103
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

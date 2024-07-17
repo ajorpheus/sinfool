@@ -1,0 +1,14 @@
+Package: com.sinfool.hidenosimmessagesios8
+Name: Hide "No SIM" Messages (iOS 8)
+Author: Sinfool
+Description: Removes "No SIM Card Installed" Alert & "No SIM" carrier on status bar.  Tested with iP6+ 8.1.  Removes "No SIM Card Installed" Alert & "No SIM" carrier on status bar.  Tested with iP6+ 8.1. 
+ .
+ UPDATED (11-26-14):  Changed the patch name & added the carrier entry to provide better continuity to the iOS 7 version by JohnCoates. patchID: 14536
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

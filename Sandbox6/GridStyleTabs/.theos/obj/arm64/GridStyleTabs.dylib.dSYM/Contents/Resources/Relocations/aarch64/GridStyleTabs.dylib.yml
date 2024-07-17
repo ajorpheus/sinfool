@@ -1,0 +1,28 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/GridStyleTabs/.theos/obj/arm64/GridStyleTabs.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x14C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL48_logos_orig$_ungrouped$TabOverviewItem$stackName', symObjAddr: 0x1C30, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$TabOverviewItem$setTitleColor$', symObjAddr: 0x1C38, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xEE, offset: 0xEE, size: 0x8, addend: 0x0, symName: '__ZL46_logos_orig$_ungrouped$TabOverview$_tabsPerRow', symObjAddr: 0x1C40, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$TabThumbnailView$setTitleColor$', symObjAddr: 0x1C48, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$_UIMotionAnalyzer$initWithSettings$', symObjAddr: 0x1C50, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1A6, offset: 0x1A6, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$BrowserToolbar$initWithPlacement$', symObjAddr: 0x1C58, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x1EB, offset: 0x1EB, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$TabController$setUsesTiltedTabView$', symObjAddr: 0x1C60, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$TabController$setUsesTabOverview$', symObjAddr: 0x1C68, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x24F, offset: 0x24F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x14C }
+  - { offsetInCU: 0x391, offset: 0x391, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$TabOverviewItem$stackNameP15TabOverviewItemP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x3DE, offset: 0x3DE, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$TabOverviewItem$stackNameP15TabOverviewItemP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x412, offset: 0x412, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$TabOverviewItem$setTitleColor$P15TabOverviewItemP13objc_selectorP11objc_object', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x5C }
+  - { offsetInCU: 0x45A, offset: 0x45A, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$TabOverview$_tabsPerRowP11TabOverviewP13objc_selector', symObjAddr: 0x1B0, symBinAddr: 0x41B0, symSize: 0x8 }
+  - { offsetInCU: 0x471, offset: 0x471, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$TabOverview$_tabsPerRowP11TabOverviewP13objc_selector', symObjAddr: 0x1B0, symBinAddr: 0x41B0, symSize: 0x8 }
+  - { offsetInCU: 0x4A5, offset: 0x4A5, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$TabThumbnailView$setTitleColor$P16TabThumbnailViewP13objc_selectorP11objc_object', symObjAddr: 0x1B8, symBinAddr: 0x41B8, symSize: 0x50 }
+  - { offsetInCU: 0x4ED, offset: 0x4ED, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$_UIMotionAnalyzer$initWithSettings$P17_UIMotionAnalyzerP13objc_selectorP11objc_object', symObjAddr: 0x208, symBinAddr: 0x4208, symSize: 0x8 }
+  - { offsetInCU: 0x504, offset: 0x504, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$_UIMotionAnalyzer$initWithSettings$P17_UIMotionAnalyzerP13objc_selectorP11objc_object', symObjAddr: 0x208, symBinAddr: 0x4208, symSize: 0x8 }
+  - { offsetInCU: 0x543, offset: 0x543, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$BrowserToolbar$initWithPlacement$P14BrowserToolbarP13objc_selectorx', symObjAddr: 0x210, symBinAddr: 0x4210, symSize: 0x10 }
+  - { offsetInCU: 0x588, offset: 0x588, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$TabController$setUsesTiltedTabView$P13TabControllerP13objc_selectorb', symObjAddr: 0x220, symBinAddr: 0x4220, symSize: 0x10 }
+  - { offsetInCU: 0x5A6, offset: 0x5A6, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$TabController$setUsesTiltedTabView$P13TabControllerP13objc_selectorb', symObjAddr: 0x220, symBinAddr: 0x4220, symSize: 0x10 }
+  - { offsetInCU: 0x5E7, offset: 0x5E7, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$TabController$setUsesTabOverview$P13TabControllerP13objc_selectorb', symObjAddr: 0x230, symBinAddr: 0x4230, symSize: 0x10 }
+  - { offsetInCU: 0x605, offset: 0x605, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$TabController$setUsesTabOverview$P13TabControllerP13objc_selectorb', symObjAddr: 0x230, symBinAddr: 0x4230, symSize: 0x10 }
+...

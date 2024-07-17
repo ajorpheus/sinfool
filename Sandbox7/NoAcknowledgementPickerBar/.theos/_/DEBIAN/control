@@ -1,0 +1,18 @@
+Package: com.sinfool.noacknowledgementpickerbar
+Name: No Acknowledgement Picker Bar
+Author: Sinfool
+Description: Disables the acknowledgement picker bar from appearing. Disables the acknowledgement picker bar from appearing.
+ .
+ This bar normally displays acknowledgement glyphs (i.e. heart, thumbs up, thumbs down, HA HA, !! and ?) when you long hold on message balloons.  This patch is useful if you don't like or use this feature.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (7-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38382
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

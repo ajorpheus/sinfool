@@ -1,0 +1,22 @@
+Package: com.sinfool.stealthpower
+Name: Stealth Power  ₁₀₋₁₈₋₁₅
+Author: Sinfool
+Description: Disables the following when connecting or disconnecting from a power source... Disables the following when connecting or disconnecting from a power source...
+ .
+ * Screen (from waking/showing)
+ * Sound
+ * Vibration
+ .
+ WARNING:  Also disables low battery alerts, i.e. 10%, 20%, low power mode etc. & maybe battery usage statistics, idk.
+ .
+ [v.1] Only tested with an iP5 9.0.2.  (10-18-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25210
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

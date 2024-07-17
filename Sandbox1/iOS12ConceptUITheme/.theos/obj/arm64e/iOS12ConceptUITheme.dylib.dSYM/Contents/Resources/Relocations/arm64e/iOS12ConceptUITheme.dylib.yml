@@ -1,0 +1,24 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/iOS12ConceptUITheme/.theos/obj/arm64e/iOS12ConceptUITheme.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x140 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableView$setSeparatorStyle$', symObjAddr: 0x51A8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x154B, offset: 0x154B, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$UIGroupTableViewCellBackground$setSelected$', symObjAddr: 0x51B0, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1585, offset: 0x1585, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$UIGroupTableViewCellBackground$setSelectionTintColor$', symObjAddr: 0x51B8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x15B4, offset: 0x15B4, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$UITableViewLabel$highlightedTextColor', symObjAddr: 0x51C0, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x15ED, offset: 0x15ED, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$PSListController$setEdgeToEdgeCells$', symObjAddr: 0x51C8, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1627, offset: 0x1627, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$PSListController$_isRegularWidth', symObjAddr: 0x51D0, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x165F, offset: 0x165F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x140 }
+  - { offsetInCU: 0x1742, offset: 0x1742, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x10 }
+  - { offsetInCU: 0x1786, offset: 0x1786, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x10 }
+  - { offsetInCU: 0x17C7, offset: 0x17C7, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$UIGroupTableViewCellBackground$setSelected$P30UIGroupTableViewCellBackgroundP13objc_selectorb', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x10 }
+  - { offsetInCU: 0x17E5, offset: 0x17E5, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$UIGroupTableViewCellBackground$setSelected$P30UIGroupTableViewCellBackgroundP13objc_selectorb', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x10 }
+  - { offsetInCU: 0x1826, offset: 0x1826, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UIGroupTableViewCellBackground$setSelectionTintColor$P30UIGroupTableViewCellBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x6C }
+  - { offsetInCU: 0x1844, offset: 0x1844, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UIGroupTableViewCellBackground$setSelectionTintColor$P30UIGroupTableViewCellBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x6C }
+  - { offsetInCU: 0x188C, offset: 0x188C, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$UITableViewLabel$highlightedTextColorP16UITableViewLabelP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x1C }
+  - { offsetInCU: 0x18A3, offset: 0x18A3, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$UITableViewLabel$highlightedTextColorP16UITableViewLabelP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x1C }
+  - { offsetInCU: 0x18D7, offset: 0x18D7, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$PSListController$setEdgeToEdgeCells$P16PSListControllerP13objc_selectorb', symObjAddr: 0x1E8, symBinAddr: 0x41E8, symSize: 0x10 }
+  - { offsetInCU: 0x1918, offset: 0x1918, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$PSListController$_isRegularWidthP16PSListControllerP13objc_selector', symObjAddr: 0x1F8, symBinAddr: 0x41F8, symSize: 0x8 }
+  - { offsetInCU: 0x1936, offset: 0x1936, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$PSListController$_isRegularWidthP16PSListControllerP13objc_selector', symObjAddr: 0x1F8, symBinAddr: 0x41F8, symSize: 0x8 }
+...

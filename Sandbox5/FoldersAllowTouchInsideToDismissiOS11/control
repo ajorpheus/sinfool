@@ -1,0 +1,15 @@
+Package: com.sinfool.foldersallowtouchinsidetodismissios11
+Name: Folders - Allow Touch Inside To Dismiss (iOS 11)
+Author: Sinfool
+Description: Makes exiting folders easier by allowing tapping inside & outside the open folder to dismiss. Makes exiting folders easier by allowing tapping inside & outside the open folder to dismiss.
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  (5-24-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42416
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

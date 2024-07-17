@@ -1,0 +1,30 @@
+Package: com.sinfool.shakingicons
+Name: Shaking Icons  ₃₋₂₃₋₁₆ ⚑
+Author: Sinfool
+Description: Forces homescreen icons to shake (as if in edit mode) and shakes app opening animations when launched from the homescreen (*optional but enabled by default). Forces homescreen icons to shake (as if in edit mode) and shakes app opening animations when launched from the homescreen (*optional but enabled by default).
+ .
+ Known issues (but there's likely more):
+ .
+ • Apps will stop shaking after initially returning to the HS (until you scroll again)
+ .
+ • Disables Spotlight (swipe down on HS)
+ .
+ • Conflicts/disables "LastApp" actions
+ .
+ NOTE:  This patch must be disabled to edit the homescreen (i.e. reposition icons or delete apps etc.)
+ .
+ ⚑ UPDATES:
+ (3-14-16) *Initial release
+ (3-23-16) *Fixed folder titles from editing/some open animations & added an option to shake app opening animation
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (3-23-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28107
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

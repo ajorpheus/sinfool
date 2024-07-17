@@ -1,0 +1,4 @@
+ld: warning: -multiply_defined is obsolete
+ld: warning: -multiply_defined is obsolete
+ERROR: control file contains an unclosed parentheses
+make: *** [/Users/az/theos/makefiles/package/deb.mk:79: internal-package] Error 25

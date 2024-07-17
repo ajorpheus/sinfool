@@ -1,0 +1,19 @@
+Package: com.sinfool.lsncdisabletodayviewcameraios11
+Name: LS/NC - Disable Today View & Camera (iOS 11)
+Author: Sinfool
+Description: Disables the today view and camera pages from the lockscreen & notification center.  Also, provides an option to disable horizontal scrolling of notifications. Disables the today view and camera pages from the lockscreen & notification center.  Also, provides an option to disable horizontal scrolling of notifications.
+ .
+ ⚑ UPDATES:
+ (4-30-18) *Initial release
+ (5-19-18) *Added option to disable horizontal scrolling of notifications
+ .
+ [v.2] Tested with an iPad mini2 on 11.1.2.  (5-19-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42154
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

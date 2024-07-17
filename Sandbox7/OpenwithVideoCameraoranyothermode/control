@@ -1,0 +1,26 @@
+Package: com.sinfool.openwithvideocameraoranyothermode
+Name: Open with Video Camera (or any other mode)  ₁₀₋₁₄₋₁₆ ⚑
+Author: Sinfool
+Description: Opens the camera app with the Video Camera (or any other mode).  Use the following values... Opens the camera app with the Video Camera (or any other mode).  Use the following values...
+ .
+ 0:Photo
+ 1:Video
+ 2:Slo-Mo
+ 3:Pano
+ 4:Square
+ 6:Time Lapse
+ .
+ ⚑ UPDATES:
+ (2-5-16) *Initial release
+ (10-14-16) *Added Always Reset Capture Configurations On Open
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  (10-14-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27618
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.camera
+Homepage: https://ipadkid.cf/sinfool/index.html

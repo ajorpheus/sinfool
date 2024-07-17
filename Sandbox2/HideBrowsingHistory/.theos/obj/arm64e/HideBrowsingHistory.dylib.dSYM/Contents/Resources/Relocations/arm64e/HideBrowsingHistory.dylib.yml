@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/HideBrowsingHistory/.theos/obj/arm64e/HideBrowsingHistory.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$HistoryTableViewController$numberOfSectionsInTableView$', symObjAddr: 0xD38, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: '__ZL121_logos_orig$_ungrouped$URLCompletionProvider$initWithBookmarkProvider$cloudTabStore$maxResults$searchableCollectionsMask$', symObjAddr: 0xD40, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$HistoryTableViewController$numberOfSectionsInTableView$P26HistoryTableViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$HistoryTableViewController$numberOfSectionsInTableView$P26HistoryTableViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x225, offset: 0x225, size: 0x8, addend: 0x0, symName: '__ZL123_logos_method$_ungrouped$URLCompletionProvider$initWithBookmarkProvider$cloudTabStore$maxResults$searchableCollectionsMask$P21URLCompletionProviderP13objc_selectorP11objc_objectS4_yi', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x10 }
+...

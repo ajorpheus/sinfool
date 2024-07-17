@@ -1,0 +1,36 @@
+Package: com.sinfool.nccolorscustomiable
+Name: NC • Colors (Customizable)  ₇₋₁₅₋₁₅
+Author: Sinfool
+Description: Changes colors of the following items in Notification Center...    Tested on iP6+ 8.4.  (7-15-15) Changes colors of the following items in Notification Center...    Tested on iP6+ 8.4.  (7-15-15)
+ .
+ • Background (stock or gray)
+ • Sections Background
+ • Segment Section
+ • Top & Bottom Separators
+ • Cell Separators
+ • Headers
+ • Weather/Stocks™ Footer (just hides)
+ • Grabber
+ .
+ UPDATES:
+ (7-13-15) *Initial release
+ (7-14-15) *Added Sections Background
+ (7-14-15) *Added Gray Background & Hide Top & Bottom Separator options
+ (7-15-15) *Added Separator options
+ .
+ By default, everything is assigned a color except the Background (gray) & the Weather/Stocks™ Footer (just hidden).  Delete any entries you don't want to use.  You may want to try these patches as well...
+ .
+ ➠ NC • Speed Up
+ ➠ NC • Hider (Customizable)
+ ➠ NC • Today's Date Is Single Line
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22729
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

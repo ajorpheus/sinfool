@@ -1,0 +1,15 @@
+Package: com.sinfool.searchbarcustomplaceholdertextcoloriesettingssearchetc
+Name: Search Bar - Custom Placeholder Text Color (i.e. "Settings" & "Search" etc)
+Author: Sinfool
+Description: Changes the search bar's placeholder text color (i.e. "Search", "Settings" text etc) within apps to a custom color of your choosing.  Change the text color to your liking. Changes the search bar's placeholder text color (i.e. "Search", "Settings" text etc) within apps to a custom color of your choosing.  Change the text color to your liking.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (8-20-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39035
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

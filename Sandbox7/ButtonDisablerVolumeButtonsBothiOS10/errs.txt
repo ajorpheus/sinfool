@@ -1,0 +1,17 @@
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64e)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox7/ButtonDisablerVolumeButtonsBothiOS10/.theos/obj/arm64e/ButtonDisablerVolumeButtonsBothiOS10.dylib
+[1mTweak.xm:27:128: [0m[0;1;31merror: [0m[1munknown type name '__IOHIDEvent'[0m
+static bool (*_logos_orig$_ungrouped$SpringBoard$_volumeChanged$)(_LOGOS_SELF_TYPE_NORMAL SpringBoard* _LOGOS_SELF_CONST, SEL, __IOHIDEvent*); static bool _logos_method$_ungrouped$SpringBoard$_volumeChanged$(_LOGOS_SELF_TYPE_NORMAL SpringBoard* _LOGOS_SELF_CONST, SEL, __IOHIDEvent*); 
+[0;1;32m                                                                                                                               ^
+[0m[1mTweak.xm:27:270: [0m[0;1;31merror: [0m[1munknown type name '__IOHIDEvent'[0m
+static bool (*_logos_orig$_ungrouped$SpringBoard$_volumeChanged$)(_LOGOS_SELF_TYPE_NORMAL SpringBoard* _LOGOS_SELF_CONST, SEL, __IOHIDEvent*); static bool _logos_method$_ungrouped$SpringBoard$_volumeChanged$(_LOGOS_SELF_TYPE_NORMAL SpringBoard* _LOGOS_SELF_CONST, SEL, __IOHIDEvent*); 
+[0;1;32m                                                                                                                                                                                                                                                                             ^
+[0m[1mTweak.xm:4:155: [0m[0;1;31merror: [0m[1munknown type name '__IOHIDEvent'[0m
+static bool _logos_method$_ungrouped$SpringBoard$_volumeChanged$(_LOGOS_SELF_TYPE_NORMAL SpringBoard* _LOGOS_SELF_CONST __unused self, SEL __unused _cmd, __IOHIDEvent* arg1) {
+[0;1;32m                                                                                                                                                          ^
+[0m3 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox7/ButtonDisablerVolumeButtonsBothiOS10/.theos/obj/arm64/Tweak.mm.5560890b.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:51: /Users/az/Desktop/sinfool/Sandbox7/ButtonDisablerVolumeButtonsBothiOS10/.theos/obj/arm64/ButtonDisablerVolumeButtonsBothiOS10.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: ButtonDisablerVolumeButtonsBothiOS10.all.tweak.variables] Error 2

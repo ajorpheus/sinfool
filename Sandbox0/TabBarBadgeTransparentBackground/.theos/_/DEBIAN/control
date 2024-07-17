@@ -1,0 +1,18 @@
+Package: com.sinfool.tabbarbadgetransparentbackground
+Name: Tab Bar - (Badge): Transparent Background
+Author: Sinfool
+Description: Makes tab bar badges transparent. Makes tab bar badges transparent.
+ .
+ Only tested in a few stock apps so it may not work in third party apps.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (6-19-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38203
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

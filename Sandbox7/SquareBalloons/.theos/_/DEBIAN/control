@@ -1,0 +1,16 @@
+Package: com.sinfool.squareballoons
+Name: Square Balloons  ₄₋₁₀₋₁₅
+Author: Sinfool
+Description: Makes Balloon corners square.  Tested with an iP6+ 8.1.  (4-10-15) Makes Balloon corners square.  Tested with an iP6+ 8.1.  (4-10-15)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 20433
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

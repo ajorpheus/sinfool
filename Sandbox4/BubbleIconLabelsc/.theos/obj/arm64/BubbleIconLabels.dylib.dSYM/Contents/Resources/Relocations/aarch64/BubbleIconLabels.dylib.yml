@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/BubbleIconLabelsc/.theos/obj/arm64/BubbleIconLabels.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBMutableIconLabelImageParameters$setFocusHighlightColor$', symObjAddr: 0xCC0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$SBMutableIconLabelImageParameters$setTextColor$', symObjAddr: 0xCC8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xE3, offset: 0xE3, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x137, offset: 0x137, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setFocusHighlightColor$P33SBMutableIconLabelImageParametersP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x54 }
+  - { offsetInCU: 0x184, offset: 0x184, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setFocusHighlightColor$P33SBMutableIconLabelImageParametersP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x54 }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setTextColor$P33SBMutableIconLabelImageParametersP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x50 }
+  - { offsetInCU: 0x1E3, offset: 0x1E3, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setTextColor$P33SBMutableIconLabelImageParametersP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x50 }
+...

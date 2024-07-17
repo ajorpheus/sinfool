@@ -1,0 +1,18 @@
+Package: com.sinfool.alertsredbuttontext
+Name: Alerts • Red Button Text  ₉₋₁₃₋₁₅
+Author: Sinfool
+Description: Changes Alert Button text color from Blue to Red. Changes Alert Button text color from Blue to Red.
+ .
+ [v.1] Only tested on iP6+ 8.4.  (9-13-15)
+ .
+ ★ If you'd like to donate, please send money to...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 24492
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

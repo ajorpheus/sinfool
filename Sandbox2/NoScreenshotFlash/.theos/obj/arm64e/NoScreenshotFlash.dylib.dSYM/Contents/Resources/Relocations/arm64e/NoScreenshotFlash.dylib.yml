@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoScreenshotFlash/.theos/obj/arm64e/NoScreenshotFlash.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$_SBMainScreenScreenshotProvider$flasher', symObjAddr: 0x7A0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$_SBMainScreenScreenshotProvider$flasherP31_SBMainScreenScreenshotProviderP13objc_selector', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x156, offset: 0x156, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$_SBMainScreenScreenshotProvider$flasherP31_SBMainScreenScreenshotProviderP13objc_selector', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

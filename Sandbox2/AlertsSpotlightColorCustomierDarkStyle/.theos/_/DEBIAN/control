@@ -1,0 +1,18 @@
+Package: com.sinfool.alertsspotlightcolorcustomierdarkstyle
+Name: Alerts/Spotlight - Color Customizer (Dark Style)
+Author: Sinfool
+Description: Color customizer for Alerts & Spotlight.  Provides options to change various backgrounds/text colors and options to hide icons/merge the cancel button etc.  By default, I set the colors to a dark transparent style but you can change the colors/options to your liking. Color customizer for Alerts & Spotlight.  Provides options to change various backgrounds/text colors and options to hide icons/merge the cancel button etc.  By default, I set the colors to a dark transparent style but you can change the colors/options to your liking.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36 so please go install it BEFORE downloading this patch.  The beta can be downloaded by adding "http://getdelta.co/" to your Cydia repo sources.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (10-26-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39850
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

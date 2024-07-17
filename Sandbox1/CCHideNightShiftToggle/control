@@ -1,0 +1,15 @@
+Package: com.sinfool.cchidenightshifttoggle
+Name: CC - Hide Night Shift Toggle  ₈₋₈₋₁₆
+Author: Sinfool
+Description: Hides the night shift toggle in control center. Hides the night shift toggle in control center.
+  
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via email.  (8-8-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29847
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

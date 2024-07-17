@@ -1,0 +1,16 @@
+Package: com.sinfool.transparentwallpapernoblur
+Name: Transparent Wallpaper (No Blur)  ₁₁₋₁₋₁₇
+Author: Sinfool
+Description: Removes the wallpaper blur in system apps (iBooks, Safari Tab Overview, Phone Dialer etc) leaving a transparent view of your HS wallpaper. Removes the wallpaper blur in system apps (iBooks, Safari Tab Overview, Phone Dialer etc) leaving a transparent view of your HS wallpaper.
+ .
+ [v.1] Tested with an iP6+ on 9.3.3.  (11-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39901
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,16 @@
+Package: com.sinfool.lshideunlockchevronslidetounlocktext
+Name: LS - Hide Unlock Chevron & "slide to unlock" Text  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Hides the ">" chevron & "slide to unlock" text from the lockscreen. Hides the ">" chevron & "slide to unlock" text from the lockscreen.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-15-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25031
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

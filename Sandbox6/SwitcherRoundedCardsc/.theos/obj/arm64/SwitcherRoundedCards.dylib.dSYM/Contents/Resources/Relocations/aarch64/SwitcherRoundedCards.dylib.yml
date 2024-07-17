@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SwitcherRoundedCardsc/.theos/obj/arm64/SwitcherRoundedCards.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$SBDeckSwitcherItemContainer$setContentCornerRadiusProgress$', symObjAddr: 0xDA8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$', symObjAddr: 0xDB0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$', symObjAddr: 0xDB8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xFB, offset: 0xFB, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentCornerRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x10 }
+  - { offsetInCU: 0x1CF, offset: 0x1CF, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentCornerRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x10 }
+  - { offsetInCU: 0x218, offset: 0x218, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x10 }
+  - { offsetInCU: 0x231, offset: 0x231, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x10 }
+  - { offsetInCU: 0x272, offset: 0x272, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$P21SBAppSwitcherPageViewP13objc_selectord', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x10 }
+  - { offsetInCU: 0x28B, offset: 0x28B, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$P21SBAppSwitcherPageViewP13objc_selectord', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x10 }
+...

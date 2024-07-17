@@ -1,0 +1,24 @@
+Package: com.sinfool.colorcustomier
+Name: Color Customizer  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Changes colors of the following UI elements: Changes colors of the following UI elements:
+ .
+ • Status Bar
+ • LS Clock/Date
+ • LS Top/Bottom Grabbers
+ • LS Camera Grabber
+ • Icon Labels
+ • Page Dot Indicators
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-15-15)
+ .
+ ★ If you'd like to donate, please send money to...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25022
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

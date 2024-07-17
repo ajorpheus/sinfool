@@ -1,0 +1,11 @@
+Package: com.sinfool.passcodebuttoncolor
+Name: Passcode Button Color
+Author: Sinfool
+Description: Changes the passcode button color. Changes the passcode button color. patchID: 12966
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

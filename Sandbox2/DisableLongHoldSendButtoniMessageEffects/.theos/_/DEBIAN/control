@@ -1,0 +1,16 @@
+Package: com.sinfool.disablelongholdsendbuttonimessageeffects
+Name: Disable Long Hold Send Button iMessage Effects
+Author: Sinfool
+Description: Disables the iMessage effects menu by disabling long holding of the send button. Disables the iMessage effects menu by disabling long holding of the send button.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (2-27-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35254
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

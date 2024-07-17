@@ -1,0 +1,18 @@
+Package: com.sinfool.easiertextselection
+Name: Easier Text Selection
+Author: Sinfool
+Description: Makes selecting text easier by disabling text selection assistance within web pages. Makes selecting text easier by disabling text selection assistance within web pages.
+ .
+ NOTE:  This works with iOS 10.2 ONLY!  It doesn't work on 10.x or 10.1.x etc.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34038
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.4-1
+Installed-Size: 168

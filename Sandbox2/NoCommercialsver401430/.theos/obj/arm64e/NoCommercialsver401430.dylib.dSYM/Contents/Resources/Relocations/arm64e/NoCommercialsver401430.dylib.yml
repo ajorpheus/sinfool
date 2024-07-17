@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoCommercialsver401430/.theos/obj/arm64e/NoCommercialsver401430.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$ServiceCallManager$checkVersions', symObjAddr: 0xA40, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$VODPlayerViewController$adCues', symObjAddr: 0xA48, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x184, offset: 0x184, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$ServiceCallManager$checkVersionsP18ServiceCallManagerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1CA, offset: 0x1CA, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$ServiceCallManager$checkVersionsP18ServiceCallManagerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1FE, offset: 0x1FE, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$VODPlayerViewController$adCuesP23VODPlayerViewControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

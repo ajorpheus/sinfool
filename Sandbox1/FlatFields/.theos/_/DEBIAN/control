@@ -1,0 +1,25 @@
+Package: com.sinfool.flatfields
+Name: Flat Fields
+Author: Sinfool
+Description: Removes the background from input text fields system wide. Removes the background from input text fields system wide.
+ .
+ Also adds options to...
+ .
+ (1) Hide the search bar background (currently hidden)
+ (2) Hide the background of Safari's URL bar when tapping (currently hidden)
+ .
+ [v.3] Tested with an iPad mini 4 10.2.  Made as a request via r/jailbreak.  (4-18-17)
+ .
+ (4-18-17) *Initial release
+ (4-18-17) *Added removal of Safari background when tapping
+ (4-18-17) *Removed Message custom color option & replaced with another method to fix the background from showing when using the options button
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36924
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

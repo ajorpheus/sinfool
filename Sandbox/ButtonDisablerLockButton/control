@@ -1,0 +1,23 @@
+Package: com.sinfool.buttondisablerlockbutton
+Name: ButtonDisabler - Lock Button  ₁₀₋₉₋₁₆
+Author: Sinfool
+Description: Disables the lock/sleep/power button. Disables the lock/sleep/power button.
+ .
+ *Useful if you have a broken power button which triggers inadvertently.
+ .
+ NOTE:  When using this patch, I suggest using Activator to assign an event/gesture to lock your device i.e. "Anywhere>(any event/gesture)>Lock Device".
+ .
+ ⚑ UPDATES:
+ (12-18-15) *Initial release
+ (10-9-16) *Changed patch title from "Disable Lock/Sleep/Power Button"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (10-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26983
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,16 @@
+Package: com.sinfool.kbrapidsinglecharacterdelete
+Name: KB - Rapid Single Character Delete	₁₀₋₁₇₋₁₅
+Author: Sinfool
+Description: Forces immediate rapid single character deleting when the "⌫" button is tapped or held.  This also disables native auto word deleting functionality.	You can adjust the speed to your liking but beware it's very sensitive. Forces immediate rapid single character deleting when the "⌫" button is tapped or held.  This also disables native auto word deleting functionality.	You can adjust the speed to your liking but beware it's very sensitive.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-17-15)
+ .
+ ☞PayPal:	goin730@gmail.com patchID: 25164
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

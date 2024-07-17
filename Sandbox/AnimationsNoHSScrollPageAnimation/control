@@ -1,0 +1,15 @@
+Package: com.sinfool.animationsnohsscrollpageanimation
+Name: Animations - No HS Scroll Page Animation
+Author: Sinfool
+Description: Speeds up/removes the scrolling page animation on the home screen.  You can adjust the variable if you so choose. Speeds up/removes the scrolling page animation on the home screen.  You can adjust the variable if you so choose.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (10-4-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39605
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

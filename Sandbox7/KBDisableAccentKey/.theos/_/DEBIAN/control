@@ -1,0 +1,24 @@
+Package: com.sinfool.kbdisableaccentkey
+Name: KB • Disable Accent Key  ₇₋₃₁₋₁₅
+Author: Sinfool
+Description: Disables the long press accent key popup.  Made after reading a request on r/jailbreak. Disables the long press accent key popup.  Made after reading a request on r/jailbreak.
+ .
+ [v.1] Tested on iP6+ 8.1 & 8.4.  (7-31-15)
+ .
+ ⚑ UPDATES:
+ (5-24-15) *Initial release
+ (7-31-15) *Changed patch title & confirmed working on 8.4.
+ .
+ - If you enjoy this patch then you may also want to try some of my other patches with the "KB •" prefix.
+ .
+ ● If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 21329
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,15 @@
+Package: com.sinfool.lsccmediacontrolsnoartworkanimation
+Name: LS/CC (Media Controls) - No Artwork Animation
+Author: Sinfool
+Description: Removes the album artwork zoom animation on the lock screen & control center which occurs after tapping pause or play.  This will make the artwork stay the larger size. Removes the album artwork zoom animation on the lock screen & control center which occurs after tapping pause or play.  This will make the artwork stay the larger size.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (6-14-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38129
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

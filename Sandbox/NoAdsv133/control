@@ -1,0 +1,15 @@
+Package: com.sinfool.noadsv133
+Name: No Ads (v. 1.33)  ₃₋₂₉₋₁₆
+Author: Sinfool
+Description: Removes ads. Removes ads.
+ .
+ [v.1] Tested with (v. 1.33).  Made as a request via r/jailbreak.  (3-29-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28288
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.gameprom.software.pinballhd.collection
+Homepage: https://ipadkid.cf/sinfool/index.html

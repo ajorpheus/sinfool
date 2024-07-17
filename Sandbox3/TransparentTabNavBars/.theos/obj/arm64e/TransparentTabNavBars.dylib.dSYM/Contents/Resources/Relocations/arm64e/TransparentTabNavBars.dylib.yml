@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/TransparentTabNavBars/.theos/obj/arm64e/TransparentTabNavBars.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL125_logos_orig$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$', symObjAddr: 0xFE0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$_UIBarBackground$_blurWithStyle$tint$', symObjAddr: 0xFE8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x13A, offset: 0x13A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x1AA, offset: 0x1AA, size: 0x8, addend: 0x0, symName: '__ZL127_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$P36UIStatusBarForegroundStyleAttributesP13objc_selectordxP11objc_objectbx', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x9C }
+  - { offsetInCU: 0x1F0, offset: 0x1F0, size: 0x8, addend: 0x0, symName: '__ZL127_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$P36UIStatusBarForegroundStyleAttributesP13objc_selectordxP11objc_objectbx', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x9C }
+  - { offsetInCU: 0x278, offset: 0x278, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UIBarBackground$_blurWithStyle$tint$P16_UIBarBackgroundP13objc_selectorxP11objc_object', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x10 }
+  - { offsetInCU: 0x2A1, offset: 0x2A1, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UIBarBackground$_blurWithStyle$tint$P16_UIBarBackgroundP13objc_selectorxP11objc_object', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x10 }
+...

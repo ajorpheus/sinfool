@@ -1,0 +1,16 @@
+Package: com.sinfool.disableswiping
+Name: Disable Swiping  ₂₋₂₆₋₁₆
+Author: Sinfool
+Description: Disables swiping/swipe actions.  Useful if you trigger swipe actions by mistake or prefer managing mail via the edit button. Disables swiping/swipe actions.  Useful if you trigger swipe actions by mistake or prefer managing mail via the edit button.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (2-26-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27899
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilemail
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

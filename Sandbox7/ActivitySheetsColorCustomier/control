@@ -1,0 +1,15 @@
+Package: com.sinfool.activitysheetscolorcustomier
+Name: Activity Sheets - Color Customizer
+Author: Sinfool
+Description: Customizes background and text colors of activity sheets.  By default, I made it a dark transparent color but you can set the colors to your liking. Customizes background and text colors of activity sheets.  By default, I made it a dark transparent color but you can set the colors to your liking.
+ .
+ NOTE: Also changes the background color of action sheet alerts i.e. Activator menus etc.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak user /u/GodofShame.  (9-18-17). patchID: 39427
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

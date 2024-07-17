@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/OpenwithFilterEffects/.theos/obj/arm64e/OpenwithFilterEffects.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$CAMUserPreferences$shouldResetCaptureConfiguration', symObjAddr: 0xE58, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL185_logos_orig$_ungrouped$CAMCaptureConfiguration$initWithCaptureMode$captureDevice$flashMode$torchMode$HDRMode$irisMode$timerDuration$photoModeEffectFilterType$squareModeEffectFilterType$', symObjAddr: 0xE60, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x184, offset: 0x184, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$CAMUserPreferences$shouldResetCaptureConfigurationP18CAMUserPreferencesP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$CAMUserPreferences$shouldResetCaptureConfigurationP18CAMUserPreferencesP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x208, offset: 0x208, size: 0x8, addend: 0x0, symName: '__ZL187_logos_method$_ungrouped$CAMCaptureConfiguration$initWithCaptureMode$captureDevice$flashMode$torchMode$HDRMode$irisMode$timerDuration$photoModeEffectFilterType$squareModeEffectFilterType$P23CAMCaptureConfigurationP13objc_selectorxxxxxxxxx', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x1C }
+...

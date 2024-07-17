@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/AIONoAdsPopUpsnorStatusBar/.theos/obj/arm64e/AIONoAdsPopUpsnorStatusBar.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UIViewController$prefersStatusBarHidden', symObjAddr: 0x3508, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xF5E, offset: 0xF5E, size: 0x8, addend: 0x0, symName: '__ZL41_logos_orig$_ungrouped$MAdsView$getAdView', symObjAddr: 0x3510, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xF97, offset: 0xF97, size: 0x8, addend: 0x0, symName: '__ZL34_logos_orig$_ungrouped$ADCAd$init$', symObjAddr: 0x3518, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xFDF, offset: 0xFDF, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1078, offset: 0x1078, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x10B0, offset: 0x10B0, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x10E4, offset: 0x10E4, size: 0x8, addend: 0x0, symName: '__ZL43_logos_method$_ungrouped$MAdsView$getAdViewP8MAdsViewP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x1118, offset: 0x1118, size: 0x8, addend: 0x0, symName: '__ZL36_logos_method$_ungrouped$ADCAd$init$P5ADCAdP13objc_selectorP11objc_object', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+...

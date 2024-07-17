@@ -1,0 +1,16 @@
+Package: com.sinfool.passcodenotouchidorenterpasscodetext
+Name: Passcode - No "Touch ID or Enter Passcode" Text
+Author: Sinfool
+Description: Hides the "Touch ID or Enter Passcode" status text on the passcode screen. Hides the "Touch ID or Enter Passcode" status text on the passcode screen.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36520
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

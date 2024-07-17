@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/NCFaster/.theos/obj/arm64e/NCFaster.dylib'
+relocations:     []
+...

@@ -1,0 +1,21 @@
+Package: com.sinfool.iconlabelcolordockfolders
+Name: Icon Label Color (Dock & Folders)
+Author: Sinfool
+Description: Changes the color of icon labels on the dock & inside folders only.  Change the color to your liking. Changes the color of icon labels on the dock & inside folders only.  Change the color to your liking.
+ .
+ ⚠️IMPORTANT:	This patch depends on ≥ Flex 3 beta version 3~beta36 so please go install it BEFORE downloading this patch.  The beta can be downloaded by adding "http://getdelta.co/" to your Cydia repo sources.
+ .
+ NOTES:  This patch hasn't been tested with any other patches/tweaks that change icon label colors.
+ .
+ KNOWN ISSUE:  A safemode crash occurs when opening a folder if it has Activator inside it.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (11-11-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39990
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

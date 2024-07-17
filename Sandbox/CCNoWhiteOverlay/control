@@ -1,0 +1,19 @@
+Package: com.sinfool.ccnowhiteoverlay
+Name: CC - No White Overlay
+Author: Sinfool
+Description: Removes the white overlay from control center and slightly alters the look of the buttons. Removes the white overlay from control center and slightly alters the look of the buttons.
+ .
+ ⚑ UPDATES:
+ (3-22-18) *Initial release
+ (3-23-18) *Hopefully added 10.3+ support
+ .
+ [v.2] Tested with an iPad mini 4 on 10.2.  Requested by /u/eamonpowell.  (3-23-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41547
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

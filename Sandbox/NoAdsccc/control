@@ -1,0 +1,11 @@
+Package: com.sinfool.noads
+Name: No Ads
+Author: Sinfool
+Description: No ads.  Tested with version 2.610. No ads.  Tested with version 2.610. patchID: 18031
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.4
+Icon: file:///private/var/mobile/Library/Sinfool/com.remotemouse.remotemousehd4free
+Homepage: https://ipadkid.cf/sinfool/index.html

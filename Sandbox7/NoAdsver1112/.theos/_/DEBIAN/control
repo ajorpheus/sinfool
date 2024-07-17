@@ -1,0 +1,12 @@
+Package: com.sinfool.noadsver1112
+Name: No Ads (ver. 11.1.2)
+Author: Sinfool
+Description: No banner or video ads.  Tested with version 11.1.2.  UPDATED (9-18-14):  Removed more video ads. No banner or video ads.  Tested with version 11.1.2.  UPDATED (9-18-14):  Removed more video ads. patchID: 13072
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.nfl.gamecenter
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

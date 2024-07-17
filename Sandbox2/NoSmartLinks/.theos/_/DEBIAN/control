@@ -1,0 +1,18 @@
+Package: com.sinfool.nosmartlinks
+Name: No Smart Links  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Disables smart links. Disables smart links.
+ .
+ Are you tired of iOS automatically underlining/hyperlinking urls, dates & other text within your messages?  ...Then this is for you!
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25829
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

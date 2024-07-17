@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/RemoveUpgradePopup/.theos/obj/arm64/RemoveUpgradePopup.dylib'
+relocations:     []
+...

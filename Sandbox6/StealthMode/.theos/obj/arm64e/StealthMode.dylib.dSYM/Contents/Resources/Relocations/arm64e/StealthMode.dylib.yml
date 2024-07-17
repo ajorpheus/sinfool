@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/StealthMode/.theos/obj/arm64e/StealthMode.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$RCLockScreenViewController$init', symObjAddr: 0xA70, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$_RCCaptureInputDeviceSession$useStartSoundEffect', symObjAddr: 0xA78, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x15B, offset: 0x15B, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$RCLockScreenViewController$initP26RCLockScreenViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$RCLockScreenViewController$initP26RCLockScreenViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1DF, offset: 0x1DF, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$_RCCaptureInputDeviceSession$useStartSoundEffectP28_RCCaptureInputDeviceSessionP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

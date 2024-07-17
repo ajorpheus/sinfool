@@ -1,0 +1,16 @@
+Package: com.sinfool.hidescrollingphotopicker
+Name: Hide Scrolling Photo Picker
+Author: Sinfool
+Description: Removes the scrolling photo picker. Removes the scrolling photo picker.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-10-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36721
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.3-1
+Installed-Size: 168

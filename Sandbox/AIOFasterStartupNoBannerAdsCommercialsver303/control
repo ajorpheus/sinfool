@@ -1,0 +1,11 @@
+Package: com.sinfool.aiofasterstartupnobanneradscommercialsver303
+Name: [AIO] Faster Startup, No Banner Ads/Commercials (ver. 3.0.3)
+Author: Sinfool
+Description: All in one patch for Bravo.  Faster startup, no banner ads & no commercials.	Tested with most recent version 3.0.3.	 (8-15-14) All in one patch for Bravo.  Faster startup, no banner ads & no commercials.	Tested with most recent version 3.0.3.	 (8-15-14) patchID: 12498
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.nbcuni.bravo.bravonow
+Homepage: https://ipadkid.cf/sinfool/index.html

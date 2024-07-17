@@ -1,0 +1,12 @@
+Package: com.sinfool.removeads
+Name: Remove Ads
+Author: Sinfool
+Description: Removes ad when pausing video.  (5-22-14) Removes ad when pausing video.  (5-22-14) patchID: 10880
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.endlesstv.flagship
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 104

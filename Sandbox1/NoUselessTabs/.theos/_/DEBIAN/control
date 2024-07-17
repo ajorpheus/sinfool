@@ -1,0 +1,21 @@
+Package: com.sinfool.nouselesstabs
+Name: No Useless Tabs  ₁₀₋₁₇₋₁₆
+Author: Sinfool
+Description: Disables the following useless tabs leaving only "My Music" & "Playlists" tabs... Disables the following useless tabs leaving only "My Music" & "Playlists" tabs...
+ .
+ • For You & New
+ • Radio
+ • Connect
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com
+  patchID: 31721
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Music
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

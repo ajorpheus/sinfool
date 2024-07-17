@@ -1,0 +1,18 @@
+Package: com.sinfool.switcherliststyle
+Name: Switcher - List Style  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Displays the switcher in list style for iOS 9.  Swipe left to kill apps. Displays the switcher in list style for iOS 9.  Swipe left to kill apps.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-15-15)
+ .
+ ★ If you'd like to donate, please send money to...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25001
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

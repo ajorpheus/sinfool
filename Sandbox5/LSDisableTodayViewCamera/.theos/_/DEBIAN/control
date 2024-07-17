@@ -1,0 +1,19 @@
+Package: com.sinfool.lsdisabletodayviewcamera
+Name: LS - Disable Today View & Camera
+Author: Sinfool
+Description: Disables scrolling to the Today View & Camera pages on the lock screen. Also removes the Page/Camera Dots. Disables scrolling to the Today View & Camera pages on the lock screen. Also removes the Page/Camera Dots.
+ .
+ [v.2] Tested with an iPad mini 4 on 10.2.  (2-11-17)
+ .
+ (2-7-17) Initial Release
+ (2-11-17) Changed methods so hopefully the screen doesn't move
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34297
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

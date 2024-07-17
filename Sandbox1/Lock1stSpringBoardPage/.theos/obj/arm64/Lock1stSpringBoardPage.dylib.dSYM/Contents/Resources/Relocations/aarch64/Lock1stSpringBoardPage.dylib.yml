@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/Lock1stSpringBoardPage/.theos/obj/arm64/Lock1stSpringBoardPage.dylib'
+relocations:     []
+...

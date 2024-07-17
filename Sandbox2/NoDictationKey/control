@@ -1,0 +1,17 @@
+Package: com.sinfool.nodictationkey
+Name: No Dictation Key  ₁₀₋₂₉₋₁₅
+Author: Sinfool
+Description: Hides the dictation key & increases the space bar width when in portrait mode. Hides the dictation key & increases the space bar width when in portrait mode.
+ .
+ Useful for those who already use an Activator action to activate dictation.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-29-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25909
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

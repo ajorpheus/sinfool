@@ -1,0 +1,16 @@
+Package: com.sinfool.nostatusbarnorspacever660
+Name: No Status Bar (nor space) (ver. 6.60)  ₈₋₂₀₋₁₆
+Author: Sinfool
+Description: Removes the status bar & space. Removes the status bar & space.
+ .
+ [v.1] Tested with version 6.60.  Made as a request via r/jailbreak.  (8-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30447
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.atebits.Tweetie2
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

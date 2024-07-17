@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/LSNCFontStyleBoldorItalic/.theos/obj/arm64e/LSNCFontStyleBoldorItalic.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL87_logos_orig$_ungrouped$NCLookViewFontProvider$nc_preferredFontForTextStyle$hiFontStyle$', symObjAddr: 0x8C0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x121, offset: 0x121, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$NCLookViewFontProvider$nc_preferredFontForTextStyle$hiFontStyle$P22NCLookViewFontProviderP13objc_selectorP11objc_objectx', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x167, offset: 0x167, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$NCLookViewFontProvider$nc_preferredFontForTextStyle$hiFontStyle$P22NCLookViewFontProviderP13objc_selectorP11objc_objectx', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

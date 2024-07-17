@@ -1,0 +1,11 @@
+Package: com.sinfool.nightmodecolortheme
+Name: Night Mode COLOR Theme
+Author: Sinfool
+Description: Dark color theme for Settings [3-1-14].  Corresponding system app equivalent themes coming soon.  For those who want more customizing options... my "Customizable COLOR Theme" will be updated shorty & provides many more options. Dark color theme for Settings [3-1-14].  Corresponding system app equivalent themes coming soon.  For those who want more customizing options... my "Customizable COLOR Theme" will be updated shorty & provides many more options. patchID: 9311
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

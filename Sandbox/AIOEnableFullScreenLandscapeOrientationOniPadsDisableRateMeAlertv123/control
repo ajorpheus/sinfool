@@ -1,0 +1,21 @@
+Package: com.sinfool.aioenablefullscreenlandscapeorientationonipadsdisableratemealertv123
+Name: [AIO] Enable Full Screen & Landscape Orientation On iPads & Disable Rate Me Alert (v. 1.2.3)
+Author: Sinfool
+Description: Enables & disables the following on iPads... Enables & disables the following on iPads...
+ .
+ - Enables full screen
+ - Enables landscape orientation
+ - Disables the rate me alert popup
+ .
+ NOTE:  Landscape orientation requires rotation lock to be disabled.
+ .
+ [v.1] Tested with app version 1.2.3 (62).  (5-25-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 37812
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.paxlabs.paxvapor
+Homepage: https://ipadkid.cf/sinfool/index.html

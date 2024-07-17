@@ -1,0 +1,19 @@
+Package: com.sinfool.bannersnoquickdismiss
+Name: Banners - NoQuickDismiss  ₈₋₁₉₋₁₆
+Author: Sinfool
+Description: Prevents accidental dismissal of quick reply banners by disabling the following gestures/actions after a quick reply banner (i.e. Messages, Email etc) has been pulled down... Prevents accidental dismissal of quick reply banners by disabling the following gestures/actions after a quick reply banner (i.e. Messages, Email etc) has been pulled down...
+ .
+ • Swipe up to dismiss banners (all banners)
+ • Tap to dismiss (area below banners)
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request.  (8-19-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30400
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

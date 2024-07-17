@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/CCNCSideSwitcherShowGrabberOnFirstSwipe/.theos/obj/arm64e/CCNCSideSwitcherShowGrabberOnFirstSwipe.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL84_logos_orig$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipe', symObjAddr: 0xEB8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SBControlCenterController$_shouldShowGrabberOnFirstSwipe', symObjAddr: 0xEC0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBGrabberTongue$_recognizerIsOutsideGrabberFreeZone$', symObjAddr: 0xEC8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x147, offset: 0x147, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB8 }
+  - { offsetInCU: 0x1EE, offset: 0x1EE, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipeP30SBNotificationCenterControllerP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x234, offset: 0x234, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipeP30SBNotificationCenterControllerP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x268, offset: 0x268, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBControlCenterController$_shouldShowGrabberOnFirstSwipeP25SBControlCenterControllerP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x29C, offset: 0x29C, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBGrabberTongue$_recognizerIsOutsideGrabberFreeZone$P15SBGrabberTongueP13objc_selectorP11objc_object', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+...

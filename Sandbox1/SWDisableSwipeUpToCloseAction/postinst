@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/bin/sinfoolicons
+exit 0

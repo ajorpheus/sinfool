@@ -1,0 +1,16 @@
+Package: com.sinfool.nogroupbarinchat
+Name: No Group Bar In Chat  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: No group bar in chat view. No group bar in chat view.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25827
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

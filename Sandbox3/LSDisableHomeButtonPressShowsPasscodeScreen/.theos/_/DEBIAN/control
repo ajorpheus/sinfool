@@ -1,0 +1,20 @@
+Package: com.sinfool.lsdisablehomebuttonpressshowspasscodescreen
+Name: LS - Disable Home Button Press Shows Passcode Screen
+Author: Sinfool
+Description: Disables the passcode screen from showing when you press the home button on the lockscreen. Disables the passcode screen from showing when you press the home button on the lockscreen.
+ .
+ Useful if you have a finicky home button or are just annoyed by this native feature.
+ .
+ TIP:  As a backup way to get to the passcode screen, setup an Activator event on the lockscreen (i.e. swipe on bottom of the screen from left to right etc.) to "Unlock Device".
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (7-19-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38608
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

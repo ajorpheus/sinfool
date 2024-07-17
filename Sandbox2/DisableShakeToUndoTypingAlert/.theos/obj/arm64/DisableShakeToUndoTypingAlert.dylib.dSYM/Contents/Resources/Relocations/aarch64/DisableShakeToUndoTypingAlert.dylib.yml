@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/DisableShakeToUndoTypingAlert/.theos/obj/arm64/DisableShakeToUndoTypingAlert.dylib'
+relocations:     []
+...

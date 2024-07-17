@@ -1,0 +1,11 @@
+Package: com.sinfool.fixstatusbarjbbug
+Name: Fix Status Bar JB Bug
+Author: Sinfool
+Description: Fixes the status bar bug caused by the JB, (well, sort of).  This changes the black status bar elements back to white.                            ------------------------------------------------------This is good for those who haven't used any other fixes such as StatusBarFix2 or Flex patches that remove the status bar. Fixes the status bar bug caused by the JB, (well, sort of).  This changes the black status bar elements back to white.                            ------------------------------------------------------This is good for those who haven't used any other fixes such as StatusBarFix2 or Flex patches that remove the status bar. patchID: 8736
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.6
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.stocks
+Homepage: https://ipadkid.cf/sinfool/index.html

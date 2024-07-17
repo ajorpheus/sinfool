@@ -1,0 +1,21 @@
+Package: com.sinfool.statusbarlargerlssie
+Name: Status Bar - Larger LS Size  ₁₁₋₂₉₋₁₅
+Author: Sinfool
+Description: Makes the home screen (HS) status bar stay the same size as the Larger lock screen (LS) status bar.	 Makes the home screen (HS) status bar stay the same size as the Larger lock screen (LS) status bar.	
+ .
+ So, if your LS status bar hasn't been customized... then the stock larger sized LS status bar will remain on the HS after unlocking.  Likewise, if your LS status bar is hidden... then it will also remain hidden on the HS.
+ .
+ KNOWN ISSUES:  Causes the double sized SB (i.e. during a phone call) to disappear on the HS & reverts the status bar size back to the small size until after a call has ended & the device is locked/unlocked again.
+ .
+ [v.1] Tested with iOS 7/8/9.  Made as a request via r/jailbreak.  (11-29-15)
+ .
+ (11-30-15) *Changed title
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26648
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

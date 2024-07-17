@@ -1,0 +1,11 @@
+Package: com.sinfool.noads
+Name: No Ads
+Author: Sinfool
+Description: Removes ads. Removes ads. patchID: 11304
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.5
+Icon: file:///private/var/mobile/Library/Sinfool/com.jellystyle.GIFwrapped
+Homepage: https://ipadkid.cf/sinfool/index.html

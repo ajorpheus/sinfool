@@ -1,0 +1,16 @@
+Package: com.sinfool.showmorephotosinpicker
+Name: Show More Photos In Picker  ₁₀₋₂₉₋₁₅
+Author: Sinfool
+Description: Displays more photos in the scrolling photo picker.  I've set the current # to "500" but you can set it to whatever you want. Displays more photos in the scrolling photo picker.  I've set the current # to "500" but you can set it to whatever you want.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-29-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25915
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

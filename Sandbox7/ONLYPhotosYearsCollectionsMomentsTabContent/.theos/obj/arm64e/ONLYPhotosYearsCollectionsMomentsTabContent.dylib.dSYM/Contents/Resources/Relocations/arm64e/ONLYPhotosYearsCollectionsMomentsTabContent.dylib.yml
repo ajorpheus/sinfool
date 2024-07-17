@@ -1,0 +1,18 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/ONLYPhotosYearsCollectionsMomentsTabContent/.theos/obj/arm64e/ONLYPhotosYearsCollectionsMomentsTabContent.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x118 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL97_logos_orig$_ungrouped$PUTabbedLibraryViewControllerPhoneSpec$createSharedAlbumListViewController', symObjAddr: 0x1480, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$PUTabbedLibraryViewControllerPhoneSpec$createAlbumListViewController', symObjAddr: 0x1488, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD8, offset: 0xD8, size: 0x8, addend: 0x0, symName: '__ZL95_logos_orig$_ungrouped$PUTabbedLibraryViewControllerPadSpec$createSharedAlbumListViewController', symObjAddr: 0x1490, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$PUTabbedLibraryViewControllerPadSpec$createAlbumListViewController', symObjAddr: 0x1498, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x12A, offset: 0x12A, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$PUPhotosGridViewController$alwaysHideTabBar', symObjAddr: 0x14A0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x174, offset: 0x174, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x118 }
+  - { offsetInCU: 0x24F, offset: 0x24F, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$PUTabbedLibraryViewControllerPhoneSpec$createSharedAlbumListViewControllerP38PUTabbedLibraryViewControllerPhoneSpecP13objc_selector', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x8 }
+  - { offsetInCU: 0x295, offset: 0x295, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$PUTabbedLibraryViewControllerPhoneSpec$createSharedAlbumListViewControllerP38PUTabbedLibraryViewControllerPhoneSpecP13objc_selector', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x8 }
+  - { offsetInCU: 0x2C9, offset: 0x2C9, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$PUTabbedLibraryViewControllerPhoneSpec$createAlbumListViewControllerP38PUTabbedLibraryViewControllerPhoneSpecP13objc_selector', symObjAddr: 0x120, symBinAddr: 0x4120, symSize: 0x8 }
+  - { offsetInCU: 0x2FD, offset: 0x2FD, size: 0x8, addend: 0x0, symName: '__ZL97_logos_method$_ungrouped$PUTabbedLibraryViewControllerPadSpec$createSharedAlbumListViewControllerP36PUTabbedLibraryViewControllerPadSpecP13objc_selector', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x8 }
+  - { offsetInCU: 0x331, offset: 0x331, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$PUTabbedLibraryViewControllerPadSpec$createAlbumListViewControllerP36PUTabbedLibraryViewControllerPadSpecP13objc_selector', symObjAddr: 0x130, symBinAddr: 0x4130, symSize: 0x8 }
+  - { offsetInCU: 0x365, offset: 0x365, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$PUPhotosGridViewController$alwaysHideTabBarP26PUPhotosGridViewControllerP13objc_selector', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x8 }
+...

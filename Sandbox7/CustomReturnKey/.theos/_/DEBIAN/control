@@ -1,0 +1,20 @@
+Package: com.sinfool.customreturnkey
+Name: Custom Return Key  ₃₋₁₆₋₁₅
+Author: Sinfool
+Description: Customizes the return key button as listed below ... The text is currently set to show "®" but you can change it to whatever you want or leave it blank for no text.  Tested with an iP6+ 8.1.  (3-16-15) Customizes the return key button as listed below ... The text is currently set to show "®" but you can change it to whatever you want or leave it blank for no text.  Tested with an iP6+ 8.1.  (3-16-15)
+ .
+ • Enable/Disable Return Button Action
+ • Custom Text
+ • Button Type (standard/blue...when enabled)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 19650
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

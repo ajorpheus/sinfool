@@ -1,0 +1,18 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NoSeparatorsEverywhere/.theos/obj/arm64e/NoSeparatorsEverywhere.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SPUINavigationBar$showSeparator$animated$', symObjAddr: 0x4CD8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0xA3, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableView$setSeparatorStyle$', symObjAddr: 0x4CE0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x158A, offset: 0x158A, size: 0x8, addend: 0x0, symName: '__ZL110_logos_orig$_ungrouped$_UIAlertControllerInterfaceActionGroupView$_shouldShowSeparatorAboveActionsSequenceView', symObjAddr: 0x4CE8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x15C3, offset: 0x15C3, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$UICalloutBarButton$setDividerOffset$', symObjAddr: 0x4CF0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1607, offset: 0x1607, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x16C9, offset: 0x16C9, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SPUINavigationBar$showSeparator$animated$P17SPUINavigationBarP13objc_selectorbb', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x1706, offset: 0x1706, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SPUINavigationBar$showSeparator$animated$P17SPUINavigationBarP13objc_selectorbb', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x1759, offset: 0x1759, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x10 }
+  - { offsetInCU: 0x177E, offset: 0x177E, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x10 }
+  - { offsetInCU: 0x17BF, offset: 0x17BF, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$_UIAlertControllerInterfaceActionGroupView$_shouldShowSeparatorAboveActionsSequenceViewP42_UIAlertControllerInterfaceActionGroupViewP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+  - { offsetInCU: 0x17DD, offset: 0x17DD, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$_UIAlertControllerInterfaceActionGroupView$_shouldShowSeparatorAboveActionsSequenceViewP42_UIAlertControllerInterfaceActionGroupViewP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+  - { offsetInCU: 0x1811, offset: 0x1811, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$UICalloutBarButton$setDividerOffset$P18UICalloutBarButtonP13objc_selectord', symObjAddr: 0x108, symBinAddr: 0x4108, symSize: 0x10 }
+...

@@ -1,0 +1,15 @@
+Package: com.sinfool.allowbackgroundplayback
+Name: Allow Background Playback  ₈₋₂₇₋₁₆
+Author: Sinfool
+Description: Prevents audio playback from stopping after leaving the app.  Prevents audio playback from stopping after leaving the app. 
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via email.  (8-27-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30698
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.VoiceMemos
+Homepage: https://ipadkid.cf/sinfool/index.html

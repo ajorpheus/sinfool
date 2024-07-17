@@ -1,0 +1,13 @@
+Package: com.sinfool.enableselectionofalltracksv413
+Name: Enable Selection Of All Tracks (v. 4.1.3)
+Author: Sinfool
+Description: Allows you to go (back or forward) to any track via the scrubber or the "AVAILABLE SEGMENTS" drop down menu list.  Also provides an option to disable the "SKIP LIMIT REACHED" popup. Allows you to go (back or forward) to any track via the scrubber or the "AVAILABLE SEGMENTS" drop down menu list.  Also provides an option to disable the "SKIP LIMIT REACHED" popup.
+ .
+ [v.1] Tested on app version 4.1.3.  Made as a request via Reddit messages.  (9-24-17) patchID: 39485
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.siriusxm.siriusxmonline
+Homepage: https://ipadkid.cf/sinfool/index.html

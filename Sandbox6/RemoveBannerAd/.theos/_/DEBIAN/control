@@ -1,0 +1,12 @@
+Package: com.sinfool.removebannerad
+Name: Remove Banner Ad
+Author: Sinfool
+Description: Removes banner ad. Removes banner ad. patchID: 11145
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.riomoits68.apps.romancestudio
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

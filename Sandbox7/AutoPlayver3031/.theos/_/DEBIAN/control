@@ -1,0 +1,16 @@
+Package: com.sinfool.autoplayver3031
+Name: Auto Play (ver. 3.0.31)
+Author: Sinfool
+Description: Enables auto play of the last live station played... "IF" the app has recently been killed from the switcher.  Tested with version 3.0.31.  (5-15-15) Enables auto play of the last live station played... "IF" the app has recently been killed from the switcher.  Tested with version 3.0.31.  (5-15-15)
+ .
+ Those who use Activator may find this patch & the following action/event useful if you don't listen to much audio besides SiriusXM:
+ .
+ Anywhere -> More (top right)>Application Launch>SiriusXM -> Audio>Play patchID: 21166
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.siriusxm.siriusxmonline
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

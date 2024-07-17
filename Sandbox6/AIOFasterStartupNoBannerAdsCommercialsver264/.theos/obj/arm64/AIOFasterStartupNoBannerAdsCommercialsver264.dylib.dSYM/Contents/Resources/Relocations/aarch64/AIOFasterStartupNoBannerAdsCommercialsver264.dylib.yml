@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/AIOFasterStartupNoBannerAdsCommercialsver264/.theos/obj/arm64/AIOFasterStartupNoBannerAdsCommercialsver264.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0x9C0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$DCMainNavigationViewController$bannerAdLoaded', symObjAddr: 0x9C8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xF2, offset: 0xF2, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x162, offset: 0x162, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1B2, offset: 0x1B2, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$DCMainNavigationViewController$bannerAdLoadedP30DCMainNavigationViewControllerP13objc_selector', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

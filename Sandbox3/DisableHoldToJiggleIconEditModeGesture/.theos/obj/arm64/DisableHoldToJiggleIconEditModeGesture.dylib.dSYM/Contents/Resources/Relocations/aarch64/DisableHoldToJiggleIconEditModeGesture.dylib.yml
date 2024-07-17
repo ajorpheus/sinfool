@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/DisableHoldToJiggleIconEditModeGesture/.theos/obj/arm64/DisableHoldToJiggleIconEditModeGesture.dylib'
+relocations:     []
+...

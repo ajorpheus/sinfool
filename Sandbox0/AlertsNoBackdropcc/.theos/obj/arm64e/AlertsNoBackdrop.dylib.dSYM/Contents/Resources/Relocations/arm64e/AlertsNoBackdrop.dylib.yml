@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AlertsNoBackdropcc/.theos/obj/arm64e/AlertsNoBackdrop.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$_UIAlertControllerView$shouldHaveBackdropView', symObjAddr: 0xD38, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL90_logos_orig$_ungrouped$_UIAlertControlleriOSActionSheetCancelBackgroundView$initWithFrame$', symObjAddr: 0xD40, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x18A, offset: 0x18A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x1FA, offset: 0x1FA, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$_UIAlertControllerView$shouldHaveBackdropViewP22_UIAlertControllerViewP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x24A, offset: 0x24A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$_UIAlertControllerView$shouldHaveBackdropViewP22_UIAlertControllerViewP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x27E, offset: 0x27E, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$_UIAlertControlleriOSActionSheetCancelBackgroundView$initWithFrame$P52_UIAlertControlleriOSActionSheetCancelBackgroundViewP13objc_selector6CGRect', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/HideAlbumThumbnails/.theos/obj/arm64/HideAlbumThumbnails.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$PUAlbumListViewController$_collectionIsHiddenAlbum$', symObjAddr: 0x7F0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$PUAlbumListViewController$_collectionIsHiddenAlbum$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x16D, offset: 0x16D, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$PUAlbumListViewController$_collectionIsHiddenAlbum$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

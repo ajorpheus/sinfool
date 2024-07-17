@@ -1,0 +1,18 @@
+Package: com.sinfool.disableautocorrection
+Name: Disable Auto Correction  ₁₀₋₁₁₋₁₆
+Author: Sinfool
+Description: Disables auto correction in Safari. Disables auto correction in Safari.
+ .
+ Useful if you want auto correction enabled systemwide except in Safari.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-11-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31623
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

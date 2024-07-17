@@ -1,0 +1,15 @@
+Package: com.sinfool.bluesendbuttons
+Name: Blue "Send" Buttons  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Changes stock Green & Gray colored "Send" buttons to Blue.  By default, I didn't change the Gray pre-typing Send button (for standard text messages).  Use the "Gray Pre-Typing Send Button" entry to make it Blue. Changes stock Green & Gray colored "Send" buttons to Blue.  By default, I didn't change the Gray pre-typing Send button (for standard text messages).  Use the "Gray Pre-Typing Send Button" entry to make it Blue.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25834
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

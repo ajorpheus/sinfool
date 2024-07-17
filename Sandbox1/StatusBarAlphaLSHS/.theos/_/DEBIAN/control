@@ -1,0 +1,18 @@
+Package: com.sinfool.statusbaralphalshs
+Name: Status Bar - Alpha (LS & HS)  ₁₂₋₁₁₋₁₅
+Author: Sinfool
+Description: Changes the status bar alpha.  Set the level to your liking. Changes the status bar alpha.  Set the level to your liking.
+ .
+ NOTE:  Also applies to double height "in use" status bars.  Doesn't work w/the patch "Color Customizer"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-11-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26875
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

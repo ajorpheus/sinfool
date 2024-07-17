@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/AIONoAdsCommercialsnorForcedUpdatever12030/.theos/obj/arm64/AIONoAdsCommercialsnorForcedUpdatever12030.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0xEF0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0xEF8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$AWEVideoViewBottomAdBar$initWithCoder$', symObjAddr: 0xF00, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x13D, offset: 0x13D, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$AWEAsset$adCuePoints', symObjAddr: 0xF08, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x180, offset: 0x180, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x242, offset: 0x242, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x288, offset: 0x288, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x2BC, offset: 0x2BC, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x2F0, offset: 0x2F0, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$AWEVideoViewBottomAdBar$initWithCoder$P23AWEVideoViewBottomAdBarP13objc_selectorP11objc_object', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x10 }
+  - { offsetInCU: 0x335, offset: 0x335, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$AWEAsset$adCuePointsP8AWEAssetP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+  - { offsetInCU: 0x353, offset: 0x353, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$AWEAsset$adCuePointsP8AWEAssetP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

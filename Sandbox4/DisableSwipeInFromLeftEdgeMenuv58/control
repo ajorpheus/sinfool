@@ -1,0 +1,19 @@
+Package: com.sinfool.disableswipeinfromleftedgemenuv58
+Name: Disable Swipe In From Left Edge Menu (v. 5.8)
+Author: Sinfool
+Description: Disables the swipe in from left edge menu page gesture. Disables the swipe in from left edge menu page gesture.
+ .
+ To go back to the previous screen like native iOS: I suggest making the following Activator event/action...
+ .
+ In Application --> Slide In Gesture "From Screen Left" --> System Actions "Local Back"
+ .
+ [v.1] Tested with app version 5.8.  Made as a request via r/jailbreak user /u/Asohailwahab.  (9-12-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39328
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.medscape.mobile
+Homepage: https://ipadkid.cf/sinfool/index.html

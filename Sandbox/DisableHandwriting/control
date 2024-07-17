@@ -1,0 +1,15 @@
+Package: com.sinfool.disablehandwriting
+Name: Disable Handwriting
+Author: Sinfool
+Description: Disables the handwriting view from popping up.  Useful for those who don't like this native feature. Disables the handwriting view from popping up.  Useful for those who don't like this native feature.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (7-2-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38388
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

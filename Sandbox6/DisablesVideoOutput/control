@@ -1,0 +1,11 @@
+Package: com.sinfool.disablesvideooutput
+Name: Disables Video Output
+Author: Sinfool
+Description: Disables video output.  You can see the caller but the other party won't see you.  Instead, they'll see a black screen. Disables video output.  You can see the caller but the other party won't see you.  Instead, they'll see a black screen. patchID: 13508
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.skype.skype
+Homepage: https://ipadkid.cf/sinfool/index.html

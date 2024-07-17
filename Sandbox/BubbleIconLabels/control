@@ -1,0 +1,17 @@
+Package: com.sinfool.bubbleiconlabels
+Name: Bubble Icon Labels  ₁₀₋₁₉₋₁₅
+Author: Sinfool
+Description: Enables bubble style icon labels.  Change the label & background colors to your liking. Enables bubble style icon labels.  Change the label & background colors to your liking.
+ .
+ NOTE:  Looks best with the "Zoomed" display layout. 
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-19-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25335
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,22 @@
+Package: com.sinfool.passcodescreencustomier
+Name: Passcode Screen Customizer
+Author: Sinfool
+Description: Customizes the passcode screen as listed below.  I've made some general suggestions next to each unit but you can experiment and change the values as you please.  There are many possibilities, i.e. no buttons, totally transparent wallpaper, colored buttons/rings etc, etc.	(FYI):	Settings will also apply to lockscreen notifications, media player etc.  Recently tested w/iP5 7.1.2 & briefly w/iP6+ 8.1.	UPDATED (2-9-14) Customizes the passcode screen as listed below.  I've made some general suggestions next to each unit but you can experiment and change the values as you please.  There are many possibilities, i.e. no buttons, totally transparent wallpaper, colored buttons/rings etc, etc.	(FYI):	Settings will also apply to lockscreen notifications, media player etc.  Recently tested w/iP5 7.1.2 & briefly w/iP6+ 8.1.	UPDATED (2-9-14)
+ .
+ • Status Bar Style
+ • Wallpaper View/Blur
+ • Tint Alpha
+ • Button Animation
+ • Button Ring Width
+ • Button Color
+ • Remove Emergency Call Button
+ • Move/Remove Passcode Entry Field Text/Dots
+ • Show Passcode Status Text
+ • No Keypad Sounds patchID: 13269
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

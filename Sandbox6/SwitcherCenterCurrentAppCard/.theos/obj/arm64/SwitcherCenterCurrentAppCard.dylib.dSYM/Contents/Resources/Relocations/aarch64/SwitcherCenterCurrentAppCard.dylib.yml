@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SwitcherCenterCurrentAppCard/.theos/obj/arm64/SwitcherCenterCurrentAppCard.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x64 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL97_logos_orig$_ungrouped$SBDeckSwitcherViewController$_indexForPresentationOrDismissalIsPresenting$', symObjAddr: 0xC38, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xA9, offset: 0xA9, size: 0x8, addend: 0x0, symName: '__ZL109_logos_orig$_ungrouped$SBReduceMotionDeckSwitcherViewController$_indexForPresentationOrDismissalIsPresenting$', symObjAddr: 0xC40, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xF1, offset: 0xF1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x64 }
+  - { offsetInCU: 0x168, offset: 0x168, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBDeckSwitcherViewController$_indexForPresentationOrDismissalIsPresenting$P28SBDeckSwitcherViewControllerP13objc_selectorb', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+  - { offsetInCU: 0x1BF, offset: 0x1BF, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBDeckSwitcherViewController$_indexForPresentationOrDismissalIsPresenting$P28SBDeckSwitcherViewControllerP13objc_selectorb', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+  - { offsetInCU: 0x1FE, offset: 0x1FE, size: 0x8, addend: 0x0, symName: '__ZL111_logos_method$_ungrouped$SBReduceMotionDeckSwitcherViewController$_indexForPresentationOrDismissalIsPresenting$P40SBReduceMotionDeckSwitcherViewControllerP13objc_selectorb', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x8 }
+...

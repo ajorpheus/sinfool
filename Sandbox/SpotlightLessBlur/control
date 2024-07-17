@@ -1,0 +1,17 @@
+Package: com.sinfool.spotlightlessblur
+Name: Spotlight - Less Blur  ₁₀₋₁₅₋₁₆
+Author: Sinfool
+Description: Changes the blur of the HS Spotlight page.  Experiment with values to change the blur. Changes the blur of the HS Spotlight page.  Experiment with values to change the blur.
+ .
+ NOTE:  Please keep in mind that other patches/tweaks can vary your end results.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (10-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31678
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

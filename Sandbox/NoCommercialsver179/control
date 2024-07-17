@@ -1,0 +1,11 @@
+Package: com.sinfool.nocommercialsver179
+Name: No Commercials (ver. 1.7.9)
+Author: Sinfool
+Description: No commercials for PBS.  Tested with most recent version 1.7.9.   (8-15-14) No commercials for PBS.  Tested with most recent version 1.7.9.   (8-15-14) patchID: 12503
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/org.pbs.playeripad
+Homepage: https://ipadkid.cf/sinfool/index.html

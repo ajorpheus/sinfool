@@ -1,0 +1,16 @@
+Package: com.sinfool.lsccmediacontrolstrackinfoissingleline
+Name: LS/CC (Media Controls) - Track Info Is Single Line  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Makes track info display on a single line instead of two.  Applies to both the lock screen & control center. Makes track info display on a single line instead of two.  Applies to both the lock screen & control center.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28488
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

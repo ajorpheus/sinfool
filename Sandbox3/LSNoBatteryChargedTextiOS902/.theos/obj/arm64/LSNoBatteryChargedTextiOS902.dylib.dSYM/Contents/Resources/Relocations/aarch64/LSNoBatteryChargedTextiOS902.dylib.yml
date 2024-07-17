@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/LSNoBatteryChargedTextiOS902/.theos/obj/arm64/LSNoBatteryChargedTextiOS902.dylib'
+relocations:     []
+...

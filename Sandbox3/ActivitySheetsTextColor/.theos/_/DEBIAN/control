@@ -1,0 +1,18 @@
+Package: com.sinfool.activitysheetstextcolor
+Name: Activity Sheets - Text Color
+Author: Sinfool
+Description: Changes the text color of activity/share sheets to white but you can also choose a custom color for group items text. Changes the text color of activity/share sheets to white but you can also choose a custom color for group items text.
+ .
+ T=True,  P=pass-through
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (3-22-17)
+ .
+ ☞PayPal: goin730@gmail.com patchID: 36145
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

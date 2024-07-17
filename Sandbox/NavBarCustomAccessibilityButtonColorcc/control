@@ -1,0 +1,17 @@
+Package: com.sinfool.navbarcustomaccessibilitybuttoncolor
+Name: Nav Bar - Custom Accessibility Button Color  ₁₂₋₇₋₁₅
+Author: Sinfool
+Description: Changes the color of accessibility buttons on the navigation bar.  By default, I set the color to the same color of the selected tab bar items/tint color. Changes the color of accessibility buttons on the navigation bar.  By default, I set the color to the same color of the selected tab bar items/tint color.
+ .
+ NOTE:  This patch requires "Button Shapes" @Settings>General>Accessibility to be enabled.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (12-7-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26792
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.3
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

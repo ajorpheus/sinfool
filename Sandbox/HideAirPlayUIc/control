@@ -1,0 +1,17 @@
+Package: com.sinfool.hideairplayui
+Name: Hide AirPlay UI  ₁₀₋₂₂₋₁₅
+Author: Sinfool
+Description: Disables visual aspects of AirPlay within apps (i.e. icons, buttons etc) while optionally still retaining AirPlay functionality via CC.  By default I left the CC AirPlay button showing but you can remove it and all indications of AirPlay by disabling the "CC Visibility" entry below. Disables visual aspects of AirPlay within apps (i.e. icons, buttons etc) while optionally still retaining AirPlay functionality via CC.  By default I left the CC AirPlay button showing but you can remove it and all indications of AirPlay by disabling the "CC Visibility" entry below.
+ .
+ This patch is useful if (1) you always enable AirPlay from CC or if (2) you don't use AirPlay at all whatsoever.  Made as a request via r/jailbreak.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-22-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25505
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

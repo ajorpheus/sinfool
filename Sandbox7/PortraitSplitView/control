@@ -1,0 +1,17 @@
+Package: com.sinfool.portraitsplitview
+Name: Portrait Split View  ₁₋₃₁₋₁₆
+Author: Sinfool
+Description: Forces split view to show when in portrait orientation instead of just showing when in landscape.  Your device must have split view for this patch to work. Forces split view to show when in portrait orientation instead of just showing when in landscape.  Your device must have split view for this patch to work.
+ .
+ NOTE:  If you want the opposite effect of this patch, i.e. no split view in landscape... then try the patch "No Split View (Full Landscape)".
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (1-31-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27555
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

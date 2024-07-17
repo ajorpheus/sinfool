@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/AlertsShareSheetTextColor/.theos/obj/arm64/AlertsShareSheetTextColor.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyApp', symObjAddr: 0xFF0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$UIActivityGroupViewController$darkStyleOnLegacyApp', symObjAddr: 0xFF8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$_UIActivityGroupActivityCellTitleLabel$setTextColor$', symObjAddr: 0x1000, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x1EA, offset: 0x1EA, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyAppP34_UIActivityGroupListViewControllerP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x230, offset: 0x230, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyAppP34_UIActivityGroupListViewControllerP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x264, offset: 0x264, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$UIActivityGroupViewController$darkStyleOnLegacyAppP29UIActivityGroupViewControllerP13objc_selector', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+  - { offsetInCU: 0x298, offset: 0x298, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$_UIActivityGroupActivityCellTitleLabel$setTextColor$P38_UIActivityGroupActivityCellTitleLabelP13objc_selectorP11objc_object', symObjAddr: 0x9C, symBinAddr: 0x409C, symSize: 0x50 }
+...

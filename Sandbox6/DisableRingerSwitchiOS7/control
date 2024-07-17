@@ -1,0 +1,13 @@
+Package: com.sinfool.disableringerswitchios7
+Name: Disable Ringer Switch (iOS 7)
+Author: Sinfool
+Description: Disables the ringer switch.  Useful for those with finicky/broken rocker buttons.  Made as a request via r/jailbreak.  Tested on an iP5 7.1.2.  (6-2-15) Disables the ringer switch.  Useful for those with finicky/broken rocker buttons.  Made as a request via r/jailbreak.  Tested on an iP5 7.1.2.  (6-2-15)
+ .
+ ⚠️ Note:  This disables all Activator events that utilize the ringer switch.  patchID: 21457
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

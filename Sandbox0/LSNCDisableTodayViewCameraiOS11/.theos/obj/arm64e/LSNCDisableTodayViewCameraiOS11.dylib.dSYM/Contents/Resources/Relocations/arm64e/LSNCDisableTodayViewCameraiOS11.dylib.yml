@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/LSNCDisableTodayViewCameraiOS11/.theos/obj/arm64e/LSNCDisableTodayViewCameraiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBDashBoardCombinedListViewController$_disableScrolling', symObjAddr: 0xF38, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL105_logos_orig$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$', symObjAddr: 0xF40, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: '__ZL102_logos_orig$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenCameraWithExplanation$', symObjAddr: 0xF48, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x12C, offset: 0x12C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x1A9, offset: 0x1A9, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBDashBoardCombinedListViewController$_disableScrollingP37SBDashBoardCombinedListViewControllerP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x1F6, offset: 0x1F6, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBDashBoardCombinedListViewController$_disableScrollingP37SBDashBoardCombinedListViewControllerP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x22A, offset: 0x22A, size: 0x8, addend: 0x0, symName: '__ZL107_logos_method$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$P29SBMainDisplayPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x269, offset: 0x269, size: 0x8, addend: 0x0, symName: '__ZL104_logos_method$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenCameraWithExplanation$P29SBMainDisplayPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

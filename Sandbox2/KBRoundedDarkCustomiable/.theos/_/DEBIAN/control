@@ -1,0 +1,37 @@
+Package: com.sinfool.kbroundeddarkcustomiable
+Name: KB - Rounded Dark (Customizable)  ₁₁₋₁₄₋₁₆ ⚑
+Author: Sinfool
+Description: Makes the keyboard a dark style with rounded keys.  Provides the following customizable options to change the keyboard's appearance... Makes the keyboard a dark style with rounded keys.  Provides the following customizable options to change the keyboard's appearance...
+ .
+  • Hide Predictive Text BG
+  • Backdrop Style
+  • Light KB Config/KB Appearance
+  • Key
+    · Visual Style
+    · Round Radius
+    · Nude/Outline/Text Opacity
+    · Bold Text
+    · Blue Theming
+    · Large Emoji/Dictation Icon
+    · Pop Up Style
+    · Suppress Return Key Style
+ .
+ P=pass-through  D=Delete Unit  F=False
+ .
+ NOTE:  I've provided some general suggestions to use for values but bear in mind your results will vary greatly depending on which features (or other tweaks/patches) you've enabled.  Feel free to experiment with your own values but I suggest testing/changing only one unit at a time.
+ .
+ [v.3] Tested with an iP6 & iPad mini2 9.3.3.  Made as a request via r/jailbreak. (11-14-16)
+ .
+ (11-5-16) *Initial release
+ (11-5-16) *Added iP5 support
+ (11-14-16) *Added NudeKeys option
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31894
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

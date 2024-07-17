@@ -1,0 +1,16 @@
+Package: com.sinfool.lscentertimedate
+Name: LS - Center Time & Date
+Author: Sinfool
+Description: Centers the Time & Date view on the lock screen and "Today View" page. Centers the Time & Date view on the lock screen and "Today View" page.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (2-17-17)
+ .
+ ☞PayPal:  goin730@gmail patchID: 34769
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

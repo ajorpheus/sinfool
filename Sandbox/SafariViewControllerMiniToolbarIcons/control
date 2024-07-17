@@ -1,0 +1,15 @@
+Package: com.sinfool.safariviewcontrollerminitoolbaricons
+Name: SafariViewController - Mini Toolbar Icons  ₁₂₋₁₇₋₁₅
+Author: Sinfool
+Description: Makes toolbar icons smaller for all apps that use SafariViewController. Makes toolbar icons smaller for all apps that use SafariViewController.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-17-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26961
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

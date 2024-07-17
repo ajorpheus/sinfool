@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/NavBarNoBackChevroncc/.theos/obj/arm64/NavBarNoBackChevron.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$_UINavigationBarVisualStyle$leftBackTitleMargin', symObjAddr: 0x7E28, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$UINavigationBar$_suppressBackIndicator', symObjAddr: 0x7E30, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x297A, offset: 0x297A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x29EA, offset: 0x29EA, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$_UINavigationBarVisualStyle$leftBackTitleMarginP27_UINavigationBarVisualStyleP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x2A22, offset: 0x2A22, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$_UINavigationBarVisualStyle$leftBackTitleMarginP27_UINavigationBarVisualStyleP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x2A56, offset: 0x2A56, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$UINavigationBar$_suppressBackIndicatorP15UINavigationBarP13objc_selector', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

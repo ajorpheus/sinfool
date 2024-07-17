@@ -1,0 +1,11 @@
+Package: com.sinfool.noadsversions1315
+Name: No Ads (Versions 1.3 - 1.5)
+Author: Sinfool
+Description: No ads.  Tested w versions 1.3, 1.4 & 1.5.  (UPDATED 8-8-14) No ads.  Tested w versions 1.3, 1.4 & 1.5.  (UPDATED 8-8-14) patchID: 12111
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.dm.timberfree
+Homepage: https://ipadkid.cf/sinfool/index.html

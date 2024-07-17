@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/LSNCNoStatusBariOS11/.theos/obj/arm64e/LSNCNoStatusBariOS11.dylib'
+relocations:     []
+...

@@ -1,0 +1,23 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SpotlightDisableEverywhere/.theos/obj/arm64e/SpotlightDisableEverywhere.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$SBSearchEtceteraNavigationController$setShouldUnderlapNavigationBar$', symObjAddr: 0x19D0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL107_logos_orig$_ungrouped$SBSearchEtceteraNavigationController$_statusBarHeightAdjustmentForCurrentOrientation', symObjAddr: 0x19D8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SPUINavigationBar$showSeparator$animated$', symObjAddr: 0x19E0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x112, offset: 0x112, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBSearchEtceteraTodayLayoutContentView$setCurrentStyle$', symObjAddr: 0x19E8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL93_logos_orig$_ungrouped$SBDashBoardTodayViewController$_shouldHideDateTimeForZeroWidgetDisplay', symObjAddr: 0x19F0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x18C, offset: 0x18C, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBSearchGesture$setDisabled$forReason$', symObjAddr: 0x19F8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1FE, offset: 0x1FE, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x2FD, offset: 0x2FD, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$SBSearchEtceteraNavigationController$setShouldUnderlapNavigationBar$P36SBSearchEtceteraNavigationControllerP13objc_selectorb', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x10 }
+  - { offsetInCU: 0x343, offset: 0x343, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$SBSearchEtceteraNavigationController$setShouldUnderlapNavigationBar$P36SBSearchEtceteraNavigationControllerP13objc_selectorb', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x10 }
+  - { offsetInCU: 0x384, offset: 0x384, size: 0x8, addend: 0x0, symName: '__ZL109_logos_method$_ungrouped$SBSearchEtceteraNavigationController$_statusBarHeightAdjustmentForCurrentOrientationP36SBSearchEtceteraNavigationControllerP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+  - { offsetInCU: 0x3A2, offset: 0x3A2, size: 0x8, addend: 0x0, symName: '__ZL109_logos_method$_ungrouped$SBSearchEtceteraNavigationController$_statusBarHeightAdjustmentForCurrentOrientationP36SBSearchEtceteraNavigationControllerP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+  - { offsetInCU: 0x3D6, offset: 0x3D6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SPUINavigationBar$showSeparator$animated$P17SPUINavigationBarP13objc_selectorbb', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x10 }
+  - { offsetInCU: 0x429, offset: 0x429, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBSearchEtceteraTodayLayoutContentView$setCurrentStyle$P38SBSearchEtceteraTodayLayoutContentViewP13objc_selectory', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x10 }
+  - { offsetInCU: 0x44E, offset: 0x44E, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBSearchEtceteraTodayLayoutContentView$setCurrentStyle$P38SBSearchEtceteraTodayLayoutContentViewP13objc_selectory', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x10 }
+  - { offsetInCU: 0x48F, offset: 0x48F, size: 0x8, addend: 0x0, symName: '__ZL95_logos_method$_ungrouped$SBDashBoardTodayViewController$_shouldHideDateTimeForZeroWidgetDisplayP30SBDashBoardTodayViewControllerP13objc_selector', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x8 }
+  - { offsetInCU: 0x4AD, offset: 0x4AD, size: 0x8, addend: 0x0, symName: '__ZL95_logos_method$_ungrouped$SBDashBoardTodayViewController$_shouldHideDateTimeForZeroWidgetDisplayP30SBDashBoardTodayViewControllerP13objc_selector', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x8 }
+  - { offsetInCU: 0x4E1, offset: 0x4E1, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBSearchGesture$setDisabled$forReason$P15SBSearchGestureP13objc_selectorbP11objc_object', symObjAddr: 0x184, symBinAddr: 0x4184, symSize: 0x10 }
+...

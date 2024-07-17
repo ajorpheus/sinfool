@@ -1,0 +1,27 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/MessagesEntryFieldColorCustomier/.theos/obj/arm64e/MessagesEntryFieldColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x168 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$CKMessageEntryView$setBackgroundColor$', symObjAddr: 0x1C30, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CKMessageEntryView$setShouldHideBackgroundView$', symObjAddr: 0x1C38, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xF6, offset: 0xF6, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$CKMessageEntryView$setStyle$', symObjAddr: 0x1C40, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x12C, offset: 0x12C, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CKMessageEntryContentView$setBackgroundColor$', symObjAddr: 0x1C48, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x166, offset: 0x166, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CKMessageEntryContentView$setPlaceholderText$', symObjAddr: 0x1C50, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$CKUIBehavior$entryFieldCoverLineWidth', symObjAddr: 0x1C58, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1BF, offset: 0x1BF, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$CKEntryViewButton$setCkTintColor$', symObjAddr: 0x1C60, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x203, offset: 0x203, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x168 }
+  - { offsetInCU: 0x30F, offset: 0x30F, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$CKMessageEntryView$setBackgroundColor$P18CKMessageEntryViewP13objc_selectorP11objc_object', symObjAddr: 0x168, symBinAddr: 0x4168, symSize: 0x68 }
+  - { offsetInCU: 0x355, offset: 0x355, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$CKMessageEntryView$setBackgroundColor$P18CKMessageEntryViewP13objc_selectorP11objc_object', symObjAddr: 0x168, symBinAddr: 0x4168, symSize: 0x68 }
+  - { offsetInCU: 0x39D, offset: 0x39D, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKMessageEntryView$setShouldHideBackgroundView$P18CKMessageEntryViewP13objc_selectorb', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x10 }
+  - { offsetInCU: 0x3B4, offset: 0x3B4, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKMessageEntryView$setShouldHideBackgroundView$P18CKMessageEntryViewP13objc_selectorb', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x10 }
+  - { offsetInCU: 0x3F5, offset: 0x3F5, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$CKMessageEntryView$setStyle$P18CKMessageEntryViewP13objc_selectorx', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x10 }
+  - { offsetInCU: 0x413, offset: 0x413, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$CKMessageEntryView$setStyle$P18CKMessageEntryViewP13objc_selectorx', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x10 }
+  - { offsetInCU: 0x454, offset: 0x454, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CKMessageEntryContentView$setBackgroundColor$P25CKMessageEntryContentViewP13objc_selectorP11objc_object', symObjAddr: 0x1F0, symBinAddr: 0x41F0, symSize: 0x64 }
+  - { offsetInCU: 0x472, offset: 0x472, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CKMessageEntryContentView$setBackgroundColor$P25CKMessageEntryContentViewP13objc_selectorP11objc_object', symObjAddr: 0x1F0, symBinAddr: 0x41F0, symSize: 0x64 }
+  - { offsetInCU: 0x4BA, offset: 0x4BA, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CKMessageEntryContentView$setPlaceholderText$P25CKMessageEntryContentViewP13objc_selectorP11objc_object', symObjAddr: 0x254, symBinAddr: 0x4254, symSize: 0x14 }
+  - { offsetInCU: 0x4D1, offset: 0x4D1, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CKMessageEntryContentView$setPlaceholderText$P25CKMessageEntryContentViewP13objc_selectorP11objc_object', symObjAddr: 0x254, symBinAddr: 0x4254, symSize: 0x14 }
+  - { offsetInCU: 0x515, offset: 0x515, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$CKUIBehavior$entryFieldCoverLineWidthP12CKUIBehaviorP13objc_selector', symObjAddr: 0x268, symBinAddr: 0x4268, symSize: 0x8 }
+  - { offsetInCU: 0x52E, offset: 0x52E, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$CKUIBehavior$entryFieldCoverLineWidthP12CKUIBehaviorP13objc_selector', symObjAddr: 0x268, symBinAddr: 0x4268, symSize: 0x8 }
+  - { offsetInCU: 0x562, offset: 0x562, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$CKEntryViewButton$setCkTintColor$P17CKEntryViewButtonP13objc_selectorP11objc_object', symObjAddr: 0x270, symBinAddr: 0x4270, symSize: 0x68 }
+...

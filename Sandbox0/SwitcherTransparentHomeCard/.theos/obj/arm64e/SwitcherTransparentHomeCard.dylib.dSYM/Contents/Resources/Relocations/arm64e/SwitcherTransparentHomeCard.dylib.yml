@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/SwitcherTransparentHomeCard/.theos/obj/arm64e/SwitcherTransparentHomeCard.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$', symObjAddr: 0xB18, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$', symObjAddr: 0xB20, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xE2, offset: 0xE2, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x152, offset: 0x152, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x10 }
+  - { offsetInCU: 0x1A2, offset: 0x1A2, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentBlurRadiusProgress$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x10 }
+  - { offsetInCU: 0x1E3, offset: 0x1E3, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$P21SBAppSwitcherPageViewP13objc_selectord', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x10 }
+  - { offsetInCU: 0x1FC, offset: 0x1FC, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SBAppSwitcherPageView$setShadowAlpha$P21SBAppSwitcherPageViewP13objc_selectord', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x10 }
+...

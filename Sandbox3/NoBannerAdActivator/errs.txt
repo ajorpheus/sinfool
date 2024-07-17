@@ -1,0 +1,81 @@
+[1mTweak.xm:27:92: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                           ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:8: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:231: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                                                                                                      ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:148: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                   ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:4:91: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m                                                                                          ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:4:8: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m6 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox3/NoBannerAdActivator/.theos/obj/arm64/Tweak.mm.79201816.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox3/NoBannerAdActivator/.theos/obj/arm64/NoBannerAdActivator.dylib] Error 2
+make[2]: *** Waiting for unfinished jobs....
+[1mTweak.xm:27:92: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                           ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:8: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:231: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                                                                                                      ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:27:148: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* (*_logos_orig$_ungrouped$UIWebView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                   ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:4:91: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m                                                                                          ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m[1mTweak.xm:4:8: [0m[0;1;31merror: [0m[1m'UIWebView' is deprecated: first deprecated in iOS 12.0 - No longer supported; please adopt WKWebView. [-Werror,-Wdeprecated-declarations][0m
+static UIWebView* _logos_method$_ungrouped$UIWebView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIWebView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:41:146: [0m[0;1;30mnote: [0m'UIWebView' has been explicitly marked deprecated here[0m
+UIKIT_EXTERN API_DEPRECATED("No longer supported; please adopt WKWebView.", ios(2.0, 12.0)) API_UNAVAILABLE(tvos, macos, macCatalyst) @interface UIWebView : UIView <NSCoding, UIScrollViewDelegate>
+[0;1;32m                                                                                                                                                 ^
+[0m6 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox3/NoBannerAdActivator/.theos/obj/arm64e/Tweak.mm.fe1301b7.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox3/NoBannerAdActivator/.theos/obj/arm64e/NoBannerAdActivator.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: NoBannerAdActivator.all.tweak.variables] Error 2

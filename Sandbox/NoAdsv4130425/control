@@ -1,0 +1,20 @@
+Package: com.sinfool.noadsv4130425
+Name: No Ads (v. 4.13.0 - 4.25)  ₆₋₂₅₋₁₇ ⚑
+Author: Sinfool
+Description: Disables intrusive banner ads and the search query header ad.  Also provides an option to disable popup descriptions. Disables intrusive banner ads and the search query header ad.  Also provides an option to disable popup descriptions.
+ .
+ ⚑ UPDATES:
+ (10-11-16) *Initial release
+ (10-14-16) *Re-enabled popup descriptions by default
+ (6-25-17) *Hid the search query header ad 
+ .
+ [v.3] Tested with versions 4.13.0 - 4.25 BUT I've been using this patch for well over a year so it should work for some older versions as well.  Made as a request via e-mail.  (6-25-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31622
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html

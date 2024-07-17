@@ -1,0 +1,18 @@
+Package: com.sinfool.stopimageedgecutoffonzoom
+Name: Stop Image Edge Cutoff On Zoom  ₃₋₁₋₁₆
+Author: Sinfool
+Description: Stops image edges from getting cutoff when zooming in on a photo. Stops image edges from getting cutoff when zooming in on a photo.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made after reading numerous requests on r/jailbreak.  (3-1-16)
+ .
+ Any donations are greatly appreciated...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27964
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

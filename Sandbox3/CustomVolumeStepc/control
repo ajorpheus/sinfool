@@ -1,0 +1,17 @@
+Package: com.sinfool.customvolumestep
+Name: Custom Volume Step  ₁₁₋₂₂₋₁₅
+Author: Sinfool
+Description: Customizes volume step increments when using the vol rockers. Values are relative to the current volume level. You can change the values to your liking or delete unused units. Customizes volume step increments when using the vol rockers. Values are relative to the current volume level. You can change the values to your liking or delete unused units.
+ .
+ By default, I set the vol "step down" value to 50% (i.e. if current vol is @100% then 2 presses will reduce the vol to 0%) and the "step up" value set to 25% (i.e. if current vol is @0% then 4 presses will increase vol to 100%).
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (11-22-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26507
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

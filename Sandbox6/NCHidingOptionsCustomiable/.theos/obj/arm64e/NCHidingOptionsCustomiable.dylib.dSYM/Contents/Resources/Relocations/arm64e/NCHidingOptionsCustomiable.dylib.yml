@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/NCHidingOptionsCustomiable/.theos/obj/arm64e/NCHidingOptionsCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SPUINavigationBar$showSeparator$animated$', symObjAddr: 0x7C8, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0xF4, offset: 0xF4, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SPUINavigationBar$showSeparator$animated$P17SPUINavigationBarP13objc_selectorbb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x144, offset: 0x144, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SPUINavigationBar$showSeparator$animated$P17SPUINavigationBarP13objc_selectorbb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

@@ -1,0 +1,16 @@
+Package: com.sinfool.lsccmediacontrolseqstyleprogressbar
+Name: LS/CC (Media Controls) - EQ Style Progress Bar  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Changes the progress bar style to resemble an EQ appearance.  Applies to both the lock screen & control center. Changes the progress bar style to resemble an EQ appearance.  Applies to both the lock screen & control center.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28490
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,17 @@
+Package: com.sinfool.safarisearchbarreloadfix
+Name: Safari Search Bar Reload Fix  ₃₋₁₁₋₁₆
+Author: Sinfool
+Description: Fixes the iOS 9 reload issue of pages stealing focus from the URL search bar.  This issue usually occurs after you've just opened Safari. Fixes the iOS 9 reload issue of pages stealing focus from the URL search bar.  This issue usually occurs after you've just opened Safari.
+ .
+ ⚠️IMPORTANT NOTE:  Conflicts with the tweak "SafariFix" so uninstall it before using this patch.  This should do the same & doesn't have the missing cancel/reload icons bug.
+ .
+ [v.1] Only tested with an iP5 9.0.2.  Made as a request via r/jailbreak.  (3-11-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28076
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

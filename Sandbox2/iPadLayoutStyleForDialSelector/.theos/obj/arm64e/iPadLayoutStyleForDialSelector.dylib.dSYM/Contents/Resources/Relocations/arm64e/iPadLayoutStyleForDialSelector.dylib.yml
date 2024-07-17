@@ -1,0 +1,17 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/iPadLayoutStyleForDialSelector/.theos/obj/arm64e/iPadLayoutStyleForDialSelector.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$CAMViewfinderViewController$_topBarBackgroundStyleForMode$', symObjAddr: 0x1050, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: '__ZL84_logos_orig$_ungrouped$CAMViewfinderViewController$_bottomBarBackgroundStyleForMode$', symObjAddr: 0x1058, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$CAMModeDial$setLayoutStyle$', symObjAddr: 0x1060, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF5, offset: 0xF5, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$CAMFlipButton$setLayoutStyle$', symObjAddr: 0x1068, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x1ED, offset: 0x1ED, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$CAMViewfinderViewController$_topBarBackgroundStyleForMode$P27CAMViewfinderViewControllerP13objc_selectorx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$CAMViewfinderViewController$_topBarBackgroundStyleForMode$P27CAMViewfinderViewControllerP13objc_selectorx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x283, offset: 0x283, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$CAMViewfinderViewController$_bottomBarBackgroundStyleForMode$P27CAMViewfinderViewControllerP13objc_selectorx', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x2C2, offset: 0x2C2, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$CAMModeDial$setLayoutStyle$P11CAMModeDialP13objc_selectorx', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x10 }
+  - { offsetInCU: 0x303, offset: 0x303, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$CAMFlipButton$setLayoutStyle$P13CAMFlipButtonP13objc_selectorx', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x10 }
+  - { offsetInCU: 0x321, offset: 0x321, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$CAMFlipButton$setLayoutStyle$P13CAMFlipButtonP13objc_selectorx', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x10 }
+...

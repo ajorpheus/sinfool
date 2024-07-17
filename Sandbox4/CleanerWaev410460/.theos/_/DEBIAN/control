@@ -1,0 +1,33 @@
+Package: com.sinfool.cleanerwaev410460
+Name: Cleaner Waze (v. 4.1.0 - 4.6.0)  ₅₋₁₉₋₁₆ ⚑
+Author: Sinfool
+Description: Hides the following items for a cleaner look.  Delete entries you don't want hidden or edit them according to your needs. Hides the following items for a cleaner look.  Delete entries you don't want hidden or edit them according to your needs.
+ .
+ - Status Bar
+ - Speedometer
+ - Report Button
+ - Menu Bar Buttons (Main, Sound & Friends) *[Disable/Remove All Buttons]
+ - Menu Bar Buttons (Main, Sound & Friends) *[Hide All Buttons]
+ - Menu Bar Main Button Pulsation
+ - Menu Bar Friends Button
+ - Menu Bar Friends Notification Button
+ - Menu Bar Driving Message
+ - Menu Bar # Of Seconds To Show Message
+ - Menu Bar BG
+ - Swipe In From Screen Edge Gesture
+ .
+ [v.2] Tested with versions (4.1.0 - 4.6.0).  (5-19-16)
+ .
+ ⚑ UPDATES:
+ (1-26-16) *Initial release
+ (5-19-16) *Added entry to hide all menu buttons
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27462
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

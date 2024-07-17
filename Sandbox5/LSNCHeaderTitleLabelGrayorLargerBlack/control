@@ -1,0 +1,15 @@
+Package: com.sinfool.lsncheadertitlelabelgrayorlargerblack
+Name: LS/NC - Header Title Label (Gray or Larger Black)
+Author: Sinfool
+Description: Changes the header title label to gray or increase the text size/header and change it to black for all bubble headers on the LS, NC and notification banners.  By default, it's set to a larger black text. Changes the header title label to gray or increase the text size/header and change it to black for all bubble headers on the LS, NC and notification banners.  By default, it's set to a larger black text.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (3-22-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36170
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

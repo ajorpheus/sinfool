@@ -1,0 +1,16 @@
+Package: com.sinfool.removeeditbuttondisabledeletion
+Name: Remove Edit Button (Disable Deletion)  ₅₋₂₁₋₁₅
+Author: Sinfool
+Description: Removes the "Edit" button.  Tested with an iP6+ 8.1.  (5-21-15) Removes the "Edit" button.  Tested with an iP6+ 8.1.  (5-21-15)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 21277
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobiletimer
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AnimationsAppOpeningScreenColorCustomiable/.theos/obj/arm64e/AnimationsAppOpeningScreenColorCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$SBAppViewBackgroundView$setBackgroundColor$', symObjAddr: 0xB80, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBAppViewBackgroundView$_isTranslucent', symObjAddr: 0xB88, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBAppViewBackgroundView$setBackgroundColor$P23SBAppViewBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x64 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBAppViewBackgroundView$setBackgroundColor$P23SBAppViewBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x64 }
+  - { offsetInCU: 0x1E8, offset: 0x1E8, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBAppViewBackgroundView$_isTranslucentP23SBAppViewBackgroundViewP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x1FF, offset: 0x1FF, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBAppViewBackgroundView$_isTranslucentP23SBAppViewBackgroundViewP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+...

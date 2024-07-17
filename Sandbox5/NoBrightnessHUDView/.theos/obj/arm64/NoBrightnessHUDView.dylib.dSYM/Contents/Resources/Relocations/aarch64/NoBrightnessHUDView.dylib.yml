@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NoBrightnessHUDView/.theos/obj/arm64/NoBrightnessHUDView.dylib'
+relocations:     []
+...

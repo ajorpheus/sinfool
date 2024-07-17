@@ -1,0 +1,16 @@
+Package: com.sinfool.noyellowautofocusboxes
+Name: No Yellow Auto Focus Boxes  ₂₋₅₋₁₆
+Author: Sinfool
+Description: Removes the yellow auto focus boxes, face detection/box and bias slider.  Delete entires you'd like to keep. Removes the yellow auto focus boxes, face detection/box and bias slider.  Delete entires you'd like to keep.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (2-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27620
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.camera
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

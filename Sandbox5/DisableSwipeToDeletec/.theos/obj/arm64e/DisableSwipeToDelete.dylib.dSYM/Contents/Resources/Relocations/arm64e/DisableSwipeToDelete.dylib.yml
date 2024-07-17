@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/DisableSwipeToDeletec/.theos/obj/arm64e/DisableSwipeToDelete.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$UITableView$_indexPathForSwipeRowAtPoint$', symObjAddr: 0x4238, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x1552, offset: 0x1552, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x1599, offset: 0x1599, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UITableView$_indexPathForSwipeRowAtPoint$P11UITableViewP13objc_selector7CGPoint', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x15D6, offset: 0x15D6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UITableView$_indexPathForSwipeRowAtPoint$P11UITableViewP13objc_selector7CGPoint', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

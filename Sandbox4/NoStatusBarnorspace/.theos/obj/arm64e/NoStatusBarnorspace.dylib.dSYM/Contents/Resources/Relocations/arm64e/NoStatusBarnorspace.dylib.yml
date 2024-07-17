@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoStatusBarnorspace/.theos/obj/arm64e/NoStatusBarnorspace.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UIViewController$prefersStatusBarHidden', symObjAddr: 0x4CC0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xF5E, offset: 0xF5E, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UIApplication$_isStatusBarHiddenForOrientation$', symObjAddr: 0x4CC8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x17EB, offset: 0x17EB, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x185B, offset: 0x185B, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1893, offset: 0x1893, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x18C7, offset: 0x18C7, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UIApplication$_isStatusBarHiddenForOrientation$P13UIApplicationP13objc_selectorx', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

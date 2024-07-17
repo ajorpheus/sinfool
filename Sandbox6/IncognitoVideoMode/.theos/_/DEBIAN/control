@@ -1,0 +1,22 @@
+Package: com.sinfool.incognitovideomode
+Name: Incognito Video Mode  ₂₋₂₄₋₁₆ ⚑
+Author: Sinfool
+Description: Makes the camera appear as if it's always in "Photo" mode by changing the shutter button & dial selected indicator to "Photo" mode style.  Also changes Video mode's top/bottom bar rotation/BG style to Photo mode style, hides the elapsed time, still photo & framerate buttons and adds top/bottom bar photo buttons when recording. Makes the camera appear as if it's always in "Photo" mode by changing the shutter button & dial selected indicator to "Photo" mode style.  Also changes Video mode's top/bottom bar rotation/BG style to Photo mode style, hides the elapsed time, still photo & framerate buttons and adds top/bottom bar photo buttons when recording.
+ .
+ NOTE:  By default, the camera opens in "Photo" mode so swipe over once for "Video" mode.
+ .
+ ⚑ UPDATES:
+ (2-22-16 *Initial release
+ (2-24-16) *Added top bar/bottom bar buttons when recording & stops top bar rotation
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (2-24-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27836
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.camera
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/FullPageView/.theos/obj/arm64/FullPageView.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UIViewController$prefersStatusBarHidden', symObjAddr: 0x3560, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xF5E, offset: 0xF5E, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$BrowserController$_navigationBarDesiredHeight', symObjAddr: 0x3568, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xF97, offset: 0xF97, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$BrowserController$_shouldUseNarrowLayout', symObjAddr: 0x3570, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xFCF, offset: 0xFCF, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x104C, offset: 0x104C, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x108B, offset: 0x108B, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIViewController$prefersStatusBarHiddenP16UIViewControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x10BF, offset: 0x10BF, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$BrowserController$_navigationBarDesiredHeightP17BrowserControllerP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x10F3, offset: 0x10F3, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$BrowserController$_shouldUseNarrowLayoutP17BrowserControllerP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

@@ -1,0 +1,18 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/OnlyMyBooks/.theos/obj/arm64e/OnlyMyBooks.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$BKLibraryViewController$wantsTabBar', symObjAddr: 0x5098, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$BKSKTabBarInfo$isLibraryTab', symObjAddr: 0x50A0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITabBar$_backgroundNeedsUpdate', symObjAddr: 0x50A8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1763, offset: 0x1763, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITabBar$_wantsAdaptiveBackdrop', symObjAddr: 0x50B0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x177C, offset: 0x177C, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SKUITabBarBackgroundView$initWithFrame$', symObjAddr: 0x50B8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x17C4, offset: 0x17C4, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x189A, offset: 0x189A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$BKLibraryViewController$wantsTabBarP23BKLibraryViewControllerP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x18D2, offset: 0x18D2, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$BKLibraryViewController$wantsTabBarP23BKLibraryViewControllerP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x1906, offset: 0x1906, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$BKSKTabBarInfo$isLibraryTabP14BKSKTabBarInfoP13objc_selector', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x8 }
+  - { offsetInCU: 0x193A, offset: 0x193A, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITabBar$_backgroundNeedsUpdateP8UITabBarP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x196E, offset: 0x196E, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITabBar$_wantsAdaptiveBackdropP8UITabBarP13objc_selector', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x8 }
+  - { offsetInCU: 0x19A2, offset: 0x19A2, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SKUITabBarBackgroundView$initWithFrame$P24SKUITabBarBackgroundViewP13objc_selector6CGRect', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+...

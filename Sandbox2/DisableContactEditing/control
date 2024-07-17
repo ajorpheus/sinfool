@@ -1,0 +1,11 @@
+Package: com.sinfool.disablecontactediting
+Name: Disable Contact Editing
+Author: Sinfool
+Description: Disables editing of Contact information (for the most part).  Made as a request via r/jailbreak.  Tested on iP6+ 8.1. Disables editing of Contact information (for the most part).  Made as a request via r/jailbreak.  Tested on iP6+ 8.1. patchID: 16775
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

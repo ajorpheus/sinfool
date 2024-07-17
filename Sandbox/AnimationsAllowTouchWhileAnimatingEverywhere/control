@@ -1,0 +1,26 @@
+Package: com.sinfool.animationsallowtouchwhileanimatingeverywhere
+Name: Animations - Allow Touch While Animating (Everywhere)  ₁₁₋₃₀₋₁₅ ⚑
+Author: Sinfool
+Description: Speeds up navigating throughout iOS by allowing user interaction before animations have finished.  Perfect for those who hate this native iOS restriction. Speeds up navigating throughout iOS by allowing user interaction before animations have finished.  Perfect for those who hate this native iOS restriction.
+ .
+ - In Apps
+ - Disable "App to HS" Zoom Animation
+ - At HS
+ - In Switcher  (Apps are interactive once they've fully loaded)
+ .
+ NOTE:  A few entires are also included in some of my other "Animations -" patches so please consider this when selecting values.
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  (11-30-15)
+ .
+ ⚑ UPDATES:
+ (11-29-15) *Initial release
+ (11-30-15) *Disabled "App to HS" zoom animation
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26647
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

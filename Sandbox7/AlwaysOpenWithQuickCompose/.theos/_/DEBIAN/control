@@ -1,0 +1,16 @@
+Package: com.sinfool.alwaysopenwithquickcompose
+Name: Always Open With Quick Compose  ₁₂₋₆₋₁₅
+Author: Sinfool
+Description: Always opens the messages app with the Quick Compose screen. Always opens the messages app with the Quick Compose screen.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/flextweak.  (12-6-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26769
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

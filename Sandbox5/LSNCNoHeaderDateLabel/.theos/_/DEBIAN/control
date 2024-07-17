@@ -1,0 +1,16 @@
+Package: com.sinfool.lsncnoheaderdatelabel
+Name: LS/NC - No Header Date Label
+Author: Sinfool
+Description: Removes the date label from all bubble headers on the LS, NC and notification banners. Removes the date label from all bubble headers on the LS, NC and notification banners.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as a request via e-mail.  (3-22-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36169
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

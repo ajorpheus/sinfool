@@ -1,0 +1,19 @@
+Package: com.sinfool.animationsallowtouchwhileanimatingios11
+Name: Animations - Allow Touch While Animating (iOS 11)
+Author: Sinfool
+Description: Speeds up general navigating throughout iOS by allowing user interaction before animations have finished. Speeds up general navigating throughout iOS by allowing user interaction before animations have finished.
+ .
+ Useful for those who are annoyed by this native iOS restriction.
+ .
+ A simple way to observe this patch working in action is by selecting the "Notifications" tab in Settings & immediately attempting to scroll up; the response will be immediate whereas it will take two swipes without the patch enabled.
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  (5-2-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42176
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

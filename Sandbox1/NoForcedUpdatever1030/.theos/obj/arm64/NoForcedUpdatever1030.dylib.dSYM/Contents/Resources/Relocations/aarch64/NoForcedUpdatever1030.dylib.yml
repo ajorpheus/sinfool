@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/NoForcedUpdatever1030/.theos/obj/arm64/NoForcedUpdatever1030.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$YNVersion$checkAgainstMinimum$', symObjAddr: 0x750, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x11C, offset: 0x11C, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$YNVersion$checkAgainstMinimum$P9YNVersionP13objc_selectorP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x162, offset: 0x162, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$YNVersion$checkAgainstMinimum$P9YNVersionP13objc_selectorP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

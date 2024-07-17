@@ -1,0 +1,16 @@
+Package: com.sinfool.greenballoons
+Name: Green Balloons  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Changes all balloons to Green.  By default, I didn't change the Gray Balloon's Black Text color.  Use the "White Text (left balloon)" entry to make it white. Changes all balloons to Green.  By default, I didn't change the Gray Balloon's Black Text color.  Use the "White Text (left balloon)" entry to make it white.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25817
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

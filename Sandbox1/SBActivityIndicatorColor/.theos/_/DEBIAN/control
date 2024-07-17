@@ -1,0 +1,23 @@
+Package: com.sinfool.sbactivityindicatorcolor
+Name: SB • Activity Indicator Color  ₈₋₂₅₋₁₅
+Author: Sinfool
+Description: Changes color of the status bar Activity Indicator wheel. Changes color of the status bar Activity Indicator wheel.
+ .
+ [v.1] Tested with an iP5 7.1.2 - 8.4 & iP6+ 8.4  (8-25-15)
+ .
+ ⚑ UPDATES:
+ (??-??-14) *Initial release
+ (11-4-14) *Confirmed working on 8.1
+ (8-25-15) *Changed title & confirmed working on 8.4
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 13157
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

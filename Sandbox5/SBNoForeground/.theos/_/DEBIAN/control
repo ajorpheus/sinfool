@@ -1,0 +1,22 @@
+Package: com.sinfool.sbnoforeground
+Name: SB • No Foreground  ₈₋₂₅₋₁₅ ⚑
+Author: Sinfool
+Description: Removes the status bar foreground system wide. Removes the status bar foreground system wide.
+ .
+ [v.2] Tested with an iP6+ 8.4  (8-25-15)
+ .
+ ⚑ UPDATES:
+ (??-??-14) *Initial release
+ (8-25-15) *Changed title & method fix for 8.4
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 13867
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

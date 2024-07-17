@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/LSAlwaysShowCharging/.theos/obj/arm64e/LSAlwaysShowCharging.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBUIController$isConnectedToExternalChargingSource', symObjAddr: 0xB68, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL88_logos_orig$_ungrouped$SBLockScreenViewController$_addBatteryChargingViewAndShowBattery$', symObjAddr: 0xB70, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x151, offset: 0x151, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBUIController$isConnectedToExternalChargingSourceP14SBUIControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1A1, offset: 0x1A1, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBUIController$isConnectedToExternalChargingSourceP14SBUIControllerP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1D5, offset: 0x1D5, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$SBLockScreenViewController$_addBatteryChargingViewAndShowBattery$P26SBLockScreenViewControllerP13objc_selectorb', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x10 }
+...

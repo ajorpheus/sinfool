@@ -1,0 +1,16 @@
+Package: com.sinfool.noforcedupdatever1030
+Name: No Forced Update (ver. 10.3.0)  ₁₀₋₄₋₁₆
+Author: Sinfool
+Description: Removes the forced update prompt. Removes the forced update prompt.
+ .
+ [v.1] Tested with version 10.3.0.  Made as a request via r/jailbreak.  (10-4-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31511
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.younow.YouNowMobile
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

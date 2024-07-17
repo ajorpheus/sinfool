@@ -1,0 +1,26 @@
+Package: com.sinfool.messagesentryfieldcolorcustomier
+Name: Messages - Entry Field Color Customizer
+Author: Sinfool
+Description: Customizes the messages entry field bar system wide.  Change the colors to your liking or delete unwanted units.  By default I made it a dark transparent color.  Includes the following options... Customizes the messages entry field bar system wide.  Change the colors to your liking or delete unwanted units.  By default I made it a dark transparent color.  Includes the following options...
+ .
+ * Bar - BG Color
+ * Bar - BG Blur Visibility
+ * Entry Field - BG Color
+ * Entry Field - Border Visibility
+ * Entry Field - Buttons Color
+ * Entry Field - Style (Input Text Color)
+ * Entry Field - Custom Placeholder Text
+ * Entry Field - Grey/Dark Placeholder Text
+ .
+ T=True  F=False  D=Delete  P=pass-through
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak users /u/highrup & /u/Beastnorgod.  (9-13-17).
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39346
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

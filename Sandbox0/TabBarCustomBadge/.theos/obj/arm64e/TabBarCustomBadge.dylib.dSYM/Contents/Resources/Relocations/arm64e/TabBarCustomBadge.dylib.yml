@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/TabBarCustomBadge/.theos/obj/arm64e/TabBarCustomBadge.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$_UIBadgeBackground$initWithImage$', symObjAddr: 0xAD0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xC4, offset: 0xC4, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$_UIBadgeView$setValue$', symObjAddr: 0xAD8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x108, offset: 0x108, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x178, offset: 0x178, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$_UIBadgeBackground$initWithImage$P18_UIBadgeBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1BE, offset: 0x1BE, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$_UIBadgeBackground$initWithImage$P18_UIBadgeBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1FD, offset: 0x1FD, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$_UIBadgeView$setValue$P12_UIBadgeViewP13objc_selectorP11objc_object', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x14 }
+...

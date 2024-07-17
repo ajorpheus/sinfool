@@ -1,0 +1,16 @@
+Package: com.sinfool.disableautozoomentryfields
+Name: Disable Auto Zoom (Entry Fields)  ₁₂₋₆₋₁₅
+Author: Sinfool
+Description: Disables auto zoom after tapping on an entry field.  Useful for those annoyed by this stock iOS behavior. Disables auto zoom after tapping on an entry field.  Useful for those annoyed by this stock iOS behavior.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-6-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26773
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

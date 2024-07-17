@@ -1,0 +1,16 @@
+Package: com.sinfool.navbarnobackchevron
+Name: Nav Bar - No Back Chevron  ₁₂₋₁₂₋₁₆
+Author: Sinfool
+Description: Removes the back "<" chevron from the navigation bar.  Removes the back "<" chevron from the navigation bar. 
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (12-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32654
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

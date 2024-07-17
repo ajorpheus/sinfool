@@ -1,0 +1,16 @@
+Package: com.sinfool.transparentheaderfooterbarscarbridgev450
+Name: Transparent Header & Footer Bars (CarBridge) (v. 4.50)
+Author: Sinfool
+Description: Provides more visible map real estate by making the header and footer bars transparent when navigating.  Also adds an option to force app orientations (useful for CarBridge tweak users). Provides more visible map real estate by making the header and footer bars transparent when navigating.  Also adds an option to force app orientations (useful for CarBridge tweak users).
+ .
+ [v.1] Tested with Google Maps version 4.50.  Requested by r/jailbreak user /u/Poopsquare.  (5-27-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42448
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.Maps
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

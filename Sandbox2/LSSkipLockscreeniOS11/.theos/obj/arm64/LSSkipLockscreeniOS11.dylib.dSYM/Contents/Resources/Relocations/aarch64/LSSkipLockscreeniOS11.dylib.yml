@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/LSSkipLockscreeniOS11/.theos/obj/arm64/LSSkipLockscreeniOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBDashBoardViewController$shouldAutoUnlockForSource$', symObjAddr: 0xB50, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xA9, offset: 0xA9, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$SBNCScreenController$canTurnOnScreenForNotificationRequest$', symObjAddr: 0xB58, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x18A, offset: 0x18A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBDashBoardViewController$shouldAutoUnlockForSource$P25SBDashBoardViewControllerP13objc_selectori', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1D0, offset: 0x1D0, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBDashBoardViewController$shouldAutoUnlockForSource$P25SBDashBoardViewControllerP13objc_selectori', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x20F, offset: 0x20F, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$SBNCScreenController$canTurnOnScreenForNotificationRequest$P20SBNCScreenControllerP13objc_selectorP11objc_object', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

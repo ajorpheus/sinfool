@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/SBActivityIndicatorColor/.theos/obj/arm64/SBActivityIndicatorColor.dylib'
+relocations:     []
+...

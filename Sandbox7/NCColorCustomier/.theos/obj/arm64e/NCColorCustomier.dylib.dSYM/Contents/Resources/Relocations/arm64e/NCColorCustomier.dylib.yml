@@ -1,0 +1,27 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NCColorCustomier/.theos/obj/arm64e/NCColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x170 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBNotificationCenterViewController$blursBackground', symObjAddr: 0x24F0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SBUISizeObservingView$setBackgroundColor$', symObjAddr: 0x24F8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: '__ZL110_logos_orig$_ungrouped$SBControlColorSettings$initWithTintColor$selectedTintColor$textColor$selectedTextColor$', symObjAddr: 0x2500, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$SBNotificationSeparatorView$setBackgroundColor$', symObjAddr: 0x2508, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x187, offset: 0x187, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UITableViewHeaderFooterContentView$setBackgroundColor$', symObjAddr: 0x2510, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1C1, offset: 0x1C1, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$_UITableViewCellSeparatorView$setBackgroundColor$', symObjAddr: 0x2518, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1FB, offset: 0x1FB, size: 0x8, addend: 0x0, symName: '__ZL46_logos_orig$_ungrouped$SBChevronView$setColor$', symObjAddr: 0x2520, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x23F, offset: 0x23F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x170 }
+  - { offsetInCU: 0x398, offset: 0x398, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBNotificationCenterViewController$blursBackgroundP34SBNotificationCenterViewControllerP13objc_selector', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x8 }
+  - { offsetInCU: 0x3DE, offset: 0x3DE, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBNotificationCenterViewController$blursBackgroundP34SBNotificationCenterViewControllerP13objc_selector', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x8 }
+  - { offsetInCU: 0x412, offset: 0x412, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SBUISizeObservingView$setBackgroundColor$P21SBUISizeObservingViewP13objc_selectorP11objc_object', symObjAddr: 0x178, symBinAddr: 0x4178, symSize: 0x6C }
+  - { offsetInCU: 0x45A, offset: 0x45A, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$SBControlColorSettings$initWithTintColor$selectedTintColor$textColor$selectedTextColor$P22SBControlColorSettingsP13objc_selectorP11objc_objectS4_S4_S4_', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0xF4 }
+  - { offsetInCU: 0x471, offset: 0x471, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$SBControlColorSettings$initWithTintColor$selectedTintColor$textColor$selectedTextColor$P22SBControlColorSettingsP13objc_selectorP11objc_objectS4_S4_S4_', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0xF4 }
+  - { offsetInCU: 0x4EA, offset: 0x4EA, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBNotificationSeparatorView$setBackgroundColor$P27SBNotificationSeparatorViewP13objc_selectorP11objc_object', symObjAddr: 0x2D8, symBinAddr: 0x42D8, symSize: 0x6C }
+  - { offsetInCU: 0x513, offset: 0x513, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBNotificationSeparatorView$setBackgroundColor$P27SBNotificationSeparatorViewP13objc_selectorP11objc_object', symObjAddr: 0x2D8, symBinAddr: 0x42D8, symSize: 0x6C }
+  - { offsetInCU: 0x55B, offset: 0x55B, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UITableViewHeaderFooterContentView$setBackgroundColor$P35_UITableViewHeaderFooterContentViewP13objc_selectorP11objc_object', symObjAddr: 0x344, symBinAddr: 0x4344, symSize: 0x6C }
+  - { offsetInCU: 0x572, offset: 0x572, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UITableViewHeaderFooterContentView$setBackgroundColor$P35_UITableViewHeaderFooterContentViewP13objc_selectorP11objc_object', symObjAddr: 0x344, symBinAddr: 0x4344, symSize: 0x6C }
+  - { offsetInCU: 0x5BA, offset: 0x5BA, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$_UITableViewCellSeparatorView$setBackgroundColor$P29_UITableViewCellSeparatorViewP13objc_selectorP11objc_object', symObjAddr: 0x3B0, symBinAddr: 0x43B0, symSize: 0x6C }
+  - { offsetInCU: 0x5D1, offset: 0x5D1, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$_UITableViewCellSeparatorView$setBackgroundColor$P29_UITableViewCellSeparatorViewP13objc_selectorP11objc_object', symObjAddr: 0x3B0, symBinAddr: 0x43B0, symSize: 0x6C }
+  - { offsetInCU: 0x619, offset: 0x619, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$SBChevronView$setColor$P13SBChevronViewP13objc_selectorP11objc_object', symObjAddr: 0x41C, symBinAddr: 0x441C, symSize: 0x6C }
+  - { offsetInCU: 0x630, offset: 0x630, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$SBChevronView$setColor$P13SBChevronViewP13objc_selectorP11objc_object', symObjAddr: 0x41C, symBinAddr: 0x441C, symSize: 0x6C }
+...

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/EnableLivePhotosRecordingiOS10/.theos/obj/arm64/EnableLivePhotosRecordingiOS10.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$AVCaptureDeviceFormat$isIrisSupported', symObjAddr: 0xF38, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CAMCaptureCapabilities$isBackIrisSupported', symObjAddr: 0xF40, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$CAMCaptureCapabilities$isFrontIrisSupported', symObjAddr: 0xF48, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$CAMUserPreferences$isIrisCaptureEnabled', symObjAddr: 0xF50, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x132, offset: 0x132, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1DF, offset: 0x1DF, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$AVCaptureDeviceFormat$isIrisSupportedP21AVCaptureDeviceFormatP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x22F, offset: 0x22F, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$AVCaptureDeviceFormat$isIrisSupportedP21AVCaptureDeviceFormatP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x263, offset: 0x263, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CAMCaptureCapabilities$isBackIrisSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x297, offset: 0x297, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$CAMCaptureCapabilities$isFrontIrisSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x2CB, offset: 0x2CB, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$CAMUserPreferences$isIrisCaptureEnabledP18CAMUserPreferencesP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+...

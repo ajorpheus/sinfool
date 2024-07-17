@@ -1,0 +1,11 @@
+Package: com.sinfool.aionostartupbannerprerolladsnocommercialsver123934
+Name: [AIO] No Startup/Banner/Preroll Ads & No Commercials (ver. 1.23.934)
+Author: Sinfool
+Description: All in one ad remover for CW.  No startup/banner/preroll ads & no commercials.  Tested with version 1.23.934.  (8-13-14) All in one ad remover for CW.  No startup/banner/preroll ads & no commercials.  Tested with version 1.23.934.  (8-13-14) patchID: 12364
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.cw.fullepisodes.ios
+Homepage: https://ipadkid.cf/sinfool/index.html

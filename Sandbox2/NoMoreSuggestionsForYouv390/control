@@ -1,0 +1,19 @@
+Package: com.sinfool.nomoresuggestionsforyouv390
+Name: No More Suggestions For You (v. 39.0)
+Author: Sinfool
+Description: Removes suggestions from feeds and the profile page drop down arrow. Removes suggestions from feeds and the profile page drop down arrow.
+ .
+ ⚑ UPDATES:
+ (4-4-18) *Initial release
+ (4-4-18) *Removed suggestions from the profile page
+ .
+ [v.2] Tested with Instagram version 39.0.  (4-4-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41804
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.burbn.instagram
+Homepage: https://ipadkid.cf/sinfool/index.html

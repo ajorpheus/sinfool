@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/EnableLivePhotosRecordingiOS11/.theos/obj/arm64/EnableLivePhotosRecordingiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CAMCaptureCapabilities$isBackIrisSupported', symObjAddr: 0xC68, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$CAMCaptureCapabilities$isFrontIrisSupported', symObjAddr: 0xC70, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$AVCaptureDeviceFormat$isIrisSupported', symObjAddr: 0xC78, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x17D, offset: 0x17D, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CAMCaptureCapabilities$isBackIrisSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1CD, offset: 0x1CD, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CAMCaptureCapabilities$isBackIrisSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x201, offset: 0x201, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$CAMCaptureCapabilities$isFrontIrisSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x235, offset: 0x235, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$AVCaptureDeviceFormat$isIrisSupportedP21AVCaptureDeviceFormatP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

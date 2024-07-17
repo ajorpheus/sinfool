@@ -1,0 +1,11 @@
+Package: com.sinfool.noads
+Name: No Ads
+Author: Sinfool
+Description: No ads. No ads. patchID: 11153
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apalonapps.radarfree
+Homepage: https://ipadkid.cf/sinfool/index.html

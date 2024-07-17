@@ -1,0 +1,26 @@
+Package: com.sinfool.noiconlabelsdockfolders
+Name: No Icon Labels (Dock & Folders)
+Author: Sinfool
+Description: Removes the icon labels from the dock & inside folders and reduces the height of the dock to compensate for the missing labels.  You can experiment with different values for the dock height or still use the stock dock height by deleting the specified unit. Removes the icon labels from the dock & inside folders and reduces the height of the dock to compensate for the missing labels.  You can experiment with different values for the dock height or still use the stock dock height by deleting the specified unit.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36 so please go install it BEFORE downloading this patch.  The beta can be downloaded by adding "http://getdelta.co/" to your Cydia repo sources.
+ .
+ NOTE:  This patch hasn't been tested with any other patches/tweaks that change icon label colors.
+ .
+ KNOWN ISSUE:  A safemode crash occurs when opening a folder if it has Activator inside it.
+ .
+ D=Delete
+ .
+ Credits: Thanks to prouser and @misses for the dock positioning method
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (11-11-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39991
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

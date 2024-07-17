@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/DockBackgroundStyleCustomiable/.theos/obj/arm64/DockBackgroundStyleCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$SBWallpaperEffectView$setStyle$', symObjAddr: 0x768, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$SBWallpaperEffectView$setStyle$P21SBWallpaperEffectViewP13objc_selectorx', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$SBWallpaperEffectView$setStyle$P21SBWallpaperEffectViewP13objc_selectorx', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+...

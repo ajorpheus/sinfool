@@ -1,0 +1,30 @@
+Package: com.sinfool.changecolorsonlshs
+Name: Change Colors on LS & HS  ₇₋₂₈₋₁₅ ⚑
+Author: Sinfool
+Description: Changes colors of the following UI elements: Changes colors of the following UI elements:
+ .
+ • Status Bar
+ • Lockscreen Clock/Date
+ • Top/Bottom Grabbers
+ • Camera Grabber
+ • Icon Labels
+ • Page Dot Indicators
+ .
+ [v.3] Tested w/iP6+ 8.1 & 8.4.  (7-28-15)
+ .
+ ⚑ UPDATES: 
+ (??-??-14) *Initial release
+ (4-5-15) *Added camera grabber
+ (7-28-15) *Changed methods, patch title & confirmed working on 8.4
+ .
+ ● If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 13864
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

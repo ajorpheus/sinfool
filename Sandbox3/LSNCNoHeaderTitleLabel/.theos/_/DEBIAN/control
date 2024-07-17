@@ -1,0 +1,16 @@
+Package: com.sinfool.lsncnoheadertitlelabel
+Name: LS/NC - No Header Title Label
+Author: Sinfool
+Description: Removes the title label from all bubble headers on the LS, NC and notification banners. Removes the title label from all bubble headers on the LS, NC and notification banners.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via patch comments.  (4-6-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36598
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

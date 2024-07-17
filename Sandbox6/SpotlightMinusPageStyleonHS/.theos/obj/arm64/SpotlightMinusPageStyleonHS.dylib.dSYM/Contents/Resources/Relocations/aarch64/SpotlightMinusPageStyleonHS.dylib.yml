@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SpotlightMinusPageStyleonHS/.theos/obj/arm64/SpotlightMinusPageStyleonHS.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SPUISearchViewController$_showKeyboardOnPresentation', symObjAddr: 0xF28, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$SPUISearchViewController$clearSearchTimeInterval', symObjAddr: 0xF30, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD2, offset: 0xD2, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$SPUISearchViewController$_isPullDownSpotlight', symObjAddr: 0xF38, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$SBSpotlightSettings$enableSpotlightOnMinusPage', symObjAddr: 0xF40, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x1C6, offset: 0x1C6, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SPUISearchViewController$_showKeyboardOnPresentationP24SPUISearchViewControllerP13objc_selector', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x8 }
+  - { offsetInCU: 0x216, offset: 0x216, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SPUISearchViewController$_showKeyboardOnPresentationP24SPUISearchViewControllerP13objc_selector', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x8 }
+  - { offsetInCU: 0x24A, offset: 0x24A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SPUISearchViewController$clearSearchTimeIntervalP24SPUISearchViewControllerP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x27E, offset: 0x27E, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$SPUISearchViewController$_isPullDownSpotlightP24SPUISearchViewControllerP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x2B2, offset: 0x2B2, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBSpotlightSettings$enableSpotlightOnMinusPageP19SBSpotlightSettingsP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+...

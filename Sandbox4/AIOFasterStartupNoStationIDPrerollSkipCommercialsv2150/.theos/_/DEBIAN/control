@@ -1,0 +1,22 @@
+Package: com.sinfool.aiofasterstartupnostationidprerollskipcommercialsv2150
+Name: [AIO] Faster Startup, No Station ID Preroll & Skip Commercials (v. 2.15.0)
+Author: Sinfool
+Description: Provides the following enhancements for the CW Network app.  For now, you can only skip commercials by tapping the 10 second forward & back buttons.  So basically, this skipping workaround requires you to press forward & then backward every time you want to skip a commercial. Provides the following enhancements for the CW Network app.  For now, you can only skip commercials by tapping the 10 second forward & back buttons.  So basically, this skipping workaround requires you to press forward & then backward every time you want to skip a commercial.
+ .
+ * Faster Startup
+ * No Station ID Preroll
+ * Skip Commercials
+ .
+ NOTE:  Consider this patch as a workaround which may be buggy.
+ .
+ [v.1] Tested with the CW Network app version 2.15.0.1624.  Requested by /u/GreenJohnnyPolo.  (4-13-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41933
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.cw.fullepisodes.ios
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

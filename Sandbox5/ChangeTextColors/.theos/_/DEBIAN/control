@@ -1,0 +1,12 @@
+Package: com.sinfool.changetextcolors
+Name: Change Text Colors
+Author: Sinfool
+Description: Changes the color of Text.  Set colors to your liking ...and/or delete the entires you don't want changed.  (7-8-14) Changes the color of Text.  Set colors to your liking ...and/or delete the entires you don't want changed.  (7-8-14) patchID: 11562
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

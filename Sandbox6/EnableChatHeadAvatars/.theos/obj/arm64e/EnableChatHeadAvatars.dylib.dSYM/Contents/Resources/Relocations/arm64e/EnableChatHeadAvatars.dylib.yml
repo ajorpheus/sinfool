@@ -1,0 +1,20 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/EnableChatHeadAvatars/.theos/obj/arm64e/EnableChatHeadAvatars.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$UIKeyboardAssistantBar$assistantBarHeight', symObjAddr: 0x1AE0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$UIKeyboardAssistantBar$sideBarWidth', symObjAddr: 0x1AE8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$CKUIBehavior$canShowContactPhotosInConversationList', symObjAddr: 0x1AF0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x101, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIDevice$userInterfaceIdiom', symObjAddr: 0x1AF8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x2D7, offset: 0x2D7, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$UITextInputTraits$keyboardAppearance', symObjAddr: 0x1B00, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x310, offset: 0x310, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UIKeyboardEmojiCollectionViewCell$emojiFontSize', symObjAddr: 0x1B08, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x353, offset: 0x353, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x452, offset: 0x452, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UIKeyboardAssistantBar$assistantBarHeightP22UIKeyboardAssistantBarP13objc_selector', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x48F, offset: 0x48F, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UIKeyboardAssistantBar$assistantBarHeightP22UIKeyboardAssistantBarP13objc_selector', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x4C3, offset: 0x4C3, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UIKeyboardAssistantBar$sideBarWidthP22UIKeyboardAssistantBarP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x4F7, offset: 0x4F7, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CKUIBehavior$canShowContactPhotosInConversationListP12CKUIBehaviorP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+  - { offsetInCU: 0x52B, offset: 0x52B, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x8 }
+  - { offsetInCU: 0x55F, offset: 0x55F, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$UITextInputTraits$keyboardAppearanceP17UITextInputTraitsP13objc_selector', symObjAddr: 0x164, symBinAddr: 0x4164, symSize: 0x8 }
+  - { offsetInCU: 0x593, offset: 0x593, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UIKeyboardEmojiCollectionViewCell$emojiFontSizeP33UIKeyboardEmojiCollectionViewCellP13objc_selector', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+...

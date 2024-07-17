@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/LSHSNCNoTodayView/.theos/obj/arm64/LSHSNCNoTodayView.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$SBPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$', symObjAddr: 0x11F0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$SBRootFolderView$_minusPageCount', symObjAddr: 0x11F8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBSearchEtceteraLayoutView$_shouldAllowScrollingForStyle$', symObjAddr: 0x1200, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x14E, offset: 0x14E, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SBNotificationCenterWithSearchViewController$showPageControl', symObjAddr: 0x1208, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x191, offset: 0x191, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x253, offset: 0x253, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$SBPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$P18SBPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x299, offset: 0x299, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$SBPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$P18SBPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x2D8, offset: 0x2D8, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SBRootFolderView$_minusPageCountP16SBRootFolderViewP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x30C, offset: 0x30C, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBSearchEtceteraLayoutView$_shouldAllowScrollingForStyle$P26SBSearchEtceteraLayoutViewP13objc_selectory', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x34B, offset: 0x34B, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBNotificationCenterWithSearchViewController$showPageControlP44SBNotificationCenterWithSearchViewControllerP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

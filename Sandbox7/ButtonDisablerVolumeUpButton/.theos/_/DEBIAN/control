@@ -1,0 +1,24 @@
+Package: com.sinfool.buttondisablervolumeupbutton
+Name: ButtonDisabler - Volume Up Button  ₁₀₋₉₋₁₆ ⚑
+Author: Sinfool
+Description: Disables volume up buttons (on both the device & wired headset). Disables volume up buttons (on both the device & wired headset).
+ .
+ *Useful if you have broken volume buttons which trigger inadvertently.
+ .
+ ⚠️ NOTE:  All "volume up" adjustments must me made via control center or "Settings -> Sounds" when using this patch.  I suggest making a volume menu via Activator (with frequently used volume levels i.e. 50%, 75% etc. maybe triggered by a shake or connected to headset etc).
+ .
+ ⚑ UPDATES:
+ (12-14-15) *Initial release
+ (10-9-16) *Removed "Disables Volume Down" entry and changed previous patch "Disable Volume Rockers" title
+ .
+ [v.2] Tested with an iP6+ 9.0.2 & 9.3.3.  Made as a request via r/jailbreak.  (10-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26916
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

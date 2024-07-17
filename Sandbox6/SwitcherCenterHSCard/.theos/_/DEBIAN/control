@@ -1,0 +1,20 @@
+Package: com.sinfool.switchercenterhscard
+Name: Switcher - Center HS Card  ₇₋₁₇₋₁₇ ⚑
+Author: Sinfool
+Description: Always opens the deck switcher with the homescreen card centered. Always opens the deck switcher with the homescreen card centered.
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (7-7-17)
+ .
+ UPDATES:
+ (10-17-15) *Initial release (tested w/iP6+ 9.0.2)
+ (7-7-17) *Changed methods/added support for those who use reduce motion
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25153
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

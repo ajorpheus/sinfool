@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SleekSwitcheriOS7/.theos/obj/arm64/SleekSwitcheriOS7.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$SBAppSliderIconController$iconLabelWidth', symObjAddr: 0xE38, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBAppSliderIconController$setOffsetToIndex$animated$', symObjAddr: 0xE40, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xEA, offset: 0xEA, size: 0x8, addend: 0x0, symName: '__ZL84_logos_orig$_ungrouped$SBAppSliderScrollingViewController$setOffsetToIndex$animated$', symObjAddr: 0xE48, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x133, offset: 0x133, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x1BD, offset: 0x1BD, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$SBAppSliderIconController$iconLabelWidthP25SBAppSliderIconControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x214, offset: 0x214, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$SBAppSliderIconController$iconLabelWidthP25SBAppSliderIconControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x248, offset: 0x248, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBAppSliderIconController$setOffsetToIndex$animated$P25SBAppSliderIconControllerP13objc_selectorjb', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x10 }
+  - { offsetInCU: 0x29B, offset: 0x29B, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBAppSliderScrollingViewController$setOffsetToIndex$animated$P34SBAppSliderScrollingViewControllerP13objc_selectorjb', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x10 }
+  - { offsetInCU: 0x2C0, offset: 0x2C0, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBAppSliderScrollingViewController$setOffsetToIndex$animated$P34SBAppSliderScrollingViewControllerP13objc_selectorjb', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x10 }
+...

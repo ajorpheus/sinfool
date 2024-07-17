@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/FixStatusBarJBBugccccc/.theos/obj/arm64/FixStatusBarJBBug.dylib'
+relocations:     []
+...

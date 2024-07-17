@@ -1,0 +1,15 @@
+Package: com.sinfool.lsdisablerecentnotificationsswiping
+Name: LS - Disable Recent Notifications Swiping
+Author: Sinfool
+Description: Disables recent notifications on the LS (i.e. those shown when swiping up). Disables recent notifications on the LS (i.e. those shown when swiping up).
+ .
+ [v.1] Tested on an iPad mini2 11.1.2.  (5-11-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42283
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

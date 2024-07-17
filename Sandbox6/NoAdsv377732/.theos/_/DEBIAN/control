@@ -1,0 +1,18 @@
+Package: com.sinfool.noadsv377732
+Name: No Ads ✚ (v. 3.7.7732)  ₂₋₁₇₋₁₆
+Author: Sinfool
+Description: Removes all visual ads & enables extra skipping through audio ads. Removes all visual ads & enables extra skipping through audio ads.
+ .
+ NOTE:  Don't abuse skipping as it will result in a playback error & after receiving 3-5 errors... you risk the possibility of a few hour temporary freeze from streaming with your account.
+ .
+ [v.1] Tested with version 3.7.7732.  Made as a request.  (2-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27778
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.PlayMusic
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

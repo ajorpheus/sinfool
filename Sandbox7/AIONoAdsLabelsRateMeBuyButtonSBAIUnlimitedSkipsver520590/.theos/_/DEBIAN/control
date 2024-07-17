@@ -1,0 +1,21 @@
+Package: com.sinfool.aionoadslabelsratemebuybuttonsbaiunlimitedskipsver520590
+Name: [AIO] No Ads/© Labels/Rate Me/Buy Button/SB AI & Unlimited Skips (ver. 5.2.0 - 5.9.0)
+Author: Sinfool
+Description: All in one patch for iHeartRadio.  Tested with versions 5.2.0 - 5.9.0.	UPDATED (5-22-15) All in one patch for iHeartRadio.  Tested with versions 5.2.0 - 5.9.0.	UPDATED (5-22-15)
+ .
+ (FYI):	Temporarily disable this patch to access the [For You --> "Improve Recommendations" button].
+ .
+ • No rate me popup
+ • No audio/video/banner ads
+ • No copyright labels
+ • Disable iTunes 'Buy Song' button
+ • Unlimited skips
+ • No status bar activity indicator patchID: 13140
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.clearchannel.iheartradio
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

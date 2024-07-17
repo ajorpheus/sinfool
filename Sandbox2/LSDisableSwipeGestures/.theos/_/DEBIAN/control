@@ -1,0 +1,18 @@
+Package: com.sinfool.lsdisableswipegestures
+Name: LS - Disable Swipe Gestures  ₁₀₋₁₂₋₁₆
+Author: Sinfool
+Description: Disables all NC, CC, Handoff suggestions & Camera swipe gestures.  Also disables the bounce when tapping the clock or slide to unlock areas. Disables all NC, CC, Handoff suggestions & Camera swipe gestures.  Also disables the bounce when tapping the clock or slide to unlock areas.
+ .
+ NOTE:  I suggest using Activator assignments (i.e. slide in from top & bottom/bottom right etc) for those who want to retain the use of specific NC, CC & Camera actions.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  Changed the title from "LS - No Bounce".  Sorry, I was describing another patch.  (10-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31634
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

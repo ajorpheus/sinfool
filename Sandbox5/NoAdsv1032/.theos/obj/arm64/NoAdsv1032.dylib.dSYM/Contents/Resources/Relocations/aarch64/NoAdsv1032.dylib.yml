@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NoAdsv1032/.theos/obj/arm64/NoAdsv1032.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$GADAdFetcher$fetchRequestURL$delegate$responseHeaders$responseAd$error$', symObjAddr: 0xB48, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xE4, offset: 0xE4, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$ABVideoControlCenter$prerollEnabled', symObjAddr: 0xB50, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x127, offset: 0x127, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x197, offset: 0x197, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$GADAdFetcher$fetchRequestURL$delegate$responseHeaders$responseAd$error$P12GADAdFetcherP13objc_selectorP11objc_objectS4_S4_S4_PS4_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1DD, offset: 0x1DD, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$GADAdFetcher$fetchRequestURL$delegate$responseHeaders$responseAd$error$P12GADAdFetcherP13objc_selectorP11objc_objectS4_S4_S4_PS4_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x248, offset: 0x248, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$ABVideoControlCenter$prerollEnabledP20ABVideoControlCenterP13objc_selector', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

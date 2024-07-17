@@ -1,0 +1,34 @@
+Package: com.sinfool.sleekview
+Name: Sleek View  ₇₋₂₀₋₁₅
+Author: Sinfool
+Description: Removes blur and grabbers as described below. Only tested on an iP6+ 8.4 using stock transparency settings & no other SpringBoard customizing tweaks.  (7-20-15) Removes blur and grabbers as described below. Only tested on an iP6+ 8.4 using stock transparency settings & no other SpringBoard customizing tweaks.  (7-20-15)
+ .
+ Gives a sleeker overall appearance by doing the following...   
+ .
+ • Removes Blur from...
+    · Apps  [i.e. HS wallpaper view in... iBooks, Safari, Phone (Dialer) etc]
+    · Dock
+    · Open Folder BG
+    · Spotlight Search Bar
+    · HS Switcher Card Preview
+    · ...& any other area that uses this method
+ .
+ • Hides Grabbers from...
+    · LS
+    · NC
+    · CC
+ .
+ FYI:  For best results... use this with these patches.
+ ➠ Dialer • Keypad Is Transparent  (Phone)
+ ➠ SleekBooks  (iBooks)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22994
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

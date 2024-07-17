@@ -1,0 +1,19 @@
+Package: com.sinfool.badgeshideeverywhereexceptopenfolders
+Name: Badges - Hide (Everywhere Except Open Folders)
+Author: Sinfool
+Description: Hides notification badges from everywhere (i.e. apps on the home screen & closed folders) except inside open folders. Hides notification badges from everywhere (i.e. apps on the home screen & closed folders) except inside open folders.
+ .
+ [v.2] Tested with an iPad mini 4 on 10.2.  Made as a request via e-mail.  (7-8-17)
+ .
+ UPDATES:
+ (7-6-17) *Initial release
+ (7-8-17) *Fixed badges still showing on some closed folders
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38464
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

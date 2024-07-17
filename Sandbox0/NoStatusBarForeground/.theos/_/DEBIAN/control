@@ -1,0 +1,12 @@
+Package: com.sinfool.nostatusbarforeground
+Name: No Status Bar Foreground
+Author: Sinfool
+Description: Removes the status bar on the lockscreen & springboard. Removes the status bar on the lockscreen & springboard. patchID: 13866
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

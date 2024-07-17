@@ -1,0 +1,33 @@
+Package: com.sinfool.navbarcolorscustomiable
+Name: Nav Bar - Colors (Customizable)  ₉₋₂₁₋₁₆ ⚑
+Author: Sinfool
+Description: Changes colors of the new Nav Bar as listed below...  Made after reading a few requests via r/jailbreak.  Changes colors of the new Nav Bar as listed below...  Made after reading a few requests via r/jailbreak. 
+ .
+ • Status Bar Background
+ • Status Bar Foreground
+ • Nav Bar Background
+ • Nav Bar Buttons (right side)
+ • Nav Bar Text (left side) [iPads]
+ • Nav Bar Tab Background
+ • Change Nav Bar Tab Style
+ • Lower Tab Bar Selected
+ .
+ [v.4] Tested with the new UI of version (10.38 -11.35) but may work with other versions.  (9-21-16)
+ .
+ ⚑ UPDATES:
+ (10-7-15) *Initial release
+ (10-12-15) *Added iPad support
+ (9-18-16) *Added Nav Bar #2 entry
+ (9-21-16) *Added Lower Tab Bar Selected Color entry
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 24856
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.ios.youtube
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

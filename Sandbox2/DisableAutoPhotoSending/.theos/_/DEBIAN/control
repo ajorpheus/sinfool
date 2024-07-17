@@ -1,0 +1,18 @@
+Package: com.sinfool.disableautophotosending
+Name: Disable Auto Photo Sending  ₁₀₋₂₉₋₁₅
+Author: Sinfool
+Description: Disables automatic sending of photos when the "Send 'qty' Photo(s)" button is pressed.  Instead, the button will behave exactly the same as the "Add Comment" button. Disables automatic sending of photos when the "Send 'qty' Photo(s)" button is pressed.  Instead, the button will behave exactly the same as the "Add Comment" button.
+ .
+ Useful if you find yourself accidentally sending pics with or without comments.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-29-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25908
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

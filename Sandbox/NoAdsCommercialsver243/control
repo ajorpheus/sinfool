@@ -1,0 +1,11 @@
+Package: com.sinfool.noadscommercialsver243
+Name: No Ads/Commercials (ver. 2.4.3)
+Author: Sinfool
+Description: No ads & no commercials for U Stream.  Tested with most recent version 2.4.3.   (8-15-14) No ads & no commercials for U Stream.  Tested with most recent version 2.4.3.   (8-15-14) patchID: 12508
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/tv.ustream.player
+Homepage: https://ipadkid.cf/sinfool/index.html

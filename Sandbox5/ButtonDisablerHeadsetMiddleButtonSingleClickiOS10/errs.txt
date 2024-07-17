@@ -1,0 +1,6 @@
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64e)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox5/ButtonDisablerHeadsetMiddleButtonSingleClickiOS10/.theos/obj/arm64e/ButtonDisablerHeadsetMiddleButtonSingleClickiOS10.dylib
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox5/ButtonDisablerHeadsetMiddleButtonSingleClickiOS10/.theos/obj/arm64/ButtonDisablerHeadsetMiddleButtonSingleClickiOS10.dylib

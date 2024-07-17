@@ -1,0 +1,12 @@
+Package: com.sinfool.aiobypassloginnoadscommercialsver23226
+Name: [AIO] Bypass Login, No Ads/Commercials (ver. 2.3.2 - 2.6)
+Author: Sinfool
+Description: All in one patch for VH1.  Bypasses login provider, no ads & no commercials.	Tested with versions 2.3.2 - 2.6.  (12-18-14) All in one patch for VH1.  Bypasses login provider, no ads & no commercials.	Tested with versions 2.3.2 - 2.6.  (12-18-14) patchID: 12392
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.mtvn.vh1tvtunein
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

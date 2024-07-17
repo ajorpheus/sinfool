@@ -1,0 +1,15 @@
+Package: com.sinfool.disablescrolllock
+Name: Disable "Scroll-Lock"  ₁₂₋₁₇₋₁₅
+Author: Sinfool
+Description: Disables "scroll-lock" (i.e. freely move left & right when scrolling on a zoomed in page).   Disables "scroll-lock" (i.e. freely move left & right when scrolling on a zoomed in page).  
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (12-17-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26963
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

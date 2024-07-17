@@ -1,0 +1,11 @@
+Package: com.sinfool.nocommercialsv21124
+Name: No Commercials (v2.1.1 - 2.4)
+Author: Sinfool
+Description: Removes commercials for the FOX NOW app.	Tested with versions 2.1.1 - 2.4.  (3-16-15). Removes commercials for the FOX NOW app.	Tested with versions 2.1.1 - 2.4.  (3-16-15). patchID: 13175
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.fox.now
+Homepage: https://ipadkid.cf/sinfool/index.html

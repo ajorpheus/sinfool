@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/StatusBarHideRotationLockIcon/.theos/obj/arm64e/StatusBarHideRotationLockIcon.dylib'
+relocations:     []
+...

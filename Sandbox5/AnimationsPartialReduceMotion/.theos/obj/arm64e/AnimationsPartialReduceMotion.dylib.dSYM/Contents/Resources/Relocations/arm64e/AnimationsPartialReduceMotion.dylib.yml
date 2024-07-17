@@ -1,0 +1,28 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/AnimationsPartialReduceMotion/.theos/obj/arm64e/AnimationsPartialReduceMotion.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1FC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBCenterIconZoomAnimator$_numberOfSignificantAnimations', symObjAddr: 0x2618, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$SBCenterAppIconZoomAnimator$_numberOfSignificantAnimations', symObjAddr: 0x2620, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL92_logos_orig$_ungrouped$SBUIAnimationLockScreenToAppZoomIn$initWithTransitionContextProvider$', symObjAddr: 0x2628, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x13D, offset: 0x13D, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBUIAnimationZoomUpApp$initWithTransitionContextProvider$', symObjAddr: 0x2630, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x17B, offset: 0x17B, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBFolderIconZoomAnimator$_numberOfSignificantAnimations', symObjAddr: 0x2638, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1B4, offset: 0x1B4, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBRootAnimationSettings$folderOpenSettings', symObjAddr: 0x2640, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1ED, offset: 0x1ED, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$SBRootAnimationSettings$folderCloseSettings', symObjAddr: 0x2648, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x206, offset: 0x206, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$SBUIAnimationZoomDownApp$initWithTransitionContextProvider$', symObjAddr: 0x2650, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBUIAnimationDosidoTransitionController$_animationFactory', symObjAddr: 0x2658, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x27D, offset: 0x27D, size: 0x8, addend: 0x0, symName: '__ZL130_logos_orig$_ungrouped$SBUIDismissSwitcherAnimationController$initWithTransitionContextProvider$activatingDisplayItem$interactive$', symObjAddr: 0x2660, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x2D6, offset: 0x2D6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1FC }
+  - { offsetInCU: 0x4A3, offset: 0x4A3, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBCenterIconZoomAnimator$_numberOfSignificantAnimationsP24SBCenterIconZoomAnimatorP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0x4E9, offset: 0x4E9, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBCenterIconZoomAnimator$_numberOfSignificantAnimationsP24SBCenterIconZoomAnimatorP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0x51D, offset: 0x51D, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBCenterAppIconZoomAnimator$_numberOfSignificantAnimationsP27SBCenterAppIconZoomAnimatorP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0x551, offset: 0x551, size: 0x8, addend: 0x0, symName: '__ZL94_logos_method$_ungrouped$SBUIAnimationLockScreenToAppZoomIn$initWithTransitionContextProvider$P34SBUIAnimationLockScreenToAppZoomInP13objc_selectorP11objc_object', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x8 }
+  - { offsetInCU: 0x590, offset: 0x590, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBUIAnimationZoomUpApp$initWithTransitionContextProvider$P22SBUIAnimationZoomUpAppP13objc_selectorP11objc_object', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x8 }
+  - { offsetInCU: 0x5CF, offset: 0x5CF, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBFolderIconZoomAnimator$_numberOfSignificantAnimationsP24SBFolderIconZoomAnimatorP13objc_selector', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x8 }
+  - { offsetInCU: 0x603, offset: 0x603, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBRootAnimationSettings$folderOpenSettingsP23SBRootAnimationSettingsP13objc_selector', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0x8 }
+  - { offsetInCU: 0x637, offset: 0x637, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBRootAnimationSettings$folderCloseSettingsP23SBRootAnimationSettingsP13objc_selector', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+  - { offsetInCU: 0x66B, offset: 0x66B, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$SBUIAnimationZoomDownApp$initWithTransitionContextProvider$P24SBUIAnimationZoomDownAppP13objc_selectorP11objc_object', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x8 }
+  - { offsetInCU: 0x6AA, offset: 0x6AA, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBUIAnimationDosidoTransitionController$_animationFactoryP39SBUIAnimationDosidoTransitionControllerP13objc_selector', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x8 }
+  - { offsetInCU: 0x6DE, offset: 0x6DE, size: 0x8, addend: 0x0, symName: '__ZL132_logos_method$_ungrouped$SBUIDismissSwitcherAnimationController$initWithTransitionContextProvider$activatingDisplayItem$interactive$P38SBUIDismissSwitcherAnimationControllerP13objc_selectorP11objc_objectS4_b', symObjAddr: 0x244, symBinAddr: 0x4244, symSize: 0x8 }
+...

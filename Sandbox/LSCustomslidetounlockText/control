@@ -1,0 +1,15 @@
+Package: com.sinfool.lscustomslidetounlocktext
+Name: LS - Custom "slide to unlock" Text  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Customizes the "slide to unlock" text. Customizes the "slide to unlock" text.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-15-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25032
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

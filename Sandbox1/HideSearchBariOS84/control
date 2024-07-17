@@ -1,0 +1,15 @@
+Package: com.sinfool.hidesearchbarios84
+Name: Hide Search Bar (iOS 8.4)  ₇₋₁₈₋₁₅
+Author: Sinfool
+Description: Disables the search bar.  Made as a request via r/jailbreak.  Tested on iP6+ 8.4.  (7-18-15) Disables the search bar.  Made as a request via r/jailbreak.  Tested on iP6+ 8.4.  (7-18-15)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22951
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

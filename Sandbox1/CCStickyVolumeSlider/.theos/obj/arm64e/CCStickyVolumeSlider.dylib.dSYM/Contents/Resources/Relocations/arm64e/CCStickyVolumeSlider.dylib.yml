@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/CCStickyVolumeSlider/.theos/obj/arm64e/CCStickyVolumeSlider.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$MPVolumeController$setVolumeValue$', symObjAddr: 0x7A0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xAC, offset: 0xAC, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$MPVolumeController$setVolumeValue$P18MPVolumeControllerP13objc_selectorf', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$MPVolumeController$setVolumeValue$P18MPVolumeControllerP13objc_selectorf', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

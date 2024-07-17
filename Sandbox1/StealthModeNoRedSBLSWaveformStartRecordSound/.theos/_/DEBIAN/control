@@ -1,0 +1,24 @@
+Package: com.sinfool.stealthmodenoredsblswaveformstartrecordsound
+Name: Stealth Mode (No Red SB/LS Waveform/Start Record Sound)  ₂₋₂₇₋₁₅ ⚑
+Author: Sinfool
+Description: Provides a stealth like user experience by disabling the following features while recording...  Tested with iP6+ 8.1.  (2-27-15) Provides a stealth like user experience by disabling the following features while recording...  Tested with iP6+ 8.1.  (2-27-15)
+ .
+ • Double Red Status Bar
+ • Lockscreen Waveform View
+ • Start Recording Sound
+ .
+ ⚑ UPDATES:
+ (??-??-14) *Initial release
+ (2-27-15) *Updated for iOS 8
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 8551
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.VoiceMemos
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

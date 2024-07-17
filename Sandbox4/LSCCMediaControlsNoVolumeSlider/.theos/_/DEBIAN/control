@@ -1,0 +1,20 @@
+Package: com.sinfool.lsccmediacontrolsnovolumeslider
+Name: LS/CC (Media Controls) - No Volume Slider  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Removes the volume slider from the lock screen & control center. Removes the volume slider from the lock screen & control center.
+ .
+ ⚑ UPDATES:
+ (12-1-15) *Initial release
+ (4-17-16) *Changed the title from "LS/CC - No Volume Slider" to "LS/CC (Media Controls) - No Volume Slider"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26687
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

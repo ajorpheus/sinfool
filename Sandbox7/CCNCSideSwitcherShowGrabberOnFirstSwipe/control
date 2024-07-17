@@ -1,0 +1,15 @@
+Package: com.sinfool.ccncsideswitchershowgrabberonfirstswipe
+Name: CC/NC/Side Switcher - Show Grabber On First Swipe
+Author: Sinfool
+Description: Always shows the grabber on first swipe for CC, NC and the multitasking side switcher.  Delete any units you want to render with stock functionality. Always shows the grabber on first swipe for CC, NC and the multitasking side switcher.  Delete any units you want to render with stock functionality.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Requested by /u/Leguro.  (2-8-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40796
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

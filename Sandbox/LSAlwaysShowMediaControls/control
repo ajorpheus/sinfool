@@ -1,0 +1,17 @@
+Package: com.sinfool.lsalwaysshowmediacontrols
+Name: LS - Always Show Media Controls
+Author: Sinfool
+Description: Always show the media controls on the lock screen. Always show the media controls on the lock screen.
+ .
+ Useful for those who frequently play music and are annoyed by the controls disappearing after pausing playback on the LS, entering the home screen and going back to the lock screen.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (6-14-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38127
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

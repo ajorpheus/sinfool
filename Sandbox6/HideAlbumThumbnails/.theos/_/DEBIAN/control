@@ -1,0 +1,16 @@
+Package: com.sinfool.hidealbumthumbnails
+Name: Hide Album Thumbnails  ₁₀₋₁₉₋₁₅
+Author: Sinfool
+Description: Hides/replaces album list thumbnails with either a generic or crossed out "/" image. Hides/replaces album list thumbnails with either a generic or crossed out "/" image.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-19-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25406
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

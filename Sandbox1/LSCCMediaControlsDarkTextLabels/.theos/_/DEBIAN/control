@@ -1,0 +1,23 @@
+Package: com.sinfool.lsccmediacontrolsdarktextlabels
+Name: LS/CC (Media Controls) - Dark Text Labels  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Darkens the following text labels on the lock screen & in control center... Darkens the following text labels on the lock screen & in control center...
+ .
+ - Progress Bar Time
+ - Title
+ - Detail (Artist/Album)
+ - CC Toggle State
+ .
+ NOTE:  Also makes the text slightly larger.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28485
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

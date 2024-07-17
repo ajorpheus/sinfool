@@ -1,0 +1,30 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/RemoveAllAdsver271314/.theos/obj/arm64e/RemoveAllAdsver271314.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x204 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x1F10, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$GBTableHeaderView$initWithCoder$', symObjAddr: 0x1F18, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xFD, offset: 0xFD, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$YMImageMapView$initWithImage$', symObjAddr: 0x1F20, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x13B, offset: 0x13B, size: 0x8, addend: 0x0, symName: '__ZL42_logos_orig$_ungrouped$GBStation$detailsAd', symObjAddr: 0x1F28, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x174, offset: 0x174, size: 0x8, addend: 0x0, symName: '__ZL38_logos_orig$_ungrouped$GBDAL$inlineAds', symObjAddr: 0x1F30, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1AD, offset: 0x1AD, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$GBStationListDataSource$inlineAds', symObjAddr: 0x1F38, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x1E6, offset: 0x1E6, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$GBStationListDataSource$inlineDFPListAds', symObjAddr: 0x1F40, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1FF, offset: 0x1FF, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$GBScrollableHomeScreen$DFPAdHeight', symObjAddr: 0x1F48, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x23F, offset: 0x23F, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$GBAdController$isAdPositionActive$', symObjAddr: 0x1F50, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x296, offset: 0x296, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$GBAdAgent$isInlineDFPAdActive', symObjAddr: 0x1F58, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x2D9, offset: 0x2D9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x204 }
+  - { offsetInCU: 0x48A, offset: 0x48A, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0x4D0, offset: 0x4D0, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0x504, offset: 0x504, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$GBTableHeaderView$initWithCoder$P17GBTableHeaderViewP13objc_selectorP11objc_object', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x10 }
+  - { offsetInCU: 0x549, offset: 0x549, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$YMImageMapView$initWithImage$P14YMImageMapViewP13objc_selectorP11objc_object', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x10 }
+  - { offsetInCU: 0x567, offset: 0x567, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$YMImageMapView$initWithImage$P14YMImageMapViewP13objc_selectorP11objc_object', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x10 }
+  - { offsetInCU: 0x5AC, offset: 0x5AC, size: 0x8, addend: 0x0, symName: '__ZL44_logos_method$_ungrouped$GBStation$detailsAdP9GBStationP13objc_selector', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+  - { offsetInCU: 0x5CA, offset: 0x5CA, size: 0x8, addend: 0x0, symName: '__ZL44_logos_method$_ungrouped$GBStation$detailsAdP9GBStationP13objc_selector', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+  - { offsetInCU: 0x5FE, offset: 0x5FE, size: 0x8, addend: 0x0, symName: '__ZL40_logos_method$_ungrouped$GBDAL$inlineAdsP5GBDALP13objc_selector', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x8 }
+  - { offsetInCU: 0x632, offset: 0x632, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$GBStationListDataSource$inlineAdsP23GBStationListDataSourceP13objc_selector', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x8 }
+  - { offsetInCU: 0x666, offset: 0x666, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$GBStationListDataSource$inlineDFPListAdsP23GBStationListDataSourceP13objc_selector', symObjAddr: 0x244, symBinAddr: 0x4244, symSize: 0x8 }
+  - { offsetInCU: 0x69A, offset: 0x69A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$GBScrollableHomeScreen$DFPAdHeightP22GBScrollableHomeScreenP13objc_selector', symObjAddr: 0x24C, symBinAddr: 0x424C, symSize: 0x8 }
+  - { offsetInCU: 0x6CE, offset: 0x6CE, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$GBAdController$isAdPositionActive$P14GBAdControllerP13objc_selectori', symObjAddr: 0x254, symBinAddr: 0x4254, symSize: 0x8 }
+  - { offsetInCU: 0x70D, offset: 0x70D, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$GBAdAgent$isInlineDFPAdActiveP9GBAdAgentP13objc_selector', symObjAddr: 0x25C, symBinAddr: 0x425C, symSize: 0x8 }
+...

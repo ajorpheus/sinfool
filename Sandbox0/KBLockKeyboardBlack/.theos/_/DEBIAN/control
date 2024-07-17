@@ -1,0 +1,28 @@
+Package: com.sinfool.kblockkeyboardblack
+Name: KB - LockKeyboard (Black)  ₁₋₂₅₋₁₇
+Author: Sinfool
+Description: Makes the keyboard black with gray outlined keys and removes the predictive text background. Should give a similar appearance to the tweak "LockKeyboard" but with an opaque black background. Makes the keyboard black with gray outlined keys and removes the predictive text background. Should give a similar appearance to the tweak "LockKeyboard" but with an opaque black background.
+ .
+ Also, provides options to customize the following...
+ .
+ - Bold Key Text
+ - Light or Dark Shift Key Styling
+ - Suppress Return Key Styling
+ .
+ Use the following to change options...
+ .
+ P=pass-through  T=True
+ .
+ [v.1] Only tested with an iP6+ 9.3.3 but it very well may work on iOS 10 as well.  Made as a request via r/jailbreak.  (1-25-17)
+ .
+ *Please contact me via r/jailbreak or email if you've confirmed iOS 10 compatibility and I'll add you to the credits. ;)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33681
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

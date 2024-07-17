@@ -1,0 +1,15 @@
+Package: com.sinfool.disableedgeswipegesturesv410
+Name: Disable Edge Swipe Gestures (v. 4.1.0)  ₁₋₂₆₋₁₆
+Author: Sinfool
+Description: Disables edge swipe in gestures.  Useful if you only use on screen buttons. Disables edge swipe in gestures.  Useful if you only use on screen buttons.
+ .
+ [v.1] Tested with version 4.1.0.  (1-26-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27461
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html

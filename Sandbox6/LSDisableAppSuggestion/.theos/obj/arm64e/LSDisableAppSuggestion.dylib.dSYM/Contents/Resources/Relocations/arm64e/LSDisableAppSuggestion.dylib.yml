@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/LSDisableAppSuggestion/.theos/obj/arm64e/LSDisableAppSuggestion.dylib'
+relocations:     []
+...

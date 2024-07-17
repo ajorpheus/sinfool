@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/ExtraFeatures/.theos/obj/arm64/ExtraFeatures.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL36_logos_orig$_ungrouped$aaAds$enabled', symObjAddr: 0x1588, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$aaADPurchase$purchased', symObjAddr: 0x1590, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$aaHurricanes$enabled', symObjAddr: 0x1598, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$aaHurricaneProPurchase$purchased', symObjAddr: 0x15A0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL41_logos_orig$_ungrouped$aaWarnings$enabled', symObjAddr: 0x15A8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x18C, offset: 0x18C, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$aaWarningsProPurchase$purchased', symObjAddr: 0x15B0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1C5, offset: 0x1C5, size: 0x8, addend: 0x0, symName: '__ZL36_logos_orig$_ungrouped$aaRater$alert', symObjAddr: 0x15B8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x231, offset: 0x231, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x398, offset: 0x398, size: 0x8, addend: 0x0, symName: '__ZL38_logos_method$_ungrouped$aaAds$enabledP5aaAdsP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x3DE, offset: 0x3DE, size: 0x8, addend: 0x0, symName: '__ZL38_logos_method$_ungrouped$aaAds$enabledP5aaAdsP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x412, offset: 0x412, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$aaADPurchase$purchasedP12aaADPurchaseP13objc_selector', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x8 }
+  - { offsetInCU: 0x446, offset: 0x446, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$aaHurricanes$enabledP12aaHurricanesP13objc_selector', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+  - { offsetInCU: 0x47A, offset: 0x47A, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$aaHurricaneProPurchase$purchasedP22aaHurricaneProPurchaseP13objc_selector', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x8 }
+  - { offsetInCU: 0x4AE, offset: 0x4AE, size: 0x8, addend: 0x0, symName: '__ZL43_logos_method$_ungrouped$aaWarnings$enabledP10aaWarningsP13objc_selector', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x4E2, offset: 0x4E2, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$aaWarningsProPurchase$purchasedP21aaWarningsProPurchaseP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x516, offset: 0x516, size: 0x8, addend: 0x0, symName: '__ZL38_logos_method$_ungrouped$aaRater$alertP7aaRaterP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+...

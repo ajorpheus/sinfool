@@ -1,0 +1,21 @@
+Package: com.sinfool.dialerios11theme
+Name: Dialer - iOS 11 Theme
+Author: Sinfool
+Description: Themes the dialer with an iOS 11 inspired look. Themes the dialer with an iOS 11 inspired look.
+ .
+ OPTIONAL:  For bold text, turn on "Bold Text" at Settings -> General -> Accessibility.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36 so please go install it BEFORE downloading this patch.  The beta can be downloaded by adding "http://getdelta.co/" to your Cydia repo sources.
+ .
+ ⚑ UPDATES:
+ (11-2-17) *Initial release
+ (11-3-17) *Added methods so button highlight glyph stays black
+ .
+ [v.2]  Tested with an iP6+ on 9.3.3 but should work on iOS 10 as well.  Made as a request via r/jailbreak.  (11-3-17) patchID: 39920
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

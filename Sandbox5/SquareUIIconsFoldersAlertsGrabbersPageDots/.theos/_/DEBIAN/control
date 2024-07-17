@@ -1,0 +1,28 @@
+Package: com.sinfool.squareuiiconsfoldersalertsgrabberspagedots
+Name: Square² UI - (Icons/Folders/Alerts/Grabbers/Page Dots)  ₉₋₃₀₋₁₅
+Author: Sinfool
+Description: Squares corners of the following UI/blurred items listed below.  Also, disables the folder press highlight, removes open folder BG & provides an option to square open folder icons. Squares corners of the following UI/blurred items listed below.  Also, disables the folder press highlight, removes open folder BG & provides an option to square open folder icons.
+ .
+ • Icons (after cache)
+ • Folders
+ • Page Dots
+ • Alerts
+ • CC & NC Grabbers
+ • Opening Apps
+ • Icon Deletion "x"
+ • Open Folder Icons
+ • etc...
+ .
+ [v.1] Tested with iP6+ 8.4.  (9-30-15)
+ .
+ ★ If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:	goin730@gmail.com patchID: 24767
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

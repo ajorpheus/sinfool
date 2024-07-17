@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/HideCarrieriOS7/.theos/obj/arm64e/HideCarrieriOS7.dylib'
+relocations:     []
+...

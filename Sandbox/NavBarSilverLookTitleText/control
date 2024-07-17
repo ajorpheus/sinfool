@@ -1,0 +1,17 @@
+Package: com.sinfool.navbarsilverlooktitletext
+Name: Nav Bar - Silver Look Title Text  ₁₂₋₁₄₋₁₅
+Author: Sinfool
+Description: Changes the color of the navigation bar title text to silver with a white shadow.   Changes the color of the navigation bar title text to silver with a white shadow.  
+ .
+ NOTE:  This patch can also be used along with the tweak Eclipse however the color/shadow results will vary depending on your setup.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via e-mail.  (12-14-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26912
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

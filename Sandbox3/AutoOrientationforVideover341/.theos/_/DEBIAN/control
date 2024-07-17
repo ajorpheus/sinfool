@@ -1,0 +1,19 @@
+Package: com.sinfool.autoorientationforvideover341
+Name: Auto Orientation for Video (ver. 3.4.1)  ₇₋₂₉₋₁₅
+Author: Sinfool
+Description: Automatically forces videos to start in your preferred orientation (ie. Portrait, Upside Down, Automatically forces videos to start in your preferred orientation (ie. Portrait, Upside Down,
+  Landscape Left or Landscape Right).
+ .
+ [v.1] Tested with (ver. 3.4.1).  (7-29-15)
+ .
+ ● If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 23299
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.firecore.fuse
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

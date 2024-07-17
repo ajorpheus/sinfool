@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/HideAirPlayUIc/.theos/obj/arm64/HideAirPlayUI.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBMediaController$routeOtherThanHandsetIsAvailable', symObjAddr: 0xD10, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$MPAVRoutingController$routeOtherThanHandsetAvailable', symObjAddr: 0xD18, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$MPAVRoutingController$routeOtherThanHandsetAndSpeakerAvailable', symObjAddr: 0xD20, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x176, offset: 0x176, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBMediaController$routeOtherThanHandsetIsAvailableP17SBMediaControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1CD, offset: 0x1CD, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBMediaController$routeOtherThanHandsetIsAvailableP17SBMediaControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x201, offset: 0x201, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$MPAVRoutingController$routeOtherThanHandsetAvailableP21MPAVRoutingControllerP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x235, offset: 0x235, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$MPAVRoutingController$routeOtherThanHandsetAndSpeakerAvailableP21MPAVRoutingControllerP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

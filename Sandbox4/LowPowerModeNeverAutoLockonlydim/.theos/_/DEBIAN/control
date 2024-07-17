@@ -1,0 +1,24 @@
+Package: com.sinfool.lowpowermodeneverautolockonlydim
+Name: Low Power Mode - Never Auto-Lock (only dim)  ₈₋₃₋₁₆
+Author: Sinfool
+Description: Disables/sets auto-lock duration to "Never".  The screen will dim at 30 seconds but not auto-lock. Disables/sets auto-lock duration to "Never".  The screen will dim at 30 seconds but not auto-lock.
+ .
+ * Useful for those who always have "Low Power Mode" enabled but don't like the 30 sec auto lock restriction.
+ .
+ ⚠️WARNING:  Overrides auto-lock duration at all times!!! (i.e. NOT just while in low power mode & therefore the time duration at Settings>General>Auto-Lock is irrelevant.)
+ .
+ ⚑ UPDATES:
+ (2-16-16) *Initial release
+ (8-3-16) *Changed title from "Low Power Mode - Disables Auto-Lock"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (8-3-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27765
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,20 @@
+Package: com.sinfool.kbdisablecustomreturnkey
+Name: KB - Disable/Custom Return Key  ₁₂₋₄₋₁₅
+Author: Sinfool
+Description: Disables/Customizes the return key as listed below.  By default, the return key is only disabled. Disables/Customizes the return key as listed below.  By default, the return key is only disabled.
+ .
+ - Disable
+ - Disable Highlight Text
+ - Custom "return" Text
+ - Blue Button Color
+ .
+ [v.1]  Made as a request via r/jailbreak.  (12-4-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26738
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.4
+Icon: file:///private/var/mobile/Library/Sinfool/com.facebook.Facebook
+Homepage: https://ipadkid.cf/sinfool/index.html

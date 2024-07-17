@@ -1,0 +1,12 @@
+Package: com.sinfool.noshufflebutton
+Name: No Shuffle Button
+Author: Sinfool
+Description: Removes big green shuffle button.  Tested with version 1.7.1 & 1.8.0.  (10-2-14) Removes big green shuffle button.  Tested with version 1.7.1 & 1.8.0.  (10-2-14) patchID: 13301
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.spotify.client
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

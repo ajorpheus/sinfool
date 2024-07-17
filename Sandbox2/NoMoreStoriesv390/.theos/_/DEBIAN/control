@@ -1,0 +1,16 @@
+Package: com.sinfool.nomorestoriesv390
+Name: No More Stories (v. 39.0)
+Author: Sinfool
+Description: Removes the stories cell from feeds and the search page. Removes the stories cell from feeds and the search page.
+ .
+ [v.1] Tested with Instagram version 39.0.  Requested in the comments section by "iPhone5SBlack".  (4-4-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41805
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.burbn.instagram
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

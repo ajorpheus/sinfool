@@ -1,0 +1,15 @@
+Package: com.sinfool.nocommercialsv302
+Name: No Commercials (v. 3.0.2)  ₅₋₁₁₋₁₆
+Author: Sinfool
+Description: Removes commercials from the MTV app. Removes commercials from the MTV app.
+ .
+ [v.1] Tested with version 3.0.2.  (5-11-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28669
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.mtvn.mtvPrimeiPad
+Homepage: https://ipadkid.cf/sinfool/index.html

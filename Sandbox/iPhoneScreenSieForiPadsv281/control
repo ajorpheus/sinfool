@@ -1,0 +1,13 @@
+Package: com.sinfool.iphonescreensieforipadsv281
+Name: iPhone Screen Size For iPads (v. 2.8.1)
+Author: Sinfool
+Description: Forces iPhone screen size resolution on iPads.  Useful for those who prefer the iPhone screen size layout which displays more content. Forces iPhone screen size resolution on iPads.  Useful for those who prefer the iPhone screen size layout which displays more content.
+ .
+ [v.1] Tested with version 2.8.1.  Requested by /r/jailbreak user /u/Lvnatic92.  (10-2-17) patchID: 39592
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.superevilmegacorp.kindred
+Homepage: https://ipadkid.cf/sinfool/index.html

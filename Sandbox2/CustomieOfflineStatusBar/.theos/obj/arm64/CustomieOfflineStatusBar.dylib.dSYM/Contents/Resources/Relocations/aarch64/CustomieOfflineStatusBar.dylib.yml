@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/CustomieOfflineStatusBar/.theos/obj/arm64/CustomieOfflineStatusBar.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$RHStatusBarView$setStatusMessage$ofType$', symObjAddr: 0xBB0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xCC, offset: 0xCC, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$RHFullPlayerContainerViewController$statusBarView', symObjAddr: 0xBB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$RHStatusBarView$setStatusMessage$ofType$P15RHStatusBarViewP13objc_selectorP11objc_objecti', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x18 }
+  - { offsetInCU: 0x1C5, offset: 0x1C5, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$RHStatusBarView$setStatusMessage$ofType$P15RHStatusBarViewP13objc_selectorP11objc_objecti', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x18 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$RHFullPlayerContainerViewController$statusBarViewP35RHFullPlayerContainerViewControllerP13objc_selector', symObjAddr: 0x74, symBinAddr: 0x4074, symSize: 0x8 }
+  - { offsetInCU: 0x233, offset: 0x233, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$RHFullPlayerContainerViewController$statusBarViewP35RHFullPlayerContainerViewControllerP13objc_selector', symObjAddr: 0x74, symBinAddr: 0x4074, symSize: 0x8 }
+...

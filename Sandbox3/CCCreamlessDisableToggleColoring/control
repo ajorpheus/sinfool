@@ -1,0 +1,24 @@
+Package: com.sinfool.cccreamlessdisabletogglecoloring
+Name: CC - Creamless (Disable Toggle Coloring)
+Author: Sinfool
+Description: I made this patch to mimic the tweak "Creamless".  Disables control center toggle coloring & provides the following customizable options... I made this patch to mimic the tweak "Creamless".  Disables control center toggle coloring & provides the following customizable options...
+ .
+ - Hide/Show Toggle & Button Backgrounds
+ - Custom Highlight Color
+ - AirStuff Glyph Color
+ - Night Shift Glyph Color
+ .
+ N=NULL  P=pass-through
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36.  Please add "http://getdelta.co/" to your Cydia repo sources and install the beta version before downloading this patch.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (10-5-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39615
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

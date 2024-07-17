@@ -1,0 +1,24 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/AIOBypassLoginNoAdsCommercialsver2426/.theos/obj/arm64e/AIOBypassLoginNoAdsCommercialsver2426.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x19C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL39_logos_orig$_ungrouped$MTVConfig$getAds', symObjAddr: 0x1AB8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$MTVTVESubscriber$isAuthorized', symObjAddr: 0x1AC0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$MTVTVESubscriber$isAuthenticated', symObjAddr: 0x1AC8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x123, offset: 0x123, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$MTVHomeAdView$initWithFrame$', symObjAddr: 0x1AD0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1FB, offset: 0x1FB, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$MTVShowAdView$initWithFrame$', symObjAddr: 0x1AD8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x239, offset: 0x239, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$MTVBrowseAdView$initWithFrame$', symObjAddr: 0x1AE0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x277, offset: 0x277, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$MTVOnTvTileAdView$initWithFrame$', symObjAddr: 0x1AE8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x2B5, offset: 0x2B5, size: 0x8, addend: 0x0, symName: '__ZL47_logos_orig$_ungrouped$VMNPlayer$spinnerEnabled', symObjAddr: 0x1AF0, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x2F8, offset: 0x2F8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x19C }
+  - { offsetInCU: 0x465, offset: 0x465, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$MTVConfig$getAdsP9MTVConfigP13objc_selector', symObjAddr: 0x19C, symBinAddr: 0x419C, symSize: 0x8 }
+  - { offsetInCU: 0x4AB, offset: 0x4AB, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$MTVConfig$getAdsP9MTVConfigP13objc_selector', symObjAddr: 0x19C, symBinAddr: 0x419C, symSize: 0x8 }
+  - { offsetInCU: 0x4DF, offset: 0x4DF, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$MTVTVESubscriber$isAuthorizedP16MTVTVESubscriberP13objc_selector', symObjAddr: 0x1A4, symBinAddr: 0x41A4, symSize: 0x8 }
+  - { offsetInCU: 0x513, offset: 0x513, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$MTVTVESubscriber$isAuthenticatedP16MTVTVESubscriberP13objc_selector', symObjAddr: 0x1AC, symBinAddr: 0x41AC, symSize: 0x8 }
+  - { offsetInCU: 0x547, offset: 0x547, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$MTVHomeAdView$initWithFrame$P13MTVHomeAdViewP13objc_selector6CGRect', symObjAddr: 0x1B4, symBinAddr: 0x41B4, symSize: 0x8 }
+  - { offsetInCU: 0x586, offset: 0x586, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$MTVShowAdView$initWithFrame$P13MTVShowAdViewP13objc_selector6CGRect', symObjAddr: 0x1BC, symBinAddr: 0x41BC, symSize: 0x8 }
+  - { offsetInCU: 0x5C5, offset: 0x5C5, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$MTVBrowseAdView$initWithFrame$P15MTVBrowseAdViewP13objc_selector6CGRect', symObjAddr: 0x1C4, symBinAddr: 0x41C4, symSize: 0x8 }
+  - { offsetInCU: 0x604, offset: 0x604, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$MTVOnTvTileAdView$initWithFrame$P17MTVOnTvTileAdViewP13objc_selector6CGRect', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x8 }
+  - { offsetInCU: 0x643, offset: 0x643, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$VMNPlayer$spinnerEnabledP9VMNPlayerP13objc_selector', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x8 }
+...

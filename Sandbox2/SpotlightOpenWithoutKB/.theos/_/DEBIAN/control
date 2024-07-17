@@ -1,0 +1,16 @@
+Package: com.sinfool.spotlightopenwithoutkb
+Name: Spotlight - Open Without KB  ₁₂₋₁₂₋₁₅
+Author: Sinfool
+Description: Opens spotlight without the keyboard showing. Opens spotlight without the keyboard showing.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-12-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26881
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

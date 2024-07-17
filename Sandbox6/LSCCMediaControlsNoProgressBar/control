@@ -1,0 +1,19 @@
+Package: com.sinfool.lsccmediacontrolsnoprogressbar
+Name: LS/CC (Media Controls) - No Progress Bar  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Removes the progress slider from the lock screen & control center. Removes the progress slider from the lock screen & control center.
+ .
+ ⚑ UPDATES:
+ (12-1-15) *Initial release
+ (4-17-16) *Changed the title from "LS/CC - No Progress Slider" to "LS/CC (Media Controls) - No Progress Bar"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26686
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

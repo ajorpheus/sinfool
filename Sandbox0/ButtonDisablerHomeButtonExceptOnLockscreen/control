@@ -1,0 +1,17 @@
+Package: com.sinfool.buttondisablerhomebuttonexceptonlockscreen
+Name: ButtonDisabler - Home Button (Except On Lockscreen)  ₁₀₋₉₋₁₆
+Author: Sinfool
+Description: Disables the home button EXCEPT on the lockscreen thereby retaining the ability to wake the device using the home button (presuming it functions or at least partially functions). Disables the home button EXCEPT on the lockscreen thereby retaining the ability to wake the device using the home button (presuming it functions or at least partially functions).
+ .
+ *Useful if you have a broken home button which triggers inadvertently but not always AND maybe if you wanted to prevent a child from exiting out of apps etc.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & 9.3.3.  Made as a request via r/jailbreak.  Changed/removed "(Not On Lockscreen)".  (10-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31572
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

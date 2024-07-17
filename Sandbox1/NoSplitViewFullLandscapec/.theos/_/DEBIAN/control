@@ -1,0 +1,16 @@
+Package: com.sinfool.nosplitviewfulllandscape
+Name: No Split View (Full Landscape)
+Author: Sinfool
+Description: Disables native split view.  Provides a full screen view in landscape etc.  Useful for those who don't like this native feature. Disables native split view.  Provides a full screen view in landscape etc.  Useful for those who don't like this native feature.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (7-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38387
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

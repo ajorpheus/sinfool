@@ -1,0 +1,18 @@
+Package: com.sinfool.buttondisablerhomebutton
+Name: ButtonDisabler - Home Button  ₁₀₋₉₋₁₆
+Author: Sinfool
+Description: Disables the home button. Disables the home button.
+ .
+ *Useful if you have a broken home button which triggers inadvertently.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & 9.3.3.  Made as a request via r/jailbreak.  Changed/removed "(Everywhere)" from the title.  (10-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31571
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

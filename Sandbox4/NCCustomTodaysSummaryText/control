@@ -1,0 +1,15 @@
+Package: com.sinfool.nccustomtodayssummarytext
+Name: NC - Custom "Today's Summary" Text  ₃₋₁₋₁₆
+Author: Sinfool
+Description: Changes "Today's Summary" text in NC.  Set the text to your liking.  By default, I also removed the Weather Icon but you can show it again by deleting the entry specified below. Changes "Today's Summary" text in NC.  Set the text to your liking.  By default, I also removed the Weather Icon but you can show it again by deleting the entry specified below.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 but didn't always change.  Made as a request.  (3-1-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27949
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

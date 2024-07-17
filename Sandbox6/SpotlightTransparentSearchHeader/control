@@ -1,0 +1,15 @@
+Package: com.sinfool.spotlighttransparentsearchheader
+Name: Spotlight - Transparent (Search Header)
+Author: Sinfool
+Description: Makes spotlight's search header background transparent & removes the blur when scrolling. Makes spotlight's search header background transparent & removes the blur when scrolling.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (2-13-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34577
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

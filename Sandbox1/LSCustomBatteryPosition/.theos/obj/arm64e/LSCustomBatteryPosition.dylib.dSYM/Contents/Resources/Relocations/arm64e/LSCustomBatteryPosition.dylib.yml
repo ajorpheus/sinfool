@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/LSCustomBatteryPosition/.theos/obj/arm64e/LSCustomBatteryPosition.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_SBLockScreenSingleBatteryChargingView$_batteryBaseline', symObjAddr: 0xDE8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$_SBLockScreenSingleBatteryChargingView$_chargingTextBaselineOffset', symObjAddr: 0xDF0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBLockScreenViewController$_shouldShowChargingText', symObjAddr: 0xDF8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x18F, offset: 0x18F, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_SBLockScreenSingleBatteryChargingView$_batteryBaselineP38_SBLockScreenSingleBatteryChargingViewP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0xC }
+  - { offsetInCU: 0x1DF, offset: 0x1DF, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_SBLockScreenSingleBatteryChargingView$_batteryBaselineP38_SBLockScreenSingleBatteryChargingViewP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0xC }
+  - { offsetInCU: 0x213, offset: 0x213, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$_SBLockScreenSingleBatteryChargingView$_chargingTextBaselineOffsetP38_SBLockScreenSingleBatteryChargingViewP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0xC }
+  - { offsetInCU: 0x247, offset: 0x247, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBLockScreenViewController$_shouldShowChargingTextP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

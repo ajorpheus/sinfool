@@ -1,0 +1,20 @@
+Package: com.sinfool.ccncsideswitcherbettergrabberswiping
+Name: CC/NC/Side Switcher - Better Grabber Swiping
+Author: Sinfool
+Description: Do you get annoyed when trying to press and pull the grabber for CC, NC or the multitasking side switcher?  If so, (& you don't already use any of the "Show On First Swipe" patches or the tweak "AlwaysFirstSwipe") than this patch is for you! Do you get annoyed when trying to press and pull the grabber for CC, NC or the multitasking side switcher?  If so, (& you don't already use any of the "Show On First Swipe" patches or the tweak "AlwaysFirstSwipe") than this patch is for you!
+ .
+ This patch provides better swiping of the grabber for CC, NC and the multitasking side switcher by allowing you to swipe anywhere along the screen edge for the second swipe instead of having to precisely tap & pull the grabber.
+ .
+ So essentially... just swipe twice anywhere along the screen edge to show the corresponding menu.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-8-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40797
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

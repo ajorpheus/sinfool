@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/KBEnablePredictiveText/.theos/obj/arm64/KBEnablePredictiveText.dylib'
+relocations:     []
+...

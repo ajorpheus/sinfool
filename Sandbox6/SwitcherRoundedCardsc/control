@@ -1,0 +1,15 @@
+Package: com.sinfool.switcherroundedcards
+Name: Switcher - Rounded Cards  ₁₂₋₁₁₋₁₆
+Author: Sinfool
+Description: Rounds the switcher cards.  Set the corner radius to your liking. By default, this also removes the scrolling blur & card shadow. Simply delete the units you don't want enabled. Rounds the switcher cards.  Set the corner radius to your liking. By default, this also removes the scrolling blur & card shadow. Simply delete the units you don't want enabled.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via email.  (12-11-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32595
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,13 @@
+Package: com.sinfool.noforcedupdate
+Name: No Forced Update
+Author: Sinfool
+Description: Removes forced update prompt & allows you to continue using older app versions.  Tested with version 2.6.5.  (4-30-15)   Removes forced update prompt & allows you to continue using older app versions.  Tested with version 2.6.5.  (4-30-15)  
+ .
+ UPDATE/FYI:  As of (5-1-15), many server services have been discontinued in older app versions so the usefulness of this patch is now questionable.  patchID: 20893
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.siriusxm.siriusxmonline
+Homepage: https://ipadkid.cf/sinfool/index.html

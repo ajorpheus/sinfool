@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/DisableProximitySensor/.theos/obj/arm64/DisableProximitySensor.dylib'
+relocations:     []
+...

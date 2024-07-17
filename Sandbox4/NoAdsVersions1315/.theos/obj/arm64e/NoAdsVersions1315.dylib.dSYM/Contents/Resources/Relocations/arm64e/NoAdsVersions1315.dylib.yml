@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoAdsVersions1315/.theos/obj/arm64e/NoAdsVersions1315.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL38_logos_orig$_ungrouped$Chartboost$init', symObjAddr: 0xF08, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$RevMobAdFetcher$init', symObjAddr: 0xF10, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0xCF, size: 0x8, addend: 0x0, symName: '__ZL37_logos_orig$_ungrouped$AdManager$init', symObjAddr: 0xF18, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x108, offset: 0x108, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$ALTaskRenderAd$cacheNonVideoResources$', symObjAddr: 0xF20, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x250, offset: 0x250, size: 0x8, addend: 0x0, symName: '__ZL40_logos_method$_ungrouped$Chartboost$initP10ChartboostP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x296, offset: 0x296, size: 0x8, addend: 0x0, symName: '__ZL40_logos_method$_ungrouped$Chartboost$initP10ChartboostP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x2CA, offset: 0x2CA, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$RevMobAdFetcher$initP15RevMobAdFetcherP13objc_selector', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x2FE, offset: 0x2FE, size: 0x8, addend: 0x0, symName: '__ZL39_logos_method$_ungrouped$AdManager$initP9AdManagerP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x332, offset: 0x332, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$ALTaskRenderAd$cacheNonVideoResources$P14ALTaskRenderAdP13objc_selectorP11objc_object', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x10 }
+...

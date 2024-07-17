@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/CombineSectionsc/.theos/obj/arm64/CombineSections.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITableView$sectionHeaderHeight', symObjAddr: 0x4BF0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1543, offset: 0x1543, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITableView$sectionFooterHeight', symObjAddr: 0x4BF8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x155C, offset: 0x155C, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableView$setSeparatorStyle$', symObjAddr: 0x4C00, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1592, offset: 0x1592, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UITableView$_shouldDrawSeparatorAtTopOfSection$', symObjAddr: 0x4C08, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x15C5, offset: 0x15C5, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$sectionLocation', symObjAddr: 0x4C10, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1608, offset: 0x1608, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xC8 }
+  - { offsetInCU: 0x16B4, offset: 0x16B4, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$sectionHeaderHeightP11UITableViewP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+  - { offsetInCU: 0x16F1, offset: 0x16F1, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$sectionHeaderHeightP11UITableViewP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+  - { offsetInCU: 0x1725, offset: 0x1725, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$sectionFooterHeightP11UITableViewP13objc_selector', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x8 }
+  - { offsetInCU: 0x1759, offset: 0x1759, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x10 }
+  - { offsetInCU: 0x179A, offset: 0x179A, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UITableView$_shouldDrawSeparatorAtTopOfSection$P11UITableViewP13objc_selectorx', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x17B8, offset: 0x17B8, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UITableView$_shouldDrawSeparatorAtTopOfSection$P11UITableViewP13objc_selectorx', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x17F7, offset: 0x17F7, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$sectionLocationP39_UIGroupTableViewCellBackgroundImageKeyP13objc_selector', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x8 }
+...

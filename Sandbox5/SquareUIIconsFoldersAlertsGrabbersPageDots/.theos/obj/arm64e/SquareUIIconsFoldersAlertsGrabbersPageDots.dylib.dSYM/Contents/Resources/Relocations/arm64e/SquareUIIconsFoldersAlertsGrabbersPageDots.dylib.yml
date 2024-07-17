@@ -1,0 +1,21 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/SquareUIIconsFoldersAlertsGrabbersPageDots/.theos/obj/arm64e/SquareUIIconsFoldersAlertsGrabbersPageDots.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x140 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL47_logos_orig$_ungrouped$CALayer$setCornerRadius$', symObjAddr: 0x2640, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x689, offset: 0x689, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBControlCenterGrabberView$chevronView', symObjAddr: 0x2648, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x6C2, offset: 0x6C2, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$SBNotificationCenterViewController$grabberView', symObjAddr: 0x2650, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x6FB, offset: 0x6FB, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$SBFolderIconImageView$darkeningOverlayImage', symObjAddr: 0x2658, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x734, offset: 0x734, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$SBFolderBackgroundView$initWithFrame$', symObjAddr: 0x2660, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x772, offset: 0x772, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBIconImageView$setShowsSquareCorners$', symObjAddr: 0x2668, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x7B6, offset: 0x7B6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x140 }
+  - { offsetInCU: 0x8CA, offset: 0x8CA, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$CALayer$setCornerRadius$P7CALayerP13objc_selectord', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x10 }
+  - { offsetInCU: 0x907, offset: 0x907, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$CALayer$setCornerRadius$P7CALayerP13objc_selectord', symObjAddr: 0x140, symBinAddr: 0x4140, symSize: 0x10 }
+  - { offsetInCU: 0x948, offset: 0x948, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBControlCenterGrabberView$chevronViewP26SBControlCenterGrabberViewP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+  - { offsetInCU: 0x961, offset: 0x961, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBControlCenterGrabberView$chevronViewP26SBControlCenterGrabberViewP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+  - { offsetInCU: 0x995, offset: 0x995, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBNotificationCenterViewController$grabberViewP34SBNotificationCenterViewControllerP13objc_selector', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x8 }
+  - { offsetInCU: 0x9C9, offset: 0x9C9, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$SBFolderIconImageView$darkeningOverlayImageP21SBFolderIconImageViewP13objc_selector', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x8 }
+  - { offsetInCU: 0x9FD, offset: 0x9FD, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SBFolderBackgroundView$initWithFrame$P22SBFolderBackgroundViewP13objc_selector6CGRect', symObjAddr: 0x168, symBinAddr: 0x4168, symSize: 0x8 }
+  - { offsetInCU: 0xA3C, offset: 0xA3C, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBIconImageView$setShowsSquareCorners$P15SBIconImageViewP13objc_selectorb', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x10 }
+...

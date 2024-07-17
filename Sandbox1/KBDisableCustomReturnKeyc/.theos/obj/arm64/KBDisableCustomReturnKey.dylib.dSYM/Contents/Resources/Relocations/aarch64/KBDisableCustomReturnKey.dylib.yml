@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/KBDisableCustomReturnKeyc/.theos/obj/arm64/KBDisableCustomReturnKey.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UIKeyboardImpl$returnKeyEnabled', symObjAddr: 0xB78, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$UIKeyboardLayoutStar$setReturnKeyEnabled$withDisplayName$withType$', symObjAddr: 0xB80, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x11B, offset: 0x11B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x18B, offset: 0x18B, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UIKeyboardImpl$returnKeyEnabledP14UIKeyboardImplP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1D1, offset: 0x1D1, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UIKeyboardImpl$returnKeyEnabledP14UIKeyboardImplP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x205, offset: 0x205, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$UIKeyboardLayoutStar$setReturnKeyEnabled$withDisplayName$withType$P20UIKeyboardLayoutStarP13objc_selectorbP11objc_objecti', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x10 }
+...

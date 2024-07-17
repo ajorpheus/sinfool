@@ -1,0 +1,18 @@
+Package: com.sinfool.bypassloginv51217
+Name: Bypass Login (v. 51217)  ₁₋₁₉₋₁₆
+Author: Sinfool
+Description: Bypasses having to login.  Useful for those who updated to version 51217 but don't want to create/use an account. Bypasses having to login.  Useful for those who updated to version 51217 but don't want to create/use an account.
+ .
+ NOTE:  This does NOT enable any paid features.
+ .
+ [v.1] Tested with (v. 51217)  (1-19-16)
+ .
+ PayPal:  goin730@gmail.com patchID: 27385
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.nbaimd.gametime.universal
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

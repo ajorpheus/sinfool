@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/DarkColorThemeCustomiable/.theos/obj/arm64/DarkColorThemeCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL24_logosLocalCtor_4028b031iPPcS0_, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL92_logos_orig$_ungrouped$CalculatorPatchedSwiftClassNamePrimaryDisplayView$setBackgroundColor$', symObjAddr: 0x11D8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB5, offset: 0xB5, size: 0x8, addend: 0x0, symName: '__ZL95_logos_orig$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setBackgroundColor$', symObjAddr: 0x11E0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xCE, offset: 0xCE, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setTextColor$', symObjAddr: 0x11E8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xF1, offset: 0xF1, size: 0x8, addend: 0x0, symName: __ZL24_logosLocalCtor_4028b031iPPcS0_, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x19D, offset: 0x19D, size: 0x8, addend: 0x0, symName: '__ZL94_logos_method$_ungrouped$CalculatorPatchedSwiftClassNamePrimaryDisplayView$setBackgroundColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x50 }
+  - { offsetInCU: 0x1EA, offset: 0x1EA, size: 0x8, addend: 0x0, symName: '__ZL94_logos_method$_ungrouped$CalculatorPatchedSwiftClassNamePrimaryDisplayView$setBackgroundColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x50 }
+  - { offsetInCU: 0x232, offset: 0x232, size: 0x8, addend: 0x0, symName: '__ZL97_logos_method$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setBackgroundColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x54 }
+  - { offsetInCU: 0x249, offset: 0x249, size: 0x8, addend: 0x0, symName: '__ZL97_logos_method$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setBackgroundColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x54 }
+  - { offsetInCU: 0x291, offset: 0x291, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setTextColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x5C }
+  - { offsetInCU: 0x2A8, offset: 0x2A8, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$CalculatorPatchedSwiftClassNameCalculatorKeypadLabel$setTextColor$P11objc_objectP13objc_selectorS0_', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x5C }
+...

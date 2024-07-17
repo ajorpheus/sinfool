@@ -1,0 +1,11 @@
+Package: com.sinfool.noadsver10
+Name: No Ads (ver. 1.0)
+Author: Sinfool
+Description: No ads.  Tested with version 1.0.  (5-3-15) No ads.  Tested with version 1.0.  (5-3-15) patchID: 20976
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.Manzoor.UniversalTVHD
+Homepage: https://ipadkid.cf/sinfool/index.html

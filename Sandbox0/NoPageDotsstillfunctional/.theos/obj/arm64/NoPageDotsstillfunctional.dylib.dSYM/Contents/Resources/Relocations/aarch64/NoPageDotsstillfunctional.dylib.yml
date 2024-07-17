@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/NoPageDotsstillfunctional/.theos/obj/arm64/NoPageDotsstillfunctional.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL98_logos_orig$_ungrouped$SBIconPageIndicatorImageSetResult$initWithIndicatorSet$enabledIndicatorSet$', symObjAddr: 0x888, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: '__ZL100_logos_method$_ungrouped$SBIconPageIndicatorImageSetResult$initWithIndicatorSet$enabledIndicatorSet$P33SBIconPageIndicatorImageSetResultP13objc_selectorP11objc_objectS4_', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x160, offset: 0x160, size: 0x8, addend: 0x0, symName: '__ZL100_logos_method$_ungrouped$SBIconPageIndicatorImageSetResult$initWithIndicatorSet$enabledIndicatorSet$P33SBIconPageIndicatorImageSetResultP13objc_selectorP11objc_objectS4_', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

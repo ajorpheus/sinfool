@@ -1,0 +1,21 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/ChildProof/.theos/obj/arm64/ChildProof.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x100 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIToolbarButton$setEnabled$', symObjAddr: 0x1748, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$PUAlbumListViewController$canDeleteCollection$', symObjAddr: 0x1750, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x105, offset: 0x105, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$PUCloudSharedAlbumViewController$canDeleteContent', symObjAddr: 0x1758, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x13E, offset: 0x13E, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$PUPhotosGridViewController$canDeleteContent', symObjAddr: 0x1760, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x177, offset: 0x177, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$PUDeletePhotosActionController$shouldSkipDeleteConfirmation', symObjAddr: 0x1768, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1B0, offset: 0x1B0, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$PUDeletePhotosActionController$_handleFinalUserDecisionShouldDelete$', symObjAddr: 0x1770, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1E9, offset: 0x1E9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x100 }
+  - { offsetInCU: 0x2EF, offset: 0x2EF, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIToolbarButton$setEnabled$P15UIToolbarButtonP13objc_selectorb', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x10 }
+  - { offsetInCU: 0x33C, offset: 0x33C, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIToolbarButton$setEnabled$P15UIToolbarButtonP13objc_selectorb', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x10 }
+  - { offsetInCU: 0x37D, offset: 0x37D, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$PUAlbumListViewController$canDeleteCollection$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x110, symBinAddr: 0x4110, symSize: 0x8 }
+  - { offsetInCU: 0x39B, offset: 0x39B, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$PUAlbumListViewController$canDeleteCollection$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x110, symBinAddr: 0x4110, symSize: 0x8 }
+  - { offsetInCU: 0x3DA, offset: 0x3DA, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$PUCloudSharedAlbumViewController$canDeleteContentP32PUCloudSharedAlbumViewControllerP13objc_selector', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x8 }
+  - { offsetInCU: 0x40E, offset: 0x40E, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$PUPhotosGridViewController$canDeleteContentP26PUPhotosGridViewControllerP13objc_selector', symObjAddr: 0x120, symBinAddr: 0x4120, symSize: 0x8 }
+  - { offsetInCU: 0x442, offset: 0x442, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$PUDeletePhotosActionController$shouldSkipDeleteConfirmationP30PUDeletePhotosActionControllerP13objc_selector', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x8 }
+  - { offsetInCU: 0x476, offset: 0x476, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$PUDeletePhotosActionController$_handleFinalUserDecisionShouldDelete$P30PUDeletePhotosActionControllerP13objc_selectorb', symObjAddr: 0x130, symBinAddr: 0x4130, symSize: 0x10 }
+...

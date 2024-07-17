@@ -1,0 +1,12 @@
+Package: com.sinfool.removesadspopups
+Name: Removes Ads & Popups
+Author: Sinfool
+Description: Removes ads & popups.  (5-3-14) Removes ads & popups.  (5-3-14) patchID: 10645
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.ObsessiveC.FlappysBack
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

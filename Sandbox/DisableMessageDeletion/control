@@ -1,0 +1,15 @@
+Package: com.sinfool.disablemessagedeletion
+Name: Disable Message Deletion  ₁₋₂₀₋₁₆
+Author: Sinfool
+Description: Disables message deletion. Disables message deletion.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made after reading a recent request via r/jailbreak.  (1-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27390
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,20 @@
+Package: com.sinfool.activitysheetsiconspacing
+Name: Activity Sheets - Icon Spacing
+Author: Sinfool
+Description: Changes the spacing in between the scrolling icons of activity/share sheets. Changes the spacing in between the scrolling icons of activity/share sheets.
+ .
+ Change the value as you please (including negative values).
+ .
+ NOTE:  This also may be useful for some devices which scale these icons differently.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (7-12-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38538
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,16 @@
+Package: com.sinfool.lshsncbannersnotitletextios11
+Name: LS/HS/NC/Banners - No Title Text (iOS 11)
+Author: Sinfool
+Description: Hides the header title text from all notifications & widgets on the today view pages of the LS, HS, NC & within Banners. Hides the header title text from all notifications & widgets on the today view pages of the LS, HS, NC & within Banners.
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  Made as a request via r/jailbreak user /u/aadharsh_2.  (5-18-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42366
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

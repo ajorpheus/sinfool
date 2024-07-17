@@ -1,0 +1,18 @@
+Package: com.sinfool.noremovegamefromgamecenterwhendeletingapps
+Name: No "Remove 'Game' From Game Center?" When Deleting Apps  ₂₋₂₀₋₁₆
+Author: Sinfool
+Description: Removes the "Remove 'Game' From Game Center?" prompt/popup when deleting apps. Removes the "Remove 'Game' From Game Center?" prompt/popup when deleting apps.
+ .
+ This "may" be useful if you're having trouble when deleting apps.
+ .
+ [v.1] Tested with an iP5 9.0.2.  Made after reading about an issue posted on r/jailbreak.  (2-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27813
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

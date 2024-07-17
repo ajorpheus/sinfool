@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NoAdsver19202/.theos/obj/arm64e/NoAdsver19202.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0xDE0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$Interstitiel$initWithFrame$', symObjAddr: 0xDE8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x16E, offset: 0x16E, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$HZiAdBannerAdapter$isAvailable', symObjAddr: 0xDF0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1B8, offset: 0x1B8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x251, offset: 0x251, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x2A1, offset: 0x2A1, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x2D5, offset: 0x2D5, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$Interstitiel$initWithFrame$P12InterstitielP13objc_selector6CGRect', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x314, offset: 0x314, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$HZiAdBannerAdapter$isAvailableP18HZiAdBannerAdapterP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+...

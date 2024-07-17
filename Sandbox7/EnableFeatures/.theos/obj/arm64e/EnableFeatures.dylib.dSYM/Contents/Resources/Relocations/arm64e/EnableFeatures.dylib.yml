@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/EnableFeatures/.theos/obj/arm64e/EnableFeatures.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$TMOAccountInfo$mustShowAds', symObjAddr: 0xB70, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$TMOAccountInfo$isPremiumBackgroundUnlocked', symObjAddr: 0xB78, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC1, offset: 0xC1, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$TMOAccountInfo$isPremiumRingtonePackUnlocked', symObjAddr: 0xB80, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xE4, offset: 0xE4, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x14C, offset: 0x14C, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$TMOAccountInfo$mustShowAdsP14TMOAccountInfoP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x1A3, offset: 0x1A3, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$TMOAccountInfo$mustShowAdsP14TMOAccountInfoP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x1D7, offset: 0x1D7, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$TMOAccountInfo$isPremiumBackgroundUnlockedP14TMOAccountInfoP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x20B, offset: 0x20B, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$TMOAccountInfo$isPremiumRingtonePackUnlockedP14TMOAccountInfoP13objc_selector', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+...

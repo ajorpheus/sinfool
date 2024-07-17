@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/CustomVolumeStep/.theos/obj/arm64e/CustomVolumeStep.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$VolumeControl$volumeStepUp', symObjAddr: 0x8E0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$VolumeControl$volumeStepDown', symObjAddr: 0x8E8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$VolumeControl$volumeStepUpP13VolumeControlP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x16B, offset: 0x16B, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$VolumeControl$volumeStepUpP13VolumeControlP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x19F, offset: 0x19F, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$VolumeControl$volumeStepDownP13VolumeControlP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+...

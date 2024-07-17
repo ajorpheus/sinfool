@@ -1,0 +1,19 @@
+Package: com.sinfool.statusbarnostatusbarnorspace
+Name: Status Bar - No Status Bar (nor space)
+Author: Sinfool
+Description: Removes the status bar (& leftover space) in most apps. Removes the status bar (& leftover space) in most apps.
+ .
+ IMPORTANT:  Also disables all double sized "in use" status bars so therefore you'll need to access these apps via the switcher (or the HS if not using the SpringBoard patch).
+ .
+ NOTE:  Use this along with the SpringBoard patch "Status Bar - No Status Bar (nor space)" to remove the status bar from the LS/HS.
+ .
+ [v.1] Tested with 10.2.  Made as a request via the Flex comments.  (6-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 37950
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

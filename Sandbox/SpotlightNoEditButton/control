@@ -1,0 +1,15 @@
+Package: com.sinfool.spotlightnoeditbutton
+Name: Spotlight - No Edit Button
+Author: Sinfool
+Description: Removes the edit button from the spotlight "Today View" page. Removes the edit button from the spotlight "Today View" page.
+ .
+ [v.1] Tested with a text message on an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (2-25-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35177
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

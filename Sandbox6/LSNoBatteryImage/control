@@ -1,0 +1,15 @@
+Package: com.sinfool.lsnobatteryimage
+Name: LS - No Battery Image
+Author: Sinfool
+Description: Hides the battery image (but keeps the % charged text) when connecting to power giving you a cleaner minimalist appearance. Hides the battery image (but keeps the % charged text) when connecting to power giving you a cleaner minimalist appearance.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (6-19-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38217
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

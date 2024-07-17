@@ -1,0 +1,29 @@
+Package: com.sinfool.dockbackgroundstylecustomiable
+Name: Dock - Background Style (Customizable)
+Author: Sinfool
+Description: Changes the background style of the dock & switcher.  Change values as per suggested or experiment with your own values to get different looks.  By default, I set the style to have a dark blur.  Here's a few possibilities... Changes the background style of the dock & switcher.  Change values as per suggested or experiment with your own values to get different looks.  By default, I set the style to have a dark blur.  Here's a few possibilities...
+ .
+ - No Blur=0
+ - Black=2
+ - Less Blur=3
+ - Lesser Blur=4
+ - Soft Blur=5
+ - Light Gray=9
+ - Frosted Blur=10
+ - Frost=13
+ - Dark Blur=14
+ - White Blur=15
+ - Glass Blur=16
+ - Dark Tint=19
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (3-9-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35666
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

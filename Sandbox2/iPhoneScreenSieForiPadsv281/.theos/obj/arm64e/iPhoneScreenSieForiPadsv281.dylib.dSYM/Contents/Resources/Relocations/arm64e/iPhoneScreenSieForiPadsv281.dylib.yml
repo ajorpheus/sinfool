@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/iPhoneScreenSieForiPadsv281/.theos/obj/arm64e/iPhoneScreenSieForiPadsv281.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UIApplication$_setClassicMode$', symObjAddr: 0x4E18, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x17AF, offset: 0x17AF, size: 0x8, addend: 0x0, symName: '__ZL48_logos_orig$_ungrouped$UIApplication$_shouldZoom', symObjAddr: 0x4E20, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x17DD, offset: 0x17DD, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UIApplication$_shouldUseHiResForClassic', symObjAddr: 0x4E28, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1800, offset: 0x1800, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x1868, offset: 0x1868, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x10 }
+  - { offsetInCU: 0x18A7, offset: 0x18A7, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x10 }
+  - { offsetInCU: 0x18E8, offset: 0x18E8, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$UIApplication$_shouldZoomP13UIApplicationP13objc_selector', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x1906, offset: 0x1906, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$UIApplication$_shouldZoomP13UIApplicationP13objc_selector', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x193A, offset: 0x193A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UIApplication$_shouldUseHiResForClassicP13UIApplicationP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

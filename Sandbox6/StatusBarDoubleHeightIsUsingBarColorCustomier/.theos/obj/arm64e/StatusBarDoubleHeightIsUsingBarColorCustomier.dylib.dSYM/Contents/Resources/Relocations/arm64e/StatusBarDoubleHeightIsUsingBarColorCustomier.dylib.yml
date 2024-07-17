@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/StatusBarDoubleHeightIsUsingBarColorCustomier/.theos/obj/arm64e/StatusBarDoubleHeightIsUsingBarColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$UIStatusBarBackgroundView$setBackgroundColor$', symObjAddr: 0x10C8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL133_logos_orig$_ungrouped$UIStatusBarNewUIDoubleHeightStyleAttributes$initWithRequest$backgroundColor$foregroundColor$hasBusyBackground$', symObjAddr: 0x10D0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x11E, offset: 0x11E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x18E, offset: 0x18E, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UIStatusBarBackgroundView$setBackgroundColor$P25UIStatusBarBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x68 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UIStatusBarBackgroundView$setBackgroundColor$P25UIStatusBarBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x68 }
+  - { offsetInCU: 0x21C, offset: 0x21C, size: 0x8, addend: 0x0, symName: '__ZL135_logos_method$_ungrouped$UIStatusBarNewUIDoubleHeightStyleAttributes$initWithRequest$backgroundColor$foregroundColor$hasBusyBackground$P43UIStatusBarNewUIDoubleHeightStyleAttributesP13objc_selectorP11objc_objectS4_S4_b', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8C }
+  - { offsetInCU: 0x233, offset: 0x233, size: 0x8, addend: 0x0, symName: '__ZL135_logos_method$_ungrouped$UIStatusBarNewUIDoubleHeightStyleAttributes$initWithRequest$backgroundColor$foregroundColor$hasBusyBackground$P43UIStatusBarNewUIDoubleHeightStyleAttributesP13objc_selectorP11objc_objectS4_S4_b', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8C }
+...

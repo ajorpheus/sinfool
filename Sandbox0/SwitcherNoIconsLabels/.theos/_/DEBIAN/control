@@ -1,0 +1,20 @@
+Package: com.sinfool.switchernoiconslabels
+Name: Switcher - No Icons/Labels  ₁₀₋₂₇₋₁₅ ⚑
+Author: Sinfool
+Description: Removes icons & labels from the deck switcher. Removes icons & labels from the deck switcher.
+ .
+ [v.2] Tested with an iP5 9.0.2.  (10-27-15)
+ .
+ ⚑ UPDATES:
+ (10-15-15) *Initial release
+ (10-27-15) *Changed method
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25039
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

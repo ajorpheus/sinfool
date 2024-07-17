@@ -1,0 +1,15 @@
+Package: com.sinfool.flaturl
+Name: Flat URL  ₈₋₂₂₋₁₆
+Author: Sinfool
+Description: Makes the URL background flat. Makes the URL background flat.
+ .
+ [v.1] Tested with an iPad mini2 & iP6+ 9.3.3.  Made after reading a request a few months ago but they never replied.  (8-22-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30524
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

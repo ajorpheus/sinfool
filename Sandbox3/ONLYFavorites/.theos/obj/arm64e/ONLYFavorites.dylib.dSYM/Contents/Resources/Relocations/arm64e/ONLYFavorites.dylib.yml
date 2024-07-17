@@ -1,0 +1,21 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/ONLYFavorites/.theos/obj/arm64e/ONLYFavorites.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x138 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL108_logos_orig$_ungrouped$PhoneTabBarController$showFavoritesTab$recentsTab$contactsTab$keypadTab$voicemailTab$', symObjAddr: 0x1668, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xB2, offset: 0xB2, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$PhoneTabBarController$defaultTabViewType', symObjAddr: 0x1670, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xE7, offset: 0xE7, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$ABContactViewController$allowsSendMessage', symObjAddr: 0x1678, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x120, offset: 0x120, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$ABContactViewController$allowsSharing', symObjAddr: 0x1680, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$ABContactViewController$allowsContactBlocking', symObjAddr: 0x1688, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x152, offset: 0x152, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$PHFavoritesViewController$tableView$canEditRowAtIndexPath$', symObjAddr: 0x1690, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1C8, offset: 0x1C8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x138 }
+  - { offsetInCU: 0x29D, offset: 0x29D, size: 0x8, addend: 0x0, symName: '__ZL110_logos_method$_ungrouped$PhoneTabBarController$showFavoritesTab$recentsTab$contactsTab$keypadTab$voicemailTab$P21PhoneTabBarControllerP13objc_selectorbbbbb', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x20 }
+  - { offsetInCU: 0x2E3, offset: 0x2E3, size: 0x8, addend: 0x0, symName: '__ZL110_logos_method$_ungrouped$PhoneTabBarController$showFavoritesTab$recentsTab$contactsTab$keypadTab$voicemailTab$P21PhoneTabBarControllerP13objc_selectorbbbbb', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x20 }
+  - { offsetInCU: 0x354, offset: 0x354, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$PhoneTabBarController$defaultTabViewTypeP21PhoneTabBarControllerP13objc_selector', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x8 }
+  - { offsetInCU: 0x386, offset: 0x386, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$PhoneTabBarController$defaultTabViewTypeP21PhoneTabBarControllerP13objc_selector', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x8 }
+  - { offsetInCU: 0x3BA, offset: 0x3BA, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$ABContactViewController$allowsSendMessageP23ABContactViewControllerP13objc_selector', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x8 }
+  - { offsetInCU: 0x3EE, offset: 0x3EE, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$ABContactViewController$allowsSharingP23ABContactViewControllerP13objc_selector', symObjAddr: 0x168, symBinAddr: 0x4168, symSize: 0x8 }
+  - { offsetInCU: 0x422, offset: 0x422, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$ABContactViewController$allowsContactBlockingP23ABContactViewControllerP13objc_selector', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x8 }
+  - { offsetInCU: 0x456, offset: 0x456, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$PHFavoritesViewController$tableView$canEditRowAtIndexPath$P25PHFavoritesViewControllerP13objc_selectorP11objc_objectS4_', symObjAddr: 0x178, symBinAddr: 0x4178, symSize: 0x8 }
+...

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/KBRapidDelete/.theos/obj/arm64/KBRapidDelete.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL99_logos_orig$_ungrouped$UIKeyboardImpl$touchAutoDeleteTimerWithThreshold$adjustForPartialCompletion$', symObjAddr: 0x860, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0xFB, offset: 0xFB, size: 0x8, addend: 0x0, symName: '__ZL101_logos_method$_ungrouped$UIKeyboardImpl$touchAutoDeleteTimerWithThreshold$adjustForPartialCompletion$P14UIKeyboardImplP13objc_selectordb', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x14 }
+  - { offsetInCU: 0x14B, offset: 0x14B, size: 0x8, addend: 0x0, symName: '__ZL101_logos_method$_ungrouped$UIKeyboardImpl$touchAutoDeleteTimerWithThreshold$adjustForPartialCompletion$P14UIKeyboardImplP13objc_selectordb', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x14 }
+...

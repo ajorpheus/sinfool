@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/CCCreamlessDisableToggleColoring/.theos/obj/arm64/CCCreamlessDisableToggleColoring.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$CCUIControlCenterVisualEffect$contentsMultiplyColor', symObjAddr: 0xE48, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$CCUIAirStuffSectionController$_selectedStateColor', symObjAddr: 0xE50, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CCUINightShiftContentView$_selectedStateColor', symObjAddr: 0xE58, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x13B, offset: 0x13B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CCUIControlCenterVisualEffect$contentsMultiplyColorP29CCUIControlCenterVisualEffectP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x1C }
+  - { offsetInCU: 0x228, offset: 0x228, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CCUIControlCenterVisualEffect$contentsMultiplyColorP29CCUIControlCenterVisualEffectP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x1C }
+  - { offsetInCU: 0x25C, offset: 0x25C, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$CCUIAirStuffSectionController$_selectedStateColorP29CCUIAirStuffSectionControllerP13objc_selector', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x1C }
+  - { offsetInCU: 0x290, offset: 0x290, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CCUINightShiftContentView$_selectedStateColorP25CCUINightShiftContentViewP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x1C }
+...

@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/SquareBalloonsc/.theos/obj/arm64e/SquareBalloons.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$CKBalloonView$balloonCorners', symObjAddr: 0xCB0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$CKUIBehavior$balloonMaskTailWidth', symObjAddr: 0xCB8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xDD, offset: 0xDD, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$CKImageBalloonView$tailMask', symObjAddr: 0xCC0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x149, offset: 0x149, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1E2, offset: 0x1E2, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$CKBalloonView$balloonCornersP13CKBalloonViewP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x228, offset: 0x228, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$CKBalloonView$balloonCornersP13CKBalloonViewP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x25C, offset: 0x25C, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$CKUIBehavior$balloonMaskTailWidthP12CKUIBehaviorP13objc_selector', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x290, offset: 0x290, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$CKImageBalloonView$tailMaskP18CKImageBalloonViewP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+...

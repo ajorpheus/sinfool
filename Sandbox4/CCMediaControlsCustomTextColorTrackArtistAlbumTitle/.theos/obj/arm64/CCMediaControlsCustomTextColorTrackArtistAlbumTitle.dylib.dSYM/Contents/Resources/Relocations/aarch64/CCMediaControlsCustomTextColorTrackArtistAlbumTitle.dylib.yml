@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/CCMediaControlsCustomTextColorTrackArtistAlbumTitle/.theos/obj/arm64/CCMediaControlsCustomTextColorTrackArtistAlbumTitle.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$CCUIControlCenterLabel$setTextColor$', symObjAddr: 0xB40, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$CCUIControlCenterLabel$setStyle$', symObjAddr: 0xB48, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$CCUIControlCenterLabel$setTextColor$P22CCUIControlCenterLabelP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x50 }
+  - { offsetInCU: 0x1A1, offset: 0x1A1, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$CCUIControlCenterLabel$setTextColor$P22CCUIControlCenterLabelP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x50 }
+  - { offsetInCU: 0x1E9, offset: 0x1E9, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$CCUIControlCenterLabel$setStyle$P22CCUIControlCenterLabelP13objc_selectory', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x200, offset: 0x200, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$CCUIControlCenterLabel$setStyle$P22CCUIControlCenterLabelP13objc_selectory', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+...

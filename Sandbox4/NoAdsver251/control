@@ -1,0 +1,11 @@
+Package: com.sinfool.noadsver251
+Name: No Ads (ver. 2.5.1)
+Author: Sinfool
+Description: Removes ads.  Made as a request via r/flextweak.  Tested with ver. 2.5.1.  (6-5-15) Removes ads.  Made as a request via r/flextweak.  Tested with ver. 2.5.1.  (6-5-15) patchID: 21486
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.dramafever.DramaFeverHD
+Homepage: https://ipadkid.cf/sinfool/index.html

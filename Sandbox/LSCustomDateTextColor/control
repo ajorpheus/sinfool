@@ -1,0 +1,15 @@
+Package: com.sinfool.lscustomdatetextcolor
+Name: LS - Custom Date Text & Color  ₁₁₋₁₁₋₁₅
+Author: Sinfool
+Description: Use a custom text &/or color for the date on the lockscreen.  Set the text & color to your liking. Use a custom text &/or color for the date on the lockscreen.  Set the text & color to your liking.
+  
+ [v.1] Tested with an iP6+ 9.0.2.  (11-11-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26324
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,20 @@
+Package: com.sinfool.onlyfavorites
+Name: ONLY Favorites  ₅₋₃₀₋₁₅ ⚑
+Author: Sinfool
+Description: Disables all tabs except Favorites & (for the most part) disables editing of Contact information.  Made as a request via r/jailbreak.  Tested on iP6+ 8.1.  (5-30-15) Disables all tabs except Favorites & (for the most part) disables editing of Contact information.  Made as a request via r/jailbreak.  Tested on iP6+ 8.1.  (5-30-15)
+ .
+ ⚑ UPDATES:
+ (1-2-15) *Initial release
+ (1-9-15) *Disabled delete action when swiping
+ (5-30-15) *Disabled & removed "i" button
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 16776
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

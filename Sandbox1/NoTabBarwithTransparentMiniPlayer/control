@@ -1,0 +1,20 @@
+Package: com.sinfool.notabbarwithtransparentminiplayer
+Name: No Tab Bar (with Transparent Mini Player)  ₁₀₋₁₉₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the tab bar and makes the mini player transparent.  The mini player can be disabled too.  Change entries to your liking. Removes the tab bar and makes the mini player transparent.  The mini player can be disabled too.  Change entries to your liking.
+ .
+ ⚑ UPDATES:
+ (10-18-16) *Initial release
+ (10-19-16) *Changed methods
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-19-16)
+ .
+ ☞PayPal:  goin730@gmail.com
+  patchID: 31740
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Music
+Homepage: https://ipadkid.cf/sinfool/index.html

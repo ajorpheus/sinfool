@@ -1,0 +1,16 @@
+Package: com.sinfool.kbipadprostyleios11
+Name: KB - iPad Pro Style (iOS 11)
+Author: Sinfool
+Description: Enables the iPad Pro style keyboard on any iPad in landscape orientation. Enables the iPad Pro style keyboard on any iPad in landscape orientation.
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  (5-1-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42164
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

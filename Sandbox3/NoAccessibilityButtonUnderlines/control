@@ -1,0 +1,17 @@
+Package: com.sinfool.noaccessibilitybuttonunderlines
+Name: No Accessibility Button Underlines  ₁₂₋₆₋₁₅
+Author: Sinfool
+Description: Disables underlining of accessibility buttons. Disables underlining of accessibility buttons.
+ .
+ Useful for those who like the effects of having "Button Shapes" enabled @"Settings>General>Accessibility" but don't like the underlined buttons.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-6-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26776
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

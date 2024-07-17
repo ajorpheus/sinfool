@@ -1,0 +1,11 @@
+Package: com.sinfool.aionoadspopupsnorstatusbar
+Name: [AIO] No Ads, Pop-Ups nor Status Bar
+Author: Sinfool
+Description: All in one patch for Live Media Player.  No ads, pop-ups nor status bar.  Tested with version 1.8 & 1.9 but most likely works with older versions too.  UPDATED (10-15-14) All in one patch for Live Media Player.  No ads, pop-ups nor status bar.  Tested with version 1.8 & 1.9 but most likely works with older versions too.  UPDATED (10-15-14) patchID: 13183
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.mdcgate.livemedia.ios
+Homepage: https://ipadkid.cf/sinfool/index.html

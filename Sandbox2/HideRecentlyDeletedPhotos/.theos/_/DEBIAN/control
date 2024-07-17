@@ -1,0 +1,16 @@
+Package: com.sinfool.hiderecentlydeletedphotos
+Name: Hide Recently Deleted Photos  ₁₀₋₁₉₋₁₅
+Author: Sinfool
+Description: Hides recently deleted photos/album contents.  The "Recently Deleted" folder will show "0" & "No Photos or Videos" but they're still there.  Just disable the patch to regain access to them. Hides recently deleted photos/album contents.  The "Recently Deleted" folder will show "0" & "No Photos or Videos" but they're still there.  Just disable the patch to regain access to them.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-19-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25407
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

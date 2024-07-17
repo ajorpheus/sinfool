@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NoTimeStamps/.theos/obj/arm64/NoTimeStamps.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$CKUIBehavior$timestampBodyLeading', symObjAddr: 0x9E8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$CKDateChatItem$loadTranscriptText', symObjAddr: 0x9F0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$CKUIBehavior$timestampBodyLeadingP12CKUIBehaviorP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1BF, offset: 0x1BF, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$CKUIBehavior$timestampBodyLeadingP12CKUIBehaviorP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$CKDateChatItem$loadTranscriptTextP14CKDateChatItemP13objc_selector', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

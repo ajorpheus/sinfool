@@ -1,0 +1,20 @@
+Package: com.sinfool.lsskiplockscreen
+Name: LS - Skip Lockscreen
+Author: Sinfool
+Description: Skips the lock screen with single home/power button press, when connected/disconnected from power and maybe even when notifications are received. Skips the lock screen with single home/power button press, when connected/disconnected from power and maybe even when notifications are received.
+ .
+ NOTE: This patch probably isn't useful for most.  Only tested on an iPad without a passcode enabled.
+ .
+ Credits: Uses method from @Garocco98's patch "BackToSilde" which enables the old slide to unlock.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-5-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34145
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/TranslucentBars/.theos/obj/arm64/TranslucentBars.dylib'
+relocations:     []
+...

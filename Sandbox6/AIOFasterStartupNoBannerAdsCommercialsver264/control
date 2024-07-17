@@ -1,0 +1,11 @@
+Package: com.sinfool.aiofasterstartupnobanneradscommercialsver264
+Name: [AIO] Faster Startup, No Banner Ads/Commercials (ver. 2.6.4)
+Author: Sinfool
+Description: All in one patch for Science Channel.  Faster startup, no banner ads & no commercials.  Tested with most recent version 2.6.4.  (8-15-14) All in one patch for Science Channel.  Faster startup, no banner ads & no commercials.  Tested with most recent version 2.6.4.  (8-15-14) patchID: 12500
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.discovery.science
+Homepage: https://ipadkid.cf/sinfool/index.html

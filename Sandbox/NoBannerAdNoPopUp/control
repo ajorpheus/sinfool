@@ -1,0 +1,11 @@
+Package: com.sinfool.nobanneradnopopup
+Name: No Banner Ad & No Pop-Up
+Author: Sinfool
+Description: Removes upgrade pop-up & the banner ad. Removes upgrade pop-up & the banner ad. patchID: 12035
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apsquared.tvfoodmaps
+Homepage: https://ipadkid.cf/sinfool/index.html

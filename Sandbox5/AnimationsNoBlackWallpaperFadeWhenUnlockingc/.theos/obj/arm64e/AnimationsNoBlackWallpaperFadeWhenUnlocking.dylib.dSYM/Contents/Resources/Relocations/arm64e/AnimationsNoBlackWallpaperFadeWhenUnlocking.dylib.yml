@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/AnimationsNoBlackWallpaperFadeWhenUnlockingc/.theos/obj/arm64e/AnimationsNoBlackWallpaperFadeWhenUnlocking.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL117_logos_orig$_ungrouped$SBWallpaperController$setActiveOrientationSource$andUpdateToOrientation$usingCrossfadeToBlack$', symObjAddr: 0x918, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: '__ZL119_logos_method$_ungrouped$SBWallpaperController$setActiveOrientationSource$andUpdateToOrientation$usingCrossfadeToBlack$P21SBWallpaperControllerP13objc_selectorxxb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x150, offset: 0x150, size: 0x8, addend: 0x0, symName: '__ZL119_logos_method$_ungrouped$SBWallpaperController$setActiveOrientationSource$andUpdateToOrientation$usingCrossfadeToBlack$P21SBWallpaperControllerP13objc_selectorxxb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

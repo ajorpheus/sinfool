@@ -1,0 +1,28 @@
+Package: com.sinfool.folderincognitofoldershideappsblankiconsoranchorgridlockalternative
+Name: Folder - Incognito Folders (Hide Apps, Blank Icons or Anchor/GridLock Alternative)
+Author: Sinfool
+Description: Hides folder icons, labels and disables selection of the blank space left in its place thereby making them invisible. Hides folder icons, labels and disables selection of the blank space left in its place thereby making them invisible.
+ .
+ IMPORTANT NOTE:  This patch is only useful if you don't actively use folders and are looking for a rudimentary way to...
+ .
+ * Hide apps from the homescreen (but still have them searchable via SpotLight) or...
+ * To create blank icon spaces to use as an alternative to tweaks like Anchor or GridLock.
+ .
+ DIRECTIONS:
+ .
+ - CREATING BLANK ICONS:  Make any safari bookmark/web clip & put it into a folder.  Repeat this process for as many blank icons you need.  Position these folders where you want your blank icons.  Enable the patch & respring.
+ .
+ - HIDING APPS FROM THE HS/SPRINGBOARD:  Put apps in a folder & position it as the last icon on your HS (or wherever you want).  Enable the patch & respring.
+ .
+ You must disable this patch whenever you'd like to add additional apps/web clips to a folder.
+ .
+ [v.1] Tested with an iPad mini4 10.2.  Requested by /u/NoMorePartiesInElAyy.  (4-6-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41841
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

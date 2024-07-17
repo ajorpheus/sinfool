@@ -1,0 +1,16 @@
+Package: com.sinfool.blacksharesheet
+Name: Black Share Sheet
+Author: Sinfool
+Description: Makes the share sheet background black with white text. Makes the share sheet background black with white text.
+ .
+ [v.1] Tested with an iPad mini4 10.2.  Requested by /u/Sarab-admaah.  (3-17-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41463
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

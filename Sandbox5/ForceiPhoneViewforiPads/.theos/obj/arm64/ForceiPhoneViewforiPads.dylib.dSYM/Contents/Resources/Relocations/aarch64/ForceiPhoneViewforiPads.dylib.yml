@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/ForceiPhoneViewforiPads/.theos/obj/arm64/ForceiPhoneViewforiPads.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIDevice$userInterfaceIdiom', symObjAddr: 0x5228, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x24C, offset: 0x24C, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UIDevice$setOrientation$animated$', symObjAddr: 0x5230, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x280, offset: 0x280, size: 0x8, addend: 0x0, symName: '__ZL109_logos_orig$_ungrouped$UIWindow$_shouldAutorotateToInterfaceOrientation$checkForDismissal$isRotationDisabled$', symObjAddr: 0x5238, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x17F0, offset: 0x17F0, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$UIWindow$_updateToInterfaceOrientation$duration$force$', symObjAddr: 0x5240, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1833, offset: 0x1833, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xAC }
+  - { offsetInCU: 0x18C4, offset: 0x18C4, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x1903, offset: 0x1903, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0xAC, symBinAddr: 0x40AC, symSize: 0x8 }
+  - { offsetInCU: 0x1937, offset: 0x1937, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UIDevice$setOrientation$animated$P8UIDeviceP13objc_selectorxb', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x10 }
+  - { offsetInCU: 0x1985, offset: 0x1985, size: 0x8, addend: 0x0, symName: '__ZL111_logos_method$_ungrouped$UIWindow$_shouldAutorotateToInterfaceOrientation$checkForDismissal$isRotationDisabled$P8UIWindowP13objc_selectorxbPb', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x19AA, offset: 0x19AA, size: 0x8, addend: 0x0, symName: '__ZL111_logos_method$_ungrouped$UIWindow$_shouldAutorotateToInterfaceOrientation$checkForDismissal$isRotationDisabled$P8UIWindowP13objc_selectorxbPb', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x19FF, offset: 0x19FF, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$UIWindow$_updateToInterfaceOrientation$duration$force$P8UIWindowP13objc_selectorxdb', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x10 }
+...

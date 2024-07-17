@@ -1,0 +1,22 @@
+Package: com.sinfool.lsnoautoslidetopasscodescreenonfailedtouchidattempt
+Name: LS - No Auto Slide To Passcode Screen On Failed Touch ID Attempt
+Author: Sinfool
+Description: Stops auto slide to passcode screen on failed Touch ID attempts. Stops auto slide to passcode screen on failed Touch ID attempts.
+ .
+ NOTE: Only tested with "Rest Finger to Open" option enabled at Settings-> Acesssibility -> Home Button
+ .
+  Minor known issues... (if you find more, please post them in the comments)
+ .
+ * After resprings, the LS will show instead of the passcode screen.
+ * When on the passcode screen, if button entries are deleted then the next Touch ID attempt may take two scans/presses to unlock instead of one.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-6-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36604
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

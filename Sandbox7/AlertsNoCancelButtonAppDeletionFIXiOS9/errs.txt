@@ -1,0 +1,26 @@
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox7/AlertsNoCancelButtonAppDeletionFIXiOS9/.theos/obj/arm64/AlertsNoCancelButtonAppDeletionFIXiOS9.dylib
+[1mTweak.xm:27:97: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static void (*_logos_orig$_ungrouped$UIAlertView$setCancelButtonIndex$)(_LOGOS_SELF_TYPE_NORMAL UIAlertView* _LOGOS_SELF_CONST, SEL, long long); static void _logos_method$_ungrouped$UIAlertView$setCancelButtonIndex$(_LOGOS_SELF_TYPE_NORMAL UIAlertView* _LOGOS_SELF_CONST, SEL, long long); 
+[0;1;32m                                                                                                ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:241: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static void (*_logos_orig$_ungrouped$UIAlertView$setCancelButtonIndex$)(_LOGOS_SELF_TYPE_NORMAL UIAlertView* _LOGOS_SELF_CONST, SEL, long long); static void _logos_method$_ungrouped$UIAlertView$setCancelButtonIndex$(_LOGOS_SELF_TYPE_NORMAL UIAlertView* _LOGOS_SELF_CONST, SEL, long long); 
+[0;1;32m                                                                                                                                                                                                                                                ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:4:96: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static void _logos_method$_ungrouped$UIAlertView$setCancelButtonIndex$(_LOGOS_SELF_TYPE_NORMAL UIAlertView* _LOGOS_SELF_CONST __unused self, SEL __unused _cmd, long long arg1) {
+[0;1;32m                                                                                               ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m3 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox7/AlertsNoCancelButtonAppDeletionFIXiOS9/.theos/obj/arm64e/Tweak.mm.32e940e0.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:51: /Users/az/Desktop/sinfool/Sandbox7/AlertsNoCancelButtonAppDeletionFIXiOS9/.theos/obj/arm64e/AlertsNoCancelButtonAppDeletionFIXiOS9.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: AlertsNoCancelButtonAppDeletionFIXiOS9.all.tweak.variables] Error 2

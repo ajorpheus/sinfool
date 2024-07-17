@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/TabBarBadgeCustomColor/.theos/obj/arm64/TabBarBadgeCustomColor.dylib'
+relocations:     []
+...

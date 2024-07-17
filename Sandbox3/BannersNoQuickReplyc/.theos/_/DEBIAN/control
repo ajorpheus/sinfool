@@ -1,0 +1,16 @@
+Package: com.sinfool.bannersnoquickreply
+Name: Banners - NoQuickReply  ₁₂₋₁₄₋₁₅
+Author: Sinfool
+Description: Disables "Quick Reply" functionality by disabling banners from being pulled down.  Banners can still be pulled down to read longer messages. Disables "Quick Reply" functionality by disabling banners from being pulled down.  Banners can still be pulled down to read longer messages.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (12-14-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26910
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

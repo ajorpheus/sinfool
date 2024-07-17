@@ -1,0 +1,20 @@
+Package: com.sinfool.lsdisableslidetounlockswipegesture
+Name: LS - Disable Slide To Unlock Swipe Gesture  ₁₀₋₁₂₋₁₆
+Author: Sinfool
+Description: Disables the slide to unlock swipe gesture. Disables the slide to unlock swipe gesture.
+ .
+ *Useful if you rarely use slide to unlock or want to mimic iOS 10's lack of STU etc.
+ .
+ NOTE:  As a backup, I suggest setting any "At Lockscreen" accessible swipe gesture or button sequence to "Unlock Device".
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  Removed the "/" from the title.  (10-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31635
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

@@ -1,0 +1,27 @@
+Package: com.sinfool.searchbarcustom
+Name: Search Bar - Custom  🔍
+Author: Sinfool
+Description: Provides the following options to customize the search bar within apps.  By default, everything is hidden and I used a magnifying glass emoji as the text. Provides the following options to customize the search bar within apps.  By default, everything is hidden and I used a magnifying glass emoji as the text.
+ .
+ - Search Icon: (Hide, Show, Circle w/Arrow etc.)
+ - Custom Placeholder Text
+ - Custom Placeholder Text Color
+ - Placeholder Text Alignment
+ - BG Alpha
+ - Hide Text Field BG
+ .
+ UPDATES:
+ (8-20-17) *Initial release
+ (8-23-17) *Fixed AppStore crashing
+ .
+ [v.2] Tested with an iPad mini 4 10.2.  (8-23-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39037
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

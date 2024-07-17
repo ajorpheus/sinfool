@@ -1,0 +1,20 @@
+Package: com.sinfool.animationsnoapptoapptransitionforlastappbacktoapp
+Name: Animations - No "App to App" Transition for (LastApp/"Back to App")  ₈₋₉₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the "App to App" transition animation when switching between apps via the "Back to App" button on the status bar or tweaks like LastApp etc. Removes the "App to App" transition animation when switching between apps via the "Back to App" button on the status bar or tweaks like LastApp etc.
+ .
+ ⚑UPDATES:
+ (8-5-16) *Initial release
+ (8-9-16) *Fixed issue requiring two home button presses to exit app if it was opened via Spotlight
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29691
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

@@ -1,0 +1,16 @@
+Package: com.sinfool.ncnoheadersnoemptyspace
+Name: NC - No Headers (no empty space)  ₂₋₁₋₁₆
+Author: Sinfool
+Description: Removes headers (& the empty space) from Notification Center. Removes headers (& the empty space) from Notification Center.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (2-1-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27576
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

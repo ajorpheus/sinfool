@@ -1,0 +1,15 @@
+Package: com.sinfool.forcenightorlightmodemybooks
+Name: Force Night 'or Light' Mode (My Books)  ₃₋₁₋₁₆
+Author: Sinfool
+Description: Force Night or Light Mode for My Books.  Set to night mode by default. Force Night or Light Mode for My Books.  Set to night mode by default.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (3-1-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27953
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.iBooks
+Homepage: https://ipadkid.cf/sinfool/index.html

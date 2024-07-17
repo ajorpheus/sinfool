@@ -1,0 +1,16 @@
+Package: com.sinfool.activitysheetsnoairdropsection
+Name: Activity Sheets - No AirDrop Section
+Author: Sinfool
+Description: Removes the AirPlay section from activity/share sheets. Removes the AirPlay section from activity/share sheets.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as request via r/jailbreak.  (3-22-17)
+ .
+ ☞PayPal: goin730@gmail.com patchID: 36147
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,36 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/RoundFloatingCellsCustomiable/.theos/obj/arm64e/RoundFloatingCellsCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x214 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITableView$setBackgroundColor$', symObjAddr: 0x8B68, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1544, offset: 0x1544, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$UITableView$_shouldShowHeadersAndFooters', symObjAddr: 0x8B70, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1572, offset: 0x1572, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UITableView$_defaultSectionHeaderHeight', symObjAddr: 0x8B78, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x15A0, offset: 0x15A0, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UITableView$_defaultSectionFooterHeight', symObjAddr: 0x8B80, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x15B9, offset: 0x15B9, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setBackgroundColor$', symObjAddr: 0x8B88, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x15F3, offset: 0x15F3, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionBorderWidth$', symObjAddr: 0x8B90, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x1622, offset: 0x1622, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionLocation$', symObjAddr: 0x8B98, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x1651, offset: 0x1651, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$', symObjAddr: 0x8BA0, symBinAddr: 0xC098, symSize: 0x0 }
+  - { offsetInCU: 0x1694, offset: 0x1694, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UITableViewCell$_insetsBackground', symObjAddr: 0x8BA8, symBinAddr: 0xC0A0, symSize: 0x0 }
+  - { offsetInCU: 0x25EF, offset: 0x25EF, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$UITableViewCell$_setOpaque$forSubview$', symObjAddr: 0x8BB0, symBinAddr: 0xC0A8, symSize: 0x0 }
+  - { offsetInCU: 0x2623, offset: 0x2623, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$UIView$backgroundColor', symObjAddr: 0x8BB8, symBinAddr: 0xC0B0, symSize: 0x0 }
+  - { offsetInCU: 0x265B, offset: 0x265B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x214 }
+  - { offsetInCU: 0x27CC, offset: 0x27CC, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$setBackgroundColor$P11UITableViewP13objc_selectorP11objc_object', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x68 }
+  - { offsetInCU: 0x2804, offset: 0x2804, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$setBackgroundColor$P11UITableViewP13objc_selectorP11objc_object', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x68 }
+  - { offsetInCU: 0x284C, offset: 0x284C, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$UITableView$_shouldShowHeadersAndFootersP11UITableViewP13objc_selector', symObjAddr: 0x27C, symBinAddr: 0x427C, symSize: 0x8 }
+  - { offsetInCU: 0x2863, offset: 0x2863, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$UITableView$_shouldShowHeadersAndFootersP11UITableViewP13objc_selector', symObjAddr: 0x27C, symBinAddr: 0x427C, symSize: 0x8 }
+  - { offsetInCU: 0x2897, offset: 0x2897, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UITableView$_defaultSectionHeaderHeightP11UITableViewP13objc_selector', symObjAddr: 0x284, symBinAddr: 0x4284, symSize: 0x8 }
+  - { offsetInCU: 0x28CB, offset: 0x28CB, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UITableView$_defaultSectionFooterHeightP11UITableViewP13objc_selector', symObjAddr: 0x28C, symBinAddr: 0x428C, symSize: 0x8 }
+  - { offsetInCU: 0x28FF, offset: 0x28FF, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setBackgroundColor$P39_UIGroupTableViewCellBackgroundImageKeyP13objc_selectorP11objc_object', symObjAddr: 0x294, symBinAddr: 0x4294, symSize: 0x68 }
+  - { offsetInCU: 0x2947, offset: 0x2947, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionBorderWidth$P39_UIGroupTableViewCellBackgroundImageKeyP13objc_selectord', symObjAddr: 0x2FC, symBinAddr: 0x42FC, symSize: 0x10 }
+  - { offsetInCU: 0x295E, offset: 0x295E, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionBorderWidth$P39_UIGroupTableViewCellBackgroundImageKeyP13objc_selectord', symObjAddr: 0x2FC, symBinAddr: 0x42FC, symSize: 0x10 }
+  - { offsetInCU: 0x29A7, offset: 0x29A7, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionLocation$P39_UIGroupTableViewCellBackgroundImageKeyP13objc_selectori', symObjAddr: 0x30C, symBinAddr: 0x430C, symSize: 0x10 }
+  - { offsetInCU: 0x29C0, offset: 0x29C0, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$_UIGroupTableViewCellBackgroundImageKey$setSectionLocation$P39_UIGroupTableViewCellBackgroundImageKeyP13objc_selectori', symObjAddr: 0x30C, symBinAddr: 0x430C, symSize: 0x10 }
+  - { offsetInCU: 0x2A01, offset: 0x2A01, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorif', symObjAddr: 0x31C, symBinAddr: 0x431C, symSize: 0x10 }
+  - { offsetInCU: 0x2A1F, offset: 0x2A1F, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorif', symObjAddr: 0x31C, symBinAddr: 0x431C, symSize: 0x10 }
+  - { offsetInCU: 0x2A71, offset: 0x2A71, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UITableViewCell$_insetsBackgroundP15UITableViewCellP13objc_selector', symObjAddr: 0x32C, symBinAddr: 0x432C, symSize: 0x8 }
+  - { offsetInCU: 0x2A91, offset: 0x2A91, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UITableViewCell$_insetsBackgroundP15UITableViewCellP13objc_selector', symObjAddr: 0x32C, symBinAddr: 0x432C, symSize: 0x8 }
+  - { offsetInCU: 0x2AC5, offset: 0x2AC5, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$UITableViewCell$_setOpaque$forSubview$P15UITableViewCellP13objc_selectorbP11objc_object', symObjAddr: 0x334, symBinAddr: 0x4334, symSize: 0x10 }
+  - { offsetInCU: 0x2B13, offset: 0x2B13, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UIView$backgroundColorP6UIViewP13objc_selector', symObjAddr: 0x344, symBinAddr: 0x4344, symSize: 0x8 }
+  - { offsetInCU: 0x2B38, offset: 0x2B38, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UIView$backgroundColorP6UIViewP13objc_selector', symObjAddr: 0x344, symBinAddr: 0x4344, symSize: 0x8 }
+...

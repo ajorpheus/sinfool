@@ -1,0 +1,21 @@
+Package: com.sinfool.alertsnocancelbuttonappdeletionfixios9
+Name: Alerts - No Cancel Button: App Deletion FIX (iOS 9)
+Author: Sinfool
+Description: ⚠️ IMPORTANT NOTE:  This patch is only useful for iOS 9 users using the following System Wide patch... ⚠️ IMPORTANT NOTE:  This patch is only useful for iOS 9 users using the following System Wide patch...
+ .
+   • "Alerts - No Cancel Button (DismissAnywhere)"
+ .
+ Prevents the default tap to dismiss action on the HS from using "Delete" when organizing/deleting apps in jiggle/edit mode.
+ .
+ *Please leave a comment if you notice any issues with additional HS alerts.
+ .
+ [v.1] Tested with an iP6+ & iPad mini 2 on 9.3.3.  Requested by r/jailbreak user /u/Kolyei.  (11-7-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39962
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

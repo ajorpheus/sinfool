@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/DialerKeypadButtonCustomier/.theos/obj/arm64/DialerKeypadButtonCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$TPRevealingRingView$setCornerRadius$', symObjAddr: 0x9D8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$', symObjAddr: 0x9E0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xC1, offset: 0xC1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$TPRevealingRingView$setCornerRadius$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x10 }
+  - { offsetInCU: 0x16C, offset: 0x16C, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$TPRevealingRingView$setCornerRadius$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x10 }
+  - { offsetInCU: 0x1B1, offset: 0x1B1, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0x70, symBinAddr: 0x4070, symSize: 0x10 }
+  - { offsetInCU: 0x1CA, offset: 0x1CA, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0x70, symBinAddr: 0x4070, symSize: 0x10 }
+...

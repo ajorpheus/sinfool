@@ -1,0 +1,20 @@
+Package: com.sinfool.tabbaralternateimage
+Name: Tab Bar • Alternate Image
+Author: Sinfool
+Description: Makes unselected tab bar images solid... just like selected images.  *Doesn't work in all apps*.  Works in most system apps.  Tested with iP6+ 8.4.  (7-15-15) Makes unselected tab bar images solid... just like selected images.  *Doesn't work in all apps*.  Works in most system apps.  Tested with iP6+ 8.4.  (7-15-15)
+ .
+ UPDATES:
+ (7-9-15) *Initial release
+ (7-15-15) *Changed patch title
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22610
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

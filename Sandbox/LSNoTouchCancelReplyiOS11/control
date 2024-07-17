@@ -1,0 +1,19 @@
+Package: com.sinfool.lsnotouchcancelreplyios11
+Name: LS - NoTouchCancelReply (iOS 11)
+Author: Sinfool
+Description: Disables dismissing of the quick reply message view on the lockscreen when tapping outside the message box. Disables dismissing of the quick reply message view on the lockscreen when tapping outside the message box.
+ .
+ - Useful for those who are annoyed by accidentally dismissing this view.
+ .
+ NOTE:  This patch has no affiliation with the tweak/dev of "NoTouchCancelReply".
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  Made as a request via r/jailbreak user /u/GodCake.  (5-19-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42379
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

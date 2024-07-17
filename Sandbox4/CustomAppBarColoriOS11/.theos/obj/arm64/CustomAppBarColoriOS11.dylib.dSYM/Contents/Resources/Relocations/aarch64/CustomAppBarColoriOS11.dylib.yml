@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/CustomAppBarColoriOS11/.theos/obj/arm64/CustomAppBarColoriOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CKBrowserSwitcherFooterView$setBackgroundColor$', symObjAddr: 0xC18, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$CKBrowserPluginCell$setSelected$', symObjAddr: 0xC20, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x17B, offset: 0x17B, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKBrowserSwitcherFooterView$setBackgroundColor$P27CKBrowserSwitcherFooterViewP13objc_selectorP11objc_object', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x54 }
+  - { offsetInCU: 0x1C1, offset: 0x1C1, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKBrowserSwitcherFooterView$setBackgroundColor$P27CKBrowserSwitcherFooterViewP13objc_selectorP11objc_object', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x54 }
+  - { offsetInCU: 0x209, offset: 0x209, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$CKBrowserPluginCell$setSelected$P19CKBrowserPluginCellP13objc_selectorb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x220, offset: 0x220, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$CKBrowserPluginCell$setSelected$P19CKBrowserPluginCellP13objc_selectorb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+...

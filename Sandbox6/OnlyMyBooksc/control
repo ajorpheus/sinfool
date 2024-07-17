@@ -1,0 +1,22 @@
+Package: com.sinfool.onlymybooks
+Name: Only My Books  ₇₋₂₈₋₁₅ ⚑
+Author: Sinfool
+Description: Always shows the "My Books" page & removes the tab bar.  Made as a request via r/jailbreak. Always shows the "My Books" page & removes the tab bar.  Made as a request via r/jailbreak.
+ .
+ [v.3] Tested w/iP6+ 8.1 & 8.4.  (7-28-15)
+ .
+ ⚑ UPDATES: 
+ (7-27-15) *Initial release
+ (7-28-15) *Fix tab bar line from showing in landscape
+ (7-28-15) *Fix tab bar showing after switching collections
+ .
+ ● If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 23238
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.iBooks
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/DisableContactEditing/.theos/obj/arm64/DisableContactEditing.dylib'
+relocations:     []
+...

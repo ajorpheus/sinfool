@@ -1,0 +1,17 @@
+Package: com.sinfool.kbdisablesinglepressglobeemojikeykeyboardswitching
+Name: KB - Disable Single Press Globe/Emoji Key Keyboard Switching
+Author: Sinfool
+Description: Disables switching between keyboards when the globe/emoji key is tapped.  Switching keyboards will require long pressing on the globe/emoji key. Disables switching between keyboards when the globe/emoji key is tapped.  Switching keyboards will require long pressing on the globe/emoji key.
+ .
+ NOTE:  Doesn't work with third party keyboards, only works with stock keyboards.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Requested by r/jailbreak user /u/BasedOnAir.  (12-19-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40299
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,11 @@
+Package: com.sinfool.nocommercialsver401430
+Name: No Commercials (ver. 4.0.1 - 4.3.0)
+Author: Sinfool
+Description: No commercials & removes forced app upgrading for the Disney Channel app.  Tested with versions 4.0.1 - 4.3.0.  (3-16-15) No commercials & removes forced app upgrading for the Disney Channel app.  Tested with versions 4.0.1 - 4.3.0.  (3-16-15) patchID: 12526
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.disney.WATCHDisneyChannel
+Homepage: https://ipadkid.cf/sinfool/index.html

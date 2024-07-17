@@ -1,0 +1,19 @@
+Package: com.sinfool.noeditbutton
+Name: No Edit Button  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Removes the "Edit" button from the navigation bar. Removes the "Edit" button from the navigation bar.
+ .
+ Useful for those who mistakenly tap/enter edit mode or if you just want to prevent patch reordering.
+ .
+ ⚠️NOTE:  A respring or the killing of Flex from multitasking is required after enabling/disabling this patch.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & Flex 2.5~Beta18.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28493
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.johncoates.Flex
+Homepage: https://ipadkid.cf/sinfool/index.html

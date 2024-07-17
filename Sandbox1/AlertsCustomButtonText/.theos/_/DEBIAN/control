@@ -1,0 +1,22 @@
+Package: com.sinfool.alertscustombuttontext
+Name: Alerts • Custom Button Text  ₇₋₂₁₋₁₅
+Author: Sinfool
+Description: Customizes Button Text for Notification popup alerts. Customizes Button Text for Notification popup alerts.
+ .
+ [v.1] Tested with iP6+ 8.4.  (7-21-15)
+ .
+ ⚑ UPDATES:
+ (7-21-15) *Initial release
+ (8-17-15) *Changed patch title
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 23041
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

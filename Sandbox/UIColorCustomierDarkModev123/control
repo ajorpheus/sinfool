@@ -1,0 +1,17 @@
+Package: com.sinfool.uicolorcustomierdarkmodev123
+Name: UI Color Customizer (Dark Mode) (v. 1.2.3)
+Author: Sinfool
+Description: UI color customizer for the PAX app.  By default, I made it a dark style but you can change the colors to your liking or delete unwanted units. UI color customizer for the PAX app.  By default, I made it a dark style but you can change the colors to your liking or delete unwanted units.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36.  Please add "http://getdelta.co/" to your Cydia repo sources and install the beta version.
+ .
+ [v.1] Tested with version 1.2.3.  (10-4-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39608
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.paxlabs.paxvapor
+Homepage: https://ipadkid.cf/sinfool/index.html

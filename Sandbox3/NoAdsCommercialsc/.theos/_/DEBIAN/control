@@ -1,0 +1,12 @@
+Package: com.sinfool.noadscommercials
+Name: No Ads/Commercials
+Author: Sinfool
+Description: UPDATED (4-18-14):  No ads or commercials. UPDATED (4-18-14):  No ads or commercials. patchID: 9938
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.mtvn.vh1tvtunein
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

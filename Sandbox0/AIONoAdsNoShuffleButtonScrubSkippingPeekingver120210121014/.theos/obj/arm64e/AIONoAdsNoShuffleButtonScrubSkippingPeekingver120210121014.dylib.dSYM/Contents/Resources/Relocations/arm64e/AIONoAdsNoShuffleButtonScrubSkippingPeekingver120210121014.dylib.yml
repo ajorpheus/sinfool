@@ -1,0 +1,23 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AIONoAdsNoShuffleButtonScrubSkippingPeekingver120210121014/.theos/obj/arm64e/AIONoAdsNoShuffleButtonScrubSkippingPeekingver120210121014.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x15C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$PlayController$initWithSession$adController$', symObjAddr: 0x17C8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$ShuffleFeatureImplementation$baseUI', symObjAddr: 0x17D0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x102, offset: 0x102, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$SPTPlayerRestrictions$disallowSeeking', symObjAddr: 0x17D8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SPTPlayerRestrictions$disallowPeekingAtPreviousTrack', symObjAddr: 0x17E0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x166, offset: 0x166, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$SPTPlayerRestrictions$disallowPeekingAtNextTrack', symObjAddr: 0x17E8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SPTPlayerRestrictions$disallowSkippingToPreviousTrackReasons', symObjAddr: 0x17F0, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1AD, offset: 0x1AD, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SPTPlayerRestrictions$disallowSkippingToNextTrackReasons', symObjAddr: 0x17F8, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1D0, offset: 0x1D0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x15C }
+  - { offsetInCU: 0x2B2, offset: 0x2B2, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$PlayController$initWithSession$adController$P14PlayControllerP13objc_selectorP11objc_objectS4_', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x10 }
+  - { offsetInCU: 0x2FF, offset: 0x2FF, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$PlayController$initWithSession$adController$P14PlayControllerP13objc_selectorP11objc_objectS4_', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x10 }
+  - { offsetInCU: 0x351, offset: 0x351, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$ShuffleFeatureImplementation$baseUIP28ShuffleFeatureImplementationP13objc_selector', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+  - { offsetInCU: 0x376, offset: 0x376, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$ShuffleFeatureImplementation$baseUIP28ShuffleFeatureImplementationP13objc_selector', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+  - { offsetInCU: 0x3AA, offset: 0x3AA, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SPTPlayerRestrictions$disallowSeekingP21SPTPlayerRestrictionsP13objc_selector', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x8 }
+  - { offsetInCU: 0x3DE, offset: 0x3DE, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SPTPlayerRestrictions$disallowPeekingAtPreviousTrackP21SPTPlayerRestrictionsP13objc_selector', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x8 }
+  - { offsetInCU: 0x412, offset: 0x412, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SPTPlayerRestrictions$disallowPeekingAtNextTrackP21SPTPlayerRestrictionsP13objc_selector', symObjAddr: 0x184, symBinAddr: 0x4184, symSize: 0x8 }
+  - { offsetInCU: 0x446, offset: 0x446, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SPTPlayerRestrictions$disallowSkippingToPreviousTrackReasonsP21SPTPlayerRestrictionsP13objc_selector', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x8 }
+  - { offsetInCU: 0x47A, offset: 0x47A, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SPTPlayerRestrictions$disallowSkippingToNextTrackReasonsP21SPTPlayerRestrictionsP13objc_selector', symObjAddr: 0x194, symBinAddr: 0x4194, symSize: 0x8 }
+...

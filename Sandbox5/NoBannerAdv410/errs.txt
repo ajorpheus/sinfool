@@ -1,0 +1,27 @@
+[1mTweak.xm:27:137: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); 
+[0;1;32m                                                                                                                                        ^
+[0m[1mTweak.xm:27:290: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); 
+[0;1;32m                                                                                                                                                                                                                                                                                                 ^
+[0m[1mTweak.xm:4:164: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST __unused self, SEL __unused _cmd, GADAdSize arg1, bool arg2) {
+[0;1;32m                                                                                                                                                                   ^
+[0m3 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox5/NoBannerAdv410/.theos/obj/arm64e/Tweak.mm.c8771826.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox5/NoBannerAdv410/.theos/obj/arm64e/NoBannerAdv410.dylib] Error 2
+make[2]: *** Waiting for unfinished jobs....
+[1mTweak.xm:27:137: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); 
+[0;1;32m                                                                                                                                        ^
+[0m[1mTweak.xm:27:290: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void (*_logos_orig$_ungrouped$GADBannerView$setAdSize$andReload$)(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST, SEL, GADAdSize, bool); 
+[0;1;32m                                                                                                                                                                                                                                                                                                 ^
+[0m[1mTweak.xm:4:164: [0m[0;1;31merror: [0m[1munknown type name 'GADAdSize'[0m
+static void _logos_method$_ungrouped$GADBannerView$setAdSize$andReload$(_LOGOS_SELF_TYPE_NORMAL GADBannerView* _LOGOS_SELF_CONST __unused self, SEL __unused _cmd, GADAdSize arg1, bool arg2) {
+[0;1;32m                                                                                                                                                                   ^
+[0m3 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox5/NoBannerAdv410/.theos/obj/arm64/Tweak.mm.6603865a.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox5/NoBannerAdv410/.theos/obj/arm64/NoBannerAdv410.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: NoBannerAdv410.all.tweak.variables] Error 2

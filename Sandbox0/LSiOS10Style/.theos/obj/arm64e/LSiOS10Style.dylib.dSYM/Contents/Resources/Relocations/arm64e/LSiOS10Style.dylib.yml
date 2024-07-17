@@ -1,0 +1,29 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/LSiOS10Style/.theos/obj/arm64e/LSiOS10Style.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1CC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBSlideUpAppGrabberView$_shouldUseVibrancy', symObjAddr: 0x2320, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SBLockScreenScrollView$gestureRecognizer$shouldReceiveTouch$', symObjAddr: 0x2328, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: '__ZL87_logos_orig$_ungrouped$SBLockScreenBounceAnimator$gestureRecognizer$shouldReceiveTouch$', symObjAddr: 0x2330, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x14C, offset: 0x14C, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$SBLockScreenHintManager$_isBounceEnabledForController$locationInWindow$', symObjAddr: 0x2338, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1CF, offset: 0x1CF, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBLockScreenView$setTopGrabberHidden$forRequester$', symObjAddr: 0x2340, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x20E, offset: 0x20E, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$', symObjAddr: 0x2348, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x227, offset: 0x227, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$SBLockScreenView$setCustomSlideToUnlockText$', symObjAddr: 0x2350, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x256, offset: 0x256, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$_UIGlintyStringView$chevron', symObjAddr: 0x2358, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x28F, offset: 0x28F, size: 0x8, addend: 0x0, symName: '__ZL88_logos_orig$_ungrouped$SBLockScreenViewController$shouldShowSlideToUnlockTextImmediately', symObjAddr: 0x2360, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x2D2, offset: 0x2D2, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1CC }
+  - { offsetInCU: 0x445, offset: 0x445, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBSlideUpAppGrabberView$_shouldUseVibrancyP23SBSlideUpAppGrabberViewP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x8 }
+  - { offsetInCU: 0x48B, offset: 0x48B, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBSlideUpAppGrabberView$_shouldUseVibrancyP23SBSlideUpAppGrabberViewP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x8 }
+  - { offsetInCU: 0x4BF, offset: 0x4BF, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBLockScreenScrollView$gestureRecognizer$shouldReceiveTouch$P22SBLockScreenScrollViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x8 }
+  - { offsetInCU: 0x509, offset: 0x509, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$SBLockScreenBounceAnimator$gestureRecognizer$shouldReceiveTouch$P26SBLockScreenBounceAnimatorP13objc_selectorP11objc_objectS4_', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x8 }
+  - { offsetInCU: 0x553, offset: 0x553, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$SBLockScreenHintManager$_isBounceEnabledForController$locationInWindow$P23SBLockScreenHintManagerP13objc_selectorP11objc_object7CGPoint', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0x59D, offset: 0x59D, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBLockScreenView$setTopGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x1EC, symBinAddr: 0x41EC, symSize: 0x10 }
+  - { offsetInCU: 0x5EB, offset: 0x5EB, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x10 }
+  - { offsetInCU: 0x610, offset: 0x610, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x10 }
+  - { offsetInCU: 0x65E, offset: 0x65E, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$SBLockScreenView$setCustomSlideToUnlockText$P16SBLockScreenViewP13objc_selectorP11objc_object', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x14 }
+  - { offsetInCU: 0x683, offset: 0x683, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$SBLockScreenView$setCustomSlideToUnlockText$P16SBLockScreenViewP13objc_selectorP11objc_object', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x14 }
+  - { offsetInCU: 0x6C7, offset: 0x6C7, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$_UIGlintyStringView$chevronP19_UIGlintyStringViewP13objc_selector', symObjAddr: 0x220, symBinAddr: 0x4220, symSize: 0x8 }
+  - { offsetInCU: 0x6E0, offset: 0x6E0, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$_UIGlintyStringView$chevronP19_UIGlintyStringViewP13objc_selector', symObjAddr: 0x220, symBinAddr: 0x4220, symSize: 0x8 }
+  - { offsetInCU: 0x714, offset: 0x714, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$SBLockScreenViewController$shouldShowSlideToUnlockTextImmediatelyP26SBLockScreenViewControllerP13objc_selector', symObjAddr: 0x228, symBinAddr: 0x4228, symSize: 0x8 }
+...

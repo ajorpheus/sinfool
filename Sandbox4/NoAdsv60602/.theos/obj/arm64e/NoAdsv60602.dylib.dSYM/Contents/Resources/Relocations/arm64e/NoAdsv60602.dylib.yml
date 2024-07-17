@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoAdsv60602/.theos/obj/arm64e/NoAdsv60602.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$FWVideoAdRenderer$init', symObjAddr: 0xF50, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL46_logos_orig$_ungrouped$FWVideoAdRenderer2$init', symObjAddr: 0xF58, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xCF, offset: 0xCF, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$FWRendererController$_getSlotType', symObjAddr: 0xF60, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x131, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$MMLSponsorshipManager$sponsors', symObjAddr: 0xF68, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x174, offset: 0x174, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x244, offset: 0x244, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$FWVideoAdRenderer$initP17FWVideoAdRendererP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x28A, offset: 0x28A, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$FWVideoAdRenderer$initP17FWVideoAdRendererP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x2BE, offset: 0x2BE, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$FWVideoAdRenderer2$initP18FWVideoAdRenderer2P13objc_selector', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x8 }
+  - { offsetInCU: 0x2F2, offset: 0x2F2, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$FWRendererController$_getSlotTypeP20FWRendererControllerP13objc_selector', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x8 }
+  - { offsetInCU: 0x326, offset: 0x326, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$MMLSponsorshipManager$sponsorsP21MMLSponsorshipManagerP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+...

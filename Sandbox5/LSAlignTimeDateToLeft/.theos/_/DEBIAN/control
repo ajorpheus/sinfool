@@ -1,0 +1,16 @@
+Package: com.sinfool.lsaligntimedatetoleft
+Name: LS - Align Time & Date To Left
+Author: Sinfool
+Description: Aligns the lockscreen time & date to the left side.  Also provides options to hide the today view's weather & date/time views and possibly enables LS rotation for iPhone users. Aligns the lockscreen time & date to the left side.  Also provides options to hide the today view's weather & date/time views and possibly enables LS rotation for iPhone users.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made after reading a similar request on /r/jailbreak.  (10-27-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39862
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

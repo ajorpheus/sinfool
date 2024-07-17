@@ -1,0 +1,18 @@
+Package: com.sinfool.ios12conceptuitheme
+Name: iOS 12 Concept UI Theme
+Author: Sinfool
+Description: Gives cell sections the same appearance as right side cells on iPads and includes a few other customizable options for separators & cell selection colors etc. Gives cell sections the same appearance as right side cells on iPads and includes a few other customizable options for separators & cell selection colors etc.
+ .
+ I made this patch to mimic the look of an old concept theme by Max Angelakis (and of which later was also included in some iOS 12 concept videos).
+ .
+ [v.1] Tested with an iPad mini2 on 11.1.2.  (4-17-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41996
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,16 @@
+Package: com.sinfool.noadsv55620
+Name: No Ads (v. 5.5 - 6.2.0)  ₁₋₂₇₋₁₆
+Author: Sinfool
+Description: Removes ads.  Made as a request. Removes ads.  Made as a request.
+ .
+ [v.1] Tested with versions 5.5 - 6.2.0.  (1-27-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27476
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.tinginteractive.usms
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

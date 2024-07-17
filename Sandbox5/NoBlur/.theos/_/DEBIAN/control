@@ -1,0 +1,26 @@
+Package: com.sinfool.noblur
+Name: No Blur  ₁₀₋₁₇₋₁₅
+Author: Sinfool
+Description: Removes the wallpaper blur from the following... Removes the wallpaper blur from the following...
+ .
+ * Apps  (iBooks, Safari, Phone Dialer etc)
+ * Dock
+ * Open Folder BG
+ * Other misc UI (switcher cards etc)
+ * Hides grabbers (LS, NC, CC)
+ .
+ ⚑ UPDATES:
+ (10-17-15) *Initial release
+ (10-12-16) *Changed/removed "Wallpaper" from the title
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25171
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

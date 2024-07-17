@@ -1,0 +1,20 @@
+Package: com.sinfool.simplecameradisablemodes
+Name: Simple Camera (Disable Modes)  ₂₋₁₈₋₁₆
+Author: Sinfool
+Description: Disables camera modes.	By default, all modes are disabled except "Photo" & "Video" mode however you can enable/disable whichever modes as you please. Disables camera modes.	By default, all modes are disabled except "Photo" & "Video" mode however you can enable/disable whichever modes as you please.
+ .
+ ⚑ UPDATES:
+ (2-9-16) *Initial release
+ (2-18-16) *Changed/Added "Simple Camera" to title
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (2-18-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27684
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.camera
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

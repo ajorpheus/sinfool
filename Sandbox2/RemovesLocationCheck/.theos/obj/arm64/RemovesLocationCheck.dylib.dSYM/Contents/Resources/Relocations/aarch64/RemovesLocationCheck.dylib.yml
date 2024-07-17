@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/RemovesLocationCheck/.theos/obj/arm64/RemovesLocationCheck.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$MKStoreManager$isProductTypePurchased$', symObjAddr: 0xCB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$NLAccessControlManager$isVIPAccount', symObjAddr: 0xCC0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: '__ZL86_logos_orig$_ungrouped$NLAccessControlManager$isLiveChannelAvailableForCurrentLocation', symObjAddr: 0xCC8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x110, offset: 0x110, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x18D, offset: 0x18D, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MKStoreManager$isProductTypePurchased$P14MKStoreManagerP13objc_selectori', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1E4, offset: 0x1E4, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MKStoreManager$isProductTypePurchased$P14MKStoreManagerP13objc_selectori', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x223, offset: 0x223, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$NLAccessControlManager$isVIPAccountP22NLAccessControlManagerP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x257, offset: 0x257, size: 0x8, addend: 0x0, symName: '__ZL88_logos_method$_ungrouped$NLAccessControlManager$isLiveChannelAvailableForCurrentLocationP22NLAccessControlManagerP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

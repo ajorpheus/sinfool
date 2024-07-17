@@ -1,0 +1,16 @@
+Package: com.sinfool.colorcustomierv241
+Name: Color Customizer (v. 2.4.1)  ₉₋₂₉₋₁₆
+Author: Sinfool
+Description: Changes the colors of various items. Changes the colors of various items.
+ .
+ [v.1] Tested with version 2.4.1.  Made as a request via r/jailbreak.  (9-29-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31446
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.madeawkward.beam
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

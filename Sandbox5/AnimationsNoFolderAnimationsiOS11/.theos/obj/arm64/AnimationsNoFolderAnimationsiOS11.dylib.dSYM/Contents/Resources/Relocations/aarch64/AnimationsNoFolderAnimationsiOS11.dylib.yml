@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/AnimationsNoFolderAnimationsiOS11/.theos/obj/arm64/AnimationsNoFolderAnimationsiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SBIconController$openFolderIcon$animated$withCompletion$', symObjAddr: 0x1520, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD1, offset: 0xD1, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBIconController$closeFolderAnimated$withCompletion$', symObjAddr: 0x1528, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x105, offset: 0x105, size: 0x8, addend: 0x0, symName: '__ZL144_logos_orig$_ungrouped$SBFloatingDockViewController$folderPresentationController$animationControllerForTransitionWithFolder$presenting$animated$', symObjAddr: 0x1530, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x152, offset: 0x152, size: 0x8, addend: 0x0, symName: '__ZL110_logos_orig$_ungrouped$SBFloatingDockRootViewController$_setPresentedProgress$animated$interactive$completion$', symObjAddr: 0x1538, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1AC, offset: 0x1AC, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x259, offset: 0x259, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBIconController$openFolderIcon$animated$withCompletion$P16SBIconControllerP13objc_selectorP11objc_objectbS4_', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x29F, offset: 0x29F, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBIconController$openFolderIcon$animated$withCompletion$P16SBIconControllerP13objc_selectorP11objc_objectbS4_', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x2FA, offset: 0x2FA, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBIconController$closeFolderAnimated$withCompletion$P16SBIconControllerP13objc_selectorbP11objc_object', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+  - { offsetInCU: 0x326, offset: 0x326, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBIconController$closeFolderAnimated$withCompletion$P16SBIconControllerP13objc_selectorbP11objc_object', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+  - { offsetInCU: 0x374, offset: 0x374, size: 0x8, addend: 0x0, symName: '__ZL146_logos_method$_ungrouped$SBFloatingDockViewController$folderPresentationController$animationControllerForTransitionWithFolder$presenting$animated$P28SBFloatingDockViewControllerP13objc_selectorP11objc_objectS4_bb', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x10 }
+  - { offsetInCU: 0x399, offset: 0x399, size: 0x8, addend: 0x0, symName: '__ZL146_logos_method$_ungrouped$SBFloatingDockViewController$folderPresentationController$animationControllerForTransitionWithFolder$presenting$animated$P28SBFloatingDockViewControllerP13objc_selectorP11objc_objectS4_bb', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x10 }
+  - { offsetInCU: 0x40A, offset: 0x40A, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$SBFloatingDockRootViewController$_setPresentedProgress$animated$interactive$completion$P32SBFloatingDockRootViewControllerP13objc_selectordbbP11objc_object', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x43D, offset: 0x43D, size: 0x8, addend: 0x0, symName: '__ZL112_logos_method$_ungrouped$SBFloatingDockRootViewController$_setPresentedProgress$animated$interactive$completion$P32SBFloatingDockRootViewControllerP13objc_selectordbbP11objc_object', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+...

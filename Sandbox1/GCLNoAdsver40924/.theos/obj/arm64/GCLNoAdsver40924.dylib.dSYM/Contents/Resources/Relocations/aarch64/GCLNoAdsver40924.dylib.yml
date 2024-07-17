@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/GCLNoAdsver40924/.theos/obj/arm64/GCLNoAdsver40924.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$NHLAccessControlManager$isRogersUser', symObjAddr: 0x1018, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$NHLAccessControlManager$isLocalGclSubscription', symObjAddr: 0x1020, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xC1, offset: 0xC1, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NHLAccessControlManager$isGclSubscription', symObjAddr: 0x1028, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0x1030, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x1038, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x15D, offset: 0x15D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD0 }
+  - { offsetInCU: 0x21E, offset: 0x21E, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$NHLAccessControlManager$isRogersUserP23NHLAccessControlManagerP13objc_selector', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x8 }
+  - { offsetInCU: 0x26E, offset: 0x26E, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$NHLAccessControlManager$isRogersUserP23NHLAccessControlManagerP13objc_selector', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x8 }
+  - { offsetInCU: 0x2A2, offset: 0x2A2, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$NHLAccessControlManager$isLocalGclSubscriptionP23NHLAccessControlManagerP13objc_selector', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x8 }
+  - { offsetInCU: 0x2D6, offset: 0x2D6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NHLAccessControlManager$isGclSubscriptionP23NHLAccessControlManagerP13objc_selector', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x8 }
+  - { offsetInCU: 0x30A, offset: 0x30A, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x33E, offset: 0x33E, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x8 }
+...

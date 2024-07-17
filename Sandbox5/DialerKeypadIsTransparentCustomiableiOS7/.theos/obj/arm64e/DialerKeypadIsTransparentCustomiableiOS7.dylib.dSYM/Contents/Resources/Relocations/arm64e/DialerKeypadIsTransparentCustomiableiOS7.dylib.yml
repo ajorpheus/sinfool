@@ -1,0 +1,29 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/DialerKeypadIsTransparentCustomiableiOS7/.theos/obj/arm64e/DialerKeypadIsTransparentCustomiableiOS7.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1CC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$UIStatusBarStyleAttributes$foregroundStyle', symObjAddr: 0x2120, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$PHHandsetDialerLCDView$lcdColor', symObjAddr: 0x2128, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$PHHandsetDialerView$dialerColor', symObjAddr: 0x2130, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x131, size: 0x8, addend: 0x0, symName: '__ZL47_logos_orig$_ungrouped$TPPathView$setFillColor$', symObjAddr: 0x2138, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x16B, offset: 0x16B, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$TPRevealingRingView$alphaInsideRing', symObjAddr: 0x2140, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$', symObjAddr: 0x2148, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x1DA, offset: 0x1DA, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$TPRevealingRingView$animationStyle', symObjAddr: 0x2150, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x20F, offset: 0x20F, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$UITabBarButton$_setContentTintColor$forState$', symObjAddr: 0x2158, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x255, offset: 0x255, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$UITabBarSwappableImageView$showAlternateImage$', symObjAddr: 0x2160, symBinAddr: 0xC098, symSize: 0x0 }
+  - { offsetInCU: 0x2AB, offset: 0x2AB, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1CC }
+  - { offsetInCU: 0x410, offset: 0x410, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$UIStatusBarStyleAttributes$foregroundStyleP26UIStatusBarStyleAttributesP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x8 }
+  - { offsetInCU: 0x456, offset: 0x456, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$UIStatusBarStyleAttributes$foregroundStyleP26UIStatusBarStyleAttributesP13objc_selector', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x8 }
+  - { offsetInCU: 0x48A, offset: 0x48A, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$PHHandsetDialerLCDView$lcdColorP22PHHandsetDialerLCDViewP13objc_selector', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x8 }
+  - { offsetInCU: 0x4BE, offset: 0x4BE, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$PHHandsetDialerView$dialerColorP19PHHandsetDialerViewP13objc_selector', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x8 }
+  - { offsetInCU: 0x4F2, offset: 0x4F2, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$TPPathView$setFillColor$P10TPPathViewP13objc_selectorP11objc_object', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x6C }
+  - { offsetInCU: 0x53A, offset: 0x53A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$TPRevealingRingView$alphaInsideRingP19TPRevealingRingViewP13objc_selector', symObjAddr: 0x250, symBinAddr: 0x4250, symSize: 0x8 }
+  - { offsetInCU: 0x551, offset: 0x551, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$TPRevealingRingView$alphaInsideRingP19TPRevealingRingViewP13objc_selector', symObjAddr: 0x250, symBinAddr: 0x4250, symSize: 0x8 }
+  - { offsetInCU: 0x585, offset: 0x585, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0x258, symBinAddr: 0x4258, symSize: 0x10 }
+  - { offsetInCU: 0x5C6, offset: 0x5C6, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$TPRevealingRingView$animationStyleP19TPRevealingRingViewP13objc_selector', symObjAddr: 0x268, symBinAddr: 0x4268, symSize: 0x8 }
+  - { offsetInCU: 0x5DF, offset: 0x5DF, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$TPRevealingRingView$animationStyleP19TPRevealingRingViewP13objc_selector', symObjAddr: 0x268, symBinAddr: 0x4268, symSize: 0x8 }
+  - { offsetInCU: 0x613, offset: 0x613, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UITabBarButton$_setContentTintColor$forState$P14UITabBarButtonP13objc_selectorP11objc_objectj', symObjAddr: 0x270, symBinAddr: 0x4270, symSize: 0x78 }
+  - { offsetInCU: 0x66A, offset: 0x66A, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$UITabBarSwappableImageView$showAlternateImage$P26UITabBarSwappableImageViewP13objc_selectorb', symObjAddr: 0x2E8, symBinAddr: 0x42E8, symSize: 0x10 }
+  - { offsetInCU: 0x687, offset: 0x687, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$UITabBarSwappableImageView$showAlternateImage$P26UITabBarSwappableImageViewP13objc_selectorb', symObjAddr: 0x2E8, symBinAddr: 0x42E8, symSize: 0x10 }
+...

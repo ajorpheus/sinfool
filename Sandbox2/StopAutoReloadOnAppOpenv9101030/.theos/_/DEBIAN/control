@@ -1,0 +1,16 @@
+Package: com.sinfool.stopautoreloadonappopenv9101030
+Name: Stop Auto Reload On App Open (v. 9.1.0 - 10.3.0)  ₁₋₁₁₋₁₇
+Author: Sinfool
+Description: Prevents cold start loading when returning to the app (if done in a timely manner). Prevents cold start loading when returning to the app (if done in a timely manner).
+ .
+ [v.1] Tested with versions (9.1.0 - 10.3.0) but most likely works with other versions as well.  Made as a request via r/jailbreak.  (1-11-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33398
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.burbn.instagram
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

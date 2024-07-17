@@ -1,0 +1,18 @@
+Package: com.sinfool.kbnodictationkey
+Name: KB - No Dictation Key
+Author: Sinfool
+Description: Hides the dictation key & increases the width of the space bar. Hides the dictation key & increases the width of the space bar.
+ .
+ Useful for those who use an Activator gesture to invoke dictation (i.e. shake device etc).
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-6-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34228
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

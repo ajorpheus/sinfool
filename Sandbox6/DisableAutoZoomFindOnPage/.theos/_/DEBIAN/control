@@ -1,0 +1,16 @@
+Package: com.sinfool.disableautozoomfindonpage
+Name: Disable Auto Zoom (Find On Page)
+Author: Sinfool
+Description: Disables auto zoom after using the "find on page" feature.  Useful for those annoyed by this stock iOS behavior. Disables auto zoom after using the "find on page" feature.  Useful for those annoyed by this stock iOS behavior.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34057
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

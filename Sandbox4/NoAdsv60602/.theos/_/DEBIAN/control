@@ -1,0 +1,22 @@
+Package: com.sinfool.noadsv60602
+Name: No Ads (v. 6.0 - 6.0.2)  ₃₋₁₇₋₁₆ ⚑
+Author: Sinfool
+Description: Removes banner ads & commercials. Removes banner ads & commercials.
+ .
+ ⚑ UPDATES:
+ (3-??-14) *Initial release
+ (3-20-15) *Updated
+ (3-16-16) *Updated & changed title from "No Commercials or Banner Ads UPDATED"
+ (3-17-16) *Removed another banner ad
+ .
+ [v.4] Tested with (versions 6.0 - 6.0.2).  (3-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 9780
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.turner.mmod2011temp
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

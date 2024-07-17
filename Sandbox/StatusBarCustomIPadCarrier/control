@@ -1,0 +1,17 @@
+Package: com.sinfool.statusbarcustomipadcarrier
+Name: Status Bar - Custom "IPad" Carrier
+Author: Sinfool
+Description: Allows you to use custom carrier text on iPads (& I guess other devices without cell service) when cellular data is disabled.  Default iOS shows "iPad" as your user/carrier name when you disable cellular data but this overrides that.  Change the text to your liking. Allows you to use custom carrier text on iPads (& I guess other devices without cell service) when cellular data is disabled.  Default iOS shows "iPad" as your user/carrier name when you disable cellular data but this overrides that.  Change the text to your liking.
+ .
+ IMPORTANT NOTE:  This patch only takes effect after cellular data is enabled so if you have cellular data disabled after a respring, you'll see "Searching..." and then "No Network" until you manually enable/disable cellular data again.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (3-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35376
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

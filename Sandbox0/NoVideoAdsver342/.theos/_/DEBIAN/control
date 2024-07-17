@@ -1,0 +1,12 @@
+Package: com.sinfool.novideoadsver342
+Name: No Video Ads (ver. 3.4.2)
+Author: Sinfool
+Description: UPDATE (9-17-14):  Removes video ads.  Tested with version 3.4.2.  Made as a request via reddit. UPDATE (9-17-14):  Removes video ads.  Tested with version 3.4.2.  Made as a request via reddit. patchID: 12386
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.viki.viki-ios
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

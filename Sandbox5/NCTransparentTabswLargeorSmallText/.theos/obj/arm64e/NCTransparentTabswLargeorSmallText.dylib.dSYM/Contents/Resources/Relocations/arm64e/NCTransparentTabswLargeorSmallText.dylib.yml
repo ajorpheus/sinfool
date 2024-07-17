@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NCTransparentTabswLargeorSmallText/.theos/obj/arm64e/NCTransparentTabswLargeorSmallText.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL116_logos_orig$_ungrouped$UISegment$initWithInfo$style$size$barStyle$tintColor$appearanceStorage$position$autosizeText$', symObjAddr: 0xA28, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x10D, offset: 0x10D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: '__ZL118_logos_method$_ungrouped$UISegment$initWithInfo$style$size$barStyle$tintColor$appearanceStorage$position$autosizeText$P9UISegmentP13objc_selectorP11objc_objectxixS4_S4_jb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x20 }
+  - { offsetInCU: 0x19A, offset: 0x19A, size: 0x8, addend: 0x0, symName: '__ZL118_logos_method$_ungrouped$UISegment$initWithInfo$style$size$barStyle$tintColor$appearanceStorage$position$autosizeText$P9UISegmentP13objc_selectorP11objc_objectxixS4_S4_jb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x20 }
+...

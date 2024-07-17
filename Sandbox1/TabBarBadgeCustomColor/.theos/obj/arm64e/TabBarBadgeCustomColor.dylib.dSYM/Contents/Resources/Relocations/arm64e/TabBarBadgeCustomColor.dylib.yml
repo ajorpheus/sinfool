@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/TabBarBadgeCustomColor/.theos/obj/arm64e/TabBarBadgeCustomColor.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$_UIBadgeView$setBackgroundColor$', symObjAddr: 0x8C0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xCA, offset: 0xCA, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$_UIBadgeView$setBackgroundColor$P12_UIBadgeViewP13objc_selectorP11objc_object', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x68 }
+  - { offsetInCU: 0x157, offset: 0x157, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$_UIBadgeView$setBackgroundColor$P12_UIBadgeViewP13objc_selectorP11objc_object', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x68 }
+...

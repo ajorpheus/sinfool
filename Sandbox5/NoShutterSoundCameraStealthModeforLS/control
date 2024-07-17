@@ -1,0 +1,11 @@
+Package: com.sinfool.noshuttersoundcamerastealthmodeforls
+Name: No Shutter Sound (Camera Stealth Mode) for LS
+Author: Sinfool
+Description: Removes the shutter sound when taking pictures from the lockscreen.  Provides a discreet way of snapping pics without drawing extra attention.  Works with the volume rockers too.  Tested on iP5 with 7.0.6.  (8-5-14)  (NOTE:  This doesn't work on the SB!)  Use the System Wide or Camera versions to mute the shutter sound System Wide or just via the SB. Removes the shutter sound when taking pictures from the lockscreen.  Provides a discreet way of snapping pics without drawing extra attention.  Works with the volume rockers too.  Tested on iP5 with 7.0.6.  (8-5-14)  (NOTE:  This doesn't work on the SB!)  Use the System Wide or Camera versions to mute the shutter sound System Wide or just via the SB. patchID: 12224
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

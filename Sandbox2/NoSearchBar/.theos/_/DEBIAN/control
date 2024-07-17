@@ -1,0 +1,12 @@
+Package: com.sinfool.nosearchbar
+Name: No Search Bar
+Author: Sinfool
+Description: Removes the search bar.  When using this patch... access search via Menu>Navigate.  Tested with version 3.9.4.  (6-1-15) Removes the search bar.  When using this patch... access search via Menu>Navigate.  Tested with version 3.9.4.  (6-1-15) patchID: 21435
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

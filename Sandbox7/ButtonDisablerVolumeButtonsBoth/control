@@ -1,0 +1,19 @@
+Package: com.sinfool.buttondisablervolumebuttonsboth
+Name: ButtonDisabler - Volume Buttons (Both)  ₁₀₋₉₋₁₆
+Author: Sinfool
+Description: Disables both volume up & down buttons. Disables both volume up & down buttons.
+ .
+ *Useful if you have broken volume buttons which trigger inadvertently.
+ .
+ ⚠️ NOTE:  I suggest using Activator events/gestures (maybe slide up/down along screen edge to increase/decrease volume increments.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & 9.3.3.  Made as a request via r/jailbreak.  (10-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31564
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

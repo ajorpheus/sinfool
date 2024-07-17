@@ -1,0 +1,23 @@
+Package: com.sinfool.aionoadsunlimitedskipsmorever325332
+Name: [AIO] No Ads, Unlimited Skips + More (ver. 3.2.5 - 3.3.2)
+Author: Sinfool
+Description: All in one patch for Songza.	Tested with versions 3.2.5 - 3.3.2.  UPDATED (12-17-14) All in one patch for Songza.	Tested with versions 3.2.5 - 3.3.2.  UPDATED (12-17-14)
+ .
+ Note: By default, the status bar entires aren't enabled.	To enable them, download the flex section patch titled edit downloaded patches & then change the entires below accordingly.  
+ .
+ • No ads
+ • Unlimited skips
+ • Disable iTunes 'buy' buttons
+ • No 'Club Songza' upsell buttons
+ • No 'skips tool tip' reminders
+ • No loading indicator (iPad)
+ • No bottom banner ad space
+ • [optional] No Status Bar and/or foreground. (NOTE:	no foreground looks better w/iPhones and no status bar looks better w/iPads) patchID: 11490
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.songza.Songza
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,21 @@
+Package: com.sinfool.flattextfieldinputbg
+Name: Flat Text Field Input BG  ₁₀₋₅₋₁₆ ⚑
+Author: Sinfool
+Description: Gives the text input entry field bar a flat appearance by removing the background.  Also provides options to remove the audio button & sending animation (by default, both are disabled). Gives the text input entry field bar a flat appearance by removing the background.  Also provides options to remove the audio button & sending animation (by default, both are disabled).
+ .
+ ⚑ UPDATES:
+ (9-22-16) *Initial release
+ (9-22-16) *Added option to remove audio button
+ (10-5-16) *Added option to remove sending animation
+ .
+ [v.3] Tested with an iP6+ 9.3.3.  Made after reading a request on r/jailbreak.  (10-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31342
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

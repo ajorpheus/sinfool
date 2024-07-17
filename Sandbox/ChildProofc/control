@@ -1,0 +1,11 @@
+Package: com.sinfool.childproof
+Name: Child Proof
+Author: Sinfool
+Description: When enabled, this patch prevents accidental file deletion/editing by doing the following...  (1) Removes the edit button.  (2) Disables the long hold gesture/edit mode.  (3) Disables menu button access.   NOTE:  To re-enable menu button access/functionality... toggle this patch on/off as needed OR delete the unit specified below. When enabled, this patch prevents accidental file deletion/editing by doing the following...  (1) Removes the edit button.  (2) Disables the long hold gesture/edit mode.  (3) Disables menu button access.   NOTE:  To re-enable menu button access/functionality... toggle this patch on/off as needed OR delete the unit specified below. patchID: 11179
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/org.videolan.vlc-ios
+Homepage: https://ipadkid.cf/sinfool/index.html

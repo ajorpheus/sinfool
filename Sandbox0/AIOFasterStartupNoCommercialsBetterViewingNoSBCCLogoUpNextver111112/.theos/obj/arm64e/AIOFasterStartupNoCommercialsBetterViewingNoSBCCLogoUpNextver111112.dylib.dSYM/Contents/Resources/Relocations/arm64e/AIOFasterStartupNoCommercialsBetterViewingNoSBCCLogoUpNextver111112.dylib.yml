@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AIOFasterStartupNoCommercialsBetterViewingNoSBCCLogoUpNextver111112/.theos/obj/arm64e/AIOFasterStartupNoCommercialsBetterViewingNoSBCCLogoUpNextver111112.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$CCSUSplashViewController$dismissSplashScreenAfterDelay$', symObjAddr: 0x1088, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0x1090, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: '__ZL98_logos_orig$_ungrouped$UIStatusBarForegroundView$initWithFrame$foregroundStyle$usesVerticalLayout$', symObjAddr: 0x1098, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x28C, offset: 0x28C, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$CCSUSplashViewController$dismissSplashScreenAfterDelay$P24CCSUSplashViewControllerP13objc_selectord', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x2D2, offset: 0x2D2, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$CCSUSplashViewController$dismissSplashScreenAfterDelay$P24CCSUSplashViewControllerP13objc_selectord', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x313, offset: 0x313, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x32C, offset: 0x32C, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x360, offset: 0x360, size: 0x8, addend: 0x0, symName: '__ZL100_logos_method$_ungrouped$UIStatusBarForegroundView$initWithFrame$foregroundStyle$usesVerticalLayout$P25UIStatusBarForegroundViewP13objc_selector6CGRectP11objc_objectb', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+...

@@ -1,0 +1,20 @@
+Package: com.sinfool.swdisableswipeuptocloseaction
+Name: SW • Disable Swipe Up To Close Action  ₇₋₁₄₋₁₅
+Author: Sinfool
+Description: Disables switcher's swipe up to close action.  Made as a request via r/jailbreak.  Tested with iP6+ 8.1 & 8.4.  (7-14-15) Disables switcher's swipe up to close action.  Made as a request via r/jailbreak.  Tested with iP6+ 8.1 & 8.4.  (7-14-15)
+ .
+ UPDATES:
+ (1-10-15) *Initial release
+ (7-14-15) *Changed patch title
+ .
+ ★ If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 17154
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

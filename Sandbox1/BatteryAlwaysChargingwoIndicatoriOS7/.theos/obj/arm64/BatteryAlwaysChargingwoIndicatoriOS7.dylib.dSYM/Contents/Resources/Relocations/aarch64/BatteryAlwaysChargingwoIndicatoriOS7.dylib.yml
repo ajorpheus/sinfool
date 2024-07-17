@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/BatteryAlwaysChargingwoIndicatoriOS7/.theos/obj/arm64/BatteryAlwaysChargingwoIndicatoriOS7.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UIStatusBarBatteryItemView$_needsAccessoryImage', symObjAddr: 0xC60, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$UIStatusBarBatteryItemView$_accessoryImage', symObjAddr: 0xC68, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$UIStatusBarBatteryItemView$extraRightPadding', symObjAddr: 0xC70, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x13E, offset: 0x13E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x1A6, offset: 0x1A6, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UIStatusBarBatteryItemView$_needsAccessoryImageP26UIStatusBarBatteryItemViewP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UIStatusBarBatteryItemView$_needsAccessoryImageP26UIStatusBarBatteryItemViewP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x227, offset: 0x227, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$UIStatusBarBatteryItemView$_accessoryImageP26UIStatusBarBatteryItemViewP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x25B, offset: 0x25B, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$UIStatusBarBatteryItemView$extraRightPaddingP26UIStatusBarBatteryItemViewP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+...

@@ -1,0 +1,12 @@
+Package: com.sinfool.changecolorsonlockscreenspringboardlsclockdatenccccameragrabbersstatusbarsbiconlabelspagedotindicatorsstatusbar
+Name: Change Colors on Lockscreen & SpringBoard... (LS): Clock/Date, NC/CC/Camera Grabbers & Status Bar • (SB): Icon Labels, Page Dot Indicators & Status Bar
+Author: Sinfool
+Description: Change the color of the following Lockscreen and SpringBoard UI elements...(LS): Clock/Date, NC/CC/Camera Grabbers & Status Bar • (SB): Icon Labels, Page Dot Indicators & Status Bar.  Change the (2) colors to your liking.  Tested with iP4 & iPad3 on 7.1.2.  (8-4-14)   --------------------------------------------------FYI:  If you're using any other similar "color" or "hide" patches... Please be aware that while this patch can be used concurrently with others, most of them supersede this one so it's advised to disable/enable them accordingly to achieve your desired results.  Also, (if you haven't already done so) to enable editing of DL'd cloud patches... DL one of the Flex section patches, i.e. "Edit Downloaded Patches". Change the color of the following Lockscreen and SpringBoard UI elements...(LS): Clock/Date, NC/CC/Camera Grabbers & Status Bar • (SB): Icon Labels, Page Dot Indicators & Status Bar.  Change the (2) colors to your liking.  Tested with iP4 & iPad3 on 7.1.2.  (8-4-14)   --------------------------------------------------FYI:  If you're using any other similar "color" or "hide" patches... Please be aware that while this patch can be used concurrently with others, most of them supersede this one so it's advised to disable/enable them accordingly to achieve your desired results.  Also, (if you haven't already done so) to enable editing of DL'd cloud patches... DL one of the Flex section patches, i.e. "Edit Downloaded Patches". patchID: 12163
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

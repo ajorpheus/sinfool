@@ -1,0 +1,16 @@
+Package: com.sinfool.noadsv233
+Name: No Ads (v. 2.33)  ₄₋₁₆₋₁₆
+Author: Sinfool
+Description: Removes ads. Removes ads.
+ .
+ [v.1] Tested with version 2.33.  Made as a request via r/jailbreak.  (4-16-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28467
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.fortafygames.colorswitch
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

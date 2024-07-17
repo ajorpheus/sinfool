@@ -1,0 +1,23 @@
+Package: com.sinfool.closeallopentabs
+Name: Close All Open Tabs  ₈₋₁₃₋₁₆ ⚑
+Author: Sinfool
+Description: Closes all open tabs whenever any of the following occurs... Closes all open tabs whenever any of the following occurs...
+ .
+ - Safari is killed
+ - Respring
+ - Reboot
+ .
+ ⚑ UPDATES:
+ (1-27-16) *Initial release
+ (8-13-16) *Changed method to default to favorites instead of a blank page
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  (8-13-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27477
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

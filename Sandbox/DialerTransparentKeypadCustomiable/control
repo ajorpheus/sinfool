@@ -1,0 +1,36 @@
+Package: com.sinfool.dialertransparentkeypadcustomiable
+Name: Dialer - Transparent Keypad (Customizable)	₁₁₋₁₋₁₇
+Author: Sinfool
+Description: Makes the dialer keypad transparent by removing the white overlay thereby leaving just your blurred HS wallpaper.  Provides the following options... Makes the dialer keypad transparent by removing the white overlay thereby leaving just your blurred HS wallpaper.  Provides the following options...
+ .
+ * Status Bar - BG & FG Colors
+ * Dialer - BG Color
+ * Dialer - Button Color
+ * Dialer - Button Corner Radius
+ * Dialer - Button Highlight Animation
+ * Call Button - BG Color
+ * Call Button - Icon "✆" Visibility
+ * Tab Bar - Unselected Image Color
+ .
+ NOTE:  Try the following SpringBoard & Phone app section patches for full transparency...
+ .
+ * "No Wallpaper Blur  ₁₀₋₁₂₋₁₆"
+ * "Transparent Wallpaper (No Blur)  ₁₁₋₁₋₁₇"
+ * "Dialer - Transparent Buttons  ₁₁₋₁₋₁₇" 
+ .
+ P=pass-through  D=Delete  N=NULL
+ .
+ ⚑ UPDATES:
+ (11-1-17) *Initial release
+ (11-1-17) *Added Call Button methods for iOS 10
+ .
+ [v.2] Only tested with an iP6+ on 9.3.3 but should work on iOS 10 as well.  Thank you to r/jailbreak user /u/kaaslikker2 for confirming iOS 10 compatibility & the conflict with Eclipse.  (11-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39903
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

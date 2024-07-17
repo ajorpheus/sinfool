@@ -1,0 +1,18 @@
+Package: com.sinfool.animationsnoapptohscloseanimationtage
+Name: Animations - No App to HS Close Animation (Tage)
+Author: Sinfool
+Description: Removes the slide up animation (not the System Close Animation) when closing apps with the tweak Tage.  Works well if you don't want animations or if you already disable or speed up other animations. Removes the slide up animation (not the System Close Animation) when closing apps with the tweak Tage.  Works well if you don't want animations or if you already disable or speed up other animations.
+ .
+ IMPORTANT:  This patch is only useful for Tage users who have "System Close Animation" toggled "OFF" in Settings -> Tage -> CLOSE APP OR ACTIVATE SWITCHER
+ .
+ NOTE:  This also makes the in app home screen wallpaper backgrounds black (i.e. iBooks, Safari Tab Overview & probably the Phone app etc).
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (9-30-17) patchID: 39572
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

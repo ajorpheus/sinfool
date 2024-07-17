@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/ButtonDisablerVolumeButtonsBothiOS10/.theos/obj/arm64e/ButtonDisablerVolumeButtonsBothiOS10.dylib'
+relocations:     []
+...

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/SpotlightDarkSearchHeader/.theos/obj/arm64/SpotlightDarkSearchHeader.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$SPUISearchHeader$updateBlurProgress$', symObjAddr: 0xAC8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$SPUINavigationBar$updateBlurProgress$animated$', symObjAddr: 0xAD0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xEE, offset: 0xEE, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x15E, offset: 0x15E, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SPUISearchHeader$updateBlurProgress$P16SPUISearchHeaderP13objc_selectord', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x1AE, offset: 0x1AE, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SPUISearchHeader$updateBlurProgress$P16SPUISearchHeaderP13objc_selectord', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x1F7, offset: 0x1F7, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SPUINavigationBar$updateBlurProgress$animated$P17SPUINavigationBarP13objc_selectordb', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x10 }
+  - { offsetInCU: 0x210, offset: 0x210, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SPUINavigationBar$updateBlurProgress$animated$P17SPUINavigationBarP13objc_selectordb', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x10 }
+...

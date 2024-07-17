@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/SwitcherCustomIconLabelSie/.theos/obj/arm64/SwitcherCustomIconLabelSie.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBDeckSwitcherItemContainer$setContentPageViewScale$', symObjAddr: 0xBB0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$SBDeckSwitcherIconImageContainerView$displayName', symObjAddr: 0xBB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x17A, offset: 0x17A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentPageViewScale$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x1C0, offset: 0x1C0, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBDeckSwitcherItemContainer$setContentPageViewScale$P27SBDeckSwitcherItemContainerP13objc_selectord', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x209, offset: 0x209, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SBDeckSwitcherIconImageContainerView$displayNameP36SBDeckSwitcherIconImageContainerViewP13objc_selector', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0xC }
+  - { offsetInCU: 0x222, offset: 0x222, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SBDeckSwitcherIconImageContainerView$displayNameP36SBDeckSwitcherIconImageContainerViewP13objc_selector', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0xC }
+...

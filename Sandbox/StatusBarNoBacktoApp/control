@@ -1,0 +1,15 @@
+Package: com.sinfool.statusbarnobacktoapp
+Name: Status Bar - No "Back to App"  ₁₀₋₂₁₋₁₅
+Author: Sinfool
+Description: Disables the new "Back to App" feature/from showing on the status bar.  Made as a request. Disables the new "Back to App" feature/from showing on the status bar.  Made as a request.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-21-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25453
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/ControlCenterHeight/.theos/obj/arm64e/ControlCenterHeight.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBControlCenterContentContainerView$setContentHeight$', symObjAddr: 0xE18, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$SBControlCenterSettings$useNewBounce', symObjAddr: 0xE20, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBUIControlCenterButton$isCircleButton', symObjAddr: 0xE28, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x121, offset: 0x121, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1BA, offset: 0x1BA, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBControlCenterContentContainerView$setContentHeight$P35SBControlCenterContentContainerViewP13objc_selectord', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x14 }
+  - { offsetInCU: 0x20A, offset: 0x20A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBControlCenterContentContainerView$setContentHeight$P35SBControlCenterContentContainerViewP13objc_selectord', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x14 }
+  - { offsetInCU: 0x253, offset: 0x253, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SBControlCenterSettings$useNewBounceP23SBControlCenterSettingsP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x26C, offset: 0x26C, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SBControlCenterSettings$useNewBounceP23SBControlCenterSettingsP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x2A0, offset: 0x2A0, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBUIControlCenterButton$isCircleButtonP23SBUIControlCenterButtonP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

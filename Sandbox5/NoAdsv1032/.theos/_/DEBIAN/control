@@ -1,0 +1,16 @@
+Package: com.sinfool.noadsv1032
+Name: No Ads (v. 10.3.2)
+Author: Sinfool
+Description: Removes banner and video ads. Removes banner and video ads.
+ .
+ [v.1] Tested with app version 10.3.2.  Made as a request via Reddit user /u/matthewmarzella.  (9-9-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39277
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.mlb.AtBatUniversal
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

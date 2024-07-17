@@ -1,0 +1,16 @@
+Package: com.sinfool.nodeleteconfirmation
+Name: No Delete Confirmation  ₈₋₁₂₋₁₆
+Author: Sinfool
+Description: Removes the "Delete Photo(s)" confirmation popup when deleting photos. Removes the "Delete Photo(s)" confirmation popup when deleting photos.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30001
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

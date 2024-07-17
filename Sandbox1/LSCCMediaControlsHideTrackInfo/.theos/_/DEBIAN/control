@@ -1,0 +1,21 @@
+Package: com.sinfool.lsccmediacontrolshidetrackinfo
+Name: LS/CC (Media Controls) - Hide Track Info  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Hides the following text labels on the lock screen & in control center... Hides the following text labels on the lock screen & in control center...
+ .
+ - All Track Info
+ - Artist
+ - Title
+ - Album
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28486
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,38 @@
+Package: com.sinfool.alertsaiocustomier
+Name: Alerts - [AIO] Customizer  ₁₁₋₂₇₋₁₆ ⚑
+Author: Sinfool
+Description: All in one customizer for alert sheets (SpringBoard only).  Includes the following options... All in one customizer for alert sheets (SpringBoard only).  Includes the following options...
+ .
+ * Width
+ * Corner Radius
+ * Center
+ * Backdrop (hide/show/color)
+ * Separators (hide/show)
+ * Title (hide/show/max # of lines)
+ * Message (max # of lines)
+ * Combine First Cell
+ * Icons (hide/show)
+ * Text/Highlight Cell Style
+ * Red Action Text Button
+ * Cancel Button (hide/show/merge)
+ * Tap Outside To Dismiss
+ * Reverse Action Buttons
+ .
+ [v.3] Tested with an iP5 9.0.2.  (11-27-16)
+ .
+ ⚑ UPDATES:
+ (10-21-15) *Initial release
+ (10-21-15) *Left width value alone as it may cause issues on devices other than the iP5
+ (11-27-16) *Changed method for recent Flex 3 update
+ .
+ WARNING:	This prevents the AppStore ID login field from allowing input so keep this in mind when using this patch.
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25452
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

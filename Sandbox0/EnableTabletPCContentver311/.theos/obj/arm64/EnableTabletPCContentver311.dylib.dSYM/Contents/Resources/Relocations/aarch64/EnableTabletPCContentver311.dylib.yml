@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/EnableTabletPCContentver311/.theos/obj/arm64/EnableTabletPCContentver311.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIDevice$userInterfaceIdiom', symObjAddr: 0xCB0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x256, offset: 0x256, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x29D, offset: 0x29D, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x2DA, offset: 0x2DA, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

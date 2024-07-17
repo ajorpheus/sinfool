@@ -1,0 +1,19 @@
+Package: com.sinfool.alertswidthsharesheetscalefix
+Name: Alerts - Width (Share Sheet Scale FIX)  ₁₀₋₂₁₋₁₅
+Author: Sinfool
+Description: Changes the width of some alerts (i.e. action & activity/share sheets). Changes the width of some alerts (i.e. action & activity/share sheets).
+ .
+ NOTE: This "might" also be useful to adjust share sheet scaling to pre iOS 9 sizing.  Only tested on the iP5 but to try this on other devices... find your stock width and set the # just above that threshold, i.e. if it's "320" then try "321" or "322".
+ .
+ NOTE 2: This patch has been confirmed not working on the iP6 so it may not work for anything other than the iP5.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-21-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25450
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

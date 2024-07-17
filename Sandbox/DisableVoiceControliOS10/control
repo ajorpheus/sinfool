@@ -1,0 +1,13 @@
+Package: com.sinfool.disablevoicecontrolios10
+Name: Disable Voice Control (iOS 10)
+Author: Sinfool
+Description: Disables voice control.  Useful if you don't use voice control and are annoyed when it's menu accidentally pops up. Disables voice control.  Useful if you don't use voice control and are annoyed when it's menu accidentally pops up.
+ .
+ [v.1] Tested on iOS 9.3.3 & 10.2.  Made as a request via r/jailbreak user /u/YOURMOM37.  (9-21-17) patchID: 39448
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

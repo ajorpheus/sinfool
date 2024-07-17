@@ -1,0 +1,26 @@
+Package: com.sinfool.bannersstickynotificationbanner
+Name: Banners • Sticky Notification Banner  ₇₋₂₁₋₁₅
+Author: Sinfool
+Description: Forces the Notification Banner to remain visible until one of the following happens... Forces the Notification Banner to remain visible until one of the following happens...
+ .
+ (1)  Banner is manually dismissed
+ (2)  Current screen is left
+ (3)  Screen dims
+ (4)  Device is locked
+ .
+ - This differs from the other two sticky banner patches ("Sticky Banner" & "Van Ner Pls. Stick Around") in the following ways...  Tested on an iP6+ 8.4.  (7-21-15)
+ .
+ • Actively updates banner content
+ • Banner dismisses itself
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 23046
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

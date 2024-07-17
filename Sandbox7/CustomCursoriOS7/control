@@ -1,0 +1,19 @@
+Package: com.sinfool.customcursorios7
+Name: Custom Cursor (iOS 7)
+Author: Sinfool
+Description: Customizes the following aspects of the cursor.  Delete unwanted units or change the values to your liking.  By default, I've disabled blinking.  Made as a request via reddit.  Briefly tested with an iP5 7.1.2.  (6-19-15)  Customizes the following aspects of the cursor.  Delete unwanted units or change the values to your liking.  By default, I've disabled blinking.  Made as a request via reddit.  Briefly tested with an iP5 7.1.2.  (6-19-15) 
+ .
+ • Visibility
+ • Blinks
+ • Color
+ • Color (Text Selection Bars)
+ • Text Selection Highlight Visibility
+ .
+ FYI:	The color portions don't work in some safari web fields (& possibly other areas).  Also, idk if this works with other tweaks. patchID: 21694
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

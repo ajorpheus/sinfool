@@ -1,0 +1,19 @@
+Package: com.sinfool.stealthmode
+Name: Stealth Mode  ₁₀₋₁₇₋₁₅
+Author: Sinfool
+Description: Disables the following features while recording... Disables the following features while recording...
+ .
+ * Lockscreen Waveform View
+ * Double Height Red Status Bar
+ * Start Recording Sound
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-17-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25177
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.VoiceMemos
+Homepage: https://ipadkid.cf/sinfool/index.html

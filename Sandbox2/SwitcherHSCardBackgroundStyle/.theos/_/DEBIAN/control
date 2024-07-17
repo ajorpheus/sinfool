@@ -1,0 +1,45 @@
+Package: com.sinfool.switcherhscardbackgroundstyle
+Name: Switcher - HS Card Background Style  ₈₋₁₃₋₁₆
+Author: Sinfool
+Description: Changes the switcher's home screen card background style.  Set the style to your liking. Changes the switcher's home screen card background style.  Set the style to your liking.
+ .
+ * Normal = 0
+ * Hidden = 1
+ * Black = 2
+ * Blur = 3
+ * UltraLight (Blur only) = 4
+ * SemiLight (Blur only) = 5
+ * FlatSemiLight (Blur only) = 6
+ * Light (Blur only) = 7
+ * Dark (Blur only) = 8
+ * UltraLight (Tinted Blur) = 9
+ * SemiLight (Tinted Blur) = 10
+ * FlatSemiLight (Tinted Blur) = 11
+ * Light (Tinted Blur) = 12
+ * Dark (Tinted Blur) = 14
+ * UltraLight (Tint only) = 15
+ * SemiLight (Tint only) = 16
+ * FlatSemiLight (Tint only) = 17
+ * Light (Tint only) = 18
+ * Dark (Tint only) = 19
+ * Background Light (Blur only) = 20
+ * Background Light (Tinted Blur) = 21
+ * Background Light (Tint only) = 22
+ * Foreground Light (Blur only) = 23
+ * Foreground Light (Tinted Blur) = 24
+ * Foreground Light (Tint only) = 25
+ * Switcher Background Light (Blur only) = 26
+ * Switcher Background Light (Tinted Blur) = 27
+ * Switcher Background Light (Tint only) = 28
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & 9.3.3.  (8-13-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26672
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

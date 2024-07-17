@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/iPhoneUIStyleiPads/.theos/obj/arm64e/iPhoneUIStyleiPads.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$CAMViewfinderViewController$_setLayoutStyle$', symObjAddr: 0xB18, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CAMCaptureCapabilities$isLiveFilteringSupported', symObjAddr: 0xB20, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xE8, offset: 0xE8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x158, offset: 0x158, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$CAMViewfinderViewController$_setLayoutStyle$P27CAMViewfinderViewControllerP13objc_selectorx', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x10 }
+  - { offsetInCU: 0x1A8, offset: 0x1A8, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$CAMViewfinderViewController$_setLayoutStyle$P27CAMViewfinderViewControllerP13objc_selectorx', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x10 }
+  - { offsetInCU: 0x1E9, offset: 0x1E9, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CAMCaptureCapabilities$isLiveFilteringSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x207, offset: 0x207, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CAMCaptureCapabilities$isLiveFilteringSupportedP22CAMCaptureCapabilitiesP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+...

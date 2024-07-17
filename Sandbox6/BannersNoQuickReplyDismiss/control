@@ -1,0 +1,15 @@
+Package: com.sinfool.bannersnoquickreplydismiss
+Name: Banners - No Quick Reply Dismiss
+Author: Sinfool
+Description: Disables the quick reply pull down view from dismissing/redirecting to the messages app when tapping inside the QR view popup.  It may also disable it from closing when tapping outside the QR view popup thereby preventing QR dismissal except when tapping the "x" but I can't confirm this on my iPad mini 4.  Disables the quick reply pull down view from dismissing/redirecting to the messages app when tapping inside the QR view popup.  It may also disable it from closing when tapping outside the QR view popup thereby preventing QR dismissal except when tapping the "x" but I can't confirm this on my iPad mini 4. 
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as a request via r/jailbreak.  (3-22-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36173
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,15 @@
+Package: com.sinfool.disablelivephotosanimationwhenscrolling
+Name: Disable Live Photos Animation When Scrolling
+Author: Sinfool
+Description: Disables the animation of Live Photos when scrolling in between photos.  This only disables the motion animation, not the ability to view Live Photos by long hold/force pressing to view them. Disables the animation of Live Photos when scrolling in between photos.  This only disables the motion animation, not the ability to view Live Photos by long hold/force pressing to view them.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-8-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36669
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,17 @@
+Package: com.sinfool.enableautocapitaliation
+Name: Enable Auto Capitalization  ₁₀₋₃₋₁₆
+Author: Sinfool
+Description: Enables auto capitalization. Enables auto capitalization.
+ .
+ Useful for those who disable auto capitalization system wide however would like it enabled for the Mail app.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-3-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31493
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilemail
+Homepage: https://ipadkid.cf/sinfool/index.html

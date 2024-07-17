@@ -1,0 +1,11 @@
+Package: com.sinfool.hidestatusbarhsappswitchercard
+Name: Hide Status Bar (HS App Switcher Card)  ₂₋₂₇₋₁₅
+Author: Sinfool
+Description: Hides the status bar view for the home screen preview card in the app switcher.  Tested on iP6+ 8.1.  (2-27-15) Hides the status bar view for the home screen preview card in the app switcher.  Tested on iP6+ 8.1.  (2-27-15) patchID: 19130
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

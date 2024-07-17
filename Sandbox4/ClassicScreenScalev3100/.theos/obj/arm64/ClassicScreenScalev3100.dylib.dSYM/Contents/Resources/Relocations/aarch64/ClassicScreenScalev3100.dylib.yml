@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/ClassicScreenScalev3100/.theos/obj/arm64/ClassicScreenScalev3100.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UIApplication$_setClassicMode$', symObjAddr: 0x49D0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x17B9, offset: 0x17B9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x1800, offset: 0x1800, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+  - { offsetInCU: 0x1838, offset: 0x1838, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+...

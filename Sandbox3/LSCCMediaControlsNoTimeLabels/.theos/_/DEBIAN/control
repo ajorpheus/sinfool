@@ -1,0 +1,16 @@
+Package: com.sinfool.lsccmediacontrolsnotimelabels
+Name: LS/CC (Media Controls) - No Time Labels  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Removes time labels (& provides an option to extend the the progress bar length). Applies to both the lock screen & control center. Removes time labels (& provides an option to extend the the progress bar length). Applies to both the lock screen & control center.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28492
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

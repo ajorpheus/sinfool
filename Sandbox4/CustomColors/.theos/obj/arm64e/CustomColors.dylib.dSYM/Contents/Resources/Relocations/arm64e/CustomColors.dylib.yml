@@ -1,0 +1,28 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/CustomColors/.theos/obj/arm64e/CustomColors.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x170 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$UIButton$setTintColor$', symObjAddr: 0x71D0, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1D4D, offset: 0x1D4D, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setFillColor$', symObjAddr: 0x71D8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1D87, offset: 0x1D87, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setStrokeColor$', symObjAddr: 0x71E0, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1DA0, offset: 0x1DA0, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$UITextInputTraits$setInsertionPointColor$', symObjAddr: 0x71E8, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1DDA, offset: 0x1DDA, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UITextInputTraits$setSelectionBarColor$', symObjAddr: 0x71F0, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1DF3, offset: 0x1DF3, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$UIMorphingLabel$setTextColor$', symObjAddr: 0x71F8, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x1E2D, offset: 0x1E2D, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$UILabel$setHighlightedTextColor$', symObjAddr: 0x7200, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1E66, offset: 0x1E66, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x170 }
+  - { offsetInCU: 0x1F79, offset: 0x1F79, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UIButton$setTintColor$P8UIButtonP13objc_selectorP11objc_object', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x68 }
+  - { offsetInCU: 0x1FB1, offset: 0x1FB1, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UIButton$setTintColor$P8UIButtonP13objc_selectorP11objc_object', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x68 }
+  - { offsetInCU: 0x1FF9, offset: 0x1FF9, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setFillColor$P41_UITextFieldRoundedRectBackgroundViewNeueP13objc_selectorP11objc_object', symObjAddr: 0x1D8, symBinAddr: 0x41D8, symSize: 0x64 }
+  - { offsetInCU: 0x2010, offset: 0x2010, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setFillColor$P41_UITextFieldRoundedRectBackgroundViewNeueP13objc_selectorP11objc_object', symObjAddr: 0x1D8, symBinAddr: 0x41D8, symSize: 0x64 }
+  - { offsetInCU: 0x2058, offset: 0x2058, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setStrokeColor$P41_UITextFieldRoundedRectBackgroundViewNeueP13objc_selectorP11objc_object', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x68 }
+  - { offsetInCU: 0x206F, offset: 0x206F, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$_UITextFieldRoundedRectBackgroundViewNeue$setStrokeColor$P41_UITextFieldRoundedRectBackgroundViewNeueP13objc_selectorP11objc_object', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x68 }
+  - { offsetInCU: 0x20B7, offset: 0x20B7, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UITextInputTraits$setInsertionPointColor$P17UITextInputTraitsP13objc_selectorP11objc_object', symObjAddr: 0x2A4, symBinAddr: 0x42A4, symSize: 0x68 }
+  - { offsetInCU: 0x20CE, offset: 0x20CE, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UITextInputTraits$setInsertionPointColor$P17UITextInputTraitsP13objc_selectorP11objc_object', symObjAddr: 0x2A4, symBinAddr: 0x42A4, symSize: 0x68 }
+  - { offsetInCU: 0x2116, offset: 0x2116, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UITextInputTraits$setSelectionBarColor$P17UITextInputTraitsP13objc_selectorP11objc_object', symObjAddr: 0x30C, symBinAddr: 0x430C, symSize: 0x68 }
+  - { offsetInCU: 0x212D, offset: 0x212D, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UITextInputTraits$setSelectionBarColor$P17UITextInputTraitsP13objc_selectorP11objc_object', symObjAddr: 0x30C, symBinAddr: 0x430C, symSize: 0x68 }
+  - { offsetInCU: 0x2175, offset: 0x2175, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UIMorphingLabel$setTextColor$P15UIMorphingLabelP13objc_selectorP11objc_object', symObjAddr: 0x374, symBinAddr: 0x4374, symSize: 0x64 }
+  - { offsetInCU: 0x218C, offset: 0x218C, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UIMorphingLabel$setTextColor$P15UIMorphingLabelP13objc_selectorP11objc_object', symObjAddr: 0x374, symBinAddr: 0x4374, symSize: 0x64 }
+  - { offsetInCU: 0x21D4, offset: 0x21D4, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UILabel$setHighlightedTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0x3D8, symBinAddr: 0x43D8, symSize: 0x68 }
+  - { offsetInCU: 0x21EB, offset: 0x21EB, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UILabel$setHighlightedTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0x3D8, symBinAddr: 0x43D8, symSize: 0x68 }
+...

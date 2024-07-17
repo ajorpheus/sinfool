@@ -1,0 +1,15 @@
+Package: com.sinfool.mergeallmissedtabintoasinglerecentslabel
+Name: Merge "All/Missed" Tab into a single "Recents" Label  ₈₋₇₋₁₆
+Author: Sinfool
+Description: Merges the "All/Missed" Tab into a single "Recents" Label.  I never use the tabs so this is aesthetically much more appealing. Merges the "All/Missed" Tab into a single "Recents" Label.  I never use the tabs so this is aesthetically much more appealing.
+  
+ [v.1] Tested with an iP6+ 9.3.3.  (8-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29783
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

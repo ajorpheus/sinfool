@@ -1,0 +1,21 @@
+Package: com.sinfool.nomenubuttonv394460
+Name: No Menu Button (v. 3.9.4 - 4.6.0)  ₅₋₁₉₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the menu, sound & friends buttons while still retaining their functionality. Removes the menu, sound & friends buttons while still retaining their functionality.
+ .
+ NOTE:  Makes the report button white.
+ .
+ [v.2]  Tested with versions (3.9.4 - 4.6.0).  (5-19-16)
+ .
+ ⚑ UPDATES:
+ (6-1-15) *Initial release
+ (5-19-16) *Updated for new versions
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 21439
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html

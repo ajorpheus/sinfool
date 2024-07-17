@@ -1,0 +1,11 @@
+Package: com.sinfool.extrafeatures
+Name: Extra Features
+Author: Sinfool
+Description: Enables extra features...  No Ads, Hurricanes   & Warnings.  Also removes rate app reminder.   (7-6-14) Enables extra features...  No Ads, Hurricanes   & Warnings.  Also removes rate app reminder.   (7-6-14) patchID: 11539
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.fboweb.MyRadar
+Homepage: https://ipadkid.cf/sinfool/index.html

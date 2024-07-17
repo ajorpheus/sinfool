@@ -1,0 +1,19 @@
+Package: com.sinfool.alertsnobackdrop
+Name: Alerts - No Backdrop  ₁₁₋₂₇₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the background/backdrop from alert sheets & the cancel button. Removes the background/backdrop from alert sheets & the cancel button.
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  (11-27-16)
+ .
+ ⚑ UPDATES:
+ (10-19-15) *Initial release
+ (11-27-16) *Changed method for recent Flex 3 update
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25381
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.4
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

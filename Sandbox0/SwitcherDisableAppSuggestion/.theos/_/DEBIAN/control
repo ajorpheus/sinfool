@@ -1,0 +1,16 @@
+Package: com.sinfool.switcherdisableappsuggestion
+Name: Switcher - Disable App Suggestion
+Author: Sinfool
+Description: Disables app suggestions in the switcher (i.e. the bottom bar when connecting headphones etc.) without disabling suggestions elsewhere. Disables app suggestions in the switcher (i.e. the bottom bar when connecting headphones etc.) without disabling suggestions elsewhere.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak user /u/ianmalcm.  (10-15-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39715
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

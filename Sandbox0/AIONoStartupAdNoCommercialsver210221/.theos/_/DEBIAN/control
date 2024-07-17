@@ -1,0 +1,12 @@
+Package: com.sinfool.aionostartupadnocommercialsver210221
+Name: [AIO] No Startup Ad & No Commercials (ver. 2.1.0 - 2.2.1)
+Author: Sinfool
+Description: All in one patch for A&E.  No startup, no banner ads & no commercials.  Tested with versions 2.1.0 - 2.2.1.  (3-16-15) All in one patch for A&E.  No startup, no banner ads & no commercials.  Tested with versions 2.1.0 - 2.2.1.  (3-16-15) patchID: 12527
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.aetn.aetv.ios.watch
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,21 @@
+Package: com.sinfool.pixelatedprogressbarcustomiable
+Name: Pixelated Progress Bar (Customizable)  ₈₋₂₂₋₁₆
+Author: Sinfool
+Description: Customizes the progress bar with the following options (made for landscape devices)... Customizes the progress bar with the following options (made for landscape devices)...
+ .
+ - Flat URL
+ - Full Height Pixelated Progress Bar
+ - Custom Progress Bar Color
+ .
+ NOTE:  This patch is best suited for landscape users (i.e. IPad or iPhone+ users who use their devices in landscape). Currently, it produces two small progress bars when in portrait mode.  This is due to portrait devices not having bookmark options etc in the nav bar. I may look for a fix in the future.
+ .
+ [v.1] Tested with an iPad mini2 & iP6+ 9.3.3.  (8-22-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30525
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

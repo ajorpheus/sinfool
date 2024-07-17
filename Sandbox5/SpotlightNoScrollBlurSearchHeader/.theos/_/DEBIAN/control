@@ -1,0 +1,16 @@
+Package: com.sinfool.spotlightnoscrollblursearchheader
+Name: Spotlight - No Scroll Blur (Search Header)
+Author: Sinfool
+Description: Removes spotlight's top search header blur when scrolling. Removes spotlight's top search header blur when scrolling.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-13-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34575
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

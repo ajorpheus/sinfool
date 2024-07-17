@@ -1,0 +1,19 @@
+Package: com.sinfool.statusbarnoboltwhencharging
+Name: Status Bar - No Bolt When Charging  ₉₋₁₂₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the lightning bolt icon from the status bar when charging. Removes the lightning bolt icon from the status bar when charging.
+ .
+ ⚑ UPDATES:
+ (8-24-16) *Initial release
+ (9-12-16) *Removed margin space
+ .
+ [v.2] Tested with an iP6+ 9.3.3.   Made as a request via r/jailbreak.  (9-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30633
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

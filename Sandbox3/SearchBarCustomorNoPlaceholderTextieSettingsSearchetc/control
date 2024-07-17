@@ -1,0 +1,15 @@
+Package: com.sinfool.searchbarcustomornoplaceholdertextiesettingssearchetc
+Name: Search Bar - Custom (or No) Placeholder Text (i.e. "Settings" & "Search" etc)
+Author: Sinfool
+Description: Changes the search bar's placeholder text (i.e. "Search", "Settings" text etc) within apps to a custom one of your choosing.  By default, I removed the text altogether but you can change the text to your liking. Changes the search bar's placeholder text (i.e. "Search", "Settings" text etc) within apps to a custom one of your choosing.  By default, I removed the text altogether but you can change the text to your liking.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (8-20-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39036
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

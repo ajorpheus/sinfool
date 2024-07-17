@@ -1,0 +1,16 @@
+Package: com.sinfool.noballoongradient
+Name: No Balloon Gradient  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Removes the gradient from all balloons. Removes the gradient from all balloons.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25821
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

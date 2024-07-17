@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/HSMoveIconsDownDisablesSpotlight/.theos/obj/arm64e/HSMoveIconsDownDisablesSpotlight.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$SBRootFolderView$setStatusBarHeight$', symObjAddr: 0xD70, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$SBRootFolderView$_minusPageCount', symObjAddr: 0xD78, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD3, offset: 0xD3, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$SBSearchScrollView$gestureRecognizerShouldBegin$', symObjAddr: 0xD80, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x14B, offset: 0x14B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x1CF, offset: 0x1CF, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SBRootFolderView$setStatusBarHeight$P16SBRootFolderViewP13objc_selectord', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x14 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$SBRootFolderView$setStatusBarHeight$P16SBRootFolderViewP13objc_selectord', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x14 }
+  - { offsetInCU: 0x25E, offset: 0x25E, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SBRootFolderView$_minusPageCountP16SBRootFolderViewP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+  - { offsetInCU: 0x277, offset: 0x277, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SBRootFolderView$_minusPageCountP16SBRootFolderViewP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+  - { offsetInCU: 0x2AB, offset: 0x2AB, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SBSearchScrollView$gestureRecognizerShouldBegin$P18SBSearchScrollViewP13objc_selectorP11objc_object', symObjAddr: 0xD0, symBinAddr: 0x40D0, symSize: 0x8 }
+...

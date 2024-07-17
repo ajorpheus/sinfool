@@ -1,0 +1,23 @@
+Package: com.sinfool.animationsimmediatelyopencloseappsios10
+Name: Animations - Immediately Open/Close Apps (iOS 10)  ₁₁₋₂₇₋₁₆ ⚑
+Author: Sinfool
+Description: I created this patch to mimic iOS 10's ability to stop apps from opening as soon as the home button is pressed. I created this patch to mimic iOS 10's ability to stop apps from opening as soon as the home button is pressed.
+ .
+ This was achieved by removing open/close app animations & disabling double pressing of the home button so as a result, apps won't initially open up until they've been loaded into memory but thereafter they'll open immediately.
+ .
+ IMPORTANT: This patch will require you to use another tweak to activate the switcher (i.e. Acitvator or Tage etc) since the stock double home button press action will be disabled.
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  Made after reading multiple requests on r/jailbreak.  (11-27-16)
+ .
+ ⚑ UPDATES:
+ (9-29-16) *Initial release
+ (11-27-16) *Removed the disabling of icon/folder highlighting option
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31444
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

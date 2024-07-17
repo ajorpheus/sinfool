@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/LSNCShowTimeOnStatusBariOS11/.theos/obj/arm64/LSNCShowTimeOnStatusBariOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$SBMainStatusBarStateProvider$enableTime$crossfade$crossfadeDuration$', symObjAddr: 0x888, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xB9, offset: 0xB9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$SBMainStatusBarStateProvider$enableTime$crossfade$crossfadeDuration$P28SBMainStatusBarStateProviderP13objc_selectorbbd', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+  - { offsetInCU: 0x150, offset: 0x150, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$SBMainStatusBarStateProvider$enableTime$crossfade$crossfadeDuration$P28SBMainStatusBarStateProviderP13objc_selectorbbd', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x10 }
+...

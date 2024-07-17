@@ -1,0 +1,15 @@
+Package: com.sinfool.removesendbutton
+Name: Remove "Send" Button  ₃₋₁₆₋₁₅
+Author: Sinfool
+Description: Removes the "Send" button.  This was made as a request via r/jailbreak.  Tested with iP6+ 8.1.  (3-16-15) Removes the "Send" button.  This was made as a request via r/jailbreak.  Tested with iP6+ 8.1.  (3-16-15)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 19647
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

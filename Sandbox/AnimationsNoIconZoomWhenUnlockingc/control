@@ -1,0 +1,15 @@
+Package: com.sinfool.animationsnoiconzoomwhenunlocking
+Name: Animations - No Icon Zoom When Unlocking  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Disables the icon zoom animation when unlocking via Touch ID, Passcode or Sliding To Unlock. Disables the icon zoom animation when unlocking via Touch ID, Passcode or Sliding To Unlock.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25801
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

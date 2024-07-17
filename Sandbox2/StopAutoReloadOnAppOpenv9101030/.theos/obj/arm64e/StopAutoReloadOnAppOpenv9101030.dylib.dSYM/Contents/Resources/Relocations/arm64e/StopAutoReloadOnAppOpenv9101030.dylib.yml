@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/StopAutoReloadOnAppOpenv9101030/.theos/obj/arm64e/StopAutoReloadOnAppOpenv9101030.dylib'
+relocations:     []
+...

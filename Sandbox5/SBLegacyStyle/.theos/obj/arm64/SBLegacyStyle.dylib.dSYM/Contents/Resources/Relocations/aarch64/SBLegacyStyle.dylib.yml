@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/SBLegacyStyle/.theos/obj/arm64/SBLegacyStyle.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$UIStatusBar$simulatesLegacyAppearance', symObjAddr: 0xBB0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL48_logos_orig$_ungrouped$UIStatusBar$isTranslucent', symObjAddr: 0xBB8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$UIStatusBarStyleRequest$style', symObjAddr: 0xBC0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x184, offset: 0x184, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$UIStatusBar$simulatesLegacyAppearanceP11UIStatusBarP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$UIStatusBar$simulatesLegacyAppearanceP11UIStatusBarP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x208, offset: 0x208, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$UIStatusBar$isTranslucentP11UIStatusBarP13objc_selector', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x23C, offset: 0x23C, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UIStatusBarStyleRequest$styleP23UIStatusBarStyleRequestP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

@@ -1,0 +1,17 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/ActivitySheetsColorCustomier/.theos/obj/arm64e/ActivitySheetsColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UIPopoverStandardChromeView$setPopoverBackgroundColor$', symObjAddr: 0x14E8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyApp', symObjAddr: 0x14F0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$UIActivityGroupViewController$darkStyleOnLegacyApp', symObjAddr: 0x14F8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$_UIActivityGroupActivityCellTitleLabel$setTextColor$', symObjAddr: 0x1500, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x17D, offset: 0x17D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x24D, offset: 0x24D, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIPopoverStandardChromeView$setPopoverBackgroundColor$P28_UIPopoverStandardChromeViewP13objc_selectorP11objc_object', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x68 }
+  - { offsetInCU: 0x293, offset: 0x293, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIPopoverStandardChromeView$setPopoverBackgroundColor$P28_UIPopoverStandardChromeViewP13objc_selectorP11objc_object', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x68 }
+  - { offsetInCU: 0x2DB, offset: 0x2DB, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyAppP34_UIActivityGroupListViewControllerP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+  - { offsetInCU: 0x2F2, offset: 0x2F2, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_UIActivityGroupListViewController$darkStyleOnLegacyAppP34_UIActivityGroupListViewControllerP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+  - { offsetInCU: 0x326, offset: 0x326, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$UIActivityGroupViewController$darkStyleOnLegacyAppP29UIActivityGroupViewControllerP13objc_selector', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x8 }
+  - { offsetInCU: 0x35A, offset: 0x35A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$_UIActivityGroupActivityCellTitleLabel$setTextColor$P38_UIActivityGroupActivityCellTitleLabelP13objc_selectorP11objc_object', symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x64 }
+...

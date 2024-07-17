@@ -1,0 +1,12 @@
+Package: com.sinfool.nostartupad
+Name: No Startup Ad
+Author: Sinfool
+Description: Removes the video ad at startup. Removes the video ad at startup. patchID: 10375
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.aetn.lifetime.ios.watch
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

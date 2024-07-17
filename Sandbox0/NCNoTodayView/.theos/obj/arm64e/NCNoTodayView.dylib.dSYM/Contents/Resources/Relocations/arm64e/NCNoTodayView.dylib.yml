@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/NCNoTodayView/.theos/obj/arm64e/NCNoTodayView.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SBSearchEtceteraLayoutView$_indexOfNotificationsPageView', symObjAddr: 0xE18, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SBSearchEtceteraLayoutView$_shouldAllowScrollingForStyle$', symObjAddr: 0xE20, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SBNotificationCenterWithSearchViewController$showPageControl', symObjAddr: 0xE28, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x19E, offset: 0x19E, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBSearchEtceteraLayoutView$_indexOfNotificationsPageViewP26SBSearchEtceteraLayoutViewP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x1EE, offset: 0x1EE, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBSearchEtceteraLayoutView$_indexOfNotificationsPageViewP26SBSearchEtceteraLayoutViewP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x222, offset: 0x222, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SBSearchEtceteraLayoutView$_shouldAllowScrollingForStyle$P26SBSearchEtceteraLayoutViewP13objc_selectory', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x261, offset: 0x261, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBNotificationCenterWithSearchViewController$showPageControlP44SBNotificationCenterWithSearchViewControllerP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NavTabBarColorCustomier/.theos/obj/arm64/NavTabBarColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL96_logos_orig$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$', symObjAddr: 0x80B8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD8, offset: 0xD8, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$UINavigationBar$_barStyle$', symObjAddr: 0x80C0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x298A, offset: 0x298A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x29FA, offset: 0x29FA, size: 0x8, addend: 0x0, symName: '__ZL98_logos_method$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$P16_UIBarBackgroundP13objc_selectorxP11objc_objectb', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x68 }
+  - { offsetInCU: 0x2A32, offset: 0x2A32, size: 0x8, addend: 0x0, symName: '__ZL98_logos_method$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$P16_UIBarBackgroundP13objc_selectorxP11objc_objectb', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x68 }
+  - { offsetInCU: 0x2A98, offset: 0x2A98, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$UINavigationBar$_barStyle$P15UINavigationBarP13objc_selectorb', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x2ABA, offset: 0x2ABA, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$UINavigationBar$_barStyle$P15UINavigationBarP13objc_selectorb', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

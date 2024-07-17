@@ -1,0 +1,22 @@
+Package: com.sinfool.fullpageview
+Name: Full Page View
+Author: Sinfool
+Description: Displays pages in full screen view by removing the following UI elements... Displays pages in full screen view by removing the following UI elements...
+ .
+ - Status Bar
+ - Navigation Bar
+ - Tool Bar
+ .
+ IMPORTANT NOTE:  This patch was made for a specific web clip scenario which requires disabling safari's UI upon launch so therefore it's most likely not useful for others.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (7-30-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38772
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

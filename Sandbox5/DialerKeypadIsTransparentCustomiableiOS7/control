@@ -1,0 +1,14 @@
+Package: com.sinfool.dialerkeypadistransparentcustomiableios7
+Name: Dialer Keypad Is Transparent [Customizable] (iOS 7)
+Author: Sinfool
+Description: Gives the Dialer Keypad a transparent like appearance.	UPDATED (10-31-14). Gives the Dialer Keypad a transparent like appearance.	UPDATED (10-31-14).
+ .
+ I've made some general suggestions next to each entry however they're all customizable.  By default, this removes the status bar & keypad buttons (+call button BG on 7.x).  To edit this patch, download the Installed/Flex patch titled "Edit Downloaded Patches".	This patch can be combined with some of the other "Dialer Keypad" patches as well.
+  patchID: 15110
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

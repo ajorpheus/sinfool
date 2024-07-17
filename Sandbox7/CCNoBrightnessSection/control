@@ -1,0 +1,15 @@
+Package: com.sinfool.ccnobrightnesssection
+Name: CC - No Brightness Section  ₃₋₉₋₁₆
+Author: Sinfool
+Description: Removes the brightness section from CC. Removes the brightness section from CC.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (3-9-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28059
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/MedusaEnableiPadMultitaskingiOS11/.theos/obj/arm64/MedusaEnableiPadMultitaskingiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$SBApplication$isMedusaCapable', symObjAddr: 0xC48, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SBApplication$_supportsApplicationType$', symObjAddr: 0xC50, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SBPlatformController$medusaCapabilities', symObjAddr: 0xC58, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x121, offset: 0x121, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x1A5, offset: 0x1A5, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$SBApplication$isMedusaCapableP13SBApplicationP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1F5, offset: 0x1F5, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$SBApplication$isMedusaCapableP13SBApplicationP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x229, offset: 0x229, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBApplication$_supportsApplicationType$P13SBApplicationP13objc_selectori', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x8 }
+  - { offsetInCU: 0x268, offset: 0x268, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBPlatformController$medusaCapabilitiesP20SBPlatformControllerP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+...

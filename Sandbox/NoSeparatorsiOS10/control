@@ -1,0 +1,15 @@
+Package: com.sinfool.noseparatorsios10
+Name: No Separators (iOS 10)
+Author: Sinfool
+Description: Removes table view separators from the Music app. Removes table view separators from the Music app.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as a request via r/jailbreak.  (4-19-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36955
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Music
+Homepage: https://ipadkid.cf/sinfool/index.html

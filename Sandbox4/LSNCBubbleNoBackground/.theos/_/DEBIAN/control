@@ -1,0 +1,16 @@
+Package: com.sinfool.lsncbubblenobackground
+Name: LS/NC - Bubble (No Background)
+Author: Sinfool
+Description: Removes the bubble backgrounds from all notifications, banners & widgets on the LS & NC etc. Removes the bubble backgrounds from all notifications, banners & widgets on the LS & NC etc.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as a request via Flex comments & r/jailbreak.  (3-14-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35864
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

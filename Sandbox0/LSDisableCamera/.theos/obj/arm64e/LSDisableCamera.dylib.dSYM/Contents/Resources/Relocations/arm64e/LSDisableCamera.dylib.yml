@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/LSDisableCamera/.theos/obj/arm64e/LSDisableCamera.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$SpringBoard$lockScreenCameraSupported', symObjAddr: 0xCE0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$SBDashBoardPageControl$setCameraPageEnabled$', symObjAddr: 0xCE8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBDashBoardPageControl$isCameraPageEnabled', symObjAddr: 0xCF0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x18C, offset: 0x18C, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SpringBoard$lockScreenCameraSupportedP11SpringBoardP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x1E3, offset: 0x1E3, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$SpringBoard$lockScreenCameraSupportedP11SpringBoardP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x217, offset: 0x217, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$SBDashBoardPageControl$setCameraPageEnabled$P22SBDashBoardPageControlP13objc_selectorb', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x10 }
+  - { offsetInCU: 0x258, offset: 0x258, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBDashBoardPageControl$isCameraPageEnabledP22SBDashBoardPageControlP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+  - { offsetInCU: 0x276, offset: 0x276, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBDashBoardPageControl$isCameraPageEnabledP22SBDashBoardPageControlP13objc_selector', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

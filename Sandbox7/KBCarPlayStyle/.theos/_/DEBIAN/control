@@ -1,0 +1,18 @@
+Package: com.sinfool.kbcarplaystyle
+Name: KB - CarPlay Style  ₁₁₋₅₋₁₆
+Author: Sinfool
+Description: Enables the CarPlay style keyboard and provides an option to enable the touch pad slider. Enables the CarPlay style keyboard and provides an option to enable the touch pad slider.
+ .
+ NOTE:  This patch isn't practical for regular use since it has a variety of issues... i.e. the "123" key doesn't work and the keyboard doesn't center properly so just test it for fun. :)
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (11-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31891
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

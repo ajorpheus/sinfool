@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/AlertsNoTitleCell/.theos/obj/arm64/AlertsNoTitleCell.dylib'
+relocations:     []
+...

@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/KBForceKeyboardType/.theos/obj/arm64e/KBForceKeyboardType.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITextInputTraits$keyboardType', symObjAddr: 0xC10, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL89_logos_orig$_ungrouped$UIKeyboardLayoutStar$setReturnKeyEnabled$withDisplayName$withType$', symObjAddr: 0xC18, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x122, offset: 0x122, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x192, offset: 0x192, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITextInputTraits$keyboardTypeP17UITextInputTraitsP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1D8, offset: 0x1D8, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITextInputTraits$keyboardTypeP17UITextInputTraitsP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x20C, offset: 0x20C, size: 0x8, addend: 0x0, symName: '__ZL91_logos_method$_ungrouped$UIKeyboardLayoutStar$setReturnKeyEnabled$withDisplayName$withType$P20UIKeyboardLayoutStarP13objc_selectorbP11objc_objecti', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x18 }
+...

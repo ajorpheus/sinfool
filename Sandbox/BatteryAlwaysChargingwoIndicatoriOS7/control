@@ -1,0 +1,11 @@
+Package: com.sinfool.batteryalwayschargingwoindicatorios7
+Name: Battery Always Charging (w/o⚡️Indicator) [iOS 7]
+Author: Sinfool
+Description: Makes status bar battery always appear as if charging (i.e. red/green color) while also removing the lightning bolt charging indicator. Makes status bar battery always appear as if charging (i.e. red/green color) while also removing the lightning bolt charging indicator. patchID: 15102
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

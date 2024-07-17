@@ -1,0 +1,19 @@
+Package: com.sinfool.kbipadprostyleforipadsorportraitstyleforiphonesinlandscape
+Name: KB - iPad Pro Style (for iPads) or Portrait Style (for iPhones) in Landscape  ₈₋₂₀₋₁₆
+Author: Sinfool
+Description:  
+ Enables the iPad Pro style keyboard (i.e. smaller scale with an extra row of number keys etc.) for non-iPad Pro iPads. Only works in landscape.
+ .
+ NOTE:  This can also be used on iPhones however it doesn't produce the same effect as it does on iPads.   Instead, it will enable the standard portrait sized keyboard when in landscape.  This can be useful if you prefer this smaller sized KB but please note the sides will still be scrollable.  It's not ideal but feel free to test it out.
+ .
+ [v.1] Tested with an iPad mini2 & iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30437
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

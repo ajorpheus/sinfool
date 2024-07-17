@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/AIOFasterStartupNoBannerPrerollAdsCommercialsRateMeForcedUpdatever10131/.theos/obj/arm64/AIOFasterStartupNoBannerPrerollAdsCommercialsRateMeForcedUpdatever10131.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$CWSplashScreenStaticImage$initRemoteImageWithDuration$', symObjAddr: 0x1730, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$DSMLinearVideoAdsManager$providerPrePodPromo', symObjAddr: 0x1738, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x104, offset: 0x104, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$DSMLinearVideoAdsManager$enabled', symObjAddr: 0x1740, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x1748, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x172, offset: 0x172, size: 0x8, addend: 0x0, symName: '__ZL41_logos_orig$_ungrouped$GADBannerView$slot', symObjAddr: 0x1750, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$PWAppConfiguration$isForceUpgradeEnabled', symObjAddr: 0x1758, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1E4, offset: 0x1E4, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$PWAppConfiguration$isRatingsEnabled', symObjAddr: 0x1760, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x207, offset: 0x207, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x313, offset: 0x313, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$CWSplashScreenStaticImage$initRemoteImageWithDuration$P25CWSplashScreenStaticImageP13objc_selectory', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x10 }
+  - { offsetInCU: 0x360, offset: 0x360, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$CWSplashScreenStaticImage$initRemoteImageWithDuration$P25CWSplashScreenStaticImageP13objc_selectory', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x10 }
+  - { offsetInCU: 0x3A5, offset: 0x3A5, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$DSMLinearVideoAdsManager$providerPrePodPromoP24DSMLinearVideoAdsManagerP13objc_selector', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+  - { offsetInCU: 0x3C3, offset: 0x3C3, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$DSMLinearVideoAdsManager$providerPrePodPromoP24DSMLinearVideoAdsManagerP13objc_selector', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+  - { offsetInCU: 0x3F7, offset: 0x3F7, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$DSMLinearVideoAdsManager$enabledP24DSMLinearVideoAdsManagerP13objc_selector', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x8 }
+  - { offsetInCU: 0x42B, offset: 0x42B, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x45F, offset: 0x45F, size: 0x8, addend: 0x0, symName: '__ZL43_logos_method$_ungrouped$GADBannerView$slotP13GADBannerViewP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x493, offset: 0x493, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$PWAppConfiguration$isForceUpgradeEnabledP18PWAppConfigurationP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+  - { offsetInCU: 0x4C7, offset: 0x4C7, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$PWAppConfiguration$isRatingsEnabledP18PWAppConfigurationP13objc_selector', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x8 }
+...

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoMoreStoriesv390/.theos/obj/arm64/NoMoreStoriesv390.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL190_logos_orig$_ungrouped$IGStoryTraySectionController$initWithUserSession$dataController$dataSource$loggingContext$loggingDelegate$entryPoint$traySectionConfiguration$storyViewerConfiguration$', symObjAddr: 0xB68, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: '__ZL192_logos_method$_ungrouped$IGStoryTraySectionController$initWithUserSession$dataController$dataSource$loggingContext$loggingDelegate$entryPoint$traySectionConfiguration$storyViewerConfiguration$P28IGStoryTraySectionControllerP13objc_selectorP11objc_objectS4_S4_S4_S4_xS4_S4_', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x14 }
+  - { offsetInCU: 0x185, offset: 0x185, size: 0x8, addend: 0x0, symName: '__ZL192_logos_method$_ungrouped$IGStoryTraySectionController$initWithUserSession$dataController$dataSource$loggingContext$loggingDelegate$entryPoint$traySectionConfiguration$storyViewerConfiguration$P28IGStoryTraySectionControllerP13objc_selectorP11objc_objectS4_S4_S4_S4_xS4_S4_', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x14 }
+...

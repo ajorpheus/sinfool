@@ -1,0 +1,11 @@
+Package: com.sinfool.changecoloroficonlabels
+Name: Change Color Of Icon Labels
+Author: Sinfool
+Description: Change the color of Icon Labels.  Set to orange by default.  (7-8-14) Change the color of Icon Labels.  Set to orange by default.  (7-8-14) patchID: 11561
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

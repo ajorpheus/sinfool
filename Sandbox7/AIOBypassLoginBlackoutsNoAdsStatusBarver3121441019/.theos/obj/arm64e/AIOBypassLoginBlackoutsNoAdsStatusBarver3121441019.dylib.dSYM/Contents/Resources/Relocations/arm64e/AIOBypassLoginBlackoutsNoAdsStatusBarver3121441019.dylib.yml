@@ -1,0 +1,21 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/AIOBypassLoginBlackoutsNoAdsStatusBarver3121441019/.theos/obj/arm64e/AIOBypassLoginBlackoutsNoAdsStatusBarver3121441019.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$MKStoreManager$isProductTypePurchased$', symObjAddr: 0x16C0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$NLAccessControlManager$isVIPAccount', symObjAddr: 0x16C8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: '__ZL86_logos_orig$_ungrouped$NLAccessControlManager$isLiveChannelAvailableForCurrentLocation', symObjAddr: 0x16D0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x106, offset: 0x106, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$NLNBAGeoManager$geoCheckRequestDone$', symObjAddr: 0x16D8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x169, offset: 0x169, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x16E0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1A2, offset: 0x1A2, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$', symObjAddr: 0x16E8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1F6, offset: 0x1F6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x144 }
+  - { offsetInCU: 0x2F5, offset: 0x2F5, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MKStoreManager$isProductTypePurchased$P14MKStoreManagerP13objc_selectori', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x33B, offset: 0x33B, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MKStoreManager$isProductTypePurchased$P14MKStoreManagerP13objc_selectori', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+  - { offsetInCU: 0x37A, offset: 0x37A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$NLAccessControlManager$isVIPAccountP22NLAccessControlManagerP13objc_selector', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x8 }
+  - { offsetInCU: 0x3AE, offset: 0x3AE, size: 0x8, addend: 0x0, symName: '__ZL88_logos_method$_ungrouped$NLAccessControlManager$isLiveChannelAvailableForCurrentLocationP22NLAccessControlManagerP13objc_selector', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x8 }
+  - { offsetInCU: 0x3E2, offset: 0x3E2, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$NLNBAGeoManager$geoCheckRequestDone$P15NLNBAGeoManagerP13objc_selectorP11objc_object', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x10 }
+  - { offsetInCU: 0x423, offset: 0x423, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+  - { offsetInCU: 0x441, offset: 0x441, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+  - { offsetInCU: 0x475, offset: 0x475, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$P36UIStatusBarForegroundStyleAttributesP13objc_selectorfi', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x8 }
+...

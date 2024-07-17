@@ -1,0 +1,28 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/CleanerWaev410460/.theos/obj/arm64e/CleanerWaev410460.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x198 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$WazeMainViewController$prefersStatusBarHidden', symObjAddr: 0x19A0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$WazeMainViewController$screenEdgePanEnabled$', symObjAddr: 0x19A8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: '__ZL46_logos_orig$_ungrouped$SpeedometerVC$setShown$', symObjAddr: 0x19B0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x133, offset: 0x133, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$BottomMenuBar$setButtonsHidden$', symObjAddr: 0x19B8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x16D, offset: 0x16D, size: 0x8, addend: 0x0, symName: '__ZL49_logos_orig$_ungrouped$BottomMenuBar$friendButton', symObjAddr: 0x19C0, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x19B, offset: 0x19B, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$BottomMenuBar$setNightMode$', symObjAddr: 0x19C8, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1B4, offset: 0x1B4, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$ETAMainMenuButton$setPulsate$', symObjAddr: 0x19D0, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x1EE, offset: 0x1EE, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$StartDrivingMessage$noActiveDriveLabel', symObjAddr: 0x19D8, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x231, offset: 0x231, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x198 }
+  - { offsetInCU: 0x358, offset: 0x358, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$WazeMainViewController$prefersStatusBarHiddenP22WazeMainViewControllerP13objc_selector', symObjAddr: 0x198, symBinAddr: 0x4198, symSize: 0x8 }
+  - { offsetInCU: 0x39E, offset: 0x39E, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$WazeMainViewController$prefersStatusBarHiddenP22WazeMainViewControllerP13objc_selector', symObjAddr: 0x198, symBinAddr: 0x4198, symSize: 0x8 }
+  - { offsetInCU: 0x3D2, offset: 0x3D2, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$WazeMainViewController$screenEdgePanEnabled$P22WazeMainViewControllerP13objc_selectorP11objc_object', symObjAddr: 0x1A0, symBinAddr: 0x41A0, symSize: 0x8 }
+  - { offsetInCU: 0x411, offset: 0x411, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$SpeedometerVC$setShown$P13SpeedometerVCP13objc_selectorb', symObjAddr: 0x1A8, symBinAddr: 0x41A8, symSize: 0x10 }
+  - { offsetInCU: 0x452, offset: 0x452, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$BottomMenuBar$setButtonsHidden$P13BottomMenuBarP13objc_selectorb', symObjAddr: 0x1B8, symBinAddr: 0x41B8, symSize: 0x10 }
+  - { offsetInCU: 0x470, offset: 0x470, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$BottomMenuBar$setButtonsHidden$P13BottomMenuBarP13objc_selectorb', symObjAddr: 0x1B8, symBinAddr: 0x41B8, symSize: 0x10 }
+  - { offsetInCU: 0x4B1, offset: 0x4B1, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$BottomMenuBar$friendButtonP13BottomMenuBarP13objc_selector', symObjAddr: 0x1C8, symBinAddr: 0x41C8, symSize: 0x8 }
+  - { offsetInCU: 0x4CF, offset: 0x4CF, size: 0x8, addend: 0x0, symName: '__ZL51_logos_method$_ungrouped$BottomMenuBar$friendButtonP13BottomMenuBarP13objc_selector', symObjAddr: 0x1C8, symBinAddr: 0x41C8, symSize: 0x8 }
+  - { offsetInCU: 0x503, offset: 0x503, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$BottomMenuBar$setNightMode$P13BottomMenuBarP13objc_selectorb', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x10 }
+  - { offsetInCU: 0x544, offset: 0x544, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$ETAMainMenuButton$setPulsate$P17ETAMainMenuButtonP13objc_selectorb', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x10 }
+  - { offsetInCU: 0x562, offset: 0x562, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$ETAMainMenuButton$setPulsate$P17ETAMainMenuButtonP13objc_selectorb', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x10 }
+  - { offsetInCU: 0x5A3, offset: 0x5A3, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$StartDrivingMessage$noActiveDriveLabelP19StartDrivingMessageP13objc_selector', symObjAddr: 0x1F0, symBinAddr: 0x41F0, symSize: 0x8 }
+  - { offsetInCU: 0x5C1, offset: 0x5C1, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$StartDrivingMessage$noActiveDriveLabelP19StartDrivingMessageP13objc_selector', symObjAddr: 0x1F0, symBinAddr: 0x41F0, symSize: 0x8 }
+...

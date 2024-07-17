@@ -1,0 +1,24 @@
+Package: com.sinfool.lsncbannersnotificationprivacy
+Name: LS/NC/Banners - Notification Privacy
+Author: Sinfool
+Description: Have you ever wanted to turn off "Show Previews" for all notifications instead of just for Messages?  If so, this patch is for you... Have you ever wanted to turn off "Show Previews" for all notifications instead of just for Messages?  If so, this patch is for you...
+ .
+ Allows you to set a custom message/text (or remove all text) for all notifications thereby giving you the ability to protect your privacy for third party app notifications.  By default, I removed all text except for the preview text which currently displays "New Notification" but you can delete units to show stock text (i.e. the contact/phone # etc) or set a custom text of your choosing.
+ .
+ Customizes the following text...
+ .
+ - Primary Text: (Contact/Sender/Phone # etc)
+ - Primary Subtitle Text
+ - Secondary Text: (Preview/Body/iMessage Text etc)
+ - Hint Text: (Slide for more/Unlock for more etc)
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via e-mail.  (10-28-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39866
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

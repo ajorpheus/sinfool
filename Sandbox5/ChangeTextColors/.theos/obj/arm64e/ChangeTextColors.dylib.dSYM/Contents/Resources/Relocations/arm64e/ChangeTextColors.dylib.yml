@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/ChangeTextColors/.theos/obj/arm64e/ChangeTextColors.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL44_logos_orig$_ungrouped$UILabel$setTextColor$', symObjAddr: 0x3560, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xE24, offset: 0xE24, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$UILabel$setHighlightedTextColor$', symObjAddr: 0x3568, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xE3D, offset: 0xE3D, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$_UICascadingTextStorage$setTextColor$', symObjAddr: 0x3570, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xE81, offset: 0xE81, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0xF0C, offset: 0xF0C, size: 0x8, addend: 0x0, symName: '__ZL46_logos_method$_ungrouped$UILabel$setTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x68 }
+  - { offsetInCU: 0xF50, offset: 0xF50, size: 0x8, addend: 0x0, symName: '__ZL46_logos_method$_ungrouped$UILabel$setTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x68 }
+  - { offsetInCU: 0xF98, offset: 0xF98, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UILabel$setHighlightedTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x70 }
+  - { offsetInCU: 0xFAF, offset: 0xFAF, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UILabel$setHighlightedTextColor$P7UILabelP13objc_selectorP11objc_object', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x70 }
+  - { offsetInCU: 0xFF7, offset: 0xFF7, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UICascadingTextStorage$setTextColor$P23_UICascadingTextStorageP13objc_selectorP11objc_object', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x70 }
+  - { offsetInCU: 0x100E, offset: 0x100E, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UICascadingTextStorage$setTextColor$P23_UICascadingTextStorageP13objc_selectorP11objc_object', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x70 }
+...

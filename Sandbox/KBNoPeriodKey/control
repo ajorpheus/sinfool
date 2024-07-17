@@ -1,0 +1,15 @@
+Package: com.sinfool.kbnoperiodkey
+Name: KB - No Period Key  ₁₂₋₄₋₁₅
+Author: Sinfool
+Description: Removes the period key (next to the space bar) from the keyboard. Removes the period key (next to the space bar) from the keyboard.
+ .
+ [v.1]  Tested with 9.0.2.  (12-4-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26743
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/BarBackgroundTextColor/.theos/obj/arm64/BarBackgroundTextColor.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$MNGuidanceSignDistanceLabel$setTextColor$', symObjAddr: 0x1148, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$MNGuidanceSignInstructionsLabel$setTextColor$', symObjAddr: 0x1150, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xFA, offset: 0xFA, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$MainChromeViewItem$setBlurColor$', symObjAddr: 0x1158, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x13E, offset: 0x13E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8C }
+  - { offsetInCU: 0x1E5, offset: 0x1E5, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MNGuidanceSignDistanceLabel$setTextColor$P27MNGuidanceSignDistanceLabelP13objc_selectorP11objc_object', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x50 }
+  - { offsetInCU: 0x22B, offset: 0x22B, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MNGuidanceSignDistanceLabel$setTextColor$P27MNGuidanceSignDistanceLabelP13objc_selectorP11objc_object', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x50 }
+  - { offsetInCU: 0x273, offset: 0x273, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$MNGuidanceSignInstructionsLabel$setTextColor$P31MNGuidanceSignInstructionsLabelP13objc_selectorP11objc_object', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x50 }
+  - { offsetInCU: 0x28A, offset: 0x28A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$MNGuidanceSignInstructionsLabel$setTextColor$P31MNGuidanceSignInstructionsLabelP13objc_selectorP11objc_object', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x50 }
+  - { offsetInCU: 0x2D2, offset: 0x2D2, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$MainChromeViewItem$setBlurColor$P18MainChromeViewItemP13objc_selectorP11objc_object', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x58 }
+  - { offsetInCU: 0x2E9, offset: 0x2E9, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$MainChromeViewItem$setBlurColor$P18MainChromeViewItemP13objc_selectorP11objc_object', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x58 }
+...

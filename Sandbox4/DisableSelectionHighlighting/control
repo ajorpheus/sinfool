@@ -1,0 +1,15 @@
+Package: com.sinfool.disableselectionhighlighting
+Name: Disable Selection Highlighting  ₁₁₋₂₆₋₁₅
+Author: Sinfool
+Description: Disables cell selections from highlighting. Disables cell selections from highlighting.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/flextweak.  (11-26-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26578
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

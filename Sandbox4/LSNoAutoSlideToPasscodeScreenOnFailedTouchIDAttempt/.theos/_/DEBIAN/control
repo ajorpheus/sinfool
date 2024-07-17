@@ -1,0 +1,18 @@
+Package: com.sinfool.lsnoautoslidetopasscodescreenonfailedtouchidattempt
+Name: LS - No Auto Slide To Passcode Screen On Failed TouchID Attempt  ₁₀₋₃₋₁₆
+Author: Sinfool
+Description: Stops auto slide to passcode screen on failed TouchID attempts. Stops auto slide to passcode screen on failed TouchID attempts.
+ .
+ Note:  Also stops auto slide to LS when the passcode screen's "Cancel" button is pressed.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-3-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31490
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

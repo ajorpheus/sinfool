@@ -1,0 +1,20 @@
+Package: com.sinfool.hideallphotos
+Name: Hide All Photos
+Author: Sinfool
+Description: Hides all photos in the "Photos" and "Albums" tabs.  The tab/albums will show "No Photos or Videos" when selected.  Simply disable the patch whenever you need access to your photos. Hides all photos in the "Photos" and "Albums" tabs.  The tab/albums will show "No Photos or Videos" when selected.  Simply disable the patch whenever you need access to your photos.
+ .
+ [v.4] Tested with an iPad mini 4 10.2.  Made as a request via r/jailbreak.  (5-4-17)
+ .
+ (5-3-17) *Initial release
+ (5-4-17) *Fix for custom album photo counts not showing "0"
+ (5-4-17) *Removed search/suggested queries from showing
+ (5-4-17) *Added option to hide "My Albums"
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 37306
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

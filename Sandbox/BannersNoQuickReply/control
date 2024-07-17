@@ -1,0 +1,25 @@
+Package: com.sinfool.bannersnoquickreply
+Name: Banners • NoQuickReply  ₇₋₂₇₋₁₅
+Author: Sinfool
+Description: Disables native Quick Reply on the lockscreen & home screen.  You can still pull down the banner to view longer messages.  Made after reading a request via r/jailbreak.   Disables native Quick Reply on the lockscreen & home screen.  You can still pull down the banner to view longer messages.  Made after reading a request via r/jailbreak.  
+ .
+ [v.1] Tested with an iP6+ 8.4.  (7-27-15)
+ .
+ You may want to try these patches as well...
+ .
+ ➠ Sticky Notification Banner
+ ➠ Disable Banner Swipe Gestures
+ ➠ NoQuickDismiss
+ ➠ Disable Tap
+ ➠ NoTouchCancelReply
+ .
+ ★ If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 23219
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

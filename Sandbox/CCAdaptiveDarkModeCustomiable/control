@@ -1,0 +1,21 @@
+Package: com.sinfool.ccadaptivedarkmodecustomiable
+Name: CC - Adaptive Dark Mode (Customizable)
+Author: Sinfool
+Description: Gives the control center a dark style while using the current background to adaptively color the bubble background. Gives the control center a dark style while using the current background to adaptively color the bubble background.
+ .
+ I provided many customizable options i.e. blur, alpha, white overlay, saturation etc. along with some general suggestions as to what values to use but you can experiment with your own values.  I suggest changing only one unit at a time (& respringing) to check your results.
+ .
+ NOTE: This hasn't been tested with any other tweaks that change bubble colors etc. so you may need to disable them for this patch to work effectively.
+ .
+ P=pass-through,  D=Delete
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (3-22-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36172
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

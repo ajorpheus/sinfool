@@ -1,0 +1,11 @@
+Package: com.sinfool.dialerkeypadbuttonisoval
+Name: Dialer Keypad Button is Oval
+Author: Sinfool
+Description: Changes the Dialer Keypad Button to an Oval shape.  (3/28/14) Changes the Dialer Keypad Button to an Oval shape.  (3/28/14) patchID: 10007
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

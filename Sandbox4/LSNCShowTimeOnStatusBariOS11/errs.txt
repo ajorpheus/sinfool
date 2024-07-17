@@ -1,0 +1,2 @@
+ld: warning: -multiply_defined is obsolete
+ld: warning: -multiply_defined is obsolete

@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/NoTabBarwithTransparentMiniPlayer/.theos/obj/arm64/NoTabBarwithTransparentMiniPlayer.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsTopHairline$', symObjAddr: 0x1048, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBackdrop$', symObjAddr: 0x1050, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: '__ZL80_logos_orig$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBottomHairline$', symObjAddr: 0x1058, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$MusicTabBarController$setMiniPlayerVisible$', symObjAddr: 0x1060, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x114, offset: 0x114, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x1AC, offset: 0x1AC, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsTopHairline$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x10 }
+  - { offsetInCU: 0x1FC, offset: 0x1FC, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsTopHairline$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x10 }
+  - { offsetInCU: 0x23D, offset: 0x23D, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBackdrop$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x10 }
+  - { offsetInCU: 0x25B, offset: 0x25B, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBackdrop$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x10 }
+  - { offsetInCU: 0x29C, offset: 0x29C, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBottomHairline$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x10 }
+  - { offsetInCU: 0x2BA, offset: 0x2BA, size: 0x8, addend: 0x0, symName: '__ZL82_logos_method$_ungrouped$SKUIScrollingTabBarBackgroundView$setShowsBottomHairline$P33SKUIScrollingTabBarBackgroundViewP13objc_selectorb', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x10 }
+  - { offsetInCU: 0x2FB, offset: 0x2FB, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$MusicTabBarController$setMiniPlayerVisible$P21MusicTabBarControllerP13objc_selectorb', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x10 }
+  - { offsetInCU: 0x319, offset: 0x319, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$MusicTabBarController$setMiniPlayerVisible$P21MusicTabBarControllerP13objc_selectorb', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x10 }
+...

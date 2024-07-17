@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/TabBarSimplyLargeLabelsCustomiable/.theos/obj/arm64/TabBarSimplyLargeLabelsCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$UITabBarButtonLabel$_fontForIdiom$', symObjAddr: 0xDB8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: '__ZL90_logos_orig$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$tabBar$', symObjAddr: 0xDC0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x17F, offset: 0x17F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x1EF, offset: 0x1EF, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$UITabBarButtonLabel$_fontForIdiom$P19UITabBarButtonLabelP13objc_selectorx', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x235, offset: 0x235, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$UITabBarButtonLabel$_fontForIdiom$P19UITabBarButtonLabelP13objc_selectorx', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x10 }
+  - { offsetInCU: 0x27A, offset: 0x27A, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$tabBar$P14UITabBarButtonP13objc_selectorP11objc_objectS4_S4_12UIEdgeInsetsS4_', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x10 }
+  - { offsetInCU: 0x298, offset: 0x298, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$tabBar$P14UITabBarButtonP13objc_selectorP11objc_objectS4_S4_12UIEdgeInsetsS4_', symObjAddr: 0x6C, symBinAddr: 0x406C, symSize: 0x10 }
+...

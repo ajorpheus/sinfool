@@ -1,0 +1,17 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/HideAllPhotos/.theos/obj/arm64e/HideAllPhotos.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$PUAlbumListViewController$numberOfVisualSectionsForSectionedGridLayout$', symObjAddr: 0x1278, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$PHFetchOptions$includeAssetSourceTypes', symObjAddr: 0x1280, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$PUAlbumListCellContentView$setSubtitle$animated$', symObjAddr: 0x1288, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x151, offset: 0x151, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$PUSearchResultsDataSource$numberOfSearchResults', symObjAddr: 0x1290, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x194, offset: 0x194, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x256, offset: 0x256, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$PUAlbumListViewController$numberOfVisualSectionsForSectionedGridLayout$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x8 }
+  - { offsetInCU: 0x29C, offset: 0x29C, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$PUAlbumListViewController$numberOfVisualSectionsForSectionedGridLayout$P25PUAlbumListViewControllerP13objc_selectorP11objc_object', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x8 }
+  - { offsetInCU: 0x2DB, offset: 0x2DB, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$PHFetchOptions$includeAssetSourceTypesP14PHFetchOptionsP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x30F, offset: 0x30F, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$PUAlbumListCellContentView$setSubtitle$animated$P26PUAlbumListCellContentViewP13objc_selectorP11objc_objectb', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x14 }
+  - { offsetInCU: 0x365, offset: 0x365, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$PUSearchResultsDataSource$numberOfSearchResultsP25PUSearchResultsDataSourceP13objc_selector', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x8 }
+  - { offsetInCU: 0x385, offset: 0x385, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$PUSearchResultsDataSource$numberOfSearchResultsP25PUSearchResultsDataSourceP13objc_selector', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x8 }
+...

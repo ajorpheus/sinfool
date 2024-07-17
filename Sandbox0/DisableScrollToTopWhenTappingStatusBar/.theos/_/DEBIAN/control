@@ -1,0 +1,16 @@
+Package: com.sinfool.disablescrolltotopwhentappingstatusbar
+Name: Disable Scroll To Top When Tapping Status Bar  ₁₁₋₂₄₋₁₆
+Author: Sinfool
+Description: Disables the native 'scroll to top' action normally invoked by tapping the status bar. Disables the native 'scroll to top' action normally invoked by tapping the status bar.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (11-24-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32281
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.reddit.Reddit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

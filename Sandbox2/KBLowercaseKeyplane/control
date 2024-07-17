@@ -1,0 +1,17 @@
+Package: com.sinfool.kblowercasekeyplane
+Name: KB - Lowercase Keyplane  ₁₁₋₅₋₁₆
+Author: Sinfool
+Description: Makes the keyboard show lowercase letters like it used to on older iOS. Makes the keyboard show lowercase letters like it used to on older iOS.
+ .
+ NOTE:  Consider this patch a "beta" as it hasn't been tested with any other tweaks but it may work well with SwipeExpander but idk.  This patch causes the "#+=" keyplane to show the "123" keyplane view however the characters will still render correctly on output.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (11-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31892
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

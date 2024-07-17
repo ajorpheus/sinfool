@@ -1,0 +1,21 @@
+Package: com.sinfool.statusbarlegacystyle
+Name: Status Bar - Legacy Style  ₂₋₂₉₋₁₆ ⚑
+Author: Sinfool
+Description: Do you miss the old pre-iOS7 legacy style status bars (i.e. dark blur or black BG with white text)? Do you miss the old pre-iOS7 legacy style status bars (i.e. dark blur or black BG with white text)?
+ .
+ Use legacy style status bars system wide or just within apps.  By default, I have it set to show the translucent style system wide however you can also change it just to show in apps.  Made after reading a similar request on r/jailbreak.
+ .
+ ⚑ UPDATES:
+ (12-11-15) *Initial release
+ (2-29-16) *Added system wide & translucent options and removed "(Apps)" from title
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  (2-29-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26877
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

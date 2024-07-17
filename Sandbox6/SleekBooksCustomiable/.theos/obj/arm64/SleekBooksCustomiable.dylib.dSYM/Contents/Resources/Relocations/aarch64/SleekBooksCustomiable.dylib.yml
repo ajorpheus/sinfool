@@ -1,0 +1,26 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/SleekBooksCustomiable/.theos/obj/arm64/SleekBooksCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$UIStatusBarNewUIStyleAttributes$isTranslucent', symObjAddr: 0x5D08, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$IMThemeBookshelf$setSearchBackgroundColor$', symObjAddr: 0x5D10, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$BKBlurryWallpaperView$setScrimColor$', symObjAddr: 0x5D18, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x145, offset: 0x145, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$UITabBar$setTintColor$', symObjAddr: 0x5D20, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x179F, offset: 0x179F, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITabBar$_backgroundNeedsUpdate', symObjAddr: 0x5D28, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x17CD, offset: 0x17CD, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$UITabBarButton$_setContentTintColor$forState$', symObjAddr: 0x5D30, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x180C, offset: 0x180C, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$', symObjAddr: 0x5D38, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1858, offset: 0x1858, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x1964, offset: 0x1964, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UIStatusBarNewUIStyleAttributes$isTranslucentP31UIStatusBarNewUIStyleAttributesP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x19A3, offset: 0x19A3, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UIStatusBarNewUIStyleAttributes$isTranslucentP31UIStatusBarNewUIStyleAttributesP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x19D7, offset: 0x19D7, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$IMThemeBookshelf$setSearchBackgroundColor$P16IMThemeBookshelfP13objc_selectorP11objc_object', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x58 }
+  - { offsetInCU: 0x1A1F, offset: 0x1A1F, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$BKBlurryWallpaperView$setScrimColor$P21BKBlurryWallpaperViewP13objc_selectorP11objc_object', symObjAddr: 0x184, symBinAddr: 0x4184, symSize: 0x58 }
+  - { offsetInCU: 0x1A36, offset: 0x1A36, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$BKBlurryWallpaperView$setScrimColor$P21BKBlurryWallpaperViewP13objc_selectorP11objc_object', symObjAddr: 0x184, symBinAddr: 0x4184, symSize: 0x58 }
+  - { offsetInCU: 0x1A7E, offset: 0x1A7E, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UITabBar$setTintColor$P8UITabBarP13objc_selectorP11objc_object', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x58 }
+  - { offsetInCU: 0x1A95, offset: 0x1A95, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$UITabBar$setTintColor$P8UITabBarP13objc_selectorP11objc_object', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x58 }
+  - { offsetInCU: 0x1ADD, offset: 0x1ADD, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITabBar$_backgroundNeedsUpdateP8UITabBarP13objc_selector', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x8 }
+  - { offsetInCU: 0x1AF4, offset: 0x1AF4, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITabBar$_backgroundNeedsUpdateP8UITabBarP13objc_selector', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x8 }
+  - { offsetInCU: 0x1B28, offset: 0x1B28, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$UITabBarButton$_setContentTintColor$forState$P14UITabBarButtonP13objc_selectorP11objc_objectj', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x64 }
+  - { offsetInCU: 0x1B7F, offset: 0x1B7F, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$P14UITabBarButtonP13objc_selectorP11objc_objectS4_S4_12UIEdgeInsets', symObjAddr: 0x2A0, symBinAddr: 0x42A0, symSize: 0x10 }
+  - { offsetInCU: 0x1B9C, offset: 0x1B9C, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$UITabBarButton$initWithImage$selectedImage$label$withInsets$P14UITabBarButtonP13objc_selectorP11objc_objectS4_S4_12UIEdgeInsets', symObjAddr: 0x2A0, symBinAddr: 0x42A0, symSize: 0x10 }
+...

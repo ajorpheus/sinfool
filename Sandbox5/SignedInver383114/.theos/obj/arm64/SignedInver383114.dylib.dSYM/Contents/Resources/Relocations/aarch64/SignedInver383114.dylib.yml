@@ -1,0 +1,32 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/SignedInver383114/.theos/obj/arm64/SignedInver383114.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1D4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$RHAccountController$signedIn', symObjAddr: 0x2210, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$RHAccountController$upgradeRequired', symObjAddr: 0x2218, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0xC1, offset: 0xC1, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$RHAccountController$hasStreamEntitlements', symObjAddr: 0x2220, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$RHAccountController$hasRadioEntitlements', symObjAddr: 0x2228, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0xF3, offset: 0xF3, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$RHAccountController$hasDownloadEntitlements', symObjAddr: 0x2230, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x10C, offset: 0x10C, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$RHAccountController$hasDownloadFavoriteEntitlements', symObjAddr: 0x2238, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x125, offset: 0x125, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$RHRadioPlayableItemsProvider$supportsSkipBackwards', symObjAddr: 0x2240, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x15E, offset: 0x15E, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$RHRadioPlayableItemsProvider$supportsUserScrubbing', symObjAddr: 0x2248, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x177, offset: 0x177, size: 0x8, addend: 0x0, symName: '__ZL72_logos_meta_orig$_ungrouped$LocalyticsDatapointHelper$isDeviceJailbroken', symObjAddr: 0x2250, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x1B8, offset: 0x1B8, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$RHRadioPlayContext$supportsSkipBackwards', symObjAddr: 0x2258, symBinAddr: 0xC098, symSize: 0x0 }
+  - { offsetInCU: 0x1F1, offset: 0x1F1, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$RHRadioPlayContext$supportsUserScrubbing', symObjAddr: 0x2260, symBinAddr: 0xC0A0, symSize: 0x0 }
+  - { offsetInCU: 0x20A, offset: 0x20A, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$CRAppRater$rateMeAlert', symObjAddr: 0x2268, symBinAddr: 0xC0A8, symSize: 0x0 }
+  - { offsetInCU: 0x26C, offset: 0x26C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1D4 }
+  - { offsetInCU: 0x419, offset: 0x419, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$RHAccountController$signedInP19RHAccountControllerP13objc_selector', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x8 }
+  - { offsetInCU: 0x467, offset: 0x467, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$RHAccountController$signedInP19RHAccountControllerP13objc_selector', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x8 }
+  - { offsetInCU: 0x49B, offset: 0x49B, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$RHAccountController$upgradeRequiredP19RHAccountControllerP13objc_selector', symObjAddr: 0x1DC, symBinAddr: 0x41DC, symSize: 0x8 }
+  - { offsetInCU: 0x4CF, offset: 0x4CF, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$RHAccountController$hasStreamEntitlementsP19RHAccountControllerP13objc_selector', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0x503, offset: 0x503, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$RHAccountController$hasRadioEntitlementsP19RHAccountControllerP13objc_selector', symObjAddr: 0x1EC, symBinAddr: 0x41EC, symSize: 0x8 }
+  - { offsetInCU: 0x537, offset: 0x537, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$RHAccountController$hasDownloadEntitlementsP19RHAccountControllerP13objc_selector', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0x8 }
+  - { offsetInCU: 0x56B, offset: 0x56B, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$RHAccountController$hasDownloadFavoriteEntitlementsP19RHAccountControllerP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0x59F, offset: 0x59F, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$RHRadioPlayableItemsProvider$supportsSkipBackwardsP28RHRadioPlayableItemsProviderP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0x5D3, offset: 0x5D3, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$RHRadioPlayableItemsProvider$supportsUserScrubbingP28RHRadioPlayableItemsProviderP13objc_selector', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x8 }
+  - { offsetInCU: 0x607, offset: 0x607, size: 0x8, addend: 0x0, symName: '__ZL74_logos_meta_method$_ungrouped$LocalyticsDatapointHelper$isDeviceJailbrokenP10objc_classP13objc_selector', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x8 }
+  - { offsetInCU: 0x63B, offset: 0x63B, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$RHRadioPlayContext$supportsSkipBackwardsP18RHRadioPlayContextP13objc_selector', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x8 }
+  - { offsetInCU: 0x66F, offset: 0x66F, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$RHRadioPlayContext$supportsUserScrubbingP18RHRadioPlayContextP13objc_selector', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0x8 }
+  - { offsetInCU: 0x6A3, offset: 0x6A3, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$CRAppRater$rateMeAlertP10CRAppRaterP13objc_selector', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+...

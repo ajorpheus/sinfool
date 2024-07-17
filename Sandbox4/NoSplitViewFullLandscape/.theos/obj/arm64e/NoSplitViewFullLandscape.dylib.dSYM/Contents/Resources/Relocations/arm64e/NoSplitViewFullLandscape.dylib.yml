@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoSplitViewFullLandscape/.theos/obj/arm64e/NoSplitViewFullLandscape.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$UISplitViewController$_isBasicallyHorizontallyCompact', symObjAddr: 0x53C8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x1A59, offset: 0x1A59, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UISplitViewController$isCollapsed', symObjAddr: 0x53D0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x1A7C, offset: 0x1A7C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x1AD0, offset: 0x1AD0, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UISplitViewController$_isBasicallyHorizontallyCompactP21UISplitViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x1B0F, offset: 0x1B0F, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UISplitViewController$_isBasicallyHorizontallyCompactP21UISplitViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x1B43, offset: 0x1B43, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UISplitViewController$isCollapsedP21UISplitViewControllerP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+...

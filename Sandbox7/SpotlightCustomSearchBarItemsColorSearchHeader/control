@@ -1,0 +1,17 @@
+Package: com.sinfool.spotlightcustomsearchbaritemscolorsearchheader
+Name: Spotlight - Custom Search Bar Items Color (Search Header)
+Author: Sinfool
+Description: Changes the color of Spotlight's search bar items (i.e. magnifying glass glyph, "Search" text, cursor, text input, text highlight selection & microphone glyph) accessed from the lock screen, today views & notification center.  Change the color to your liking. Changes the color of Spotlight's search bar items (i.e. magnifying glass glyph, "Search" text, cursor, text input, text highlight selection & microphone glyph) accessed from the lock screen, today views & notification center.  Change the color to your liking.
+ .
+ NOTE:  This patch might not work with some other patches or tweaks that hook the search bar header.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (7-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38383
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/StatusBarCustomIPadCarrier/.theos/obj/arm64/StatusBarCustomIPadCarrier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBTelephonyManager$_reallySetOperatorName$', symObjAddr: 0xAB0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$SBTelephonyManager$cellularRadioCapabilityIsActive', symObjAddr: 0xAB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xFF, offset: 0xFF, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBTelephonyManager$_reallySetOperatorName$P18SBTelephonyManagerP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x14 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBTelephonyManager$_reallySetOperatorName$P18SBTelephonyManagerP13objc_selectorP11objc_object', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x14 }
+  - { offsetInCU: 0x1E4, offset: 0x1E4, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBTelephonyManager$cellularRadioCapabilityIsActiveP18SBTelephonyManagerP13objc_selector', symObjAddr: 0x74, symBinAddr: 0x4074, symSize: 0x8 }
+  - { offsetInCU: 0x1FD, offset: 0x1FD, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$SBTelephonyManager$cellularRadioCapabilityIsActiveP18SBTelephonyManagerP13objc_selector', symObjAddr: 0x74, symBinAddr: 0x4074, symSize: 0x8 }
+...

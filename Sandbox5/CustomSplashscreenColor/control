@@ -1,0 +1,13 @@
+Package: com.sinfool.customsplashscreencolor
+Name: Custom Splashscreen Color
+Author: Sinfool
+Description: Changes the color of the Splashscreen and the transition window when closing an app. I also sped up animations to reduce the screen color flash when exiting an app but you can edit or delete the last two units if you'd prefer. Changes the color of the Splashscreen and the transition window when closing an app. I also sped up animations to reduce the screen color flash when exiting an app but you can edit or delete the last two units if you'd prefer.
+ .
+ Uploaded as a request for /u/enriquejones69.  Please let me know if this causes any unwanted issues other than the ones I already described and if doesn't, then I'll approve the patch for others to use.  (4-20-17) patchID: 36990
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,38 @@
+Package: com.sinfool.simplephotoscustomiable
+Name: Simple Photos (Customizable)
+Author: Sinfool
+Description: Simplifies the Photos app with the following customizable features... Simplifies the Photos app with the following customizable features...
+ .
+ Use the following values to change settings/add tabs/albums etc.
+ .
+ T=TRUE,  F=FALSE,  N=NULL, P=pass-through,  D=Delete
+ .
+ • Enable Select All (Moments & Camera Roll)
+ • Disable Search
+ • Reorder Stock Albums
+ • Hide Stock, All Albums or Moments
+ • Hide Recently Deleted Folder Contents
+ • Hide Album Thumbnails, Titles & Photo Count
+ • Disable Album Open Animation
+ • Reverse Album Contents Sort Order
+ • Disable Swipe & Pinch To Dismiss
+ • Disable Parallax (Stop Image Edge Cutoff On Zoom)
+ • Scrolling Interpage Spacing
+ • Disable Auto Zoom (Full Photos)
+ • Increase Maximum Zoom
+ • Hide Browser Scroller & Day/Time Descriptions (Day or Single Line)
+ • Enable Red Eye Remover Editing
+ • Skip Photo Delete Confirmation
+ • Hide "Memories", Shared", "Albums" Tabs & Content
+ • Selected Tab
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-13-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34587
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

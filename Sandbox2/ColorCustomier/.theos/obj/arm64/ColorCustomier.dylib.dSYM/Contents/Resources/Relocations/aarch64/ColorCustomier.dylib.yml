@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/ColorCustomier/.theos/obj/arm64/ColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$SBLockScreenView$legibilitySettingsOverrideVibrancy', symObjAddr: 0xF88, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$_UILegibilitySettings$setPrimaryColor$', symObjAddr: 0xF90, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$_UILegibilitySettings$setSecondaryColor$', symObjAddr: 0xF98, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x12E, offset: 0x12E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$SBLockScreenView$legibilitySettingsOverrideVibrancyP16SBLockScreenViewP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x1F8, offset: 0x1F8, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$SBLockScreenView$legibilitySettingsOverrideVibrancyP16SBLockScreenViewP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$_UILegibilitySettings$setPrimaryColor$P21_UILegibilitySettingsP13objc_selectorP11objc_object', symObjAddr: 0x90, symBinAddr: 0x4090, symSize: 0x58 }
+  - { offsetInCU: 0x274, offset: 0x274, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$_UILegibilitySettings$setSecondaryColor$P21_UILegibilitySettingsP13objc_selectorP11objc_object', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x58 }
+  - { offsetInCU: 0x28B, offset: 0x28B, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$_UILegibilitySettings$setSecondaryColor$P21_UILegibilitySettingsP13objc_selectorP11objc_object', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x58 }
+...

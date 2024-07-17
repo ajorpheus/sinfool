@@ -1,0 +1,27 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/BookmarksColorCustomierforprouser/.theos/obj/arm64/BookmarksColorCustomierforprouser.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$_SFNavigationBar$isUsingLightControls', symObjAddr: 0x1F58, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$SFCrossfadingLabel$setFromColor$', symObjAddr: 0x1F60, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$BookmarkFavoritesCollectionView$setBackgroundColor$', symObjAddr: 0x1F68, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x13A, offset: 0x13A, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$_SFSiteIconView$_setGlyph$withBackgroundColor$', symObjAddr: 0x1F70, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$_SFSiteIconView$_setMonogramWithString$backgroundColor$', symObjAddr: 0x1F78, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x192, offset: 0x192, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$VibrantLabelView$setNonVibrantColor$', symObjAddr: 0x1F80, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$VibrantLabelView$setUsesVibrantEffect$', symObjAddr: 0x1F88, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x205, offset: 0x205, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x124 }
+  - { offsetInCU: 0x311, offset: 0x311, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_SFNavigationBar$isUsingLightControlsP16_SFNavigationBarP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x35E, offset: 0x35E, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_SFNavigationBar$isUsingLightControlsP16_SFNavigationBarP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x392, offset: 0x392, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SFCrossfadingLabel$setFromColor$P18SFCrossfadingLabelP13objc_selectorP11objc_object', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x50 }
+  - { offsetInCU: 0x3DA, offset: 0x3DA, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$BookmarkFavoritesCollectionView$setBackgroundColor$P31BookmarkFavoritesCollectionViewP13objc_selectorP11objc_object', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x54 }
+  - { offsetInCU: 0x3F1, offset: 0x3F1, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$BookmarkFavoritesCollectionView$setBackgroundColor$P31BookmarkFavoritesCollectionViewP13objc_selectorP11objc_object', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x54 }
+  - { offsetInCU: 0x439, offset: 0x439, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$_SFSiteIconView$_setGlyph$withBackgroundColor$P15_SFSiteIconViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x64 }
+  - { offsetInCU: 0x450, offset: 0x450, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$_SFSiteIconView$_setGlyph$withBackgroundColor$P15_SFSiteIconViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x1D0, symBinAddr: 0x41D0, symSize: 0x64 }
+  - { offsetInCU: 0x4A7, offset: 0x4A7, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_SFSiteIconView$_setMonogramWithString$backgroundColor$P15_SFSiteIconViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x64 }
+  - { offsetInCU: 0x4C4, offset: 0x4C4, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$_SFSiteIconView$_setMonogramWithString$backgroundColor$P15_SFSiteIconViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x64 }
+  - { offsetInCU: 0x51B, offset: 0x51B, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$VibrantLabelView$setNonVibrantColor$P16VibrantLabelViewP13objc_selectorP11objc_object', symObjAddr: 0x298, symBinAddr: 0x4298, symSize: 0x50 }
+  - { offsetInCU: 0x538, offset: 0x538, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$VibrantLabelView$setNonVibrantColor$P16VibrantLabelViewP13objc_selectorP11objc_object', symObjAddr: 0x298, symBinAddr: 0x4298, symSize: 0x50 }
+  - { offsetInCU: 0x580, offset: 0x580, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$VibrantLabelView$setUsesVibrantEffect$P16VibrantLabelViewP13objc_selectorb', symObjAddr: 0x2E8, symBinAddr: 0x42E8, symSize: 0x10 }
+  - { offsetInCU: 0x597, offset: 0x597, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$VibrantLabelView$setUsesVibrantEffect$P16VibrantLabelViewP13objc_selectorb', symObjAddr: 0x2E8, symBinAddr: 0x42E8, symSize: 0x10 }
+...

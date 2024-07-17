@@ -1,0 +1,15 @@
+Package: com.sinfool.hideappstoreappssection
+Name: Hide AppStore Apps Section  ₁₀₋₁₉₋₁₅
+Author: Sinfool
+Description: Hides the AppStore apps section.  Made as a request via email. Hides the AppStore apps section.  Made as a request via email.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-19-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25276
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

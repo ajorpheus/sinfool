@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/RemoveChatHeadAvatarsc/.theos/obj/arm64e/RemoveChatHeadAvatars.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$CKUIBehavior$canShowContactPhotosInConversationList', symObjAddr: 0x10C0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$CKUIBehaviorPad$canShowContactPhotosInConversationList', symObjAddr: 0x10C8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CKFullScreenAppNavbarManager$_canShowAvatarView', symObjAddr: 0x10D0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$CKNavbarCanvasViewController$_canShowAvatarView', symObjAddr: 0x10D8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x152, offset: 0x152, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x229, offset: 0x229, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CKUIBehavior$canShowContactPhotosInConversationListP12CKUIBehaviorP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x280, offset: 0x280, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CKUIBehavior$canShowContactPhotosInConversationListP12CKUIBehaviorP13objc_selector', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x8 }
+  - { offsetInCU: 0x2B4, offset: 0x2B4, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$CKUIBehaviorPad$canShowContactPhotosInConversationListP15CKUIBehaviorPadP13objc_selector', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x8 }
+  - { offsetInCU: 0x2E8, offset: 0x2E8, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKFullScreenAppNavbarManager$_canShowAvatarViewP28CKFullScreenAppNavbarManagerP13objc_selector', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x8 }
+  - { offsetInCU: 0x31C, offset: 0x31C, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$CKNavbarCanvasViewController$_canShowAvatarViewP28CKNavbarCanvasViewControllerP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+...

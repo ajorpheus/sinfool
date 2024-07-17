@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/AIOEnableFullScreenLandscapeOrientationOniPadsDisableRateMeAlertv123/.theos/obj/arm64e/AIOEnableFullScreenLandscapeOrientationOniPadsDisableRateMeAlertv123.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UIApplication$_setClassicMode$', symObjAddr: 0x4F90, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x17AF, offset: 0x17AF, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$UIViewController$_ignoreAppSupportedOrientations', symObjAddr: 0x4F98, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x17DD, offset: 0x17DD, size: 0x8, addend: 0x0, symName: '__ZL44_logos_orig$_ungrouped$iRate$ratedAnyVersion', symObjAddr: 0x4FA0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1820, offset: 0x1820, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x18B9, offset: 0x18B9, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x18F1, offset: 0x18F1, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UIApplication$_setClassicMode$P13UIApplicationP13objc_selectorx', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x1932, offset: 0x1932, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$UIViewController$_ignoreAppSupportedOrientationsP16UIViewControllerP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x1950, offset: 0x1950, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$UIViewController$_ignoreAppSupportedOrientationsP16UIViewControllerP13objc_selector', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x1984, offset: 0x1984, size: 0x8, addend: 0x0, symName: '__ZL46_logos_method$_ungrouped$iRate$ratedAnyVersionP5iRateP13objc_selector', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x8 }
+...

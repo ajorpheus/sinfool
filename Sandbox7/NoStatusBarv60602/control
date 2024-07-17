@@ -1,0 +1,19 @@
+Package: com.sinfool.nostatusbarv60602
+Name: No Status Bar (v. 6.0 - 6.0.2)  ₃₋₁₇₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the status bar foreground.  I use this on my iPad for a better viewing experience. Removes the status bar foreground.  I use this on my iPad for a better viewing experience.
+ .
+ ⚑ UPDATES:
+ (3-20-15) *Initial release
+ (3-17-16) *Updated
+ .
+ [v.2] Tested with (versions 6.0 - 6.0.2).  (3-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 19738
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.turner.mmod2011temp
+Homepage: https://ipadkid.cf/sinfool/index.html

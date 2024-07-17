@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/DialerSquareButtons/.theos/obj/arm64/DialerSquareButtons.dylib'
+relocations:     []
+...

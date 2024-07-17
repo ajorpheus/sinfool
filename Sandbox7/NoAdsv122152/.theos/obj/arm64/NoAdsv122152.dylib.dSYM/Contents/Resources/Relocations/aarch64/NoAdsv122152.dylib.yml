@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NoAdsv122152/.theos/obj/arm64/NoAdsv122152.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$AdMarvelUtilities$init', symObjAddr: 0x9A0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$ChatViewController$shouldShowFooterAd', symObjAddr: 0x9A8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x150, offset: 0x150, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$AdMarvelUtilities$initP17AdMarvelUtilitiesP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$AdMarvelUtilities$initP17AdMarvelUtilitiesP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1D4, offset: 0x1D4, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$ChatViewController$shouldShowFooterAdP18ChatViewControllerP13objc_selector', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

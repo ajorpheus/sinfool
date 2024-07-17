@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/DisableFullScreenMode/.theos/obj/arm64e/DisableFullScreenMode.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL92_logos_orig$_ungrouped$BrowserController$dynamicBarAnimator$canHideBarsByDraggingWithOffset$', symObjAddr: 0x868, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x128, offset: 0x128, size: 0x8, addend: 0x0, symName: '__ZL94_logos_method$_ungrouped$BrowserController$dynamicBarAnimator$canHideBarsByDraggingWithOffset$P17BrowserControllerP13objc_selectorP11objc_objectd', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x16E, offset: 0x16E, size: 0x8, addend: 0x0, symName: '__ZL94_logos_method$_ungrouped$BrowserController$dynamicBarAnimator$canHideBarsByDraggingWithOffset$P17BrowserControllerP13objc_selectorP11objc_objectd', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

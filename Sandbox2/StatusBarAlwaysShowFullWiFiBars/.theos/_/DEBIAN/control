@@ -1,0 +1,16 @@
+Package: com.sinfool.statusbaralwaysshowfullwifibars
+Name: Status Bar - Always Show Full WiFi Bars
+Author: Sinfool
+Description: Spoofs data connection (i.e. 3G, 4G, LTE, Hotspot etc.) logos to always show WiFi with full bars.  This patch is purely cosmetic and has no effect on actual data speeds. Spoofs data connection (i.e. 3G, 4G, LTE, Hotspot etc.) logos to always show WiFi with full bars.  This patch is purely cosmetic and has no effect on actual data speeds.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (3-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35375
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

@@ -1,0 +1,29 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NightModeCOLORTheme/.theos/obj/arm64e/NightModeCOLORTheme.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1A4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL122_logos_orig$_ungrouped$UIStatusBarNewUIForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$backgroundColor$', symObjAddr: 0xAEC0, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: '__ZL52_logos_orig$_ungrouped$UINavigationBar$_setBarStyle$', symObjAddr: 0xAEC8, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x2985, offset: 0x2985, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$UITableViewCell$_backgroundColorSet', symObjAddr: 0xAED0, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x301F, offset: 0x301F, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITableView$setBackgroundColor$', symObjAddr: 0xAED8, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x332C, offset: 0x332C, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableView$setSeparatorColor$', symObjAddr: 0xAEE0, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x3345, offset: 0x3345, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$UITableViewCellSelectedBackground$setSelectionTintColor$', symObjAddr: 0xAEE8, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x337F, offset: 0x337F, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$UILabel$isEnabled', symObjAddr: 0xAEF0, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x33AD, offset: 0x33AD, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$UITextInputTraits$keyboardAppearance', symObjAddr: 0xAEF8, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x33F0, offset: 0x33F0, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1A4 }
+  - { offsetInCU: 0x3541, offset: 0x3541, size: 0x8, addend: 0x0, symName: '__ZL124_logos_method$_ungrouped$UIStatusBarNewUIForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$backgroundColor$P41UIStatusBarNewUIForegroundStyleAttributesP13objc_selectorfiP11objc_objectS4_', symObjAddr: 0x1A4, symBinAddr: 0x41A4, symSize: 0x8C }
+  - { offsetInCU: 0x3579, offset: 0x3579, size: 0x8, addend: 0x0, symName: '__ZL124_logos_method$_ungrouped$UIStatusBarNewUIForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$backgroundColor$P41UIStatusBarNewUIForegroundStyleAttributesP13objc_selectorfiP11objc_objectS4_', symObjAddr: 0x1A4, symBinAddr: 0x41A4, symSize: 0x8C }
+  - { offsetInCU: 0x35F2, offset: 0x35F2, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UINavigationBar$_setBarStyle$P15UINavigationBarP13objc_selectori', symObjAddr: 0x230, symBinAddr: 0x4230, symSize: 0x10 }
+  - { offsetInCU: 0x3615, offset: 0x3615, size: 0x8, addend: 0x0, symName: '__ZL54_logos_method$_ungrouped$UINavigationBar$_setBarStyle$P15UINavigationBarP13objc_selectori', symObjAddr: 0x230, symBinAddr: 0x4230, symSize: 0x10 }
+  - { offsetInCU: 0x3656, offset: 0x3656, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UITableViewCell$_backgroundColorSetP15UITableViewCellP13objc_selector', symObjAddr: 0x240, symBinAddr: 0x4240, symSize: 0x8 }
+  - { offsetInCU: 0x366F, offset: 0x366F, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UITableViewCell$_backgroundColorSetP15UITableViewCellP13objc_selector', symObjAddr: 0x240, symBinAddr: 0x4240, symSize: 0x8 }
+  - { offsetInCU: 0x36A3, offset: 0x36A3, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITableView$setBackgroundColor$P11UITableViewP13objc_selectorP11objc_object', symObjAddr: 0x248, symBinAddr: 0x4248, symSize: 0x68 }
+  - { offsetInCU: 0x36EB, offset: 0x36EB, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorColor$P11UITableViewP13objc_selectorP11objc_object', symObjAddr: 0x2B0, symBinAddr: 0x42B0, symSize: 0x68 }
+  - { offsetInCU: 0x3702, offset: 0x3702, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorColor$P11UITableViewP13objc_selectorP11objc_object', symObjAddr: 0x2B0, symBinAddr: 0x42B0, symSize: 0x68 }
+  - { offsetInCU: 0x374A, offset: 0x374A, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UITableViewCellSelectedBackground$setSelectionTintColor$P33UITableViewCellSelectedBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x318, symBinAddr: 0x4318, symSize: 0x68 }
+  - { offsetInCU: 0x3761, offset: 0x3761, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UITableViewCellSelectedBackground$setSelectionTintColor$P33UITableViewCellSelectedBackgroundP13objc_selectorP11objc_object', symObjAddr: 0x318, symBinAddr: 0x4318, symSize: 0x68 }
+  - { offsetInCU: 0x37A9, offset: 0x37A9, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$UILabel$isEnabledP7UILabelP13objc_selector', symObjAddr: 0x380, symBinAddr: 0x4380, symSize: 0x8 }
+  - { offsetInCU: 0x37C0, offset: 0x37C0, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$UILabel$isEnabledP7UILabelP13objc_selector', symObjAddr: 0x380, symBinAddr: 0x4380, symSize: 0x8 }
+  - { offsetInCU: 0x37F4, offset: 0x37F4, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$UITextInputTraits$keyboardAppearanceP17UITextInputTraitsP13objc_selector', symObjAddr: 0x388, symBinAddr: 0x4388, symSize: 0x8 }
+...

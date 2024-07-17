@@ -1,0 +1,16 @@
+Package: com.sinfool.spotlightminuspagestyleonhs
+Name: Spotlight - Minus Page Style on HS  ₁₀₋₁₅₋₁₆
+Author: Sinfool
+Description: Makes the HS Spotlight page use the minus page style.  This also removes the minus page and (1) adds options to show the keyboard on opening & (2) changes the default duration before the search bar is cleared.  Use the home button to dismiss Spotlight. Makes the HS Spotlight page use the minus page style.  This also removes the minus page and (1) adds options to show the keyboard on opening & (2) changes the default duration before the search bar is cleared.  Use the home button to dismiss Spotlight.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via email.  (10-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31693
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

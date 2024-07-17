@@ -1,0 +1,17 @@
+Package: com.sinfool.hidescrollingphotopicker
+Name: Hide Scrolling Photo Picker  ₁₀₋₂₉₋₁₅
+Author: Sinfool
+Description: Hides the scrolling photo picker cell. Hides the scrolling photo picker cell.
+ .
+ Useful if you prefer selecting your photos from the "Photo Library" tab and/or just want to hide your recently taken pictures.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-29-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25912
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

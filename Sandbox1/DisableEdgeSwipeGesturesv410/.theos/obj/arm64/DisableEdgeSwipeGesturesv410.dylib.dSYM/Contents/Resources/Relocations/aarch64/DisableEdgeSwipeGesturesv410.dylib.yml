@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/DisableEdgeSwipeGesturesv410/.theos/obj/arm64/DisableEdgeSwipeGesturesv410.dylib'
+relocations:     []
+...

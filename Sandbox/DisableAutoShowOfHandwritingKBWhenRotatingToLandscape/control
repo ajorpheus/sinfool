@@ -1,0 +1,15 @@
+Package: com.sinfool.disableautoshowofhandwritingkbwhenrotatingtolandscape
+Name: Disable Auto Show Of Handwriting KB When Rotating To Landscape
+Author: Sinfool
+Description: Prevents the handwriting keyboard from automatically popping up when rotating iPhones to landscape orientation. Prevents the handwriting keyboard from automatically popping up when rotating iPhones to landscape orientation.
+ .
+ [v.1] Tested with 10.2.  Made as a request via r/jailbreak.  (5-30-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 37908
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

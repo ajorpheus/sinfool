@@ -1,0 +1,17 @@
+Package: com.sinfool.sleekswitcherios7
+Name: SleekSwitcher (iOS 7)
+Author: Sinfool
+Description: Gives your switcher a transparent sleek look while also allowing the ability to multitask/interact with the switcher when an open app is in the foreground.  By default, I centered the previews to the HS & removed the Icon Labels however these items can be adjusted/re-enabled as you please.  To kill apps... access the switcher from the home screen & slide up where said app card preview should be. Made after reading a recent post on reddit.  (4-16-15) Gives your switcher a transparent sleek look while also allowing the ability to multitask/interact with the switcher when an open app is in the foreground.  By default, I centered the previews to the HS & removed the Icon Labels however these items can be adjusted/re-enabled as you please.  To kill apps... access the switcher from the home screen & slide up where said app card preview should be. Made after reading a recent post on reddit.  (4-16-15)
+ .
+ This is a combination/twist on a few patches so credits to them...
+ • MasterMultitask (mvpixel)
+ • HideAppSwitchLabel ios8 ( MissThee)
+ • AppSwitch To Current (zidapi) patchID: 20558
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

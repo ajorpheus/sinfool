@@ -1,0 +1,22 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoAdsver251/.theos/obj/arm64e/NoAdsver251.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x180 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL39_logos_orig$_ungrouped$FWAdManager$init', symObjAddr: 0x17B8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL51_logos_meta_orig$_ungrouped$CSComScore$isJailbroken', symObjAddr: 0x17C0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: '__ZL42_logos_orig$_ungrouped$CSCore$isJailBroken', symObjAddr: 0x17C8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x117, offset: 0x117, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$GADDevice$isJailbroken', symObjAddr: 0x17D0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x150, offset: 0x150, size: 0x8, addend: 0x0, symName: '__ZL52_logos_meta_orig$_ungrouped$Utils$isDeviceJailBroken', symObjAddr: 0x17D8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x169, offset: 0x169, size: 0x8, addend: 0x0, symName: '__ZL62_logos_meta_orig$_ungrouped$HSPersistentDataModel$isJailbroken', symObjAddr: 0x17E0, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x182, offset: 0x182, size: 0x8, addend: 0x0, symName: '__ZL62_logos_meta_orig$_ungrouped$BugSenseJSONGenerator$isJailbroken', symObjAddr: 0x17E8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1A5, offset: 0x1A5, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x180 }
+  - { offsetInCU: 0x367, offset: 0x367, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$FWAdManager$initP11FWAdManagerP13objc_selector', symObjAddr: 0x180, symBinAddr: 0x4180, symSize: 0x8 }
+  - { offsetInCU: 0x3DB, offset: 0x3DB, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$FWAdManager$initP11FWAdManagerP13objc_selector', symObjAddr: 0x180, symBinAddr: 0x4180, symSize: 0x8 }
+  - { offsetInCU: 0x40F, offset: 0x40F, size: 0x8, addend: 0x0, symName: '__ZL53_logos_meta_method$_ungrouped$CSComScore$isJailbrokenP10objc_classP13objc_selector', symObjAddr: 0x188, symBinAddr: 0x4188, symSize: 0x8 }
+  - { offsetInCU: 0x443, offset: 0x443, size: 0x8, addend: 0x0, symName: '__ZL44_logos_method$_ungrouped$CSCore$isJailBrokenP6CSCoreP13objc_selector', symObjAddr: 0x190, symBinAddr: 0x4190, symSize: 0x8 }
+  - { offsetInCU: 0x477, offset: 0x477, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$GADDevice$isJailbrokenP9GADDeviceP13objc_selector', symObjAddr: 0x198, symBinAddr: 0x4198, symSize: 0x8 }
+  - { offsetInCU: 0x4AB, offset: 0x4AB, size: 0x8, addend: 0x0, symName: '__ZL54_logos_meta_method$_ungrouped$Utils$isDeviceJailBrokenP10objc_classP13objc_selector', symObjAddr: 0x1A0, symBinAddr: 0x41A0, symSize: 0x8 }
+  - { offsetInCU: 0x4DF, offset: 0x4DF, size: 0x8, addend: 0x0, symName: '__ZL64_logos_meta_method$_ungrouped$HSPersistentDataModel$isJailbrokenP10objc_classP13objc_selector', symObjAddr: 0x1A8, symBinAddr: 0x41A8, symSize: 0x8 }
+  - { offsetInCU: 0x513, offset: 0x513, size: 0x8, addend: 0x0, symName: '__ZL64_logos_meta_method$_ungrouped$BugSenseJSONGenerator$isJailbrokenP10objc_classP13objc_selector', symObjAddr: 0x1B0, symBinAddr: 0x41B0, symSize: 0x8 }
+...

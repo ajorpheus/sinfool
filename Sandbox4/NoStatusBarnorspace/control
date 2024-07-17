@@ -1,0 +1,19 @@
+Package: com.sinfool.nostatusbarnorspace
+Name: No Status Bar (nor space)  ₈₋₂₀₋₁₆
+Author: Sinfool
+Description: Removes the status bar & space in most apps.   Removes the status bar & space in most apps.  
+ .
+ Also disables all double sized status bars so therefore you'll need to access these apps via the switcher or the HS (if not using the SpringBoard patch).
+ .
+ Optional:  Use along with the SpringBoard patch "No Status Bar (nor space)" to remove the status bar everywhere.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30448
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

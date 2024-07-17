@@ -1,0 +1,12 @@
+Package: com.sinfool.customiablecolortheme
+Name: Customizable Color Theme
+Author: Sinfool
+Description: Customizable color theme for Settings (2-12-14).  Change colors of the Status Bar Text, Background, Cells Selected & Separator Lines.  By default, the color is set to a Flex like blue. Customizable color theme for Settings (2-12-14).  Change colors of the Status Bar Text, Background, Cells Selected & Separator Lines.  By default, the color is set to a Flex like blue. patchID: 8635
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,21 @@
+Package: com.sinfool.fullscreenscrolling
+Name: Full Screen Scrolling  ₈₋₃₀₋₁₆ ⚑
+Author: Sinfool
+Description: Enables full screen scrolling.  Also provides an option to remove the status bar. Enables full screen scrolling.  Also provides an option to remove the status bar.
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  (8-30-16)
+ .
+ ⚑ UPDATES:
+ (12-17-15) *Initial release
+ (1-15-16) *Changed title from "Full Screen"
+ (8-30-16) *Fixed status bar hiding for 9.3.3
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26960
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

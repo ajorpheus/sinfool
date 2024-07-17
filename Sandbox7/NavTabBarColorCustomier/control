@@ -1,0 +1,15 @@
+Package: com.sinfool.navtabbarcolorcustomier
+Name: Nav/Tab Bar - Color Customizer
+Author: Sinfool
+Description: Changes the color of the nav and tab bars in some apps (doesn't work in all and may change text color elements in others).  By default, I made it a dark color.  Change the color or styles to your liking. Duplicate this patch on a per app basis if you only want it for a specific app. Changes the color of the nav and tab bars in some apps (doesn't work in all and may change text color elements in others).  By default, I made it a dark color.  Change the color or styles to your liking. Duplicate this patch on a per app basis if you only want it for a specific app.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (3-17-17)
+ .
+ ☞PayPal: goin730@gmail.com patchID: 35963
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

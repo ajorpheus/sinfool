@@ -1,0 +1,11 @@
+Package: com.sinfool.noadsver13
+Name: No Ads (ver. 1.3)
+Author: Sinfool
+Description: No ads.  Tested with version 1.3.  Made after reading an inquiry on r/jailbreak.  (3-10-15) No ads.  Tested with version 1.3.  Made after reading an inquiry on r/jailbreak.  (3-10-15) patchID: 19496
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.ketchapp.stickhero
+Homepage: https://ipadkid.cf/sinfool/index.html

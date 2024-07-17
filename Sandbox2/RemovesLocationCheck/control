@@ -1,0 +1,11 @@
+Package: com.sinfool.removeslocationcheck
+Name: Removes Location Check
+Author: Sinfool
+Description: Removes location check. Removes location check. patchID: 8642
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.nbaimd.gametime.universal
+Homepage: https://ipadkid.cf/sinfool/index.html

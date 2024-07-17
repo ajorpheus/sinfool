@@ -1,0 +1,20 @@
+#import <UIKit/UIKit.h>
+
+#include <substrate.h>
+
+static bool _patched_ftt_meth_$SBLockScreenViewController$isBounceEnabledForPresentingController$locationInWindow$(id self, SEL _cmd, id arg1, CGPoint arg2) {
+    // •
+    return 0;
+}
+
+static bool _patched_ftt_meth_$SBLockScreenBounceAnimator$gestureRecognizerShouldBegin$(id self, SEL _cmd, id arg1) {
+    // •
+    return 0;
+}
+
+static __attribute__((constructor)) void _fttLocalInit() {
+    Class _ftt_class_SBLockScreenViewController = objc_getClass("SBLockScreenViewController");
+    MSHookMessageEx(_ftt_class_SBLockScreenViewController, @selector(isBounceEnabledForPresentingController:locationInWindow:), (IMP)_patched_ftt_meth_$SBLockScreenViewController$isBounceEnabledForPresentingController$locationInWindow$, NULL);
+    Class _ftt_class_SBLockScreenBounceAnimator = objc_getClass("SBLockScreenBounceAnimator");
+    MSHookMessageEx(_ftt_class_SBLockScreenBounceAnimator, @selector(gestureRecognizerShouldBegin:), (IMP)_patched_ftt_meth_$SBLockScreenBounceAnimator$gestureRecognizerShouldBegin$, NULL);
+}

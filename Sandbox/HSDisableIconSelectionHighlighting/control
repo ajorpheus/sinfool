@@ -1,0 +1,15 @@
+Package: com.sinfool.hsdisableiconselectionhighlighting
+Name: HS - Disable Icon Selection Highlighting
+Author: Sinfool
+Description: Removes the highlight shadow when selecting icons or folders. Removes the highlight shadow when selecting icons or folders.
+ .
+ [v.1] Tested on an iPad mini2 11.1.2.  Requested by /u/urbankyleboy.  (5-11-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42281
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

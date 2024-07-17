@@ -1,0 +1,21 @@
+Package: com.sinfool.enabletabletpccontentver311
+Name: Enable Tablet & PC Content (ver. 3.1.1)  ₁₀₋₄₋₁₆
+Author: Sinfool
+Description: Enables tablet & PC content.  By default, the orientation is locked to landscape however this can be avoided by signing into your account.  Ideally, this patch only needs to be enabled when you sign into your account & can simply be disabled thereafter. Enables tablet & PC content.  By default, the orientation is locked to landscape however this can be avoided by signing into your account.  Ideally, this patch only needs to be enabled when you sign into your account & can simply be disabled thereafter.
+ .
+ INSTRUCTIONS:
+ * Enable the patch
+ * Sign out of your account (if already signed in)
+ * Sign into your account
+ * Disable the patch
+ .
+ [v.1] Tested with version 3.1.1.  Made as a request via r/flextweak.  Thanks to /u/marktx for testing & the instructions.  (10-4-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31507
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.uie.foxsports.foxsportsgo
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,12 @@
+Package: com.sinfool.aiofasterstartupnocommercialsbetterviewingnosbcclogoupnextver111112
+Name: [AIO] Faster Startup, No Commercials & Better Viewing (No SB/CC Logo/Up Next) (ver. 1.1.1 & 1.1.2)
+Author: Sinfool
+Description: All in one patch for Comedy Central Stand-Up.  Faster startup, no commercials & better viewing experience (No SB/CC Logo/Up Next).  Tested with most recent version 1.1.1 & 1.1.2.  (3-16-15) All in one patch for Comedy Central Stand-Up.  Faster startup, no commercials & better viewing experience (No SB/CC Logo/Up Next).  Tested with most recent version 1.1.1 & 1.1.2.  (3-16-15) patchID: 12505
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.mtvn.ccstandup
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

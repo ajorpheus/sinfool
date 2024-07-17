@@ -1,0 +1,17 @@
+Package: com.sinfool.openalternateroutesmenuwithmapviewv420
+Name: Open Alternate Routes Menu With Map View (v. 4.2.0)  ₃₋₁₋₁₆
+Author: Sinfool
+Description: Opens the alternate routes menu with the map view. Opens the alternate routes menu with the map view.
+ .
+ [v.1] Tested with version 4.2.0.  (3-1-16)
+ .
+ Any donations are greatly appreciated...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27965
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.waze.iphone
+Homepage: https://ipadkid.cf/sinfool/index.html

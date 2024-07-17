@@ -1,0 +1,16 @@
+Package: com.sinfool.disableappdeletion
+Name: Disable App Deletion  ₂₋₂₁₋₁₆
+Author: Sinfool
+Description: Disables the ability to delete apps from the home screen. Disables the ability to delete apps from the home screen.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (2-21-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27817
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

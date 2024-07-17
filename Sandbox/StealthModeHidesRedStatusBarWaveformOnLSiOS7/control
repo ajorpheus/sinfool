@@ -1,0 +1,11 @@
+Package: com.sinfool.stealthmodehidesredstatusbarwaveformonlsios7
+Name: Stealth Mode [Hides Red Status Bar & Waveform On LS] (iOS7)
+Author: Sinfool
+Description: Removes the red status bar & lockscreen waveform view while recording. Removes the red status bar & lockscreen waveform view while recording. patchID: 15109
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.VoiceMemos
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,33 @@
+Package: com.sinfool.kbroundedlightcustomiable
+Name: KB - Rounded Light (Customizable)  ₁₁₋₇₋₁₆ ⚑
+Author: Sinfool
+Description: Makes the keyboard a light style with rounded keys.  Provides the following customizable options to change the keyboard's appearance... Makes the keyboard a light style with rounded keys.  Provides the following customizable options to change the keyboard's appearance...
+ .
+  • Hide Predictive Text BG
+  • Predictive Text Color
+  • Backdrop Style
+  • Light KB Config/KB Appearance
+  • Key
+    · Visual Style
+    · Round Radius
+    · Outline/Text Opacity
+    · Bold Text
+    · Blue Theming
+    · Large Emoji/Dictation Icon
+    · Pop Up Style
+    · Suppress Return Key Style
+ .
+ P=pass-through  D=Delete Unit  F=False
+ .
+ NOTE:  I've given some general suggestions for values to use but bear in mind your results will vary greatly depending on which features (or other tweaks/patches) you've enabled.  Experiment with your own values but I suggest testing/changing only one unit at a time.
+ .
+ [v.3] Tested with an iP6 & iPad mini2 9.3.3.  Made as a request via r/jailbreak.  *(v.2) Added iP5 support.  *(v.3) Added Dark Outline & adjusted some values.  (11-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31893
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

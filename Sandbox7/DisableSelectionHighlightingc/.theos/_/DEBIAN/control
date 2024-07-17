@@ -1,0 +1,16 @@
+Package: com.sinfool.disableselectionhighlighting
+Name: Disable Selection Highlighting
+Author: Sinfool
+Description: Disables cell selections from highlighting. Disables cell selections from highlighting.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (2-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33945
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 104

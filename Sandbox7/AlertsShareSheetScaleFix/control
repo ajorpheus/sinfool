@@ -1,0 +1,15 @@
+Package: com.sinfool.alertssharesheetscalefix
+Name: Alerts - Share Sheet Scale Fix  ₁₀₋₁₆₋₁₆
+Author: Sinfool
+Description: Adjusts the distance between icons in the share/activity sheets.  This patch is most useful for smaller screen devices of which stock iOS shows less icons than it can but you can use it on any device & change the value to your liking.  You can use negative values as well which can result in overlapping icons.  Experiment with values. Adjusts the distance between icons in the share/activity sheets.  This patch is most useful for smaller screen devices of which stock iOS shows less icons than it can but you can use it on any device & change the value to your liking.  You can use negative values as well which can result in overlapping icons.  Experiment with values.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-16-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31695
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

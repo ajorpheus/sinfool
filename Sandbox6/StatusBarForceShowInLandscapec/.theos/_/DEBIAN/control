@@ -1,0 +1,24 @@
+Package: com.sinfool.statusbarforceshowinlandscape
+Name: Status Bar - Force Show In Landscape  ₁₋₃₁₋₁₆ ⚑
+Author: Sinfool
+Description: Forces the status bar to show when rotated in landscape. Forces the status bar to show when rotated in landscape.
+ .
+ IMPORTANT NOTE:  This patch causes an issue with landscape capturing in the Camera app.  If this is a deal breaker or you're experiencing other adverse side effects... then just duplicate this patch on an app specific basis.
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (1-31-16)
+ .
+ ⚑ UPDATES:
+ (1-29-16) *Initial release
+ (1-31-16) *Fixed crashing/visual bug
+ .
+ (9-15-16) *Thank you to /u/Musicisevil for reporting the landscape Camera app issue 
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27543
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

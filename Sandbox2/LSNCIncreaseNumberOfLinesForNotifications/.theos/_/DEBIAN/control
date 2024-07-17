@@ -1,0 +1,16 @@
+Package: com.sinfool.lsncincreasenumberoflinesfornotifications
+Name: LS/NC - Increase Number Of Lines For Notifications
+Author: Sinfool
+Description: Increases the number of lines for notifications on the lock screen and in notification center.  Change the number to your liking. Increases the number of lines for notifications on the lock screen and in notification center.  Change the number to your liking.
+ .
+ [v.1] Tested with a text message on an iPad mini 4 on 10.2.  Made after reading a request via r/jailbreak.  (2-24-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35107
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

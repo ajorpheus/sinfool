@@ -1,0 +1,15 @@
+Package: com.sinfool.alwaysreadermode
+Name: Always Reader Mode  ₁₂₋₁₄₋₁₅
+Author: Sinfool
+Description: Automatically opens Safari web pages in "Reader Mode". Automatically opens Safari web pages in "Reader Mode".
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (12-14-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26909
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

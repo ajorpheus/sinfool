@@ -1,0 +1,29 @@
+Package: com.sinfool.kbforcekeyboardtype
+Name: KB - Force Keyboard Type  ₁₂₋₄₋₁₅
+Author: Sinfool
+Description: Forces the keyboard to use a specific type.  Some examples are listed below. Forces the keyboard to use a specific type.  Some examples are listed below.
+ .
+ 0 = Standard (i.e. no extra period key)
+ 1 = No emoji key
+ 2 = Open w/@123 KB, no emoji key
+ 3 = No space bar/dictation key (replaced by ".", "/" and ".com" keys)
+ 4 = # pad
+ 5 = # pad + "+*#" key
+ 7 = No dictation key (adds "@" and "." keys)
+ 8 = # pad + "." key
+ 9 = No return key (replaced by "@" and "#" keys)
+ 10 = Adds "." key and changes "Return" to "Go"
+ .
+ NOTE:  This may be more useful on a per app basis (i.e. you always want a specific KB for a specific app).  If this is the case, I suggest replicating this patch for said app.
+ .
+ [v.1]  Tested with 9.0.2.  (12-4-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26744
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

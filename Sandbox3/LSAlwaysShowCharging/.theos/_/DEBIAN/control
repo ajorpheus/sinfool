@@ -1,0 +1,22 @@
+Package: com.sinfool.lsalwaysshowcharging
+Name: LS - Always Show Charging  ₈₋₁₀₋₁₆ ⚑
+Author: Sinfool
+Description: Perpetually shows the LS battery charging screen when initially connected to power.  Once the screen dims/is locked... then the "% Charged" text will always show underneath the clock/time.  For an extra reminder, it also includes the option to always show "% Charged" text in place of the date & the battery screen view will show when disconnecting from power just like it does when you connect to power. Perpetually shows the LS battery charging screen when initially connected to power.  Once the screen dims/is locked... then the "% Charged" text will always show underneath the clock/time.  For an extra reminder, it also includes the option to always show "% Charged" text in place of the date & the battery screen view will show when disconnecting from power just like it does when you connect to power.
+ .
+ Useful for those who want to be reminded when your device is charging or those who just want to view the battery screen view longer.
+ .
+ ⚑UPDATES:
+ (11-24-15) *Initial release
+ (8-10-16) *Added option to always show "% Charged" in replace of date text and show battery view when disconnecting from power.
+ .
+ [v.2] Tested with an iP6+ 9.0.2 & 9.3.3.  Made after reading a request via r/jailbreak.  (8-10-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26563
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

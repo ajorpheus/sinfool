@@ -1,0 +1,19 @@
+Package: com.sinfool.kbnoautoshiftaftercharacterdeletionautoshiftfixios9
+Name: KB - No Auto Shift After Character Deletion (AutoShiftFix) (iOS 9)  ₁₁₋₂₁₋₁₇
+Author: Sinfool
+Description: Disables auto shift after deleting characters. Disables auto shift after deleting characters.
+ .
+ Useful for anyone who is annoyed by stock iOS capitalizing replacement characters when deleting text (i.e. when backspace/deleting two characters in the text "aBc", the new replacement character for "B" is capitalized).
+ .
+ On iOS 9, this behavior persists even if "Auto-Capitalization" @Settings -> General -> Keyboards is "OFF" however this patch will make new text replacements lowercase.
+ .
+ [v.1] Tested with an iP6+ on 9.3.3.  Requested by r/jailbreak user /u/clstudios.  (11-21-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40081
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

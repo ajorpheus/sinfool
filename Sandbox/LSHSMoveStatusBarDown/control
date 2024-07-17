@@ -1,0 +1,27 @@
+Package: com.sinfool.lshsmovestatusbardown
+Name: LS/HS • Move Status Bar Down  ₈₋₈₋₁₅ ⚑
+Author: Sinfool
+Description: Moves status bar position down on the lock & home screen (by default, positioned to bottom for an iP5 but can be adjusted to any height you choose).  This patch does the following... Moves status bar position down on the lock & home screen (by default, positioned to bottom for an iP5 but can be adjusted to any height you choose).  This patch does the following...
+ .
+ • Moves SB Down
+ • Removes or Changes LS SB to HS size
+ • Disables SB swipe/tap gestures at HS
+ .
+ [v.2] Tested with iP5 & iP6+ 8.4.  (8-8-15)
+ .
+ ⚑ UPDATES:
+ (??-??-15) *Initial release
+ (8-8-15) *Updated to work with 8.4 & added method to disable Status Bar gestures.
+ .
+ ⚠️ WARNING!  This patch disables Activator Status Bar Gestures at the HS except when/if any double status bar apps are in use.
+ .
+ ★ If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 21258
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

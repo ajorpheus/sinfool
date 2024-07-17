@@ -1,0 +1,16 @@
+Package: com.sinfool.onlyalbumstabcontent
+Name: ONLY "Albums" Tab Content  ₁₀₋₁₇₋₁₆
+Author: Sinfool
+Description: Makes the Photo app ONLY show the "Albums" Tab/content. Makes the Photo app ONLY show the "Albums" Tab/content.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com
+  patchID: 31723
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

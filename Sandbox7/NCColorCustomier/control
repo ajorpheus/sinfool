@@ -1,0 +1,23 @@
+Package: com.sinfool.nccolorcustomier
+Name: NC - Color Customizer  ₄₋₇₋₁₆
+Author: Sinfool
+Description: Changes colors of the following items in Notification Center... Changes colors of the following items in Notification Center...
+ .
+ - Background (gray)
+ - Sections Background
+ - Tabs & Text
+ - Top & Bottom Separators
+ - Cell Separators
+ - Headers
+ - Grabber
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (4-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28387
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

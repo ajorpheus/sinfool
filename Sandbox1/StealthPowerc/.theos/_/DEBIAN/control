@@ -1,0 +1,14 @@
+Package: com.sinfool.stealthpower
+Name: StealthPower  ₄₋₆₋₁₅
+Author: Sinfool
+Description: Disables the sound, vibration & screen from waking when connecting (or disconnecting) to a power source.  Made after reading a few requests on r/jailbreak. Tested on iP6+ 8.1.  (4-6-15) Disables the sound, vibration & screen from waking when connecting (or disconnecting) to a power source.  Made after reading a few requests on r/jailbreak. Tested on iP6+ 8.1.  (4-6-15)
+ .
+ (Notes:)  Also disables the sound & vibration after respringing.  Beware, using this patch will nullify all Activator assignments utilizing the events "connected" or "disconnected" from power. patchID: 20319
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 104

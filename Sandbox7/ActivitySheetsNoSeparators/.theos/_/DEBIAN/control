@@ -1,0 +1,16 @@
+Package: com.sinfool.activitysheetsnoseparators
+Name: Activity Sheets - No Separators
+Author: Sinfool
+Description: Removes separators from activity/share sheets. Removes separators from activity/share sheets.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  (3-22-17)
+ .
+ ☞PayPal: goin730@gmail.com patchID: 36146
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

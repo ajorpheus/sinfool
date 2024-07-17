@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/NCHidingOptionsCustomiablec/.theos/obj/arm64e/NCHidingOptionsCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$SBNotificationSeparatorView$initWithFrame$mode$', symObjAddr: 0x12A0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x141, offset: 0x141, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBTodayViewController$todayTableHeaderView', symObjAddr: 0x12A8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1A3, offset: 0x1A3, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBTodayViewController$todayTableFooterView', symObjAddr: 0x12B0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x1BC, offset: 0x1BC, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SBBulletinViewController$tableView$heightForHeaderInSection$', symObjAddr: 0x12B8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x209, offset: 0x209, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x2B6, offset: 0x2B6, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBNotificationSeparatorView$initWithFrame$mode$P27SBNotificationSeparatorViewP13objc_selector6CGRectx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x2FC, offset: 0x2FC, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBNotificationSeparatorView$initWithFrame$mode$P27SBNotificationSeparatorViewP13objc_selector6CGRectx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x346, offset: 0x346, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBTodayViewController$todayTableHeaderViewP21SBTodayViewControllerP13objc_selector', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x37A, offset: 0x37A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBTodayViewController$todayTableFooterViewP21SBTodayViewControllerP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x3AE, offset: 0x3AE, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBBulletinViewController$tableView$heightForHeaderInSection$P24SBBulletinViewControllerP13objc_selectorP11objc_objectx', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x8 }
+...

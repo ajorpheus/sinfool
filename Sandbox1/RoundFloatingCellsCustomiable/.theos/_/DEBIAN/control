@@ -1,0 +1,33 @@
+Package: com.sinfool.roundfloatingcellscustomiable
+Name: Round Floating Cells (Customizable)  ₁₀₋₂₈₋₁₆ ⚑
+Author: Sinfool
+Description: Rounds table cells giving them a floating like appearance.  Also provides customizable options to change the size, background color & combine sections (i.e. remove headers & footers). Rounds table cells giving them a floating like appearance.  Also provides customizable options to change the size, background color & combine sections (i.e. remove headers & footers).
+ .
+ I also recommend some of the following Settings patches...
+ .
+ • No Table Cell Icons
+ • Hide AppStore Apps Section
+ .
+ NOTE:  I haven't tested this with other patches or customizing tweaks (i.e. Eclipse, NightMode etc) so your results may vary.  Also, iPhone 5 users must edit the "Round Cell Size (iP5/9.0.2)" entry to enable rounding.
+ .
+ Known Conflicts:
+ .
+ - PrefDelete (thanks /u/AhmadFaridAbbas)
+ .
+ ⚑ UPDATES:
+ (10-27-16) *Initial release
+ (10-28-16) *Added iPhone 5 9.0.2 support
+ .
+ [v.2] Tested with an iP6+ 9.3.3 & iP5 9.0.2.  Made as a request via r/jailbreak.  (10-28-16)
+ .
+ *Want something added to this patch?  Just ask.  I accept requests and donations...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31822
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

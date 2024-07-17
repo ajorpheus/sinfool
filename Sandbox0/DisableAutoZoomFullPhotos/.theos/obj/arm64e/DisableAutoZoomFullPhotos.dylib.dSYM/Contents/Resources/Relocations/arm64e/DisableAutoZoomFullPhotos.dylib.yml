@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/DisableAutoZoomFullPhotos/.theos/obj/arm64e/DisableAutoZoomFullPhotos.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$PUOneUpSettings$setMaximumInitialZoomToFillScaleForCompactSizeClass$', symObjAddr: 0xAF8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL87_logos_orig$_ungrouped$PUOneUpSettings$maximumInitialZoomToFillScaleForCompactSizeClass', symObjAddr: 0xB00, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x12A, offset: 0x12A, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$PUOneUpSettings$setMaximumInitialZoomToFillScaleForCompactSizeClass$P15PUOneUpSettingsP13objc_selectord', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x10 }
+  - { offsetInCU: 0x181, offset: 0x181, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$PUOneUpSettings$setMaximumInitialZoomToFillScaleForCompactSizeClass$P15PUOneUpSettingsP13objc_selectord', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x10 }
+  - { offsetInCU: 0x1C2, offset: 0x1C2, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$PUOneUpSettings$maximumInitialZoomToFillScaleForCompactSizeClassP15PUOneUpSettingsP13objc_selector', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$PUOneUpSettings$maximumInitialZoomToFillScaleForCompactSizeClassP15PUOneUpSettingsP13objc_selector', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+...

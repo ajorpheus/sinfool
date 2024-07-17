@@ -1,0 +1,17 @@
+Package: com.sinfool.allowtouchwhileanimatinginapps
+Name: Allow Touch While Animating (in apps)
+Author: Sinfool
+Description: Have you ever been in an app & navigated back a page only to notice it sometimes takes two taps before the page will react (i.e. the Settings app)?  If so, this may be for you!   Have you ever been in an app & navigated back a page only to notice it sometimes takes two taps before the page will react (i.e. the Settings app)?  If so, this may be for you!  
+ .
+ Allows user interaction before animations have finished.  Made after reading a few requests on r/jailbreak.  Briefly tested on iP6+ 8.1.  (6-5-15)
+ .
+ ❗️Note:  This may cause you to press things unintentionally so test/use this patch accordingly. 
+  patchID: 21491
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

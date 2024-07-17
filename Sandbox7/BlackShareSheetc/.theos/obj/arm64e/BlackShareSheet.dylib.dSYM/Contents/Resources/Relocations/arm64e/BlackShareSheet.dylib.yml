@@ -1,0 +1,19 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/BlackShareSheetc/.theos/obj/arm64e/BlackShareSheet.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL96_logos_orig$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$', symObjAddr: 0x15A8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD8, offset: 0xD8, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$_UIVisualEffectFilterView$setBackgroundColor$', symObjAddr: 0x15B0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x112, offset: 0x112, size: 0x8, addend: 0x0, symName: '__ZL82_logos_orig$_ungrouped$_UIActivityGroupListViewController$setDarkStyleOnLegacyApp$', symObjAddr: 0x15B8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x14C, offset: 0x14C, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$UIActivityGroupViewController$setDarkStyleOnLegacyApp$', symObjAddr: 0x15C0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x190, offset: 0x190, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE8 }
+  - { offsetInCU: 0x259, offset: 0x259, size: 0x8, addend: 0x0, symName: '__ZL98_logos_method$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$P16_UIBarBackgroundP13objc_selectorxP11objc_objectb', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x70 }
+  - { offsetInCU: 0x2A6, offset: 0x2A6, size: 0x8, addend: 0x0, symName: '__ZL98_logos_method$_ungrouped$_UIBarBackground$configureEffectForStyle$backgroundTintColor$forceOpaque$P16_UIBarBackgroundP13objc_selectorxP11objc_objectb', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x70 }
+  - { offsetInCU: 0x306, offset: 0x306, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$_UIVisualEffectFilterView$setBackgroundColor$P25_UIVisualEffectFilterViewP13objc_selectorP11objc_object', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x64 }
+  - { offsetInCU: 0x327, offset: 0x327, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$_UIVisualEffectFilterView$setBackgroundColor$P25_UIVisualEffectFilterViewP13objc_selectorP11objc_object', symObjAddr: 0x158, symBinAddr: 0x4158, symSize: 0x64 }
+  - { offsetInCU: 0x36F, offset: 0x36F, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$_UIActivityGroupListViewController$setDarkStyleOnLegacyApp$P34_UIActivityGroupListViewControllerP13objc_selectorb', symObjAddr: 0x1BC, symBinAddr: 0x41BC, symSize: 0x10 }
+  - { offsetInCU: 0x386, offset: 0x386, size: 0x8, addend: 0x0, symName: '__ZL84_logos_method$_ungrouped$_UIActivityGroupListViewController$setDarkStyleOnLegacyApp$P34_UIActivityGroupListViewControllerP13objc_selectorb', symObjAddr: 0x1BC, symBinAddr: 0x41BC, symSize: 0x10 }
+  - { offsetInCU: 0x3C7, offset: 0x3C7, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$UIActivityGroupViewController$setDarkStyleOnLegacyApp$P29UIActivityGroupViewControllerP13objc_selectorb', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x10 }
+  - { offsetInCU: 0x3E5, offset: 0x3E5, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$UIActivityGroupViewController$setDarkStyleOnLegacyApp$P29UIActivityGroupViewControllerP13objc_selectorb', symObjAddr: 0x1CC, symBinAddr: 0x41CC, symSize: 0x10 }
+...

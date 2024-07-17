@@ -1,0 +1,39 @@
+Package: com.sinfool.sleekbookscustomiable
+Name: SleekBooks (Customizable)  ₇₋₂₀₋₁₅ ⚑
+Author: Sinfool
+Description: Changes colors (& hides) the following items in iBooks...  Tested on iP6+ 8.4.  (7-20-15) Changes colors (& hides) the following items in iBooks...  Tested on iP6+ 8.4.  (7-20-15)
+ .
+ • Status Bar BG & FG
+ • Top Shelf Nav Bar
+ • Search Bar
+ • Wallpaper
+ • Top Gradient
+ • Top Gradient#2
+ • Tab Bar Image (Selected)
+ • Tab Bar Image (Unselected)
+ • Hide Tab Bar Image
+ • Hide Tab Bar Label
+ • Hide Tab Bar Background
+ .
+ ⚑ UPDATES:  
+ (7-17-15) *Original release
+ (7-20-15) *Changed patch title & added method
+ .
+ By default, some things are hidden & I didn't assign all items a color nor did I enable a transparent wallpaper BG (change the entry specified below & use "Sleek View" for a true 100% transparent BG).  Change colors to your liking or delete any entries you don't want to use.  You may want to try these patches as well...
+ .
+ ➠ Sleek View (SpringBoard Section)
+ ➠ No Shelves
+ ➠ Force Night 'or Light' Mode (My Books)
+ ➠ Night Mode
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:	goin730@gmail.com patchID: 22899
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.iBooks
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

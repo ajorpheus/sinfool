@@ -1,0 +1,12 @@
+Package: com.sinfool.enablefeatures
+Name: Enable Features
+Author: Sinfool
+Description: Enables extra features within the Settings menu  (i.e. Remove Ads, Notification Sound & Wallpaper).  Tested (2-21-14) w/version 5.0.5.   Enables extra features within the Settings menu  (i.e. Remove Ads, Notification Sound & Wallpaper).  Tested (2-21-14) w/version 5.0.5.   patchID: 8694
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.enflick.ios.textnow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,19 @@
+Package: com.sinfool.cccustombubblecolorcustomiable
+Name: CC - Custom Bubble Color (Customizable)
+Author: Sinfool
+Description: Changes the color of the control center bubble (& folders) background and provides a few more customizing options.  By default, I made it a dark style but you can change the color & options as you please. Changes the color of the control center bubble (& folders) background and provides a few more customizing options.  By default, I made it a dark style but you can change the color & options as you please.
+ .
+ IMPORTANT NOTES: This patch uses units also included in the patch titled "CC - Adaptive Dark Mode (Customizable)" so please disable it to use this one.  Also, this includes a very generic method to change the bubble color so therefore it may change the color of other areas of the SpringBoard.  Please leave a comment of such instances.  This hasn't been tested with any other tweaks that tweak the CC UI etc. so you may need to disable them for this patch to work effectively.
+ .
+ I suggest changing ONLY one unit at a time & respringing after every change you make just to check your results.  If need be, after deleting units you can always delete the patch and re-download it in it's entirety.
+ .
+ [v.1] Tested with an iPad mini 4 10.2.  Made as a request via Flex comments.  (4-13-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36777
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/CCSpeedUp/.theos/obj/arm64/CCSpeedUp.dylib'
+relocations:     []
+...

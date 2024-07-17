@@ -1,0 +1,16 @@
+Package: com.sinfool.enableselectionofalltracksv501
+Name: Enable Selection Of All Tracks (v. 5.0.1)
+Author: Sinfool
+Description: Allows you to go (back or forward) to any track via the scrubber or the "AVAILABLE SEGMENTS" drop down menu list. Allows you to go (back or forward) to any track via the scrubber or the "AVAILABLE SEGMENTS" drop down menu list.
+ .
+ [v.1] Tested on SiriusXM app version 5.0.1.  Made as a request via Reddit messages.  (5-9-18)
+ .
+ ☞Donations:  paypal.me/goin730 patchID: 42260
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.siriusxm.siriusxmonline
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

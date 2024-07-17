@@ -1,0 +1,31 @@
+Package: com.sinfool.searchbarcolorcustomier
+Name: Search Bar Color Customizer  ₁₋₂₀₋₁₇
+Author: Sinfool
+Description: Provides the following options to customize the search bar... Provides the following options to customize the search bar...
+ .
+ - Background Color
+ - Style (Dark or Light)
+ - Alpha
+ - Color - (Text Field BG)
+ - Style (Dark or Light) - (Text Field BG)
+ - Softer Transparency - (Text Field BG)
+ - Placeholder Text Color - (Text Field)
+ - Center Placeholder - (Text Field)
+ - Input Text Color - (Text Field)
+ .
+ NOTE:  Enabling background color options will nullify some other options, i.e. dark/light styles. The input text color entry may change the color of text in other places besides the search bar.
+ .
+ You can delete unwanted units or use the suggested variables to change items.
+ .
+ P=pass-through  D=Delete  F=False
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (1-20-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33576
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

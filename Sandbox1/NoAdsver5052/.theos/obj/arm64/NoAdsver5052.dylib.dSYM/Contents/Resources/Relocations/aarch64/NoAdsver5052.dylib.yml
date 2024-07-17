@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/NoAdsver5052/.theos/obj/arm64/NoAdsver5052.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x1608, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x96, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$WUStationViewController$collectionView$layout$heightForHeaderInSection$', symObjAddr: 0x1610, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$WUStationViewController$adTileIndexPath', symObjAddr: 0x1618, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$WUMapViewController$adPanelView', symObjAddr: 0x1620, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x17C, offset: 0x17C, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$WUMapViewController$mapTopConstraint', symObjAddr: 0x1628, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x195, offset: 0x195, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$WUMapViewController$closeButtonTopConstraint', symObjAddr: 0x1630, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1AE, offset: 0x1AE, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$WUMapViewController$otherButtonsTopConstraint', symObjAddr: 0x1638, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x1D1, offset: 0x1D1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x2B3, offset: 0x2B3, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x300, offset: 0x300, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x334, offset: 0x334, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$WUStationViewController$collectionView$layout$heightForHeaderInSection$P23WUStationViewControllerP13objc_selectorP11objc_objectS4_x', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x8 }
+  - { offsetInCU: 0x389, offset: 0x389, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$WUStationViewController$adTileIndexPathP23WUStationViewControllerP13objc_selector', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x3BD, offset: 0x3BD, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$WUMapViewController$adPanelViewP19WUMapViewControllerP13objc_selector', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x8 }
+  - { offsetInCU: 0x3F1, offset: 0x3F1, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$WUMapViewController$mapTopConstraintP19WUMapViewControllerP13objc_selector', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+  - { offsetInCU: 0x425, offset: 0x425, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$WUMapViewController$closeButtonTopConstraintP19WUMapViewControllerP13objc_selector', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x8 }
+  - { offsetInCU: 0x459, offset: 0x459, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$WUMapViewController$otherButtonsTopConstraintP19WUMapViewControllerP13objc_selector', symObjAddr: 0x144, symBinAddr: 0x4144, symSize: 0x8 }
+...

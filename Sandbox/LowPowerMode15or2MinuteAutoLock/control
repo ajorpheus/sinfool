@@ -1,0 +1,21 @@
+Package: com.sinfool.lowpowermode15or2minuteautolock
+Name: Low Power Mode - 1 & 5 (or 2) Minute Auto-Lock  ₂₋₁₈₋₁₆
+Author: Sinfool
+Description: Changes/sets auto-lock duration to "1" minute for iPhones and "5" (or "2") minutes for iPads. Changes/sets auto-lock duration to "1" minute for iPhones and "5" (or "2") minutes for iPads.
+ .
+ (iPad users desiring "2" minutes should delete the unit specified below.)
+ .
+ * Useful for those who always have "Low Power Mode" enabled but don't like the 30 sec auto lock restriction.
+ .
+ ⚠️WARNING:  Overrides auto-lock duration at all times!!! (i.e. NOT just while in low power mode & therefore the time duration at Settings>General>Auto-Lock is irrelevant)
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (2-18-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27796
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

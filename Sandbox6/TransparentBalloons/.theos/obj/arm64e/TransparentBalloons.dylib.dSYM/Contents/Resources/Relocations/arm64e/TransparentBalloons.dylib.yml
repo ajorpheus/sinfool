@@ -1,0 +1,12 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/TransparentBalloons/.theos/obj/arm64e/TransparentBalloons.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$CKMessagePartChatItem$color', symObjAddr: 0x9F0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$CKColoredBalloonView$wantsGradient', symObjAddr: 0x9F8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x15B, offset: 0x15B, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$CKMessagePartChatItem$colorP21CKMessagePartChatItemP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1AB, offset: 0x1AB, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$CKMessagePartChatItem$colorP21CKMessagePartChatItemP13objc_selector', symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x8 }
+  - { offsetInCU: 0x1DF, offset: 0x1DF, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$CKColoredBalloonView$wantsGradientP20CKColoredBalloonViewP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x8 }
+...

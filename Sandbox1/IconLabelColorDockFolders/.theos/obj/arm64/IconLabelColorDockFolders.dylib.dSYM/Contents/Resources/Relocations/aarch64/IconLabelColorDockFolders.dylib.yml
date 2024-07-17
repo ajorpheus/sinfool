@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/IconLabelColorDockFolders/.theos/obj/arm64/IconLabelColorDockFolders.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$', symObjAddr: 0xDB8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL97_logos_orig$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$', symObjAddr: 0xDC0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x11B, offset: 0x11B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x18B, offset: 0x18B, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$P10SBIconViewP13objc_selectorxP11objc_object', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x64 }
+  - { offsetInCU: 0x1D1, offset: 0x1D1, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBIconView$_legibilitySettingsWithStyle$primaryColor$P10SBIconViewP13objc_selectorxP11objc_object', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x64 }
+  - { offsetInCU: 0x22C, offset: 0x22C, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$P33SBMutableIconLabelImageParametersP13objc_selectorb', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+  - { offsetInCU: 0x249, offset: 0x249, size: 0x8, addend: 0x0, symName: '__ZL99_logos_method$_ungrouped$SBMutableIconLabelImageParameters$setAccessibilityIncreaseContrastEnabled$P33SBMutableIconLabelImageParametersP13objc_selectorb', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+...

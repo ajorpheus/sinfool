@@ -1,0 +1,18 @@
+Package: com.sinfool.nowarningrestartnowlateralert
+Name: No "Warning" Restart Now/Later Alert  ₆₋₂₅₋₁₅
+Author: Sinfool
+Description: Disables the "Warning" Restart Now/Later alert displayed after selecting a SpringBoard or System Wide patch.  Useful for those who regularly test or enable/disable multiple patches at once & use another method to respring, ie. Activator etc.  (6-25-15) Disables the "Warning" Restart Now/Later alert displayed after selecting a SpringBoard or System Wide patch.  Useful for those who regularly test or enable/disable multiple patches at once & use another method to respring, ie. Activator etc.  (6-25-15)
+ .
+ ⚠️ NOTE:  A respring is STILL required to apply patch changes systemwide.
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 21835
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.johncoates.Flex
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/PasscodeScreenCustomieriOS7/.theos/obj/arm64/PasscodeScreenCustomieriOS7.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SBLockOverlayStyleProperties$blurRadius', symObjAddr: 0x1470, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBLockOverlayStyleProperties$tintAlpha', symObjAddr: 0x1478, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$', symObjAddr: 0x1480, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xF0, offset: 0xF0, size: 0x8, addend: 0x0, symName: '__ZL47_logos_orig$_ungrouped$TPPathView$setFillColor$', symObjAddr: 0x1488, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$SBUIPasscodeLockNumberPad$setShowsEmergencyCallButton$', symObjAddr: 0x1490, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x1A9, offset: 0x1A9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD8 }
+  - { offsetInCU: 0x27F, offset: 0x27F, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBLockOverlayStyleProperties$blurRadiusP28SBLockOverlayStylePropertiesP13objc_selector', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x8 }
+  - { offsetInCU: 0x2C5, offset: 0x2C5, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBLockOverlayStyleProperties$blurRadiusP28SBLockOverlayStylePropertiesP13objc_selector', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x8 }
+  - { offsetInCU: 0x2F9, offset: 0x2F9, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBLockOverlayStyleProperties$tintAlphaP28SBLockOverlayStylePropertiesP13objc_selector', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x8 }
+  - { offsetInCU: 0x32D, offset: 0x32D, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$TPRevealingRingView$setDefaultRingStrokeWidth$P19TPRevealingRingViewP13objc_selectorf', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x10 }
+  - { offsetInCU: 0x36E, offset: 0x36E, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$TPPathView$setFillColor$P10TPPathViewP13objc_selectorP11objc_object', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x50 }
+  - { offsetInCU: 0x387, offset: 0x387, size: 0x8, addend: 0x0, symName: '__ZL49_logos_method$_ungrouped$TPPathView$setFillColor$P10TPPathViewP13objc_selectorP11objc_object', symObjAddr: 0xF8, symBinAddr: 0x40F8, symSize: 0x50 }
+  - { offsetInCU: 0x3CF, offset: 0x3CF, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBUIPasscodeLockNumberPad$setShowsEmergencyCallButton$P25SBUIPasscodeLockNumberPadP13objc_selectorb', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x10 }
+  - { offsetInCU: 0x3E6, offset: 0x3E6, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBUIPasscodeLockNumberPad$setShowsEmergencyCallButton$P25SBUIPasscodeLockNumberPadP13objc_selectorb', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x10 }
+...

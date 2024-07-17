@@ -1,0 +1,15 @@
+Package: com.sinfool.nccustomclearxbuttontitlestylecolor
+Name: NC - Custom Clear/"X" Button - Title & Style/Color ₈₋₂₄₋₁₆
+Author: Sinfool
+Description: Changes the text and style of the clear/"X" button in notification center.  Change the text and style to your liking.  Changes the text and style of the clear/"X" button in notification center.  Change the text and style to your liking. 
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (8-24-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30620
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

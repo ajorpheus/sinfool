@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/CCNoBrightnessSection/.theos/obj/arm64/CCNoBrightnessSection.dylib'
+relocations:     []
+...

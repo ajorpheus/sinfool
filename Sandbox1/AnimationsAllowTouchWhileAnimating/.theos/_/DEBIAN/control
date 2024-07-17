@@ -1,0 +1,18 @@
+Package: com.sinfool.animationsallowtouchwhileanimating
+Name: Animations - Allow Touch While Animating  ₁₀₋₁₅₋₁₅
+Author: Sinfool
+Description: Speeds up navigating inside of apps by allowing user interaction before animations have finished.  Perfect for those who hate this native iOS restriction. Speeds up navigating inside of apps by allowing user interaction before animations have finished.  Perfect for those who hate this native iOS restriction.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-15-15)
+ .
+ (10-27-15) *Changed title.  Added "Animations" prefix
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25007
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,19 @@
+Package: com.sinfool.animationslaunchappswithsnapshots
+Name: Animations - Launch Apps With Snapshots  ₁₁₋₂₃₋₁₆
+Author: Sinfool
+Description: Launches home screen apps with snapshots instead of a blank page (i.e. like how the switcher does). Launches home screen apps with snapshots instead of a blank page (i.e. like how the switcher does).
+ .
+ Useful for anyone who doesn't like this stock iOS behavior, i.e. maybe Eclipse/NightMode users etc.
+ .
+ NOTE:  Eclipse users must turn off the "Color Loading Screens" option for this patch to work.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (11-23-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32270
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,81 @@
+[1mTweak.xm:27:96: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                               ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:8: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:241: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                                                                                                                ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:154: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                         ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:4:95: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m                                                                                              ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:4:8: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m6 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox4/RemoveUpdateAlert/.theos/obj/arm64e/Tweak.mm.198cc7a6.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox4/RemoveUpdateAlert/.theos/obj/arm64e/RemoveUpdateAlert.dylib] Error 2
+make[2]: *** Waiting for unfinished jobs....
+[1mTweak.xm:27:96: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                               ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:8: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:241: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                                                                                                                ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:27:154: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* (*_logos_orig$_ungrouped$UIAlertView$initWithFrame$)(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView*, SEL, CGRect) _LOGOS_RETURN_RETAINED; 
+[0;1;32m                                                                                                                                                         ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:4:95: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m                                                                                              ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m[1mTweak.xm:4:8: [0m[0;1;31merror: [0m[1m'UIAlertView' is deprecated: first deprecated in iOS 9.0 - UIAlertView is deprecated. Use UIAlertController with a preferredStyle of UIAlertControllerStyleAlert instead [-Werror,-Wdeprecated-declarations][0m
+static UIAlertView* _logos_method$_ungrouped$UIAlertView$initWithFrame$(_LOGOS_SELF_TYPE_INIT UIAlertView* __unused self, SEL __unused _cmd, CGRect arg1) _LOGOS_RETURN_RETAINED {
+[0;1;32m       ^
+[0m[1m/Users/az/theos/sdks/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlertView.h:27:12: [0m[0;1;30mnote: [0m'UIAlertView' has been explicitly marked deprecated here[0m
+@interface UIAlertView : UIView
+[0;1;32m           ^
+[0m6 errors generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox4/RemoveUpdateAlert/.theos/obj/arm64/Tweak.mm.3b58d8bb.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox4/RemoveUpdateAlert/.theos/obj/arm64/RemoveUpdateAlert.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: RemoveUpdateAlert.all.tweak.variables] Error 2

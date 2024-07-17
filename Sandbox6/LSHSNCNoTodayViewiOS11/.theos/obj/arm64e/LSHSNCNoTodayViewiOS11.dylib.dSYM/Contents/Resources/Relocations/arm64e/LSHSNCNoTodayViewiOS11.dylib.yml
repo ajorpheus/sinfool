@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/LSHSNCNoTodayViewiOS11/.theos/obj/arm64e/LSHSNCNoTodayViewiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL105_logos_orig$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$', symObjAddr: 0x11F0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL95_logos_orig$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityTodayViewWithExplanation$', symObjAddr: 0x11F8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xE9, offset: 0xE9, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$SBRootFolderView$_minusPageCount', symObjAddr: 0x1200, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x129, offset: 0x129, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBHomeScreenTodayViewController$setHidden$', symObjAddr: 0x1208, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x16D, offset: 0x16D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x21A, offset: 0x21A, size: 0x8, addend: 0x0, symName: '__ZL107_logos_method$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$P29SBMainDisplayPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x260, offset: 0x260, size: 0x8, addend: 0x0, symName: '__ZL107_logos_method$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityLockScreenTodayViewWithExplanation$P29SBMainDisplayPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x29F, offset: 0x29F, size: 0x8, addend: 0x0, symName: '__ZL97_logos_method$_ungrouped$SBMainDisplayPolicyAggregator$_allowsCapabilityTodayViewWithExplanation$P29SBMainDisplayPolicyAggregatorP13objc_selectorPP11objc_object', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x2DE, offset: 0x2DE, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SBRootFolderView$_minusPageCountP16SBRootFolderViewP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x312, offset: 0x312, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBHomeScreenTodayViewController$setHidden$P31SBHomeScreenTodayViewControllerP13objc_selectorb', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x10 }
+...

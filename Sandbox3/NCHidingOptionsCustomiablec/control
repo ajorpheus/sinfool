@@ -1,0 +1,32 @@
+Package: com.sinfool.nchidingoptionscustomiable
+Name: NC • Hiding Options (Customizable)  ₇₋₁₇₋₁₅
+Author: Sinfool
+Description: Hides the following items in Notification Center...  Tested on iP6+ 8.4.  (7-17-15) Hides the following items in Notification Center...  Tested on iP6+ 8.4.  (7-17-15)
+ .
+ UPDATES:
+ (7-13-15) *Initial release
+ (7-17-15) *added separator & changed grabber method
+ .
+ • Status bar
+ • Top & Bottom Separator
+ • Today's Date
+ • Headers
+ • Headers (but keeps space) *[disabled]
+ • Cell Separators
+ • Entire Footer (both items below) *[disabled]
+ • Edit Button *[disabled]
+ • Widget ID's Footer (ie. Weather/Stocks™)
+ • Grabber
+ .
+ By default, everything is hidden excecpt items followed by *[disabled].  Unless noted otherwise, change values to "pass-through" to show or "null"/"0"/delete to hide items.
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22727
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

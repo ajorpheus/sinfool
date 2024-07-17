@@ -1,0 +1,15 @@
+[1mTweak.xm:7:1: [0m[0;1;31merror: [0m[1mnon-void function does not return a value [-Werror,-Wreturn-type][0m
+}
+[0;1;32m^
+[0m1 error generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox2/TransparentBalloonsc/.theos/obj/arm64/Tweak.mm.2d67238e.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox2/TransparentBalloonsc/.theos/obj/arm64/TransparentBalloons.dylib] Error 2
+make[2]: *** Waiting for unfinished jobs....
+[1mTweak.xm:7:1: [0m[0;1;31merror: [0m[1mnon-void function does not return a value [-Werror,-Wreturn-type][0m
+}
+[0;1;32m^
+[0m1 error generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox2/TransparentBalloonsc/.theos/obj/arm64e/Tweak.mm.6588b993.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:52: /Users/az/Desktop/sinfool/Sandbox2/TransparentBalloonsc/.theos/obj/arm64e/TransparentBalloons.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: TransparentBalloons.all.tweak.variables] Error 2

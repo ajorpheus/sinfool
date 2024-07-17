@@ -1,0 +1,24 @@
+Package: com.sinfool.signedinver383114
+Name: Signed In (ver. 3.8 - 3.11.4)
+Author: Sinfool
+Description: Automatically signs you in without making an account.  Tested with versions 3.8 - 3.11.3.  Briefly tested with ver. 3.11.4 & still seems to work.  UPDATED (10-29-14) Automatically signs you in without making an account.  Tested with versions 3.8 - 3.11.3.  Briefly tested with ver. 3.11.4 & still seems to work.  UPDATED (10-29-14)
+ .
+ (NOTE:)  A free account is required for radio playback & to make playlists.  Unlike the Napst0d clone of this patch, ALL features are enabled if you make a free account.
+ .
+ ~If you can't sign up via this app, go to napster.com to sign up (you need to use a VPN (UK) etc. if you're in a non-supported country)~
+ .
+ (FYI:) You don't need to give credit card info...disregard this request.  Just enter your email & your free account will be made without providing this additional info.
+ .
+ INSTRUCTIONS:  [Don't enable this patch until you sign in with your account!]  
+ .
+ (1) Sign in with your account. 
+ (2) Close Napster from multitasking. 
+ (3) Enable this patch. 
+ (4) Done. patchID: 7998
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.rhapsody.iphone.Napster3
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,21 @@
+Package: com.sinfool.alertssimplesheets
+Name: Alerts - Simple Sheets  ₁₀₋₂₁₋₁₅
+Author: Sinfool
+Description: Simple style for alert sheets.  Includes the following options... Simple style for alert sheets.  Includes the following options...
+ .
+ * Center (Action Alerts)
+ * Icons (hide/show)
+ * Separators (hide/show)
+ * Tap Outside To Dismiss
+ * Width (optional)
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-21-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25451
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

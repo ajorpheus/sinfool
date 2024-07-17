@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/LSNCCCBubbleSemiTransparent/.theos/obj/arm64e/LSNCCCBubbleSemiTransparent.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL88_logos_orig$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$', symObjAddr: 0x8E8, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xE6, offset: 0xE6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x12D, offset: 0x12D, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$P14NCMaterialViewP13objc_selectoryP11objc_objectb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x173, offset: 0x173, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$P14NCMaterialViewP13objc_selectoryP11objc_objectb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

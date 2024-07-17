@@ -1,0 +1,15 @@
+Package: com.sinfool.fullscreenscrolling
+Name: Full Screen Scrolling
+Author: Sinfool
+Description: Enables full screen scrolling. Enables full screen scrolling.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-3-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34047
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

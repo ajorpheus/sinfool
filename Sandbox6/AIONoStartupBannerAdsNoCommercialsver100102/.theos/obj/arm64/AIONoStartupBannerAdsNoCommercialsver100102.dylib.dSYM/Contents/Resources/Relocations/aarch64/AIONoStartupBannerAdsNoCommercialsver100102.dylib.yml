@@ -1,0 +1,25 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/AIONoStartupBannerAdsNoCommercialsver100102/.theos/obj/arm64/AIONoStartupBannerAdsNoCommercialsver100102.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x154 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL113_logos_orig$_ungrouped$AWESplashScreenViewController$initWithSplashAnimated$presentationType$delegate$dataSource$', symObjAddr: 0x1C68, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xEC, offset: 0xEC, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$ENTAppDelegate_iPhone$splashScreenAnimatedImageCount$', symObjAddr: 0x1C70, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x131, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$ENTAppDelegate_iPhone$splashScreenDuration$', symObjAddr: 0x1C78, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x16B, offset: 0x16B, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$ENTAppDelegate_iPad$splashScreenAnimatedImageCount$', symObjAddr: 0x1C80, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1A9, offset: 0x1A9, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$ENTAppDelegate_iPad$splashScreenDuration$', symObjAddr: 0x1C88, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1DC, offset: 0x1DC, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x1C90, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0x1C98, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x24E, offset: 0x24E, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$AWEVideoViewBottomAdBar$initWithCoder$', symObjAddr: 0x1CA0, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x296, offset: 0x296, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x154 }
+  - { offsetInCU: 0x3EC, offset: 0x3EC, size: 0x8, addend: 0x0, symName: '__ZL115_logos_method$_ungrouped$AWESplashScreenViewController$initWithSplashAnimated$presentationType$delegate$dataSource$P29AWESplashScreenViewControllerP13objc_selectorbjP11objc_objectS4_', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x10 }
+  - { offsetInCU: 0x432, offset: 0x432, size: 0x8, addend: 0x0, symName: '__ZL115_logos_method$_ungrouped$AWESplashScreenViewController$initWithSplashAnimated$presentationType$delegate$dataSource$P29AWESplashScreenViewControllerP13objc_selectorbjP11objc_objectS4_', symObjAddr: 0x154, symBinAddr: 0x4154, symSize: 0x10 }
+  - { offsetInCU: 0x4A3, offset: 0x4A3, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$ENTAppDelegate_iPhone$splashScreenAnimatedImageCount$P21ENTAppDelegate_iPhoneP13objc_selectorP11objc_object', symObjAddr: 0x164, symBinAddr: 0x4164, symSize: 0x8 }
+  - { offsetInCU: 0x4D6, offset: 0x4D6, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$ENTAppDelegate_iPhone$splashScreenAnimatedImageCount$P21ENTAppDelegate_iPhoneP13objc_selectorP11objc_object', symObjAddr: 0x164, symBinAddr: 0x4164, symSize: 0x8 }
+  - { offsetInCU: 0x515, offset: 0x515, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$ENTAppDelegate_iPhone$splashScreenDuration$P21ENTAppDelegate_iPhoneP13objc_selectorP11objc_object', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x8 }
+  - { offsetInCU: 0x554, offset: 0x554, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$ENTAppDelegate_iPad$splashScreenAnimatedImageCount$P19ENTAppDelegate_iPadP13objc_selectorP11objc_object', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x8 }
+  - { offsetInCU: 0x593, offset: 0x593, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$ENTAppDelegate_iPad$splashScreenDuration$P19ENTAppDelegate_iPadP13objc_selectorP11objc_object', symObjAddr: 0x17C, symBinAddr: 0x417C, symSize: 0x8 }
+  - { offsetInCU: 0x5D2, offset: 0x5D2, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x184, symBinAddr: 0x4184, symSize: 0x8 }
+  - { offsetInCU: 0x606, offset: 0x606, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0x18C, symBinAddr: 0x418C, symSize: 0x8 }
+  - { offsetInCU: 0x63A, offset: 0x63A, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$AWEVideoViewBottomAdBar$initWithCoder$P23AWEVideoViewBottomAdBarP13objc_selectorP11objc_object', symObjAddr: 0x194, symBinAddr: 0x4194, symSize: 0x10 }
+...

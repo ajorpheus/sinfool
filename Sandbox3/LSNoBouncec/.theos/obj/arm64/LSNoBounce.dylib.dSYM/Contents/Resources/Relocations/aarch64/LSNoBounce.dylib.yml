@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/LSNoBouncec/.theos/obj/arm64/LSNoBounce.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL87_logos_orig$_ungrouped$SBLockScreenBounceAnimator$gestureRecognizer$shouldReceiveTouch$', symObjAddr: 0xD40, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL94_logos_orig$_ungrouped$SBLockScreenHintManager$_isBounceEnabledForController$locationInWindow$', symObjAddr: 0xD48, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x15D, offset: 0x15D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x1CD, offset: 0x1CD, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$SBLockScreenBounceAnimator$gestureRecognizer$shouldReceiveTouch$P26SBLockScreenBounceAnimatorP13objc_selectorP11objc_objectS4_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x213, offset: 0x213, size: 0x8, addend: 0x0, symName: '__ZL89_logos_method$_ungrouped$SBLockScreenBounceAnimator$gestureRecognizer$shouldReceiveTouch$P26SBLockScreenBounceAnimatorP13objc_selectorP11objc_objectS4_', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x25D, offset: 0x25D, size: 0x8, addend: 0x0, symName: '__ZL96_logos_method$_ungrouped$SBLockScreenHintManager$_isBounceEnabledForController$locationInWindow$P23SBLockScreenHintManagerP13objc_selectorP11objc_object7CGPoint', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

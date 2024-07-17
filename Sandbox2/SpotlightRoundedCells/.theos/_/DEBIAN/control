@@ -1,0 +1,18 @@
+Package: com.sinfool.spotlightroundedcells
+Name: Spotlight - Rounded Cells  ₁₀₋₁₅₋₁₆
+Author: Sinfool
+Description: Rounds Spotlight's minus & HS page cells. Rounds Spotlight's minus & HS page cells.
+ .
+ NOTE:  Please keep in mind that other patches/tweaks can vary your end results.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (10-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31680
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

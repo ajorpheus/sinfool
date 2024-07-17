@@ -1,0 +1,16 @@
+Package: com.sinfool.wallpapergradientremover
+Name: Wallpaper Gradient Remover  ₁₀₋₁₆₋₁₅
+Author: Sinfool
+Description: Removes the dark gradient overlay from the lockscreen & homescreen wallpapers.  Made as a request via email. Removes the dark gradient overlay from the lockscreen & homescreen wallpapers.  Made as a request via email.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-16-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25102
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

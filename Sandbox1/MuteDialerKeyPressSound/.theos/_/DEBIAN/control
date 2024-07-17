@@ -1,0 +1,12 @@
+Package: com.sinfool.mutedialerkeypresssound
+Name: Mute Dialer Key Press Sound
+Author: Sinfool
+Description: Mutes dialer key press sound. (4-26-14) Mutes dialer key press sound. (4-26-14) patchID: 10538
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

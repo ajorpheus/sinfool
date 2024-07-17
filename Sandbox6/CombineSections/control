@@ -1,0 +1,19 @@
+Package: com.sinfool.combinesections
+Name: Combine Sections  ₉₋₅₋₁₆ ⚑
+Author: Sinfool
+Description: Combines table view sections. Also provides options to hide separators.  By default, the separators are hidden. Combines table view sections. Also provides options to hide separators.  By default, the separators are hidden.
+ .
+ ⚑ UPDATES:
+ (9-3-16) *Initial release
+ (9-5-16) *Added option to remove top header space & remove middle cell full length separators.
+ .
+ [v.2] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (9-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30918
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,15 @@
+Package: com.sinfool.enablelivephotosbadgeios10
+Name: Enable Live Photos Badge (iOS 10)
+Author: Sinfool
+Description: Enables the Live Photos icon image inside the transform scroll view. Enables the Live Photos icon image inside the transform scroll view.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (2-1-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33961
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

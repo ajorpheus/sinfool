@@ -1,0 +1,21 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/SwitcherLegacyStyleCustomiable/.theos/obj/arm64e/SwitcherLegacyStyleCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x118 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$SBAppSwitcherController$_updatePageViewScale$xTranslation$', symObjAddr: 0x17B8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xA3, offset: 0xA3, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$SBAppSwitcherPageViewController$setOffsetToIndex$animated$', symObjAddr: 0x17C0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF0, offset: 0xF0, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$SBAppSwitcherIconController$setOffsetToIndex$animated$', symObjAddr: 0x17C8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x12F, offset: 0x12F, size: 0x8, addend: 0x0, symName: '__ZL130_logos_orig$_ungrouped$SBUIDismissSwitcherAnimationController$initWithTransitionContextProvider$activatingDisplayItem$interactive$', symObjAddr: 0x17D0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1A0, offset: 0x1A0, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$SBAppSwitcherSettings$switcherStyle', symObjAddr: 0x17D8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1EA, offset: 0x1EA, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x118 }
+  - { offsetInCU: 0x2E3, offset: 0x2E3, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBAppSwitcherController$_updatePageViewScale$xTranslation$P23SBAppSwitcherControllerP13objc_selectordd', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x329, offset: 0x329, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBAppSwitcherController$_updatePageViewScale$xTranslation$P23SBAppSwitcherControllerP13objc_selectordd', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x380, offset: 0x380, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBAppSwitcherPageViewController$setOffsetToIndex$animated$P31SBAppSwitcherPageViewControllerP13objc_selectoryb', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+  - { offsetInCU: 0x3A2, offset: 0x3A2, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBAppSwitcherPageViewController$setOffsetToIndex$animated$P31SBAppSwitcherPageViewControllerP13objc_selectoryb', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+  - { offsetInCU: 0x3F5, offset: 0x3F5, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBAppSwitcherIconController$setOffsetToIndex$animated$P27SBAppSwitcherIconControllerP13objc_selectoryb', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x10 }
+  - { offsetInCU: 0x41A, offset: 0x41A, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SBAppSwitcherIconController$setOffsetToIndex$animated$P27SBAppSwitcherIconControllerP13objc_selectoryb', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x10 }
+  - { offsetInCU: 0x46D, offset: 0x46D, size: 0x8, addend: 0x0, symName: '__ZL132_logos_method$_ungrouped$SBUIDismissSwitcherAnimationController$initWithTransitionContextProvider$activatingDisplayItem$interactive$P38SBUIDismissSwitcherAnimationControllerP13objc_selectorP11objc_objectS4_b', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x8 }
+  - { offsetInCU: 0x492, offset: 0x492, size: 0x8, addend: 0x0, symName: '__ZL132_logos_method$_ungrouped$SBUIDismissSwitcherAnimationController$initWithTransitionContextProvider$activatingDisplayItem$interactive$P38SBUIDismissSwitcherAnimationControllerP13objc_selectorP11objc_objectS4_b', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x8 }
+  - { offsetInCU: 0x4E7, offset: 0x4E7, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$SBAppSwitcherSettings$switcherStyleP21SBAppSwitcherSettingsP13objc_selector', symObjAddr: 0x150, symBinAddr: 0x4150, symSize: 0x8 }
+...

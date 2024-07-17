@@ -1,0 +1,15 @@
+Package: com.sinfool.largertextinputfield
+Name: Larger Text Input Field  ₁₂₋₁₂₋₁₆
+Author: Sinfool
+Description: Makes the text input field larger.  Makes the text input field larger. 
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (12-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32652
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

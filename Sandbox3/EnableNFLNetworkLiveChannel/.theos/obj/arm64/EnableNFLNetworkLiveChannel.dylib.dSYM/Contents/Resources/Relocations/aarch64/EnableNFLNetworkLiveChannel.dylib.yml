@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/EnableNFLNetworkLiveChannel/.theos/obj/arm64/EnableNFLNetworkLiveChannel.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$UIDevice$userInterfaceIdiom', symObjAddr: 0x4CB0, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x24C, offset: 0x24C, size: 0x8, addend: 0x0, symName: '__ZL109_logos_orig$_ungrouped$UIWindow$_shouldAutorotateToInterfaceOrientation$checkForDismissal$isRotationDisabled$', symObjAddr: 0x4CB8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x17C6, offset: 0x17C6, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x1836, offset: 0x1836, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x186E, offset: 0x186E, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$UIDevice$userInterfaceIdiomP8UIDeviceP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x18A2, offset: 0x18A2, size: 0x8, addend: 0x0, symName: '__ZL111_logos_method$_ungrouped$UIWindow$_shouldAutorotateToInterfaceOrientation$checkForDismissal$isRotationDisabled$P8UIWindowP13objc_selectorxbPb', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x8 }
+...

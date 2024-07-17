@@ -1,0 +1,11 @@
+Package: com.sinfool.noalertsnewversionrateme
+Name: No Alerts - (New Version & Rate Me)
+Author: Sinfool
+Description: Removes the following alert reminders...  (1) new version available & (2) rate me.  Tested with version 3.7.13.  (7-21-14) Removes the following alert reminders...  (1) new version available & (2) rate me.  Tested with version 3.7.13.  (7-21-14) patchID: 11859
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.slingmedia.SlingPlayer
+Homepage: https://ipadkid.cf/sinfool/index.html

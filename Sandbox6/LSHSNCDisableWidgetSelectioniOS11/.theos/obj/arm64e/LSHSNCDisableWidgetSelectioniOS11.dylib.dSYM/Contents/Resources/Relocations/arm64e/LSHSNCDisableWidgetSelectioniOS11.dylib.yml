@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/LSHSNCDisableWidgetSelectioniOS11/.theos/obj/arm64e/LSHSNCDisableWidgetSelectioniOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$SBWidgetController$isWidgetExtensionVisible$', symObjAddr: 0x7D8, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x11C, offset: 0x11C, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$SBWidgetController$isWidgetExtensionVisible$P18SBWidgetControllerP13objc_selectorP11objc_object', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x162, offset: 0x162, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$SBWidgetController$isWidgetExtensionVisible$P18SBWidgetControllerP13objc_selectorP11objc_object', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

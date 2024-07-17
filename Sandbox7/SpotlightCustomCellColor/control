@@ -1,0 +1,17 @@
+Package: com.sinfool.spotlightcustomcellcolor
+Name: Spotlight - Custom Cell Color  ₁₀₋₁₅₋₁₆
+Author: Sinfool
+Description: Changes the color of Spotlight's cells.  Set the color to your liking. Changes the color of Spotlight's cells.  Set the color to your liking.
+ .
+ NOTE:  Please keep in mind that other patches/tweaks can vary your end results.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (10-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31679
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

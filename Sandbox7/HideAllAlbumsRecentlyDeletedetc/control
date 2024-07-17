@@ -1,0 +1,17 @@
+Package: com.sinfool.hideallalbumsrecentlydeletedetc
+Name: Hide All Albums (Recently Deleted etc)
+Author: Sinfool
+Description: Gives the albums tab a cleaner look by hiding all albums (including "Recently Deleted"). Gives the albums tab a cleaner look by hiding all albums (including "Recently Deleted").
+ .
+ By default, I've hidden all albums except the "Camera Roll" (for most setups) but you can change the number to show as many albums as you need for your specific setup.  Use True, False and pass-through to hide & show albums.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Requested by email user "PoppinCollars".  (1-30-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40700
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html

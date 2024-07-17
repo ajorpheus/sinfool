@@ -1,0 +1,17 @@
+Package: com.sinfool.folderpreventdeletion
+Name: Folder - Prevent Deletion
+Author: Sinfool
+Description: Prevents folder deletion.  Useful if you're annoyed by folders automatically deleting when only one app remains in them. Prevents folder deletion.  Useful if you're annoyed by folders automatically deleting when only one app remains in them.
+ .
+ IMPORTANT NOTE:  This patch must be disabled to delete folders.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak user u/MattIsAPerson.  (9-13-17).
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39344
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

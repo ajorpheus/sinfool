@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/LowPowerMode15or2MinuteAutoLock/.theos/obj/arm64/LowPowerMode15or2MinuteAutoLock.dylib'
+relocations:     []
+...

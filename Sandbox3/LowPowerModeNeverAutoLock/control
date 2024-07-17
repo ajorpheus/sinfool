@@ -1,0 +1,28 @@
+Package: com.sinfool.lowpowermodeneverautolock
+Name: Low Power Mode - Never Auto-Lock  ₉₋₁₀₋₁₆ ⚑
+Author: Sinfool
+Description: Disables/sets auto-lock duration to "Never" and disables the proximity sensor. Disables/sets auto-lock duration to "Never" and disables the proximity sensor.
+ .
+ * Useful for those who always have "Low Power Mode" enabled but don't like the 30 sec auto lock restriction.
+ .
+ ⚠️WARNING:  This overrides auto-lock duration at all times!!! (i.e. NOT just while in low power mode so therefore the time duration at Settings>General>Auto-Lock is irrelevant). By default, this also disables the proximity sensor.  This entry was added because triggering the proximity sensor while on a phone call with the device unlocked results in the screen not waking back up therefore forcing the need for a sleep button press to dismiss this locked state.
+ .
+ ⚑ UPDATES:
+ (8-3-16) *Initial release
+ (8-27-16) *Changed method for testing
+ (9-10-16) *Disabled the proximity sensor
+ .
+ [v.3] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  Thank you to the following Reddit users for testing:
+ .
+ /u/burcbuluklu
+ /u/smurf3310
+ /u/L0ganWalk3r
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29554
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

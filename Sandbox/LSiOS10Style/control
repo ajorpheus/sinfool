@@ -1,0 +1,23 @@
+Package: com.sinfool.lsios10style
+Name: LS - iOS 10 Style  ₁₀₋₁₃₋₁₆
+Author: Sinfool
+Description: I created this patch to mimic the general style of iOS 10's lockscreen by doing the following... I created this patch to mimic the general style of iOS 10's lockscreen by doing the following...
+ .
+ * Hide NC & CC grabbers
+ * Hide camera grabber (w/option to disable completely in case you use Activator slide in from right)
+ * Remove the chevron
+ * Change "slide to unlock" text to "Press home to unlock"
+ * Show slide to unlock text immediately
+ * Disable the slide to unlock swipe gesture
+ * Disable the hint bounce
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made after reading a few similarly related requests on r/jailbreak.  (10-13-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31645
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

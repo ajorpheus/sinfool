@@ -1,0 +1,17 @@
+Package: com.sinfool.activitysheetshideactivitiescloaky
+Name: Activity Sheets - Hide Activities (Cloaky)
+Author: Sinfool
+Description: Hides activity items from activity sheets giving your share menu a cleaner look.  Allows you to hide all the activity items of which the stock iOS "More" button normally prevents/restricts you from hiding. Hides activity items from activity sheets giving your share menu a cleaner look.  Allows you to hide all the activity items of which the stock iOS "More" button normally prevents/restricts you from hiding.
+ .
+ By default, I've hidden all items except the "Use as Wallpaper" option so before enabling the patch you should go enable or disable which activity items you want shown.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request r/jailbreak user /u/Saiah226/.  (11-21-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40077
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AlertsCentered/.theos/obj/arm64/AlertsCentered.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$UIAlertController$preferredStyle', symObjAddr: 0x3568, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x1014, offset: 0x1014, size: 0x8, addend: 0x0, symName: '__ZL103_logos_orig$_ungrouped$UIAlertController$visualStyleForAlertControllerStyle$traitCollection$descriptor$', symObjAddr: 0x3570, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x105B, offset: 0x105B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x10AF, offset: 0x10AF, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UIAlertController$preferredStyleP17UIAlertControllerP13objc_selector', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x8 }
+  - { offsetInCU: 0x10EE, offset: 0x10EE, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$UIAlertController$preferredStyleP17UIAlertControllerP13objc_selector', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x8 }
+  - { offsetInCU: 0x1122, offset: 0x1122, size: 0x8, addend: 0x0, symName: '__ZL105_logos_method$_ungrouped$UIAlertController$visualStyleForAlertControllerStyle$traitCollection$descriptor$P17UIAlertControllerP13objc_selectorxP11objc_objectS4_', symObjAddr: 0x68, symBinAddr: 0x4068, symSize: 0x10 }
+...

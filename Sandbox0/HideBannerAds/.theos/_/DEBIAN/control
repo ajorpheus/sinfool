@@ -1,0 +1,12 @@
+Package: com.sinfool.hidebannerads
+Name: Hide Banner Ads
+Author: Sinfool
+Description: Hides the banner ad by replacing it with a solid white or black banner.  The banner will be white by default.  If you want a black banner instead, delete the specified unit. Press the "X" to start the app. Hides the banner ad by replacing it with a solid white or black banner.  The banner will be white by default.  If you want a black banner instead, delete the specified unit. Press the "X" to start the app. patchID: 7969
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.usmagazine.iphone.store
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,16 @@
+Package: com.sinfool.onlymybooks
+Name: Only My Books  ₃₋₁₋₁₆
+Author: Sinfool
+Description: Always shows the "My Books" page & removes the tab bar. Always shows the "My Books" page & removes the tab bar.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (3-1-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27952
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.iBooks
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

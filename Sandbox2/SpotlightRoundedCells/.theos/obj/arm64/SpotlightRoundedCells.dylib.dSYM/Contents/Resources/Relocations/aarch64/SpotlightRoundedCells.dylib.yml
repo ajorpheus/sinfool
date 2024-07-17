@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/SpotlightRoundedCells/.theos/obj/arm64/SpotlightRoundedCells.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL84_logos_orig$_ungrouped$SearchUIRoundedView$imageWithCornersRoundedTop$roundedBottom$', symObjAddr: 0x7440, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$UITableViewCell$_insetsBackground', symObjAddr: 0x7448, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x1C71, offset: 0x1C71, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$UITableView$setSeparatorStyle$', symObjAddr: 0x7450, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x24EC, offset: 0x24EC, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x2585, offset: 0x2585, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SearchUIRoundedView$imageWithCornersRoundedTop$roundedBottom$P19SearchUIRoundedViewP13objc_selectorbb', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x14 }
+  - { offsetInCU: 0x25BD, offset: 0x25BD, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SearchUIRoundedView$imageWithCornersRoundedTop$roundedBottom$P19SearchUIRoundedViewP13objc_selectorbb', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x14 }
+  - { offsetInCU: 0x260E, offset: 0x260E, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UITableViewCell$_insetsBackgroundP15UITableViewCellP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+  - { offsetInCU: 0x2631, offset: 0x2631, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$UITableViewCell$_insetsBackgroundP15UITableViewCellP13objc_selector', symObjAddr: 0x98, symBinAddr: 0x4098, symSize: 0x8 }
+  - { offsetInCU: 0x2665, offset: 0x2665, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$UITableView$setSeparatorStyle$P11UITableViewP13objc_selectorx', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x10 }
+...

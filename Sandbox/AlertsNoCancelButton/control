@@ -1,0 +1,17 @@
+Package: com.sinfool.alertsnocancelbutton
+Name: Alerts - No Cancel Button
+Author: Sinfool
+Description: Removes the cancel button from pop ups and allows you to tap anywhere on the screen to dismiss them. Removes the cancel button from pop ups and allows you to tap anywhere on the screen to dismiss them.
+ .
+ NOTE: Please comment if this causes any issues with the Apple ID popup.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (4-11-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36739
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,22 @@
+Package: com.sinfool.kbenableonehandedkeyboard
+Name: KB - Enable One-Handed Keyboard  ₁₀₋₂₀₋₁₆
+Author: Sinfool
+Description: Enables iOS's hidden one handed keyboard. Swipe in from sides to activate. Enables iOS's hidden one handed keyboard. Swipe in from sides to activate.
+ .
+ *Only works on 4.7" (iP6/S) & 5.5" (iP6/S+) devices.
+ .
+ NOTE:  The activation gesture conflicts with Swipe Selection's "Whole keyboard (Default)" & "Everything but the spacebar" swipe settings so either manually enable/disable Swipe Selection via "Triple Tap" to retain those swipe area gestures or use "Just the spacebar" which still works fine.
+ .
+ Credits:  Steve Troughton-Smith
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (10-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31761
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

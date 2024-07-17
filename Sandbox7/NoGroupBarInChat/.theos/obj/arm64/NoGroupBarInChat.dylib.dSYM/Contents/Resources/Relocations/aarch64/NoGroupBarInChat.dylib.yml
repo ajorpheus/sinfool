@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NoGroupBarInChat/.theos/obj/arm64/NoGroupBarInChat.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$CKTranscriptGroupHeaderView$initWithFrame$conversation$', symObjAddr: 0x9D8, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x16D, offset: 0x16D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x34 }
+  - { offsetInCU: 0x1B4, offset: 0x1B4, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$CKTranscriptGroupHeaderView$initWithFrame$conversation$P27CKTranscriptGroupHeaderViewP13objc_selector6CGRectP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+  - { offsetInCU: 0x1FA, offset: 0x1FA, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$CKTranscriptGroupHeaderView$initWithFrame$conversation$P27CKTranscriptGroupHeaderViewP13objc_selector6CGRectP11objc_object', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x8 }
+...

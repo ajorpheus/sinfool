@@ -1,0 +1,18 @@
+Package: com.sinfool.aiofasterstartupnobannerprerolladscommercialsratemeforcedupdatever10131
+Name: [AIO] Faster Startup, No Banner/Preroll Ads/Commercials/Rate Me/Forced Update (ver. 1.0.131)
+Author: Sinfool
+Description: All in one patch for the CW Seed app. Tap the play button once video is queued.  Made as a request via r/flextweak.  Tested with ver. 1.0.131.  (5-5-15) All in one patch for the CW Seed app. Tap the play button once video is queued.  Made as a request via r/flextweak.  Tested with ver. 1.0.131.  (5-5-15)
+ .
+ • Faster Startup
+ • No Banner Ads
+ • No Preroll Ads
+ • No Commercials
+ • No Rate Me
+ • No Forced Update  patchID: 20999
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.cw.seed.ios
+Homepage: https://ipadkid.cf/sinfool/index.html

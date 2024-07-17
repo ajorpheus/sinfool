@@ -1,0 +1,11 @@
+Package: com.sinfool.removeads
+Name: Remove Ads
+Author: Sinfool
+Description: Removes popup & banner ad. Removes popup & banner ad. patchID: 11129
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.bhmedia.tvhdfree
+Homepage: https://ipadkid.cf/sinfool/index.html

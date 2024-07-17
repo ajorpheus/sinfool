@@ -1,0 +1,17 @@
+Package: com.sinfool.customtextcolorquartsettings
+Name: Custom Text Color (QuartzSettings)  ₁₂₋₂₄₋₁₆
+Author: Sinfool
+Description: Changes the text color of table cells.  Set the color to your liking. Changes the text color of table cells.  Set the color to your liking.
+ .
+ Also useful if you use the QuartzSettings tweak.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (12-24-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32973
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

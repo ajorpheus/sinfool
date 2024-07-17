@@ -1,0 +1,15 @@
+Package: com.sinfool.nozoomslidertimer
+Name: No Zoom Slider Timer  ₆₋₁₋₁₅
+Author: Sinfool
+Description: Disables the zoom slider timer.  Uploaded after reading a similar request on r/jailbreak.  Tested with an iP6+ 8.1.  (6-1-15) Disables the zoom slider timer.  Uploaded after reading a similar request on r/jailbreak.  Tested with an iP6+ 8.1.  (6-1-15)
+ .
+ ● If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 21441
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.camera
+Homepage: https://ipadkid.cf/sinfool/index.html

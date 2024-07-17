@@ -1,0 +1,25 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/CCNoWhiteOverlay/.theos/obj/arm64/CCNoWhiteOverlay.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xF4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$', symObjAddr: 0x1390, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$', symObjAddr: 0x1398, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB7, offset: 0xB7, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$', symObjAddr: 0x13A0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD0, offset: 0xD0, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$MTMaterialSettings$setCcWhiteOverlayAlpha$', symObjAddr: 0x13A8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$MTMaterialSettings$setCutOutOverlayAlpha$', symObjAddr: 0x13B0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x123, offset: 0x123, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$MTMaterialSettings$setCutOutOverlayWhite$', symObjAddr: 0x13B8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x146, offset: 0x146, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xF4 }
+  - { offsetInCU: 0x21F, offset: 0x21F, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x10 }
+  - { offsetInCU: 0x27C, offset: 0x27C, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x10 }
+  - { offsetInCU: 0x2BD, offset: 0x2BD, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x14 }
+  - { offsetInCU: 0x2D6, offset: 0x2D6, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x104, symBinAddr: 0x4104, symSize: 0x14 }
+  - { offsetInCU: 0x31F, offset: 0x31F, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x338, offset: 0x338, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x379, offset: 0x379, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$MTMaterialSettings$setCcWhiteOverlayAlpha$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+  - { offsetInCU: 0x392, offset: 0x392, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$MTMaterialSettings$setCcWhiteOverlayAlpha$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+  - { offsetInCU: 0x3D3, offset: 0x3D3, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MTMaterialSettings$setCutOutOverlayAlpha$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x14 }
+  - { offsetInCU: 0x3EC, offset: 0x3EC, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MTMaterialSettings$setCutOutOverlayAlpha$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x14 }
+  - { offsetInCU: 0x435, offset: 0x435, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MTMaterialSettings$setCutOutOverlayWhite$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x10 }
+  - { offsetInCU: 0x44E, offset: 0x44E, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$MTMaterialSettings$setCutOutOverlayWhite$P18MTMaterialSettingsP13objc_selectord', symObjAddr: 0x14C, symBinAddr: 0x414C, symSize: 0x10 }
+...

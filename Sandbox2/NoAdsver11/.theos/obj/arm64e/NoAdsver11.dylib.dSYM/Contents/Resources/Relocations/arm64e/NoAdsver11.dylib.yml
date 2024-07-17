@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoAdsver11/.theos/obj/arm64e/NoAdsver11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SKSettingsViewController$isFullVersion', symObjAddr: 0x10F8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$DLBrowserViewControllerIDownloader$canDownloadFile$', symObjAddr: 0x1100, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$MPInstanceProvider$buildMPBannerAdManagerWithDelegate$', symObjAddr: 0x1108, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0x14D, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$MPInstanceProvider$buildMPInterstitialAdManagerWithDelegate$', symObjAddr: 0x1110, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x170, offset: 0x170, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x216, offset: 0x216, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SKSettingsViewController$isFullVersionP24SKSettingsViewControllerP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x263, offset: 0x263, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SKSettingsViewController$isFullVersionP24SKSettingsViewControllerP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x297, offset: 0x297, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$DLBrowserViewControllerIDownloader$canDownloadFile$P34DLBrowserViewControllerIDownloaderP13objc_selectorP11objc_object', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x2D6, offset: 0x2D6, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$MPInstanceProvider$buildMPBannerAdManagerWithDelegate$P18MPInstanceProviderP13objc_selectorP11objc_object', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x315, offset: 0x315, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$MPInstanceProvider$buildMPInterstitialAdManagerWithDelegate$P18MPInstanceProviderP13objc_selectorP11objc_object', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x8 }
+...

@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/SearchBarColorCustomier/.theos/obj/arm64/SearchBarColorCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$UISearchBarBackground$setBackgroundColor$', symObjAddr: 0x1910, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$', symObjAddr: 0x1918, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x106, offset: 0x106, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$_UISearchBarSearchFieldBackgroundView$setFillColor$', symObjAddr: 0x1920, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x140, offset: 0x140, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UISearchBarTextFieldLabel$setTextColor$', symObjAddr: 0x1928, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x17A, offset: 0x17A, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$_UICascadingTextStorage$setTextColor$', symObjAddr: 0x1930, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x1BE, offset: 0x1BE, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xD8 }
+  - { offsetInCU: 0x29B, offset: 0x29B, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UISearchBarBackground$setBackgroundColor$P21UISearchBarBackgroundP13objc_selectorP11objc_object', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x54 }
+  - { offsetInCU: 0x2E8, offset: 0x2E8, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$UISearchBarBackground$setBackgroundColor$P21UISearchBarBackgroundP13objc_selectorP11objc_object', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x54 }
+  - { offsetInCU: 0x330, offset: 0x330, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x10 }
+  - { offsetInCU: 0x347, offset: 0x347, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x10 }
+  - { offsetInCU: 0x399, offset: 0x399, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$_UISearchBarSearchFieldBackgroundView$setFillColor$P37_UISearchBarSearchFieldBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x54 }
+  - { offsetInCU: 0x3B9, offset: 0x3B9, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$_UISearchBarSearchFieldBackgroundView$setFillColor$P37_UISearchBarSearchFieldBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0x54 }
+  - { offsetInCU: 0x401, offset: 0x401, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UISearchBarTextFieldLabel$setTextColor$P25UISearchBarTextFieldLabelP13objc_selectorP11objc_object', symObjAddr: 0x190, symBinAddr: 0x4190, symSize: 0x58 }
+  - { offsetInCU: 0x418, offset: 0x418, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UISearchBarTextFieldLabel$setTextColor$P25UISearchBarTextFieldLabelP13objc_selectorP11objc_object', symObjAddr: 0x190, symBinAddr: 0x4190, symSize: 0x58 }
+  - { offsetInCU: 0x460, offset: 0x460, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UICascadingTextStorage$setTextColor$P23_UICascadingTextStorageP13objc_selectorP11objc_object', symObjAddr: 0x1E8, symBinAddr: 0x41E8, symSize: 0x50 }
+  - { offsetInCU: 0x477, offset: 0x477, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$_UICascadingTextStorage$setTextColor$P23_UICascadingTextStorageP13objc_selectorP11objc_object', symObjAddr: 0x1E8, symBinAddr: 0x41E8, symSize: 0x50 }
+...

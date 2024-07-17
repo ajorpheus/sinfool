@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/MergeRecentsTab/.theos/obj/arm64/MergeRecentsTab.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL58_logos_orig$_ungrouped$UISegmentedControl$numberOfSegments', symObjAddr: 0x2DC8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xD11, offset: 0xD11, size: 0x8, addend: 0x0, symName: '__ZL94_logos_meta_orig$_ungrouped$MPRecentsTableViewController$requiresNavigationControllerContainer', symObjAddr: 0x2DD0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xD49, offset: 0xD49, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0xDD5, offset: 0xDD5, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UISegmentedControl$numberOfSegmentsP18UISegmentedControlP13objc_selector', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x8 }
+  - { offsetInCU: 0xE23, offset: 0xE23, size: 0x8, addend: 0x0, symName: '__ZL60_logos_method$_ungrouped$UISegmentedControl$numberOfSegmentsP18UISegmentedControlP13objc_selector', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x8 }
+  - { offsetInCU: 0xE57, offset: 0xE57, size: 0x8, addend: 0x0, symName: '__ZL96_logos_meta_method$_ungrouped$MPRecentsTableViewController$requiresNavigationControllerContainerP10objc_classP13objc_selector', symObjAddr: 0x68, symBinAddr: 0x4068, symSize: 0x8 }
+...

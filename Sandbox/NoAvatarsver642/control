@@ -1,0 +1,15 @@
+Package: com.sinfool.noavatarsver642
+Name: No Avatars (ver. 6.42)  ₁₂₋₂₋₁₅
+Author: Sinfool
+Description: Removes avatars from the timeline view. Removes avatars from the timeline view.
+ .
+ [v.1] Tested with version 6.42.  Made as a request via email.  (12-2-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26714
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.atebits.Tweetie2
+Homepage: https://ipadkid.cf/sinfool/index.html

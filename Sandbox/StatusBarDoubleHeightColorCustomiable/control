@@ -1,0 +1,15 @@
+Package: com.sinfool.statusbardoubleheightcolorcustomiable
+Name: Status Bar - Double Height Color (Customizable)
+Author: Sinfool
+Description: Changes the background and text color of all double height status bars (i.e. the red, green & blue bars when in a call, recording audio or tethering etc.). Also adds an option to make the LS status bar the same height so that the color will apply there as well.  By default, I made the background a dark semi transparent color but you can change the colors to your liking. Changes the background and text color of all double height status bars (i.e. the red, green & blue bars when in a call, recording audio or tethering etc.). Also adds an option to make the LS status bar the same height so that the color will apply there as well.  By default, I made the background a dark semi transparent color but you can change the colors to your liking.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made after reading a similar post on r/jailbreak.  (3-27-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36320
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

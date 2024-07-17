@@ -1,0 +1,15 @@
+Package: com.sinfool.hiderecentsv2822
+Name: Hide Recents (v. 28.2.2)  ₁₋₁₇₋₁₇
+Author: Sinfool
+Description: Hides the contents of the recents list. Hides the contents of the recents list.
+ .
+ [v.1] Tested with version 28.2.2.  Made as a request via r/jailbreak.  (1-17-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 33520
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.getdropbox.Dropbox
+Homepage: https://ipadkid.cf/sinfool/index.html

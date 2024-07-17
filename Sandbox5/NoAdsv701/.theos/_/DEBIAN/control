@@ -1,0 +1,19 @@
+Package: com.sinfool.noadsv701
+Name: No Ads (v. 7.0.1)  ₃₋₁₄₋₁₇ ⚑
+Author: Sinfool
+Description: Removes banner & video ads. Removes banner & video ads.
+ .
+ [v.2] Tested with version 7.0.1.  (3-14-17)
+ .
+ (3-13-17) *Initial release
+ (3-14-17) *Removed a banner ad from video view
+ .
+ ☞PayPal: goin730@gmail.com patchID: 35844
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.turner.mmod2011temp
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

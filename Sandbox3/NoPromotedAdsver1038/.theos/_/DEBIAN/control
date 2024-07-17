@@ -1,0 +1,18 @@
+Package: com.sinfool.nopromotedadsver1038
+Name: No Promoted Ads (ver. 10.38)  ₁₀₋₇₋₁₅
+Author: Sinfool
+Description: Removes the promoted Ad cell from the Home page.  Removes the promoted Ad cell from the Home page. 
+ .
+ [v.1] Only tested with version 10.38 but may work with other versions.  (10-7-15)
+ .
+ ★ If you enjoy my patches & would like to donate, please send money to...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 24854
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.ios.youtube
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

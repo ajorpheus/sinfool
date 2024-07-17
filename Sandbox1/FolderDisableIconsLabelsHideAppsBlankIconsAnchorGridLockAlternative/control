@@ -1,0 +1,24 @@
+Package: com.sinfool.folderdisableiconslabelshideappsblankiconsanchorgridlockalternative
+Name: Folder - Disable Icons/Labels (Hide Apps, Blank Icons & Anchor/GridLock Alternative)  ₈₋₇₋₁
+Author: Sinfool
+Description: Removes folder icons/labels & disables selection of the blank space left in its place. Removes folder icons/labels & disables selection of the blank space left in its place.
+ .
+ - This patch can be useful "IF" you don't use folders and want a rudimentary alternative to some other tweaks like Anchor/GridLock, or tweaks that hide apps (but are still accessible from SpotLight) or just to make blank icon spaces etc.
+ .
+ Directions:
+ .
+ - (for Blank Icons):  Make any safari bookmark/web clip & put it into a folder.   Enable the patch/respring.  Position surrounding icons to achieve your desired result.
+ - (to Hide Apps from the HS):  Put apps in a folder & position it as the last icon on your HS.  Enable the patch/respring.
+ .
+ You must disable the patch whenever you'd like to add additional apps/web clips to a folder.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (8-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29782
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

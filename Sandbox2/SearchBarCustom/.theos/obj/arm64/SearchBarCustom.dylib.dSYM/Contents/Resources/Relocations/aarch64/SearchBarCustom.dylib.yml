@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/SearchBarCustom/.theos/obj/arm64/SearchBarCustom.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$UISearchBar$_imageForSearchBarIcon$state$customImage$', symObjAddr: 0x59B0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x19CA, offset: 0x19CA, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$UISearchBarTextFieldLabel$setText$', symObjAddr: 0x59B8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1A04, offset: 0x1A04, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$UISearchBarTextFieldLabel$setTextColor$', symObjAddr: 0x59C0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1A1D, offset: 0x1A1D, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$', symObjAddr: 0x59C8, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1A6A, offset: 0x1A6A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1B17, offset: 0x1B17, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UISearchBar$_imageForSearchBarIcon$state$customImage$P11UISearchBarP13objc_selectorxyPb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x1B4F, offset: 0x1B4F, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$UISearchBar$_imageForSearchBarIcon$state$customImage$P11UISearchBarP13objc_selectorxyPb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x1BA4, offset: 0x1BA4, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$UISearchBarTextFieldLabel$setText$P25UISearchBarTextFieldLabelP13objc_selectorP11objc_object', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x14 }
+  - { offsetInCU: 0x1BE8, offset: 0x1BE8, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UISearchBarTextFieldLabel$setTextColor$P25UISearchBarTextFieldLabelP13objc_selectorP11objc_object', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x58 }
+  - { offsetInCU: 0x1C01, offset: 0x1C01, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$UISearchBarTextFieldLabel$setTextColor$P25UISearchBarTextFieldLabelP13objc_selectorP11objc_object', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x58 }
+  - { offsetInCU: 0x1C49, offset: 0x1C49, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x10 }
+  - { offsetInCU: 0x1C60, offset: 0x1C60, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x10 }
+...

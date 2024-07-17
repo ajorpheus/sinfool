@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/PasscodeNoBlur/.theos/obj/arm64/PasscodeNoBlur.dylib'
+relocations:     []
+...

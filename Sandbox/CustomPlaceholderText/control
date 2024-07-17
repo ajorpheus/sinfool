@@ -1,0 +1,17 @@
+Package: com.sinfool.customplaceholdertext
+Name: Custom Placeholder Text
+Author: Sinfool
+Description: Allows you to set a custom placeholder text. Allows you to set a custom placeholder text.
+ .
+ This is the text that says "iMessage" etc.  By default I used the text "Write a message..." but you can change it to any text you choose or use a space for no text.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Requested by /u/Astramancer.  (2-20-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40888
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,16 @@
+Package: com.sinfool.removeratingsv105018
+Name: Remove Ratings (v. 10.50.18)  ₅₋₇₋₁₆
+Author: Sinfool
+Description: Removes the ratings section from the YouTube app. Removes the ratings section from the YouTube app.
+ .
+ [v.1] Tested with version 10.50.18 but should work with other versions too.  Made as a request via r/jailbreak.  (5-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28645
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.ios.youtube
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

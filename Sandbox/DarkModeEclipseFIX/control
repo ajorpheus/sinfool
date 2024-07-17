@@ -1,0 +1,21 @@
+Package: com.sinfool.darkmodeeclipsefix
+Name: Dark Mode Eclipse FIX
+Author: Sinfool
+Description: Addon fix for Eclipse users to make the background dark and the text white in the Slack app. Addon fix for Eclipse users to make the background dark and the text white in the Slack app.
+ .
+ ⚠️IMPORTANT:  This patch depends on ≥ Flex 3 beta version 3~beta36 so please go install it BEFORE downloading this patch.  The beta can be downloaded by adding "http://getdelta.co/" to your Cydia repo sources.
+ .
+ UPDATES:
+ (11-12-17) *Initial release
+ (11-12-17) *Added methods for version 3.32
+ .
+ [v.2] Tested with Slack versions 3.15.1 & 3.32.  Made as a request via r/jailbreak user /u/m1crodose and many others I'll mention once I post the final AIO patch.   (11-12-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 40010
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.tinyspeck.chatlyio
+Homepage: https://ipadkid.cf/sinfool/index.html

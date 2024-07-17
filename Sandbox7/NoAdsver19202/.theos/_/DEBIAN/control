@@ -1,0 +1,20 @@
+Package: com.sinfool.noadsver19202
+Name: No Ads (ver. 1.9 - 2.0.2)  ₁₁₋₂₃₋₁₅ ⚑
+Author: Sinfool
+Description: No ads.  Made after reading an inquiry on r/jailbreak. No ads.  Made after reading an inquiry on r/jailbreak.
+ .
+ [v.2] Tested with versions 1.9 - 2.0.2  (11-23-15)
+ .
+ ⚑ UPDATES:
+ (3-10-15) *Initial release
+ (11-23-15) *Removed new banner ad
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 19498
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.ketchapp.2048
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

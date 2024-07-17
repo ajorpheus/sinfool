@@ -1,0 +1,11 @@
+Package: com.sinfool.mxtubepro
+Name: MxTube Pro
+Author: Sinfool
+Description: Enable extra features. Enable extra features. patchID: 9102
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.appking.mxtube
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,19 @@
+Package: com.sinfool.accessalllibraries
+Name: Access All Libraries  ₄₋₁₇₋₁₆
+Author: Sinfool
+Description: Enables access to all system wide libraries. Enables access to all system wide libraries.
+ .
+ Useful if the app you're patching doesn't provide a specific library. 
+ .
+ ⚠️WARNING:  This patch should only be enabled when needed!  A respring or killing of Flex from multitasking is required after enabling or disabling this patch.
+ .
+ [v.1] Tested with an iP6+ 9.0.2 & Flex 2.5~Beta18.  (4-17-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28494
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.johncoates.Flex
+Homepage: https://ipadkid.cf/sinfool/index.html

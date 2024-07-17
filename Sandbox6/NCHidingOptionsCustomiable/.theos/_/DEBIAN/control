@@ -1,0 +1,25 @@
+Package: com.sinfool.nchidingoptionscustomiable
+Name: NC - Hiding Options (Customizable)
+Author: Sinfool
+Description: Hides the following options in Notification Center.  Delete the respective units of items you want shown. Hides the following options in Notification Center.  Delete the respective units of items you want shown.
+ .
+ - Status Bar
+ - Top Separator
+ - Bottom Separator
+ - "No Notifications" Text
+ - Grabber
+ - Page Dots
+ .
+ Leave a comment if you want additional items hidden.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (3-9-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 35684
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/AIONoStartupAdNoCommercialsver210221/.theos/obj/arm64/AIONoStartupAdNoCommercialsver210221.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$AETNVideoSplashScreenViewController$isFinished', symObjAddr: 0xC70, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0xC78, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xE8, offset: 0xE8, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$AWEAsset$adCuePoints', symObjAddr: 0xC80, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x1ED, offset: 0x1ED, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$AETNVideoSplashScreenViewController$isFinishedP35AETNVideoSplashScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x233, offset: 0x233, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$AETNVideoSplashScreenViewController$isFinishedP35AETNVideoSplashScreenViewControllerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x267, offset: 0x267, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x29B, offset: 0x29B, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$AWEAsset$adCuePointsP8AWEAssetP13objc_selector', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+...

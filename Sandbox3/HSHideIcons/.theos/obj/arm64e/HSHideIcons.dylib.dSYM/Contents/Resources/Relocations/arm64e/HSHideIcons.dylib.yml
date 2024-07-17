@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/HSHideIcons/.theos/obj/arm64e/HSHideIcons.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$SBIcon$getIconImage$', symObjAddr: 0xDD8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xCB, offset: 0xCB, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$SBClockApplicationIconImageView$setIcon$location$animated$', symObjAddr: 0xDE0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x116, offset: 0x116, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$SBClockApplicationIconImageView$_setAnimating$', symObjAddr: 0xDE8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x14F, offset: 0x14F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x1CC, offset: 0x1CC, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$SBIcon$getIconImage$P6SBIconP13objc_selectori', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x219, offset: 0x219, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$SBIcon$getIconImage$P6SBIconP13objc_selectori', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x258, offset: 0x258, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$SBClockApplicationIconImageView$setIcon$location$animated$P31SBClockApplicationIconImageViewP13objc_selectorP11objc_objectib', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x10 }
+  - { offsetInCU: 0x2B8, offset: 0x2B8, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBClockApplicationIconImageView$_setAnimating$P31SBClockApplicationIconImageViewP13objc_selectorb', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x10 }
+  - { offsetInCU: 0x2E4, offset: 0x2E4, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBClockApplicationIconImageView$_setAnimating$P31SBClockApplicationIconImageViewP13objc_selectorb', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x10 }
+...

@@ -1,0 +1,16 @@
+Package: com.sinfool.classicscreenscalev3100
+Name: Classic Screen Scale (v. 3.10.0)
+Author: Sinfool
+Description: Changes the screen scale to classic size.  This patch was made to try to fix an issue with users of the tweak "Little Brother" so it will not be useful for most. Changes the screen scale to classic size.  This patch was made to try to fix an issue with users of the tweak "Little Brother" so it will not be useful for most.
+ .
+ [v.1] Tested with version 9.10.0.  Made as a request via r/jailbreak.  (7-7-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38475
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.miniclip.8ballpoolmult
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

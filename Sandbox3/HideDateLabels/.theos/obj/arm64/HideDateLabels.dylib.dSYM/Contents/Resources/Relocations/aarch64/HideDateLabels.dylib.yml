@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/HideDateLabels/.theos/obj/arm64/HideDateLabels.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL36_logos_orig$_ungrouped$NoteCell$date', symObjAddr: 0x9B8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL45_logos_orig$_ungrouped$NoteDateLabel$setDate$', symObjAddr: 0x9C0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x103, offset: 0x103, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x5C }
+  - { offsetInCU: 0x173, offset: 0x173, size: 0x8, addend: 0x0, symName: '__ZL38_logos_method$_ungrouped$NoteCell$dateP8NoteCellP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1B9, offset: 0x1B9, size: 0x8, addend: 0x0, symName: '__ZL38_logos_method$_ungrouped$NoteCell$dateP8NoteCellP13objc_selector', symObjAddr: 0x5C, symBinAddr: 0x405C, symSize: 0x8 }
+  - { offsetInCU: 0x1ED, offset: 0x1ED, size: 0x8, addend: 0x0, symName: '__ZL47_logos_method$_ungrouped$NoteDateLabel$setDate$P13NoteDateLabelP13objc_selectorP11objc_object', symObjAddr: 0x64, symBinAddr: 0x4064, symSize: 0x10 }
+...

@@ -1,0 +1,29 @@
+Package: com.sinfool.grabbersdockopenfolderbgstyle
+Name: Grabbers/Dock/Open Folder BG Style  ₁₋₂₇₋₁₆
+Author: Sinfool
+Description: Changes the background style of the LS Grabbers, Dock & Folders (open).  By default, I have the BG set to black but you can change/experiment with your own values... Changes the background style of the LS Grabbers, Dock & Folders (open).  By default, I have the BG set to black but you can change/experiment with your own values...
+ .
+ - No Blur = "0"
+ - Black = "2"
+ - Less Blur = "3"
+ - Lesser Blur = "4"
+ - Soft Blur = "5"
+ - Light Gray = "9"
+ - Frosted Blur = "10"
+ .
+ NOTE:  If you like this patch then you may also want to try...
+ .
+ - "Switcher - HS Card BG Style"
+ - "Switcher - Wallpaper BG Style"
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (1-27-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27478
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

@@ -1,0 +1,29 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/ControlCenterHiderCustomier/.theos/obj/arm64/ControlCenterHiderCustomier.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x148 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBControlCenterContentContainerView$setContentHeight$', symObjAddr: 0x1EE8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL83_logos_orig$_ungrouped$SBUIController$shouldShowControlCenterTabControlOnFirstSwipe', symObjAddr: 0x1EF0, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$SBControlCenterSettings$setControlAlpha$', symObjAddr: 0x1EF8, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x118, offset: 0x118, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBControlCenterSettings$setHighlightColor$', symObjAddr: 0x1F00, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x170, offset: 0x170, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SBControlCenterSettings$setHighlightAlpha$', symObjAddr: 0x1F08, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x189, offset: 0x189, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$', symObjAddr: 0x1F10, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1C8, offset: 0x1C8, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$SBCCBrightnessSectionController$_shouldDarkenBackground', symObjAddr: 0x1F18, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x201, offset: 0x201, size: 0x8, addend: 0x0, symName: '__ZL71_logos_orig$_ungrouped$SBCCAirStuffSectionController$setAirDropEnabled$', symObjAddr: 0x1F20, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x245, offset: 0x245, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x148 }
+  - { offsetInCU: 0x381, offset: 0x381, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBControlCenterContentContainerView$setContentHeight$P35SBControlCenterContentContainerViewP13objc_selectord', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x14 }
+  - { offsetInCU: 0x3C7, offset: 0x3C7, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBControlCenterContentContainerView$setContentHeight$P35SBControlCenterContentContainerViewP13objc_selectord', symObjAddr: 0x148, symBinAddr: 0x4148, symSize: 0x14 }
+  - { offsetInCU: 0x410, offset: 0x410, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBUIController$shouldShowControlCenterTabControlOnFirstSwipeP14SBUIControllerP13objc_selector', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x8 }
+  - { offsetInCU: 0x429, offset: 0x429, size: 0x8, addend: 0x0, symName: '__ZL85_logos_method$_ungrouped$SBUIController$shouldShowControlCenterTabControlOnFirstSwipeP14SBUIControllerP13objc_selector', symObjAddr: 0x15C, symBinAddr: 0x415C, symSize: 0x8 }
+  - { offsetInCU: 0x45D, offset: 0x45D, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$SBControlCenterSettings$setControlAlpha$P23SBControlCenterSettingsP13objc_selectord', symObjAddr: 0x164, symBinAddr: 0x4164, symSize: 0x10 }
+  - { offsetInCU: 0x4A6, offset: 0x4A6, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBControlCenterSettings$setHighlightColor$P23SBControlCenterSettingsP13objc_selectorP11objc_object', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x50 }
+  - { offsetInCU: 0x4BF, offset: 0x4BF, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBControlCenterSettings$setHighlightColor$P23SBControlCenterSettingsP13objc_selectorP11objc_object', symObjAddr: 0x174, symBinAddr: 0x4174, symSize: 0x50 }
+  - { offsetInCU: 0x507, offset: 0x507, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBControlCenterSettings$setHighlightAlpha$P23SBControlCenterSettingsP13objc_selectord', symObjAddr: 0x1C4, symBinAddr: 0x41C4, symSize: 0x10 }
+  - { offsetInCU: 0x51E, offset: 0x51E, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SBControlCenterSettings$setHighlightAlpha$P23SBControlCenterSettingsP13objc_selectord', symObjAddr: 0x1C4, symBinAddr: 0x41C4, symSize: 0x10 }
+  - { offsetInCU: 0x567, offset: 0x567, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x10 }
+  - { offsetInCU: 0x580, offset: 0x580, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLockScreenView$setBottomGrabberHidden$forRequester$P16SBLockScreenViewP13objc_selectorbP11objc_object', symObjAddr: 0x1D4, symBinAddr: 0x41D4, symSize: 0x10 }
+  - { offsetInCU: 0x5CE, offset: 0x5CE, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBCCBrightnessSectionController$_shouldDarkenBackgroundP31SBCCBrightnessSectionControllerP13objc_selector', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0x5F3, offset: 0x5F3, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$SBCCBrightnessSectionController$_shouldDarkenBackgroundP31SBCCBrightnessSectionControllerP13objc_selector', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0x627, offset: 0x627, size: 0x8, addend: 0x0, symName: '__ZL73_logos_method$_ungrouped$SBCCAirStuffSectionController$setAirDropEnabled$P29SBCCAirStuffSectionControllerP13objc_selectorb', symObjAddr: 0x1EC, symBinAddr: 0x41EC, symSize: 0x10 }
+...

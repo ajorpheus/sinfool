@@ -1,0 +1,18 @@
+Package: com.sinfool.noforceupgradev478
+Name: No Force Upgrade (v. 4.7.8)
+Author: Sinfool
+Description: Removes the force upgrade popup for the Chipotle app. Removes the force upgrade popup for the Chipotle app.
+ .
+ Useful for those on pre iOS 10 firmwares who want to continue using the app without upgrading to iOS 10.
+ .
+ [v.1] Tested on an iP6+ on 9.3.3 with app version 4.7.8.  Requested by r/jailbreak user /u/casiopiano.  (11-21-17)
+ .
+ ☞PayPal:&nbsp; goin730@gmail.com patchID: 40069
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.chipotle.Chipotle
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

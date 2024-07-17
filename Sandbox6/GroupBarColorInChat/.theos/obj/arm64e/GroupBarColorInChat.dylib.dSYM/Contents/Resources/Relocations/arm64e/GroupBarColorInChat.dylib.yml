@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/GroupBarColorInChat/.theos/obj/arm64e/GroupBarColorInChat.dylib'
+relocations:     []
+...

@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/SwitcherBetterReduceMotioniOS10/.theos/obj/arm64/SwitcherBetterReduceMotioniOS10.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SBReduceMotionDeckSwitcherViewController$_shouldUseDepth', symObjAddr: 0x1120, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL103_logos_orig$_ungrouped$SBReduceMotionDeckSwitcherViewController$_shouldShowIconAndTitleInItemContainers', symObjAddr: 0x1128, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL96_logos_orig$_ungrouped$SBReduceMotionDeckSwitcherViewController$_opacityForIconTitleViewAtIndex$', symObjAddr: 0x1130, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0xF7, offset: 0xF7, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$SBAppSwitcherScrollView$setPagingEnabled$', symObjAddr: 0x1138, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x13B, offset: 0x13B, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA8 }
+  - { offsetInCU: 0x1D3, offset: 0x1D3, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBReduceMotionDeckSwitcherViewController$_shouldUseDepthP40SBReduceMotionDeckSwitcherViewControllerP13objc_selector', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x8 }
+  - { offsetInCU: 0x223, offset: 0x223, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBReduceMotionDeckSwitcherViewController$_shouldUseDepthP40SBReduceMotionDeckSwitcherViewControllerP13objc_selector', symObjAddr: 0xA8, symBinAddr: 0x40A8, symSize: 0x8 }
+  - { offsetInCU: 0x257, offset: 0x257, size: 0x8, addend: 0x0, symName: '__ZL105_logos_method$_ungrouped$SBReduceMotionDeckSwitcherViewController$_shouldShowIconAndTitleInItemContainersP40SBReduceMotionDeckSwitcherViewControllerP13objc_selector', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x8 }
+  - { offsetInCU: 0x28B, offset: 0x28B, size: 0x8, addend: 0x0, symName: '__ZL98_logos_method$_ungrouped$SBReduceMotionDeckSwitcherViewController$_opacityForIconTitleViewAtIndex$P40SBReduceMotionDeckSwitcherViewControllerP13objc_selectory', symObjAddr: 0xB8, symBinAddr: 0x40B8, symSize: 0x8 }
+  - { offsetInCU: 0x2CA, offset: 0x2CA, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$SBAppSwitcherScrollView$setPagingEnabled$P23SBAppSwitcherScrollViewP13objc_selectorb', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x10 }
+...

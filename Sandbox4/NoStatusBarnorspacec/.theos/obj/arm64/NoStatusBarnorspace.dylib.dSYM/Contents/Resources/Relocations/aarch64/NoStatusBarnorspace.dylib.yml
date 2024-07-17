@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/NoStatusBarnorspacec/.theos/obj/arm64/NoStatusBarnorspace.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xDC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL84_logos_orig$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipe', symObjAddr: 0x14A0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SBControlCenterController$_shouldShowGrabberOnFirstSwipe', symObjAddr: 0x14A8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SpringBoard$_statusBar$styleForRequestedStyle$overrides$', symObjAddr: 0x14B0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$SBAppStatusBarTransitionInfo$zoomOther', symObjAddr: 0x14B8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x18E, offset: 0x18E, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$UIStatusBarStyleRequest$isDoubleHeight', symObjAddr: 0x14C0, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1D1, offset: 0x1D1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xDC }
+  - { offsetInCU: 0x2CA, offset: 0x2CA, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipeP30SBNotificationCenterControllerP13objc_selector', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x8 }
+  - { offsetInCU: 0x310, offset: 0x310, size: 0x8, addend: 0x0, symName: '__ZL86_logos_method$_ungrouped$SBNotificationCenterController$_shouldShowGrabberOnFirstSwipeP30SBNotificationCenterControllerP13objc_selector', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x8 }
+  - { offsetInCU: 0x344, offset: 0x344, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SBControlCenterController$_shouldShowGrabberOnFirstSwipeP25SBControlCenterControllerP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x378, offset: 0x378, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SpringBoard$_statusBar$styleForRequestedStyle$overrides$P11SpringBoardP13objc_selectorP11objc_objectxi', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x3CD, offset: 0x3CD, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$SBAppStatusBarTransitionInfo$zoomOtherP28SBAppStatusBarTransitionInfoP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x401, offset: 0x401, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$UIStatusBarStyleRequest$isDoubleHeightP23UIStatusBarStyleRequestP13objc_selector', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x8 }
+...

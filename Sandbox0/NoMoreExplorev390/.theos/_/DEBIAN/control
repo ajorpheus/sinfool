@@ -1,0 +1,22 @@
+Package: com.sinfool.nomoreexplorev390
+Name: No More Explore (v. 39.0)
+Author: Sinfool
+Description: Removes the search page's explore section top tray and suggestion cells. Removes the search page's explore section top tray and suggestion cells.
+ .
+ - Useful if you'd like to stop wasting your time clicking on things.
+ .
+ ⚑ UPDATES:
+ (4-3-18) *Initial release
+ (4-4-18) *Removed loading animations
+ .
+ [v.2] Tested with Instagram version 39.0.  Requested by /u/timuryo.  (4-4-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41796
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.burbn.instagram
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

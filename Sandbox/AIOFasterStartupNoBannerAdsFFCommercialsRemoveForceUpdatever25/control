@@ -1,0 +1,11 @@
+Package: com.sinfool.aiofasterstartupnobanneradsffcommercialsremoveforceupdatever25
+Name: [AIO] Faster Startup, No Banner Ads, FF Commercials & Remove Force Update (ver. 2.5)
+Author: Sinfool
+Description: All in one patch for CBS.  Faster startup, no banner ads, FF commercials & remove force upgrade.  Tested with version 2.5 but most likely still works with more recent versions. UPDATED (11-5-14) All in one patch for CBS.  Faster startup, no banner ads, FF commercials & remove force upgrade.  Tested with version 2.5 but most likely still works with more recent versions. UPDATED (11-5-14) patchID: 12494
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.cbsvideo.app
+Homepage: https://ipadkid.cf/sinfool/index.html

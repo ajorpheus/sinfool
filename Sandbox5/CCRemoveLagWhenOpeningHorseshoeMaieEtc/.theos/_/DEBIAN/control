@@ -1,0 +1,16 @@
+Package: com.sinfool.ccremovelagwhenopeninghorseshoemaieetc
+Name: CC - Remove Lag When Opening Horseshoe & Maize Etc.
+Author: Sinfool
+Description: Reportedly removes lag when opening the control center with tweaks like Horseshoe & Maize etc. Reportedly removes lag when opening the control center with tweaks like Horseshoe & Maize etc.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made after reading a tip/suggestion by /r/jailbreak user /u/MaheshDJ.  (10-27-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39863
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

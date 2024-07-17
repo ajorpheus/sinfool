@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoReportButton/.theos/obj/arm64e/NoReportButton.dylib'
+relocations:     []
+...

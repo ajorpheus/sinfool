@@ -1,0 +1,14 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/NoAvatarsver642/.theos/obj/arm64e/NoAvatarsver642.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL93_logos_orig$_ungrouped$TFNTwitterAccount$isInTweetLayoutExperimentMediaFirstWithSmallerAvatar', symObjAddr: 0xF40, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$TFNTwitterAccount$isInTweetLayoutExperimentSmallerAvatar', symObjAddr: 0xF48, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xB6, offset: 0xB6, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$TFNTwitterAvatarImageView$initWithFrame$', symObjAddr: 0xF50, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x198, offset: 0x198, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x21C, offset: 0x21C, size: 0x8, addend: 0x0, symName: '__ZL95_logos_method$_ungrouped$TFNTwitterAccount$isInTweetLayoutExperimentMediaFirstWithSmallerAvatarP17TFNTwitterAccountP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x26C, offset: 0x26C, size: 0x8, addend: 0x0, symName: '__ZL95_logos_method$_ungrouped$TFNTwitterAccount$isInTweetLayoutExperimentMediaFirstWithSmallerAvatarP17TFNTwitterAccountP13objc_selector', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x8 }
+  - { offsetInCU: 0x2A0, offset: 0x2A0, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$TFNTwitterAccount$isInTweetLayoutExperimentSmallerAvatarP17TFNTwitterAccountP13objc_selector', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x8 }
+  - { offsetInCU: 0x2D4, offset: 0x2D4, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$TFNTwitterAvatarImageView$initWithFrame$P25TFNTwitterAvatarImageViewP13objc_selector6CGRect', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+...

@@ -1,0 +1,14 @@
+Package: com.sinfool.disableupdateallbutton
+Name: Disable "Update All" Button  ₈₋₂₃₋₁₅
+Author: Sinfool
+Description: Disables the "Update All" button to help prevent accidental updating of apps you don't want updated.  This is the same as the iOS7 patch by "arashpour". Disables the "Update All" button to help prevent accidental updating of apps you don't want updated.  This is the same as the iOS7 patch by "arashpour".
+ .
+ [v.1] Tested with an iP6+ 8.4.  (8-23-15) patchID: 24057
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.AppStore
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

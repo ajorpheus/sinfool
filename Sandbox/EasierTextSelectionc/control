@@ -1,0 +1,15 @@
+Package: com.sinfool.easiertextselection
+Name: Easier Text Selection  ₉₋₂₀₋₁₆
+Author: Sinfool
+Description: Makes selecting text easier by disabling text selection assistance within web pages. Makes selecting text easier by disabling text selection assistance within web pages.
+ .
+ [v.1] Tested with an iP6 9.3.3.  Made after reading a request on r/jailbreak.  (9-20-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 31305
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

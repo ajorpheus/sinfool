@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/NoBackdropBlurs/.theos/obj/arm64/NoBackdropBlurs.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL48_logos_orig$_ungrouped$CABackdropLayer$isEnabled', symObjAddr: 0x4B88, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$UITabBar$_backgroundNeedsUpdate', symObjAddr: 0x4B90, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x172A, offset: 0x172A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SKUITabBarBackgroundView$initWithFrame$', symObjAddr: 0x4B98, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1772, offset: 0x1772, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x180B, offset: 0x180B, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$CABackdropLayer$isEnabledP15CABackdropLayerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x1843, offset: 0x1843, size: 0x8, addend: 0x0, symName: '__ZL50_logos_method$_ungrouped$CABackdropLayer$isEnabledP15CABackdropLayerP13objc_selector', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x8 }
+  - { offsetInCU: 0x1877, offset: 0x1877, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$UITabBar$_backgroundNeedsUpdateP8UITabBarP13objc_selector', symObjAddr: 0x8C, symBinAddr: 0x408C, symSize: 0x8 }
+  - { offsetInCU: 0x18AB, offset: 0x18AB, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SKUITabBarBackgroundView$initWithFrame$P24SKUITabBarBackgroundViewP13objc_selector6CGRect', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x8 }
+...

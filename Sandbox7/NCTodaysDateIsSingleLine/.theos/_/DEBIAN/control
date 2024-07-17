@@ -1,0 +1,16 @@
+Package: com.sinfool.nctodaysdateissingleline
+Name: NC - Today's Date Is Single Line
+Author: Sinfool
+Description: Displays Today's Date as a single line in Notification Center & the HS Today View page. Displays Today's Date as a single line in Notification Center & the HS Today View page.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via email.  (2-11-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 34501
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

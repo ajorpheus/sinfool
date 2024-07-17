@@ -1,0 +1,13 @@
+Package: com.sinfool.bookmarkscolorcustomierforprouser
+Name: Bookmarks Color Customizer+ (for prouser)
+Author: Sinfool
+Description: This is a test patch for prouser.  It colorizes a few UI elements of the Safari app (i.e. the bookmark page etc). This is a test patch for prouser.  It colorizes a few UI elements of the Safari app (i.e. the bookmark page etc).
+ .
+ [v.1] (4-19-17) patchID: 36948
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

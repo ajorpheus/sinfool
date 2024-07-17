@@ -1,0 +1,11 @@
+ld: warning: -multiply_defined is obsolete
+warning: no debug symbols in executable (-arch arm64)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip: warning: input object file already stripped: /Users/az/Desktop/sinfool/Sandbox6/OpenPhotosTabToCollectionsView/.theos/obj/arm64/OpenPhotosTabToCollectionsView.dylib
+[1mTweak.xm:18:1: [0m[0;1;31merror: [0m[1mnon-void function does not return a value [-Werror,-Wreturn-type][0m
+}
+[0;1;32m^
+[0m1 error generated.
+make[3]: *** [/Users/az/theos/makefiles/instance/rules.mk:313: /Users/az/Desktop/sinfool/Sandbox6/OpenPhotosTabToCollectionsView/.theos/obj/arm64e/Tweak.mm.fefde2f3.o] Error 1
+make[2]: *** [/Users/az/theos/makefiles/instance/library.mk:51: /Users/az/Desktop/sinfool/Sandbox6/OpenPhotosTabToCollectionsView/.theos/obj/arm64e/OpenPhotosTabToCollectionsView.dylib] Error 2
+make[1]: *** [/Users/az/theos/makefiles/instance/library.mk:37: internal-library-all_] Error 2
+make: *** [/Users/az/theos/makefiles/master/rules.mk:146: OpenPhotosTabToCollectionsView.all.tweak.variables] Error 2

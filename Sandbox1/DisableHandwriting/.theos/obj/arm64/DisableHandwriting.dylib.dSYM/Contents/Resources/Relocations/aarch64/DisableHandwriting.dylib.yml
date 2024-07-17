@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/DisableHandwriting/.theos/obj/arm64/DisableHandwriting.dylib'
+relocations:     []
+...

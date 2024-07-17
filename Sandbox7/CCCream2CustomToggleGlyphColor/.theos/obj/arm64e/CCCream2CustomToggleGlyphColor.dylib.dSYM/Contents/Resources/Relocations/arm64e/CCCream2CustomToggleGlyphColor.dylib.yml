@@ -1,0 +1,32 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/CCCream2CustomToggleGlyphColor/.theos/obj/arm64e/CCCream2CustomToggleGlyphColor.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x248 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CCUIAirplaneModeSetting$selectedStateColor', symObjAddr: 0x2988, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$CCUIWiFiSetting$selectedStateColor', symObjAddr: 0x2990, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xF8, offset: 0xF8, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$CCUIBluetoothSetting$selectedStateColor', symObjAddr: 0x2998, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x131, offset: 0x131, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CCUIDoNotDisturbSetting$selectedStateColor', symObjAddr: 0x29A0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x16A, offset: 0x16A, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$CCUIMuteSetting$selectedStateColor', symObjAddr: 0x29A8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1A3, offset: 0x1A3, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CCUIOrientationLockSetting$selectedStateColor', symObjAddr: 0x29B0, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0x1DC, offset: 0x1DC, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$CCUIAirStuffSectionController$_selectedStateColor', symObjAddr: 0x29B8, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x215, offset: 0x215, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CCUINightShiftContentView$_selectedStateColor', symObjAddr: 0x29C0, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x24E, offset: 0x24E, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CCUICellularDataSetting$selectedStateColor', symObjAddr: 0x29C8, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x287, offset: 0x287, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$CCUIPersonalHotspotSetting$selectedStateColor', symObjAddr: 0x29D0, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x2C0, offset: 0x2C0, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$CCUILowPowerModeSetting$selectedStateColor', symObjAddr: 0x29D8, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x2F9, offset: 0x2F9, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$CCUISettingModule$selectedStateColor', symObjAddr: 0x29E0, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x33C, offset: 0x33C, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x248 }
+  - { offsetInCU: 0x593, offset: 0x593, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CCUIAirplaneModeSetting$selectedStateColorP23CCUIAirplaneModeSettingP13objc_selector', symObjAddr: 0x248, symBinAddr: 0x4248, symSize: 0x28 }
+  - { offsetInCU: 0x5E0, offset: 0x5E0, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CCUIAirplaneModeSetting$selectedStateColorP23CCUIAirplaneModeSettingP13objc_selector', symObjAddr: 0x248, symBinAddr: 0x4248, symSize: 0x28 }
+  - { offsetInCU: 0x614, offset: 0x614, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$CCUIWiFiSetting$selectedStateColorP15CCUIWiFiSettingP13objc_selector', symObjAddr: 0x270, symBinAddr: 0x4270, symSize: 0x28 }
+  - { offsetInCU: 0x648, offset: 0x648, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$CCUIBluetoothSetting$selectedStateColorP20CCUIBluetoothSettingP13objc_selector', symObjAddr: 0x298, symBinAddr: 0x4298, symSize: 0x28 }
+  - { offsetInCU: 0x67C, offset: 0x67C, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CCUIDoNotDisturbSetting$selectedStateColorP23CCUIDoNotDisturbSettingP13objc_selector', symObjAddr: 0x2C0, symBinAddr: 0x42C0, symSize: 0x24 }
+  - { offsetInCU: 0x6B0, offset: 0x6B0, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$CCUIMuteSetting$selectedStateColorP15CCUIMuteSettingP13objc_selector', symObjAddr: 0x2E4, symBinAddr: 0x42E4, symSize: 0x28 }
+  - { offsetInCU: 0x6E4, offset: 0x6E4, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CCUIOrientationLockSetting$selectedStateColorP26CCUIOrientationLockSettingP13objc_selector', symObjAddr: 0x30C, symBinAddr: 0x430C, symSize: 0x28 }
+  - { offsetInCU: 0x718, offset: 0x718, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$CCUIAirStuffSectionController$_selectedStateColorP29CCUIAirStuffSectionControllerP13objc_selector', symObjAddr: 0x334, symBinAddr: 0x4334, symSize: 0x28 }
+  - { offsetInCU: 0x74C, offset: 0x74C, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CCUINightShiftContentView$_selectedStateColorP25CCUINightShiftContentViewP13objc_selector', symObjAddr: 0x35C, symBinAddr: 0x435C, symSize: 0x24 }
+  - { offsetInCU: 0x780, offset: 0x780, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CCUICellularDataSetting$selectedStateColorP23CCUICellularDataSettingP13objc_selector', symObjAddr: 0x380, symBinAddr: 0x4380, symSize: 0x28 }
+  - { offsetInCU: 0x7B4, offset: 0x7B4, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$CCUIPersonalHotspotSetting$selectedStateColorP26CCUIPersonalHotspotSettingP13objc_selector', symObjAddr: 0x3A8, symBinAddr: 0x43A8, symSize: 0x20 }
+  - { offsetInCU: 0x7E8, offset: 0x7E8, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$CCUILowPowerModeSetting$selectedStateColorP23CCUILowPowerModeSettingP13objc_selector', symObjAddr: 0x3C8, symBinAddr: 0x43C8, symSize: 0x20 }
+  - { offsetInCU: 0x81C, offset: 0x81C, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$CCUISettingModule$selectedStateColorP17CCUISettingModuleP13objc_selector', symObjAddr: 0x3E8, symBinAddr: 0x43E8, symSize: 0x24 }
+...

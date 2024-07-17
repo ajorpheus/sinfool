@@ -1,0 +1,22 @@
+Package: com.sinfool.alertsnocancelbuttondismissanywhere
+Name: Alerts - No Cancel Button (DismissAnywhere)
+Author: Sinfool
+Description: Removes the "Cancel" button from alert popups and allows you to dismiss them by tapping anywhere on the screen. Removes the "Cancel" button from alert popups and allows you to dismiss them by tapping anywhere on the screen.
+ .
+ NOTE:  This doesn't apply to notifications.
+ .
+ ⚠️ WARNING:  iOS 9 users must also use the following SpringBoard patch to prevent the default tap to dismiss action on the HS from using "Delete" when organizing/deleting apps in jiggle/edit mode.
+ .
+   •  "Alerts - No Cancel Button: App Deletion FIX (iOS 9)"
+ .
+ [v.1] Tested with an iP6+ & iPad mini 2 on 9.3.3 & an iPad mini 4 on 10.2.  Requested by r/jailbreak user /u/Kolyei.  (11-7-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39963
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

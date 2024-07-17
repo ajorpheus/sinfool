@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/FoldersAllowTouchInsideToDismissiOS11/.theos/obj/arm64e/FoldersAllowTouchInsideToDismissiOS11.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL90_logos_orig$_ungrouped$SBFloatyFolderView$_tapToCloseGestureRecognizer$shouldReceiveTouch$', symObjAddr: 0x868, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xDA, offset: 0xDA, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x121, offset: 0x121, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$SBFloatyFolderView$_tapToCloseGestureRecognizer$shouldReceiveTouch$P18SBFloatyFolderViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x167, offset: 0x167, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$SBFloatyFolderView$_tapToCloseGestureRecognizer$shouldReceiveTouch$P18SBFloatyFolderViewP13objc_selectorP11objc_objectS4_', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

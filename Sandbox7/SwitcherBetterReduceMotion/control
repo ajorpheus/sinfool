@@ -1,0 +1,17 @@
+Package: com.sinfool.switcherbetterreducemotion
+Name: Switcher - Better Reduce Motion  ₈₋₁₅₋₁₆
+Author: Sinfool
+Description: Changes icons/labels back to the stock slide over animation & adds depth to the switcher cards when using reduce motion.  Also has an option to show the first deck card underneath. Changes icons/labels back to the stock slide over animation & adds depth to the switcher cards when using reduce motion.  Also has an option to show the first deck card underneath.
+ .
+ Useful for those who use reduce motion but want a look a little closer to the stock switcher appearance.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30205
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

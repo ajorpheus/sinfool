@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NoIconLabelShadows/.theos/obj/arm64e/NoIconLabelShadows.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$SBLegibilitySettings$setIconLabelDarkShadowStrength$', symObjAddr: 0xA70, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL76_logos_orig$_ungrouped$SBLegibilitySettings$setIconLabelLightShadowStrength$', symObjAddr: 0xA78, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xC1, offset: 0xC1, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x115, offset: 0x115, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBLegibilitySettings$setIconLabelDarkShadowStrength$P20SBLegibilitySettingsP13objc_selectorf', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x10 }
+  - { offsetInCU: 0x16C, offset: 0x16C, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$SBLegibilitySettings$setIconLabelDarkShadowStrength$P20SBLegibilitySettingsP13objc_selectorf', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x10 }
+  - { offsetInCU: 0x1B1, offset: 0x1B1, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLegibilitySettings$setIconLabelLightShadowStrength$P20SBLegibilitySettingsP13objc_selectorf', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x10 }
+  - { offsetInCU: 0x1CA, offset: 0x1CA, size: 0x8, addend: 0x0, symName: '__ZL78_logos_method$_ungrouped$SBLegibilitySettings$setIconLabelLightShadowStrength$P20SBLegibilitySettingsP13objc_selectorf', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x10 }
+...

@@ -1,0 +1,15 @@
+Package: com.sinfool.animationsnoswitcherscrollondismiss
+Name: Animations - No Switcher Scroll On Dismiss  ₁₀₋₂₇₋₁₅
+Author: Sinfool
+Description: Disables the deck switcher's native "scroll to current app/HS" dismiss animation.  This animation occurs when you exit the switcher without selecting an app. Disables the deck switcher's native "scroll to current app/HS" dismiss animation.  This animation occurs when you exit the switcher without selecting an app.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-27-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25802
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

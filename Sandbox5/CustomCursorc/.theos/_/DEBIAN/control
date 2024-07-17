@@ -1,0 +1,22 @@
+Package: com.sinfool.customcursor
+Name: Custom Cursor  ₁₀₋₂₉₋₁₅
+Author: Sinfool
+Description: Customizes the following aspects of the cursor.  Change the values as you like or delete unused entries. Customizes the following aspects of the cursor.  Change the values as you like or delete unused entries.
+ .
+ • Visibility
+ • Blinks
+ • Color
+ • Color (Text Selection Bars)
+ • Text Selection Highlight Visibility
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (10-29-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25907
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.MobileSMS
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 136

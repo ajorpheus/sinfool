@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/NoSeparatorsiOS10/.theos/obj/arm64/NoSeparatorsiOS10.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorStyle$', symObjAddr: 0xAE8, symBinAddr: 0xC010, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorColor$', symObjAddr: 0xAF0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x60 }
+  - { offsetInCU: 0x154, offset: 0x154, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorStyle$P37UICollectionViewTableLayoutAttributesP13objc_selectorx', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x10 }
+  - { offsetInCU: 0x1A1, offset: 0x1A1, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorStyle$P37UICollectionViewTableLayoutAttributesP13objc_selectorx', symObjAddr: 0x60, symBinAddr: 0x4060, symSize: 0x10 }
+  - { offsetInCU: 0x1E2, offset: 0x1E2, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorColor$P37UICollectionViewTableLayoutAttributesP13objc_selectorP11objc_object', symObjAddr: 0x70, symBinAddr: 0x4070, symSize: 0x4 }
+  - { offsetInCU: 0x200, offset: 0x200, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$UICollectionViewTableLayoutAttributes$setSeparatorColor$P37UICollectionViewTableLayoutAttributesP13objc_selectorP11objc_object', symObjAddr: 0x70, symBinAddr: 0x4070, symSize: 0x4 }
+...

@@ -1,0 +1,11 @@
+Package: com.sinfool.dialerkeypadbgcolor
+Name: Dialer Keypad BG Color
+Author: Sinfool
+Description: Changes the Dialer Keypad Background Color.  Set the color to your liking.  (3/28/14) Changes the Dialer Keypad Background Color.  Set the color to your liking.  (3/28/14) patchID: 10006
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html

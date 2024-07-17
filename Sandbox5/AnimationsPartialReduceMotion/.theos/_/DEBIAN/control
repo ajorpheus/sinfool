@@ -1,0 +1,37 @@
+Package: com.sinfool.animationspartialreducemotion
+Name: Animations - Partial Reduce Motion  ₈₋₉₋₁₆ ⚑
+Author: Sinfool
+Description: Disables individual animations as listed below... 	 Disables individual animations as listed below... 	
+ .
+ Useful for those who want to disable specific transitional animations without enabling "reduce motion".  Change values to your needs.  By default, all animations are disabled except the Parallax entries.
+ .
+ - Parallax Effect - Wallpaper/Alerts/Share Sheets
+ - LS - Reduced Parallax Effect
+ - LS to HS - (Icon Zoom) via Slide To Unlock*
+ - LS to HS - (Icon Zoom) via Touch ID/Passcode*
+ - LS to App - Zoom
+ - HS - Reduced Parallax Effect
+ - HS to App - Zoom
+ - HS to Folder - (Icon Zoom)
+ - HS to Folder - Open Zoom
+ - Folder to HS - Close Zoom
+ - App to HS - Zoom
+ - App to App - Slide (Breadcrumb/LastApp)
+ - Switcher - Dismiss/Zoom Down*
+ .
+ [v.3] Tested with an iP6+ 9.0.2 & 9.3.3.	Made as a request via r/jailbreak.  (8-9-16)
+ .
+ ⚑ UPDATES:
+ (11-29-15) *Initial release
+ (7-20-16) *Added breadcrumbs/last app entry
+ (8-9-16) *Fixed breadcrumbs/last app Spotlight issue
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26646
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

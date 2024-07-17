@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/AlertsNoCancelButtonDismissAnywhere/.theos/obj/arm64e/AlertsNoCancelButtonDismissAnywhere.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xDC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL73_logos_orig$_ungrouped$UIAlertController$_canDismissWithGestureRecognizer', symObjAddr: 0x3AA0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x1014, offset: 0x1014, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$_UIAlertControllerView$showsCancelAction', symObjAddr: 0x3AA8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x104D, offset: 0x104D, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$_UIAlertControllerView$_shouldHaveCancelActionInCollectionView', symObjAddr: 0x3AB0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x1066, offset: 0x1066, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$_UIAlertControllerView$setCancelActionIsDiscrete$', symObjAddr: 0x3AB8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x109F, offset: 0x109F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xDC }
+  - { offsetInCU: 0x1130, offset: 0x1130, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$UIAlertController$_canDismissWithGestureRecognizerP17UIAlertControllerP13objc_selector', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x8 }
+  - { offsetInCU: 0x116F, offset: 0x116F, size: 0x8, addend: 0x0, symName: '__ZL75_logos_method$_ungrouped$UIAlertController$_canDismissWithGestureRecognizerP17UIAlertControllerP13objc_selector', symObjAddr: 0xDC, symBinAddr: 0x40DC, symSize: 0x8 }
+  - { offsetInCU: 0x11A3, offset: 0x11A3, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$_UIAlertControllerView$showsCancelActionP22_UIAlertControllerViewP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x11D7, offset: 0x11D7, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$_UIAlertControllerView$_shouldHaveCancelActionInCollectionViewP22_UIAlertControllerViewP13objc_selector', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x120B, offset: 0x120B, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$_UIAlertControllerView$setCancelActionIsDiscrete$P22_UIAlertControllerViewP13objc_selectorb', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x10 }
+...

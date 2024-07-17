@@ -1,0 +1,12 @@
+Package: com.sinfool.aiobypassloginnocommercialsv106
+Name: [AIO] Bypass Login & No Commercials (v. 1.0.6)
+Author: Sinfool
+Description: AIO patch for the Spike TV app.  Bypass login & no commercials.  Tested with version 1.0.6. AIO patch for the Spike TV app.  Bypass login & no commercials.  Tested with version 1.0.6. patchID: 18032
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.mtvn.SPIKE
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

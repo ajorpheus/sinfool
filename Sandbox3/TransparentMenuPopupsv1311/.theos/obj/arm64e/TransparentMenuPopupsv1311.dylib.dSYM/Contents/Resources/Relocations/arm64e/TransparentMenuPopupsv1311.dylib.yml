@@ -1,0 +1,25 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/TransparentMenuPopupsv1311/.theos/obj/arm64e/TransparentMenuPopupsv1311.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x138 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$GOODimmingBackgroundView$setBackgroundColor$', symObjAddr: 0x1D80, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$YTDialogContainerScrollView$setBackgroundColor$', symObjAddr: 0x1D88, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xFA, offset: 0xFA, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$GOODialogView$setBackgroundColor$', symObjAddr: 0x1D90, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x134, offset: 0x134, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$GOODialogActionButton$setBackgroundColor$', symObjAddr: 0x1D98, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x16E, offset: 0x16E, size: 0x8, addend: 0x0, symName: '__ZL59_logos_orig$_ungrouped$YTTopAlignedView$setBackgroundColor$', symObjAddr: 0x1DA0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1A8, offset: 0x1A8, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$GOOPopoverView$setBackgroundColor$', symObjAddr: 0x1DA8, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0x1EC, offset: 0x1EC, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x138 }
+  - { offsetInCU: 0x323, offset: 0x323, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$GOODimmingBackgroundView$setBackgroundColor$P24GOODimmingBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x64 }
+  - { offsetInCU: 0x370, offset: 0x370, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$GOODimmingBackgroundView$setBackgroundColor$P24GOODimmingBackgroundViewP13objc_selectorP11objc_object', symObjAddr: 0x138, symBinAddr: 0x4138, symSize: 0x64 }
+  - { offsetInCU: 0x3B8, offset: 0x3B8, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$YTDialogContainerScrollView$setBackgroundColor$P27YTDialogContainerScrollViewP13objc_selectorP11objc_object', symObjAddr: 0x19C, symBinAddr: 0x419C, symSize: 0x64 }
+  - { offsetInCU: 0x3CF, offset: 0x3CF, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$YTDialogContainerScrollView$setBackgroundColor$P27YTDialogContainerScrollViewP13objc_selectorP11objc_object', symObjAddr: 0x19C, symBinAddr: 0x419C, symSize: 0x64 }
+  - { offsetInCU: 0x417, offset: 0x417, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$GOODialogView$setBackgroundColor$P13GOODialogViewP13objc_selectorP11objc_object', symObjAddr: 0x200, symBinAddr: 0x4200, symSize: 0x64 }
+  - { offsetInCU: 0x42E, offset: 0x42E, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$GOODialogView$setBackgroundColor$P13GOODialogViewP13objc_selectorP11objc_object', symObjAddr: 0x200, symBinAddr: 0x4200, symSize: 0x64 }
+  - { offsetInCU: 0x476, offset: 0x476, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$GOODialogActionButton$setBackgroundColor$P21GOODialogActionButtonP13objc_selectorP11objc_object', symObjAddr: 0x264, symBinAddr: 0x4264, symSize: 0x64 }
+  - { offsetInCU: 0x48D, offset: 0x48D, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$GOODialogActionButton$setBackgroundColor$P21GOODialogActionButtonP13objc_selectorP11objc_object', symObjAddr: 0x264, symBinAddr: 0x4264, symSize: 0x64 }
+  - { offsetInCU: 0x4D5, offset: 0x4D5, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$YTTopAlignedView$setBackgroundColor$P16YTTopAlignedViewP13objc_selectorP11objc_object', symObjAddr: 0x2C8, symBinAddr: 0x42C8, symSize: 0x64 }
+  - { offsetInCU: 0x4EC, offset: 0x4EC, size: 0x8, addend: 0x0, symName: '__ZL61_logos_method$_ungrouped$YTTopAlignedView$setBackgroundColor$P16YTTopAlignedViewP13objc_selectorP11objc_object', symObjAddr: 0x2C8, symBinAddr: 0x42C8, symSize: 0x64 }
+  - { offsetInCU: 0x534, offset: 0x534, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$GOOPopoverView$setBackgroundColor$P14GOOPopoverViewP13objc_selectorP11objc_object', symObjAddr: 0x32C, symBinAddr: 0x432C, symSize: 0x64 }
+  - { offsetInCU: 0x54B, offset: 0x54B, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$GOOPopoverView$setBackgroundColor$P14GOOPopoverViewP13objc_selectorP11objc_object', symObjAddr: 0x32C, symBinAddr: 0x432C, symSize: 0x64 }
+...

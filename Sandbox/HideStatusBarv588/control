@@ -1,0 +1,15 @@
+Package: com.sinfool.hidestatusbarv588
+Name: Hide Status Bar (v. 5.8.8)
+Author: Sinfool
+Description: Removes the status bar for the VivaVideo app. Removes the status bar for the VivaVideo app.
+ .
+ [v.1] Tested with version 5.8.8.  Made as a request via r/jailbreak.  (7-2-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 38398
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.quvideo.XiaoYing
+Homepage: https://ipadkid.cf/sinfool/index.html

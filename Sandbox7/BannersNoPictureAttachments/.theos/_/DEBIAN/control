@@ -1,0 +1,16 @@
+Package: com.sinfool.bannersnopictureattachments
+Name: Banners - No Picture Attachments  ₃₋₂₆₋₁₆
+Author: Sinfool
+Description: Removes the picture/attachment preview from notification banners. Removes the picture/attachment preview from notification banners.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request.  (3-26-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28259
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

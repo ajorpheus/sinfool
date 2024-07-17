@@ -1,0 +1,14 @@
+Package: com.sinfool.mergerecentstab
+Name: Merge Recents Tab
+Author: Sinfool
+Description: This patch is a test to merge the recents tab on iOS 10. This patch is a test to merge the recents tab on iOS 10.
+ .
+ [v.2]  (3-28-17) patchID: 36319
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilephone
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

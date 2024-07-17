@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/ForceLandscapeVideoModeNoCommercialsver273275/.theos/obj/arm64e/ForceLandscapeVideoModeNoCommercialsver273275.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$StartupViewController$forcedOrientation', symObjAddr: 0xF78, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$DSOrientationManager$currentForcedInterfaceOrientation', symObjAddr: 0xF80, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xD6, offset: 0xD6, size: 0x8, addend: 0x0, symName: '__ZL81_logos_orig$_ungrouped$DSOrientationManager$currentForcedInterfaceOrientationMask', symObjAddr: 0xF88, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: '__ZL32_logos_orig$_ungrouped$FWAd$adId', symObjAddr: 0xF90, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x14E, offset: 0x14E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x1FB, offset: 0x1FB, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$StartupViewController$forcedOrientationP21StartupViewControllerP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x24B, offset: 0x24B, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$StartupViewController$forcedOrientationP21StartupViewControllerP13objc_selector', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x27F, offset: 0x27F, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$DSOrientationManager$currentForcedInterfaceOrientationP20DSOrientationManagerP13objc_selector', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x2B3, offset: 0x2B3, size: 0x8, addend: 0x0, symName: '__ZL83_logos_method$_ungrouped$DSOrientationManager$currentForcedInterfaceOrientationMaskP20DSOrientationManagerP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x2E7, offset: 0x2E7, size: 0x8, addend: 0x0, symName: '__ZL34_logos_method$_ungrouped$FWAd$adIdP4FWAdP13objc_selector', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x8 }
+...

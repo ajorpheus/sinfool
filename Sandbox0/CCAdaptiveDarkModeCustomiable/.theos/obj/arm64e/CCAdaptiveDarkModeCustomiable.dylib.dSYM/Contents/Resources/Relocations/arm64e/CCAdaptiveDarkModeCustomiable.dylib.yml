@@ -1,0 +1,37 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox0/CCAdaptiveDarkModeCustomiable/.theos/obj/arm64e/CCAdaptiveDarkModeCustomiable.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1E0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$CCUIControlCenterSettings$setBackgroundDarkening$', symObjAddr: 0x2128, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NCMaterialSettings$setDarkenedWhiteAlpha$', symObjAddr: 0x2130, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0xD8, offset: 0xD8, size: 0x8, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$', symObjAddr: 0x2138, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0xF1, offset: 0xF1, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$NCMaterialSettings$setBlurRadius$', symObjAddr: 0x2140, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$NCMaterialSettings$setSaturation$', symObjAddr: 0x2148, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x123, offset: 0x123, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$', symObjAddr: 0x2150, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x13C, offset: 0x13C, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$', symObjAddr: 0x2158, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x155, offset: 0x155, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$CCUIControlCenterVisualEffect$initWithPrivateStyle$', symObjAddr: 0x2160, symBinAddr: 0xC098, symSize: 0x0 }
+  - { offsetInCU: 0x19A, offset: 0x19A, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$MPAVRoutingTableViewCell$setIconStyle$', symObjAddr: 0x2168, symBinAddr: 0xC0A0, symSize: 0x0 }
+  - { offsetInCU: 0x1DB, offset: 0x1DB, size: 0x8, addend: 0x0, symName: '__ZL61_logos_orig$_ungrouped$MPAVRoutingTableViewCell$setTintColor$', symObjAddr: 0x2170, symBinAddr: 0xC0A8, symSize: 0x0 }
+  - { offsetInCU: 0x23D, offset: 0x23D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1E0 }
+  - { offsetInCU: 0x370, offset: 0x370, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$CCUIControlCenterSettings$setBackgroundDarkening$P25CCUIControlCenterSettingsP13objc_selectord', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x14 }
+  - { offsetInCU: 0x3BD, offset: 0x3BD, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$CCUIControlCenterSettings$setBackgroundDarkening$P25CCUIControlCenterSettingsP13objc_selectord', symObjAddr: 0x1E0, symBinAddr: 0x41E0, symSize: 0x14 }
+  - { offsetInCU: 0x406, offset: 0x406, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setDarkenedWhiteAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0x10 }
+  - { offsetInCU: 0x41F, offset: 0x41F, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setDarkenedWhiteAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0x10 }
+  - { offsetInCU: 0x460, offset: 0x460, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x10 }
+  - { offsetInCU: 0x479, offset: 0x479, size: 0x8, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$NCMaterialSettings$setCcWhiteOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x10 }
+  - { offsetInCU: 0x4BA, offset: 0x4BA, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setBlurRadius$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x14 }
+  - { offsetInCU: 0x4D3, offset: 0x4D3, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setBlurRadius$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x14 }
+  - { offsetInCU: 0x51C, offset: 0x51C, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setSaturation$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x228, symBinAddr: 0x4228, symSize: 0x10 }
+  - { offsetInCU: 0x535, offset: 0x535, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setSaturation$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x228, symBinAddr: 0x4228, symSize: 0x10 }
+  - { offsetInCU: 0x57E, offset: 0x57E, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x238, symBinAddr: 0x4238, symSize: 0x14 }
+  - { offsetInCU: 0x597, offset: 0x597, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x238, symBinAddr: 0x4238, symSize: 0x14 }
+  - { offsetInCU: 0x5E0, offset: 0x5E0, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x24C, symBinAddr: 0x424C, symSize: 0x10 }
+  - { offsetInCU: 0x5F9, offset: 0x5F9, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$NCMaterialSettings$setCutOutOverlayWhite$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0x24C, symBinAddr: 0x424C, symSize: 0x10 }
+  - { offsetInCU: 0x63A, offset: 0x63A, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CCUIControlCenterVisualEffect$initWithPrivateStyle$P29CCUIControlCenterVisualEffectP13objc_selectorx', symObjAddr: 0x25C, symBinAddr: 0x425C, symSize: 0x10 }
+  - { offsetInCU: 0x653, offset: 0x653, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CCUIControlCenterVisualEffect$initWithPrivateStyle$P29CCUIControlCenterVisualEffectP13objc_selectorx', symObjAddr: 0x25C, symBinAddr: 0x425C, symSize: 0x10 }
+  - { offsetInCU: 0x698, offset: 0x698, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MPAVRoutingTableViewCell$setIconStyle$P24MPAVRoutingTableViewCellP13objc_selectory', symObjAddr: 0x26C, symBinAddr: 0x426C, symSize: 0x10 }
+  - { offsetInCU: 0x6B6, offset: 0x6B6, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MPAVRoutingTableViewCell$setIconStyle$P24MPAVRoutingTableViewCellP13objc_selectory', symObjAddr: 0x26C, symBinAddr: 0x426C, symSize: 0x10 }
+  - { offsetInCU: 0x6F7, offset: 0x6F7, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MPAVRoutingTableViewCell$setTintColor$P24MPAVRoutingTableViewCellP13objc_selectorP11objc_object', symObjAddr: 0x27C, symBinAddr: 0x427C, symSize: 0x64 }
+  - { offsetInCU: 0x715, offset: 0x715, size: 0x8, addend: 0x0, symName: '__ZL63_logos_method$_ungrouped$MPAVRoutingTableViewCell$setTintColor$P24MPAVRoutingTableViewCellP13objc_selectorP11objc_object', symObjAddr: 0x27C, symBinAddr: 0x427C, symSize: 0x64 }
+...

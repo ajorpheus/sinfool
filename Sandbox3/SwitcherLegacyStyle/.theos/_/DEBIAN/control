@@ -1,0 +1,23 @@
+Package: com.sinfool.switcherlegacystyle
+Name: Switcher - Legacy Style  ₂₋₂₃₋₁₆ ⚑
+Author: Sinfool
+Description: Brings back the iOS7/8 switcher style for iOS 9. Brings back the iOS7/8 switcher style for iOS 9.
+ .
+ NOTE:  Seems to conflict with Tage's switcher invoking gestures and maybe some other tweaks.
+ .
+ ⚑ UPDATES:
+ (10-15-15) *Initial release
+ (12-13-15) *Removed scaled corner & BG images (phone app etc) & added option to remove animated dismissal.
+ (2-23-16) *Added option to remove icon slide animation
+ .
+ [v.3] Tested with an iP6+ 9.0.2.  (2-23-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25000
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

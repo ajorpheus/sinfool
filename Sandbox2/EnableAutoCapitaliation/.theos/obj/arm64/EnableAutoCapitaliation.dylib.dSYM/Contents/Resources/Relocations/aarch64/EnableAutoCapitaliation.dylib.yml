@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox2/EnableAutoCapitaliation/.theos/obj/arm64/EnableAutoCapitaliation.dylib'
+relocations:     []
+...

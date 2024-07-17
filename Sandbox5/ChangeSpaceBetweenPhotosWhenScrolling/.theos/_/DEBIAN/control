@@ -1,0 +1,18 @@
+Package: com.sinfool.changespacebetweenphotoswhenscrolling
+Name: Change Space Between Photos When Scrolling  ₃₋₂₋₁₆
+Author: Sinfool
+Description: Changes the size of the black/white space in between photos when scrolling.  By default, I have it set to "5" but you can remove the entire space using "0" or change the space/value to whatever you'd like. Changes the size of the black/white space in between photos when scrolling.  By default, I have it set to "5" but you can remove the entire space using "0" or change the space/value to whatever you'd like.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  (3-2-16)
+ .
+ Any donations are greatly appreciated...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 27976
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobileslideshow
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

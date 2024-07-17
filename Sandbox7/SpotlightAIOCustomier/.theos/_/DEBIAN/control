@@ -1,0 +1,35 @@
+Package: com.sinfool.spotlightaiocustomier
+Name: Spotlight - [AIO] Customizer  ₁₀₋₁₅₋₁₆
+Author: Sinfool
+Description: All in one customizer for Spotlight.  Use TRUE, FALSE & NULL to enable/disable features and pass-through to use stock configurations or just delete units altogether.  Provides the following features... All in one customizer for Spotlight.  Use TRUE, FALSE & NULL to enable/disable features and pass-through to use stock configurations or just delete units altogether.  Provides the following features...
+ .
+ * Enable/Disable (Everywhere, Minus Page & HS)
+ * High Quality Graphics
+ * Minus Page - No Blur
+ * HS Page - No Blur
+ * HS Page - Blur Transition
+ * Sections - No Background
+ * Sections - Color
+ * Sections - Rounded Corners
+ * Sections - Add Space In Between
+ * Sections - No Separators
+ * Sections - More Button
+ * Sections - Title Label
+ * Sections - Expanded
+ * KB - Show On Open
+ * Search Bar - Seconds Before Clearing
+ .
+ NOTE:  Please keep in mind that other patches/tweaks can vary your end results.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  (10-15-16)
+ .
+ ☞PayPal:  goin730@gmail.com
+  patchID: 31683
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

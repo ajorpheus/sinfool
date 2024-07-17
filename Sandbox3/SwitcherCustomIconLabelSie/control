@@ -1,0 +1,17 @@
+Package: com.sinfool.switchercustomiconlabelsie
+Name: Switcher - Custom Icon & Label Size
+Author: Sinfool
+Description: Allows you to set a custom size for the switcher icons & labels.  I provided some general suggestions for variables and by default, I hid the labels but you can re-enable them. Allows you to set a custom size for the switcher icons & labels.  I provided some general suggestions for variables and by default, I hid the labels but you can re-enable them.
+ .
+ P=pass-through
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  (10-20-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39778
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

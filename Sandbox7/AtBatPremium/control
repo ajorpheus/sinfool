@@ -1,0 +1,11 @@
+Package: com.sinfool.atbatpremium
+Name: At Bat Premium
+Author: Sinfool
+Description: Unlocks At Bat Premium.  This spoofs the T-mobile network.  Tap redeem offer, tap register, make an account. Unlocks At Bat Premium.  This spoofs the T-mobile network.  Tap redeem offer, tap register, make an account. patchID: 8330
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.mlb.AtBatUniversal
+Homepage: https://ipadkid.cf/sinfool/index.html

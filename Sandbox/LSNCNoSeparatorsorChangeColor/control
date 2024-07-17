@@ -1,0 +1,15 @@
+Package: com.sinfool.lsncnoseparatorsorchangecolor
+Name: LS/NC - No Separators (or Change Color)  ₈₋₁₂₋₁₆
+Author: Sinfool
+Description: Removes (or changes the color) of notification separators on the lockscreen & in NC. Removes (or changes the color) of notification separators on the lockscreen & in NC.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (8-12-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29988
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

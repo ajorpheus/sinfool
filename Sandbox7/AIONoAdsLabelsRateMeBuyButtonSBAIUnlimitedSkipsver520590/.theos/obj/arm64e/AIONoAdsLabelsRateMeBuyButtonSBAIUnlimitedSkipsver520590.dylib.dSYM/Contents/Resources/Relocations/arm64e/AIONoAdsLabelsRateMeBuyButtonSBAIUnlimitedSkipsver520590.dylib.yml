@@ -1,0 +1,28 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/AIONoAdsLabelsRateMeBuyButtonSBAIUnlimitedSkipsver520590/.theos/obj/arm64e/AIONoAdsLabelsRateMeBuyButtonSBAIUnlimitedSkipsver520590.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1E4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL50_logos_orig$_ungrouped$iRate$shouldPromptForRating', symObjAddr: 0x3A10, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL40_logos_orig$_ungrouped$GADAdFetcher$init', symObjAddr: 0x3A18, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: '__ZL41_logos_orig$_ungrouped$SongCell$buyButton', symObjAddr: 0x3A20, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$Configuration$isNoSkipLimitEnabled', symObjAddr: 0x3A28, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x17C, offset: 0x17C, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$Configuration$liveRadioVideoAdEnabled', symObjAddr: 0x3A30, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x195, offset: 0x195, size: 0x8, addend: 0x0, symName: '__ZL64_logos_orig$_ungrouped$Configuration$liveRadioCompanionAdEnabled', symObjAddr: 0x3A38, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x1AE, offset: 0x1AE, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$Configuration$customRadioVideoAdEnabled', symObjAddr: 0x3A40, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x1C7, offset: 0x1C7, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$Configuration$customRadioAudioAdEnabled', symObjAddr: 0x3A48, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x1E0, offset: 0x1E0, size: 0x8, addend: 0x0, symName: '__ZL66_logos_orig$_ungrouped$Configuration$customRadioCompanionAdEnabled', symObjAddr: 0x3A50, symBinAddr: 0xC090, symSize: 0x0 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: '__ZL78_logos_orig$_ungrouped$UIActivityIndicatorView$initWithActivityIndicatorStyle$', symObjAddr: 0x3A58, symBinAddr: 0xC098, symSize: 0x0 }
+  - { offsetInCU: 0xD08, offset: 0xD08, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1E4 }
+  - { offsetInCU: 0xE57, offset: 0xE57, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$iRate$shouldPromptForRatingP5iRateP13objc_selector', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0xE94, offset: 0xE94, size: 0x8, addend: 0x0, symName: '__ZL52_logos_method$_ungrouped$iRate$shouldPromptForRatingP5iRateP13objc_selector', symObjAddr: 0x1E4, symBinAddr: 0x41E4, symSize: 0x8 }
+  - { offsetInCU: 0xEC8, offset: 0xEC8, size: 0x8, addend: 0x0, symName: '__ZL42_logos_method$_ungrouped$GADAdFetcher$initP12GADAdFetcherP13objc_selector', symObjAddr: 0x1EC, symBinAddr: 0x41EC, symSize: 0x8 }
+  - { offsetInCU: 0xEFC, offset: 0xEFC, size: 0x8, addend: 0x0, symName: '__ZL43_logos_method$_ungrouped$SongCell$buyButtonP8SongCellP13objc_selector', symObjAddr: 0x1F4, symBinAddr: 0x41F4, symSize: 0x8 }
+  - { offsetInCU: 0xF30, offset: 0xF30, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$Configuration$isNoSkipLimitEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0xF64, offset: 0xF64, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$Configuration$liveRadioVideoAdEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0xF98, offset: 0xF98, size: 0x8, addend: 0x0, symName: '__ZL66_logos_method$_ungrouped$Configuration$liveRadioCompanionAdEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x8 }
+  - { offsetInCU: 0xFCC, offset: 0xFCC, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$Configuration$customRadioVideoAdEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x8 }
+  - { offsetInCU: 0x1000, offset: 0x1000, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$Configuration$customRadioAudioAdEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x8 }
+  - { offsetInCU: 0x1034, offset: 0x1034, size: 0x8, addend: 0x0, symName: '__ZL68_logos_method$_ungrouped$Configuration$customRadioCompanionAdEnabledP13ConfigurationP13objc_selector', symObjAddr: 0x224, symBinAddr: 0x4224, symSize: 0x8 }
+  - { offsetInCU: 0x1068, offset: 0x1068, size: 0x8, addend: 0x0, symName: '__ZL80_logos_method$_ungrouped$UIActivityIndicatorView$initWithActivityIndicatorStyle$P23UIActivityIndicatorViewP13objc_selectori', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+...

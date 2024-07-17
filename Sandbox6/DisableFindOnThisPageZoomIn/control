@@ -1,0 +1,17 @@
+Package: com.sinfool.disablefindonthispagezoomin
+Name: Disable Find "On This Page" Zoom In  ₇₋₁₁₋₁₅
+Author: Sinfool
+Description: Disables the screen from zooming in after searching via Find "On This Page".  Useful for iPhone users annoyed by this native feature. This is the stand alone version derived from my other patch "Zoom In For What".  Made after reading a request on r/jailbreak.  Tested on iP6+ 8.1 & 8.4.  (7-11-15) Disables the screen from zooming in after searching via Find "On This Page".  Useful for iPhone users annoyed by this native feature. This is the stand alone version derived from my other patch "Zoom In For What".  Made after reading a request on r/jailbreak.  Tested on iP6+ 8.1 & 8.4.  (7-11-15)
+ .
+ FYI:	I've also made this into a tweak.
+ .
+ ★ If you enjoy my patches, please consider sending a donation...
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 22682
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

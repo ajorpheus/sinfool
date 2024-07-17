@@ -1,0 +1,15 @@
+Package: com.sinfool.iphonetoolbarcascadingtabsipads
+Name: iPhone Toolbar & Cascading Tabs (iPads)  ₁₂₋₁₄₋₁₅
+Author: Sinfool
+Description: Enables the iPhone style bottom toolbar & cascading cards view of open tabs on iPads. Enables the iPhone style bottom toolbar & cascading cards view of open tabs on iPads.
+ .
+ [v.1] Tested with an iPad mini2 9.0.2.  (12-14-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26915
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

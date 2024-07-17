@@ -1,0 +1,18 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/NoAdsCommercials/.theos/obj/arm64e/NoAdsCommercials.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL39_logos_orig$_ungrouped$MTVConfig$getAds', symObjAddr: 0x14D0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xBF, offset: 0xBF, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$VMNFreeWheelComponent$shouldPlayPreroll', symObjAddr: 0x14D8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x10A, offset: 0x10A, size: 0x8, addend: 0x0, symName: '__ZL90_logos_orig$_ungrouped$MTVHomeBigAdView$webView$shouldStartLoadWithRequest$navigationType$', symObjAddr: 0x14E0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x159, offset: 0x159, size: 0x8, addend: 0x0, symName: '__ZL93_logos_orig$_ungrouped$MTVBrowseAdTileView$webView$shouldStartLoadWithRequest$navigationType$', symObjAddr: 0x14E8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x1A1, offset: 0x1A1, size: 0x8, addend: 0x0, symName: '__ZL91_logos_orig$_ungrouped$MTVOnTvTileAdView$webView$shouldStartLoadWithRequest$navigationType$', symObjAddr: 0x14F0, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1F3, offset: 0x1F3, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x114 }
+  - { offsetInCU: 0x2EC, offset: 0x2EC, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$MTVConfig$getAdsP9MTVConfigP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x339, offset: 0x339, size: 0x8, addend: 0x0, symName: '__ZL41_logos_method$_ungrouped$MTVConfig$getAdsP9MTVConfigP13objc_selector', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x8 }
+  - { offsetInCU: 0x36D, offset: 0x36D, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$VMNFreeWheelComponent$shouldPlayPrerollP21VMNFreeWheelComponentP13objc_selector', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x8 }
+  - { offsetInCU: 0x3A1, offset: 0x3A1, size: 0x8, addend: 0x0, symName: '__ZL92_logos_method$_ungrouped$MTVHomeBigAdView$webView$shouldStartLoadWithRequest$navigationType$P16MTVHomeBigAdViewP13objc_selectorP11objc_objectS4_i', symObjAddr: 0x124, symBinAddr: 0x4124, symSize: 0x8 }
+  - { offsetInCU: 0x3F6, offset: 0x3F6, size: 0x8, addend: 0x0, symName: '__ZL95_logos_method$_ungrouped$MTVBrowseAdTileView$webView$shouldStartLoadWithRequest$navigationType$P19MTVBrowseAdTileViewP13objc_selectorP11objc_objectS4_i', symObjAddr: 0x12C, symBinAddr: 0x412C, symSize: 0x8 }
+  - { offsetInCU: 0x44B, offset: 0x44B, size: 0x8, addend: 0x0, symName: '__ZL93_logos_method$_ungrouped$MTVOnTvTileAdView$webView$shouldStartLoadWithRequest$navigationType$P17MTVOnTvTileAdViewP13objc_selectorP11objc_objectS4_i', symObjAddr: 0x134, symBinAddr: 0x4134, symSize: 0x8 }
+...

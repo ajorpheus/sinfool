@@ -1,0 +1,17 @@
+Package: com.sinfool.disableswiperightmenugesture
+Name: Disable Swipe Right Menu Gesture  ₁₁₋₁₂₋₁₅
+Author: Sinfool
+Description: Disables the swipe right menu gesture. Disables the swipe right menu gesture.
+ .
+ Useful for those who mistakenly invoke this menu and/or happen to use swipe right gestures to lock your device usually causing this menu to get stuck partially displayed.
+ .
+ [v.1] Tested with version 3.3.2.  (11-12-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26339
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.songza.Songza
+Homepage: https://ipadkid.cf/sinfool/index.html

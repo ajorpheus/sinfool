@@ -1,0 +1,34 @@
+Package: com.sinfool.controlcenterhidercustomier
+Name: Control Center Hider/Customizer  ₄₋₅₋₁₅
+Author: Sinfool
+Description: Customizes/hides the following aspects of Control Center... Use TRUE, FALSE & (NULL) to hide/enable options.  Unless listed otherwise... pass-through equals stock iOS & (NULL) equals hide/disable.	Tested with iP6+ & iPad mini2 8.1.  UPDATED (4-5-15) Customizes/hides the following aspects of Control Center... Use TRUE, FALSE & (NULL) to hide/enable options.  Unless listed otherwise... pass-through equals stock iOS & (NULL) equals hide/disable.	Tested with iP6+ & iPad mini2 8.1.  UPDATED (4-5-15)
+ .
+ • Control Center
+ • CC Height
+ • Allow Swipe Gesture (SB/Apps)
+ • Show Tab On First Swipe
+ • Use Bounce
+ • Shadow Above CC
+ • Control Alpha (ghost effect)
+ • Hide LS Grabber
+ • Grabber
+ • Flat Grabber
+ • Highlight Color (slider/glyph)
+ • Highlight Alpha 
+ • Toggles (section)
+ • Brightness (section)
+ • Brightness Dark Background
+ • Media Controls (section)
+ • AirDrop (section)
+ • AirPlay (section)
+ • Quick Launch (section)
+ • Quick Launch Circle Buttons
+ .
+ ⚠️ NOTE:	By default, most settings are set to stock BUT the CC Height will most likely need to be adjusted according to your particular device/setup OR just delete this unit to use stock height.  I've listed some general suggestions but values can be changed as necessary. patchID: 19549
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

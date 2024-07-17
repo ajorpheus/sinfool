@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/TabBarAlternateImage/.theos/obj/arm64e/TabBarAlternateImage.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$UITabBarSwappableImageView$showAlternateImage$', symObjAddr: 0x7D0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$UITabBarSwappableImageView$showAlternateImage$P26UITabBarSwappableImageViewP13objc_selectorb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$UITabBarSwappableImageView$showAlternateImage$P26UITabBarSwappableImageViewP13objc_selectorb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

@@ -1,0 +1,18 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/FlatFields/.theos/obj/arm64e/FlatFields.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL85_logos_orig$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$', symObjAddr: 0x1180, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xD7, offset: 0xD7, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$_SFNavigationBarURLButton$setBackgroundAlphaFactor$', symObjAddr: 0x1188, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$CKUIBehavior$entryFieldCoverLineWidth', symObjAddr: 0x1190, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x14A, offset: 0x14A, size: 0x8, addend: 0x0, symName: '__ZL57_logos_orig$_ungrouped$CKUITheme$entryFieldCoverFillColor', symObjAddr: 0x1198, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x18D, offset: 0x18D, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE0 }
+  - { offsetInCU: 0x24F, offset: 0x24F, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x295, offset: 0x295, size: 0x8, addend: 0x0, symName: '__ZL87_logos_method$_ungrouped$UISearchBarBackground$_createBackgroundImageForBarStyle$alpha$P21UISearchBarBackgroundP13objc_selectorxd', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x10 }
+  - { offsetInCU: 0x2E7, offset: 0x2E7, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$_SFNavigationBarURLButton$setBackgroundAlphaFactor$P25_SFNavigationBarURLButtonP13objc_selectord', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x10 }
+  - { offsetInCU: 0x307, offset: 0x307, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$_SFNavigationBarURLButton$setBackgroundAlphaFactor$P25_SFNavigationBarURLButtonP13objc_selectord', symObjAddr: 0xF0, symBinAddr: 0x40F0, symSize: 0x10 }
+  - { offsetInCU: 0x348, offset: 0x348, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$CKUIBehavior$entryFieldCoverLineWidthP12CKUIBehaviorP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+  - { offsetInCU: 0x361, offset: 0x361, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$CKUIBehavior$entryFieldCoverLineWidthP12CKUIBehaviorP13objc_selector', symObjAddr: 0x100, symBinAddr: 0x4100, symSize: 0x8 }
+  - { offsetInCU: 0x395, offset: 0x395, size: 0x8, addend: 0x0, symName: '__ZL59_logos_method$_ungrouped$CKUITheme$entryFieldCoverFillColorP9CKUIThemeP13objc_selector', symObjAddr: 0x108, symBinAddr: 0x4108, symSize: 0x8 }
+...

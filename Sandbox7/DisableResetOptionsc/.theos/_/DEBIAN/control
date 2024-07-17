@@ -1,0 +1,18 @@
+Package: com.sinfool.disableresetoptions
+Name: Disable "Reset" Options  ₁₀₋₁₈₋₁₅
+Author: Sinfool
+Description: Disables the "Reset" preference tab located @Settings>General.   Disables the "Reset" preference tab located @Settings>General.  
+ .
+ Useful for those who want to reduce the risk of mistakenly resetting features, i.e. "Erase All Contents and Settings" etc.	Disable this patch to regain tab access.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-18-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25190
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.2-1
+Installed-Size: 168

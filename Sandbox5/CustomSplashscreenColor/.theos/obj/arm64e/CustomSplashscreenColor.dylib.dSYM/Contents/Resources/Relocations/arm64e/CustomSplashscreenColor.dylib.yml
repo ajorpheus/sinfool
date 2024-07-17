@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/CustomSplashscreenColor/.theos/obj/arm64e/CustomSplashscreenColor.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL62_logos_orig$_ungrouped$SBSceneLayoutWindow$setBackgroundColor$', symObjAddr: 0xEF0, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0xC0, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$SBAnimationFactorySettings$setSlowDownFactor$', symObjAddr: 0xEF8, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0x101, size: 0x8, addend: 0x0, symName: '__ZL68_logos_orig$_ungrouped$SBAnimationFactorySettings$setSlowAnimations$', symObjAddr: 0xF00, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x141, offset: 0x141, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x1BE, offset: 0x1BE, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBSceneLayoutWindow$setBackgroundColor$P19SBSceneLayoutWindowP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x64 }
+  - { offsetInCU: 0x20B, offset: 0x20B, size: 0x8, addend: 0x0, symName: '__ZL64_logos_method$_ungrouped$SBSceneLayoutWindow$setBackgroundColor$P19SBSceneLayoutWindowP13objc_selectorP11objc_object', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x64 }
+  - { offsetInCU: 0x253, offset: 0x253, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$SBAnimationFactorySettings$setSlowDownFactor$P26SBAnimationFactorySettingsP13objc_selectord', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x26A, offset: 0x26A, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$SBAnimationFactorySettings$setSlowDownFactor$P26SBAnimationFactorySettingsP13objc_selectord', symObjAddr: 0x118, symBinAddr: 0x4118, symSize: 0x10 }
+  - { offsetInCU: 0x2AB, offset: 0x2AB, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$SBAnimationFactorySettings$setSlowAnimations$P26SBAnimationFactorySettingsP13objc_selectorb', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+  - { offsetInCU: 0x2C4, offset: 0x2C4, size: 0x8, addend: 0x0, symName: '__ZL70_logos_method$_ungrouped$SBAnimationFactorySettings$setSlowAnimations$P26SBAnimationFactorySettingsP13objc_selectorb', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0x10 }
+...

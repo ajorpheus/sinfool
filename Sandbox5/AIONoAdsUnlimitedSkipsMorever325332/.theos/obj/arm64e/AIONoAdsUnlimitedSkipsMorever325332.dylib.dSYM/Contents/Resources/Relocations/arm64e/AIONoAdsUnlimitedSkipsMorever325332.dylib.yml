@@ -1,0 +1,30 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox5/AIONoAdsUnlimitedSkipsMorever325332/.theos/obj/arm64e/AIONoAdsUnlimitedSkipsMorever325332.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1FC }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL55_logos_orig$_ungrouped$SongzaAdManager$shouldDisplayAds', symObjAddr: 0x2220, symBinAddr: 0xC040, symSize: 0x0 }
+  - { offsetInCU: 0xA8, offset: 0xA8, size: 0x8, addend: 0x0, symName: '__ZL77_logos_orig$_ungrouped$SongzaPlayerViewController_iPad$shouldShowUpsellButton', symObjAddr: 0x2228, symBinAddr: 0xC048, symSize: 0x0 }
+  - { offsetInCU: 0xE1, offset: 0xE1, size: 0x8, addend: 0x0, symName: '__ZL79_logos_orig$_ungrouped$SongzaPlayerViewController_iPhone$shouldShowUpsellButton', symObjAddr: 0x2230, symBinAddr: 0xC050, symSize: 0x0 }
+  - { offsetInCU: 0x11A, offset: 0x11A, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$SongzaPlayerViewController$shouldShowUpsellButton', symObjAddr: 0x2238, symBinAddr: 0xC058, symSize: 0x0 }
+  - { offsetInCU: 0x153, offset: 0x153, size: 0x8, addend: 0x0, symName: '__ZL43_logos_orig$_ungrouped$MrLoader$showInView$', symObjAddr: 0x2240, symBinAddr: 0xC060, symSize: 0x0 }
+  - { offsetInCU: 0x1B6, offset: 0x1B6, size: 0x8, addend: 0x0, symName: '__ZL46_logos_orig$_ungrouped$MrLoader$initWithFrame$', symObjAddr: 0x2248, symBinAddr: 0xC068, symSize: 0x0 }
+  - { offsetInCU: 0x283, offset: 0x283, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$MrLoader$showInView$withOffset$', symObjAddr: 0x2250, symBinAddr: 0xC070, symSize: 0x0 }
+  - { offsetInCU: 0x2B7, offset: 0x2B7, size: 0x8, addend: 0x0, symName: '__ZL43_logos_meta_orig$_ungrouped$MrLoader$loader', symObjAddr: 0x2258, symBinAddr: 0xC078, symSize: 0x0 }
+  - { offsetInCU: 0x2EE, offset: 0x2EE, size: 0x8, addend: 0x0, symName: '__ZL51_logos_orig$_ungrouped$TrackTableViewCell$buyButton', symObjAddr: 0x2260, symBinAddr: 0xC080, symSize: 0x0 }
+  - { offsetInCU: 0x327, offset: 0x327, size: 0x8, addend: 0x0, symName: '__ZL54_logos_orig$_ungrouped$SongzaUserSubscription$isActive', symObjAddr: 0x2268, symBinAddr: 0xC088, symSize: 0x0 }
+  - { offsetInCU: 0x36A, offset: 0x36A, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1FC }
+  - { offsetInCU: 0x51B, offset: 0x51B, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SongzaAdManager$shouldDisplayAdsP15SongzaAdManagerP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0x569, offset: 0x569, size: 0x8, addend: 0x0, symName: '__ZL57_logos_method$_ungrouped$SongzaAdManager$shouldDisplayAdsP15SongzaAdManagerP13objc_selector', symObjAddr: 0x1FC, symBinAddr: 0x41FC, symSize: 0x8 }
+  - { offsetInCU: 0x59D, offset: 0x59D, size: 0x8, addend: 0x0, symName: '__ZL79_logos_method$_ungrouped$SongzaPlayerViewController_iPad$shouldShowUpsellButtonP31SongzaPlayerViewController_iPadP13objc_selector', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x8 }
+  - { offsetInCU: 0x5D1, offset: 0x5D1, size: 0x8, addend: 0x0, symName: '__ZL81_logos_method$_ungrouped$SongzaPlayerViewController_iPhone$shouldShowUpsellButtonP33SongzaPlayerViewController_iPhoneP13objc_selector', symObjAddr: 0x20C, symBinAddr: 0x420C, symSize: 0x8 }
+  - { offsetInCU: 0x605, offset: 0x605, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$SongzaPlayerViewController$shouldShowUpsellButtonP26SongzaPlayerViewControllerP13objc_selector', symObjAddr: 0x214, symBinAddr: 0x4214, symSize: 0x8 }
+  - { offsetInCU: 0x639, offset: 0x639, size: 0x8, addend: 0x0, symName: '__ZL45_logos_method$_ungrouped$MrLoader$showInView$P8MrLoaderP13objc_selectorP11objc_object', symObjAddr: 0x21C, symBinAddr: 0x421C, symSize: 0x10 }
+  - { offsetInCU: 0x67A, offset: 0x67A, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$MrLoader$initWithFrame$P8MrLoaderP13objc_selector6CGRect', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+  - { offsetInCU: 0x698, offset: 0x698, size: 0x8, addend: 0x0, symName: '__ZL48_logos_method$_ungrouped$MrLoader$initWithFrame$P8MrLoaderP13objc_selector6CGRect', symObjAddr: 0x22C, symBinAddr: 0x422C, symSize: 0x8 }
+  - { offsetInCU: 0x6D7, offset: 0x6D7, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$MrLoader$showInView$withOffset$P8MrLoaderP13objc_selectorP11objc_object7CGPoint', symObjAddr: 0x234, symBinAddr: 0x4234, symSize: 0x10 }
+  - { offsetInCU: 0x723, offset: 0x723, size: 0x8, addend: 0x0, symName: '__ZL45_logos_meta_method$_ungrouped$MrLoader$loaderP10objc_classP13objc_selector', symObjAddr: 0x244, symBinAddr: 0x4244, symSize: 0x8 }
+  - { offsetInCU: 0x753, offset: 0x753, size: 0x8, addend: 0x0, symName: '__ZL45_logos_meta_method$_ungrouped$MrLoader$loaderP10objc_classP13objc_selector', symObjAddr: 0x244, symBinAddr: 0x4244, symSize: 0x8 }
+  - { offsetInCU: 0x787, offset: 0x787, size: 0x8, addend: 0x0, symName: '__ZL53_logos_method$_ungrouped$TrackTableViewCell$buyButtonP18TrackTableViewCellP13objc_selector', symObjAddr: 0x24C, symBinAddr: 0x424C, symSize: 0x8 }
+  - { offsetInCU: 0x7BB, offset: 0x7BB, size: 0x8, addend: 0x0, symName: '__ZL56_logos_method$_ungrouped$SongzaUserSubscription$isActiveP22SongzaUserSubscriptionP13objc_selector', symObjAddr: 0x254, symBinAddr: 0x4254, symSize: 0x8 }
+...

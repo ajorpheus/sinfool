@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/LSNCNoHeaders/.theos/obj/arm64e/LSNCNoHeaders.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL88_logos_orig$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$', symObjAddr: 0xEA8, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: '__ZL56_logos_orig$_ungrouped$NCMaterialSettings$setWhiteAlpha$', symObjAddr: 0xEB0, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0x11D, offset: 0x11D, size: 0x8, addend: 0x0, symName: '__ZL53_logos_orig$_ungrouped$NCShortLookView$isHeaderHidden', symObjAddr: 0xEB8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x160, offset: 0x160, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB0 }
+  - { offsetInCU: 0x1F9, offset: 0x1F9, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$P14NCMaterialViewP13objc_selectoryP11objc_objectb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x23F, offset: 0x23F, size: 0x8, addend: 0x0, symName: '__ZL90_logos_method$_ungrouped$NCMaterialView$initWithStyleOptions$materialSettings$captureOnly$P14NCMaterialViewP13objc_selectoryP11objc_objectb', symObjAddr: 0xB0, symBinAddr: 0x40B0, symSize: 0x10 }
+  - { offsetInCU: 0x2A3, offset: 0x2A3, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setWhiteAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x14 }
+  - { offsetInCU: 0x2CF, offset: 0x2CF, size: 0x8, addend: 0x0, symName: '__ZL58_logos_method$_ungrouped$NCMaterialSettings$setWhiteAlpha$P18NCMaterialSettingsP13objc_selectord', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x14 }
+  - { offsetInCU: 0x318, offset: 0x318, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$NCShortLookView$isHeaderHiddenP15NCShortLookViewP13objc_selector', symObjAddr: 0xD4, symBinAddr: 0x40D4, symSize: 0x8 }
+  - { offsetInCU: 0x331, offset: 0x331, size: 0x8, addend: 0x0, symName: '__ZL55_logos_method$_ungrouped$NCShortLookView$isHeaderHiddenP15NCShortLookViewP13objc_selector', symObjAddr: 0xD4, symBinAddr: 0x40D4, symSize: 0x8 }
+...

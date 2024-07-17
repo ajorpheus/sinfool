@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/AlertsMergeNoCancelButtonc/.theos/obj/arm64e/AlertsMergeNoCancelButton.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL72_logos_orig$_ungrouped$_UIAlertControllerView$setCancelActionIsDiscrete$', symObjAddr: 0x7E8, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0xB3, offset: 0xB3, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0xFA, offset: 0xFA, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$_UIAlertControllerView$setCancelActionIsDiscrete$P22_UIAlertControllerViewP13objc_selectorb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+  - { offsetInCU: 0x14A, offset: 0x14A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_method$_ungrouped$_UIAlertControllerView$setCancelActionIsDiscrete$P22_UIAlertControllerViewP13objc_selectorb', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x10 }
+...

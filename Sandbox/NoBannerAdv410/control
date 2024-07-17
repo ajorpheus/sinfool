@@ -1,0 +1,15 @@
+Package: com.sinfool.nobanneradv410
+Name: No Banner Ad (v. 4.1.0)  ₅₋₅₋₁₆
+Author: Sinfool
+Description: Removes the dark banner for the "Weather 14 days" app. Removes the dark banner for the "Weather 14 days" app.
+ .
+ [v.1] Tested with (v. 4.1.0).  Made as a request via r/jailbreak.  (5-5-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28634
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/ios.aplicacion.tiempo-com
+Homepage: https://ipadkid.cf/sinfool/index.html

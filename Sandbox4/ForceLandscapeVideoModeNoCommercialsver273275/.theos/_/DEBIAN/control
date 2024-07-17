@@ -1,0 +1,12 @@
+Package: com.sinfool.forcelandscapevideomodenocommercialsver273275
+Name: Force Landscape Video Mode & No Commercials (ver. 2.7.3 -2.7.5)
+Author: Sinfool
+Description: Force landscape video mode & no commercials.	Tested with most recent Cartoon Network app version 2.7.3 - 2.7.5.	(12-18-14) 	⚠️ ATTN: iPad Users  •••Change the entry specified below to "pass-through"••• Force landscape video mode & no commercials.	Tested with most recent Cartoon Network app version 2.7.3 - 2.7.5.	(12-18-14) 	⚠️ ATTN: iPad Users  •••Change the entry specified below to "pass-through"••• patchID: 12506
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.turner.cnvideoapp
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

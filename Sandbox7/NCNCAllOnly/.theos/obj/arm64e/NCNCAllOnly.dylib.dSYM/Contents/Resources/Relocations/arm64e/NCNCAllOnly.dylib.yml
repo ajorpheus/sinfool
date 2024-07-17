@@ -1,0 +1,16 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox7/NCNCAllOnly/.theos/obj/arm64e/NCNCAllOnly.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL69_logos_orig$_ungrouped$SBModeViewController$_headerViewHeightForMode$', symObjAddr: 0x1390, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xA9, offset: 0xA9, size: 0x8, addend: 0x0, symName: '__ZL98_logos_orig$_ungrouped$SBNotificationCenterLayoutViewController$_areWidgetViewControllersAvailable', symObjAddr: 0x1398, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xE9, offset: 0xE9, size: 0x8, addend: 0x0, symName: '__ZL105_logos_orig$_ungrouped$SBNotificationCenterLayoutViewController$_areNotificationsViewControllersAvailable', symObjAddr: 0x13A0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x102, offset: 0x102, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$SBNotificationSeparatorView$initWithFrame$mode$', symObjAddr: 0x13A8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x1E2, offset: 0x1E2, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xE4 }
+  - { offsetInCU: 0x28F, offset: 0x28F, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBModeViewController$_headerViewHeightForMode$P20SBModeViewControllerP13objc_selectorx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x2DF, offset: 0x2DF, size: 0x8, addend: 0x0, symName: '__ZL71_logos_method$_ungrouped$SBModeViewController$_headerViewHeightForMode$P20SBModeViewControllerP13objc_selectorx', symObjAddr: 0xE4, symBinAddr: 0x40E4, symSize: 0x8 }
+  - { offsetInCU: 0x31E, offset: 0x31E, size: 0x8, addend: 0x0, symName: '__ZL100_logos_method$_ungrouped$SBNotificationCenterLayoutViewController$_areWidgetViewControllersAvailableP40SBNotificationCenterLayoutViewControllerP13objc_selector', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x8 }
+  - { offsetInCU: 0x352, offset: 0x352, size: 0x8, addend: 0x0, symName: '__ZL107_logos_method$_ungrouped$SBNotificationCenterLayoutViewController$_areNotificationsViewControllersAvailableP40SBNotificationCenterLayoutViewControllerP13objc_selector', symObjAddr: 0xF4, symBinAddr: 0x40F4, symSize: 0x8 }
+  - { offsetInCU: 0x386, offset: 0x386, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$SBNotificationSeparatorView$initWithFrame$mode$P27SBNotificationSeparatorViewP13objc_selector6CGRectx', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x8 }
+...

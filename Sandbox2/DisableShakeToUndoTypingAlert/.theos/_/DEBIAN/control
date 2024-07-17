@@ -1,0 +1,16 @@
+Package: com.sinfool.disableshaketoundotypingalert
+Name: Disable Shake To "Undo Typing" Alert  ₁₀₋₁₇₋₁₅
+Author: Sinfool
+Description: Disables the "Undo Typing" alert triggered when you shake your device in a typing field. Disables the "Undo Typing" alert triggered when you shake your device in a typing field.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-17-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25158
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

@@ -1,0 +1,10 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox6/DisableAutoZoomFindOnPage/.theos/obj/arm64e/DisableAutoZoomFindOnPage.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL122_logos_orig$_ungrouped$WKContentView$_zoomToRect$withOrigin$fitEntireRect$minimumScale$maximumScale$minimumScrollDistance$', symObjAddr: 0xAD0, symBinAddr: 0xC008, symSize: 0x0 }
+  - { offsetInCU: 0x15F, offset: 0x15F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x50 }
+  - { offsetInCU: 0x1A6, offset: 0x1A6, size: 0x8, addend: 0x0, symName: '__ZL124_logos_method$_ungrouped$WKContentView$_zoomToRect$withOrigin$fitEntireRect$minimumScale$maximumScale$minimumScrollDistance$P13WKContentViewP13objc_selector6CGRect7CGPointbddd', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+  - { offsetInCU: 0x1F6, offset: 0x1F6, size: 0x8, addend: 0x0, symName: '__ZL124_logos_method$_ungrouped$WKContentView$_zoomToRect$withOrigin$fitEntireRect$minimumScale$maximumScale$minimumScrollDistance$P13WKContentViewP13objc_selector6CGRect7CGPointbddd', symObjAddr: 0x50, symBinAddr: 0x4050, symSize: 0x8 }
+...

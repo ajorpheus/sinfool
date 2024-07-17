@@ -1,0 +1,19 @@
+Package: com.sinfool.transparentmenupopupsv1311
+Name: Transparent Menu Popups (v. 13.11)
+Author: Sinfool
+Description: Makes menu popups transparent. Makes menu popups transparent.
+ .
+ ⚑ UPDATES:
+ (3-25-18) *Initial release
+ (3-25-18) *Added iPad support
+ .
+ [v.2] Tested with YouTube version 13.11.  Requested by /u/Flowupbeat.  (3-25-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41631
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.google.ios.youtube
+Homepage: https://ipadkid.cf/sinfool/index.html

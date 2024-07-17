@@ -1,0 +1,11 @@
+Package: com.sinfool.removeexternalscreencheck
+Name: Remove External Screen Check
+Author: Sinfool
+Description: Removes the external screen check so you won't see the black screen/message stating "Video output on an additional screen is not possible...".  Video output tested working via DisplayOut from Cydia. (Tested w/iP4 7.0.4) Removes the external screen check so you won't see the black screen/message stating "Video output on an additional screen is not possible...".  Video output tested working via DisplayOut from Cydia. (Tested w/iP4 7.0.4) patchID: 8140
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.navigon.NavigonNorthAmerica
+Homepage: https://ipadkid.cf/sinfool/index.html

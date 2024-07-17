@@ -1,0 +1,35 @@
+Package: com.sinfool.nchidingoptions
+Name: NC - Hiding Options  ₄₋₇₋₁₆
+Author: Sinfool
+Description: Hides the following items from Notification Center... Hides the following items from Notification Center...
+ .
+ - Status bar
+ - Tabs (Today/Notifications)
+ - Top & Bottom Separators
+ - Cell Separators
+ - Today's Date
+ - Headers (iOS 8 & 9)
+ - Headers (but keeps space)
+ - Headers Background
+ - Today Widget Icon & Title
+ - Notifications Icon & Title
+ - Entire Footer (both items below)
+ - Edit Button
+ - Widget ID's Footer (ie. Weather/Stocks™)
+ - Grabber
+ .
+ NOTE:  Units marked with a "❌" must be deleted to show those items and all other units can be deleted or return values changed as per listed below...
+ .
+ SHOW = "pass-through"
+ HIDE = "NULL" or "0"
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  Made as a request.  (4-7-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 28386
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,15 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox3/NoTableCellArrowsc/.theos/obj/arm64e/NoTableCellArrows.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL67_logos_orig$_ungrouped$PSTableCell$setForceHideDisclosureIndicator$', symObjAddr: 0x5B58, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offsetInCU: 0x9E, offset: 0x9E, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$PSTableCell$forceHideDisclosureIndicator', symObjAddr: 0x5B60, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offsetInCU: 0xCC, offset: 0xCC, size: 0x8, addend: 0x0, symName: '__ZL63_logos_orig$_ungrouped$UITableViewCell$_disclosureChevronImage$', symObjAddr: 0x5B68, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0x1CA5, offset: 0x1CA5, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xB4 }
+  - { offsetInCU: 0x1D29, offset: 0x1D29, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$PSTableCell$setForceHideDisclosureIndicator$P11PSTableCellP13objc_selectorb', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x10 }
+  - { offsetInCU: 0x1D61, offset: 0x1D61, size: 0x8, addend: 0x0, symName: '__ZL69_logos_method$_ungrouped$PSTableCell$setForceHideDisclosureIndicator$P11PSTableCellP13objc_selectorb', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x10 }
+  - { offsetInCU: 0x1DA2, offset: 0x1DA2, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$PSTableCell$forceHideDisclosureIndicatorP11PSTableCellP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x1DC0, offset: 0x1DC0, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$PSTableCell$forceHideDisclosureIndicatorP11PSTableCellP13objc_selector', symObjAddr: 0xC4, symBinAddr: 0x40C4, symSize: 0x8 }
+  - { offsetInCU: 0x1DF4, offset: 0x1DF4, size: 0x8, addend: 0x0, symName: '__ZL65_logos_method$_ungrouped$UITableViewCell$_disclosureChevronImage$P15UITableViewCellP13objc_selectorb', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0x8 }
+...

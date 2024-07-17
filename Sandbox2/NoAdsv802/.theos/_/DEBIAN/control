@@ -1,0 +1,18 @@
+Package: com.sinfool.noadsv802
+Name: No Ads (v. 8.0.2)
+Author: Sinfool
+Description: Removes banner ads from the main page and removes video ads from in app videos & the "Must-See Channels" section. Removes banner ads from the main page and removes video ads from in app videos & the "Must-See Channels" section.
+ .
+ NOTE:  Does NOT remove banner or video ads from web linked "www.ncaa.com" content.
+ .
+ [v.1] Tested with app version 8.0.2.  (3-12-18)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 41329
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.turner.mmod2011temp
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

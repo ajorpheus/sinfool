@@ -1,0 +1,15 @@
+Package: com.sinfool.customieofflinestatusbar
+Name: Customize Offline Status Bar
+Author: Sinfool
+Description: Customizes the offline status bar to make it less intrusive (see options below).  The text is currently set to show "Flex 2" but you can change it to whatever you'd like or remove the text altogether.  Tested with iPad mini2 8.1.  UPDATED (3-9-15) Customizes the offline status bar to make it less intrusive (see options below).  The text is currently set to show "Flex 2" but you can change it to whatever you'd like or remove the text altogether.  Tested with iPad mini2 8.1.  UPDATED (3-9-15)
+ .
+ • Customize "Rhapsody is offline." text
+ • Remove the orange background color 
+ • Show or Hide offline SB in full player patchID: 19440
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.rhapsody.iphone.Rhapsody3
+Homepage: https://ipadkid.cf/sinfool/index.html

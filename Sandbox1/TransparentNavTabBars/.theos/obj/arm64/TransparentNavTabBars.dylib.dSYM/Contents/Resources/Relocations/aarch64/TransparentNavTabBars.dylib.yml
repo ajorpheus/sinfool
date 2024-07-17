@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox1/TransparentNavTabBars/.theos/obj/arm64/TransparentNavTabBars.dylib'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x4A, offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL125_logos_orig$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$', symObjAddr: 0x13C8, symBinAddr: 0xC028, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: '__ZL70_logos_orig$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$', symObjAddr: 0x13D0, symBinAddr: 0xC030, symSize: 0x0 }
+  - { offsetInCU: 0x12B, offset: 0x12B, size: 0x8, addend: 0x0, symName: '__ZL60_logos_orig$_ungrouped$PUPhotoBrowserTitleView$setTextColor$', symObjAddr: 0x13D8, symBinAddr: 0xC038, symSize: 0x0 }
+  - { offsetInCU: 0x16F, offset: 0x16F, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x84 }
+  - { offsetInCU: 0x208, offset: 0x208, size: 0x8, addend: 0x0, symName: '__ZL127_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$P36UIStatusBarForegroundStyleAttributesP13objc_selectordxP11objc_objectbx', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x88 }
+  - { offsetInCU: 0x24E, offset: 0x24E, size: 0x8, addend: 0x0, symName: '__ZL127_logos_method$_ungrouped$UIStatusBarForegroundStyleAttributes$initWithHeight$legibilityStyle$tintColor$hasBusyBackground$idiom$P36UIStatusBarForegroundStyleAttributesP13objc_selectordxP11objc_objectbx', symObjAddr: 0x84, symBinAddr: 0x4084, symSize: 0x88 }
+  - { offsetInCU: 0x2D6, offset: 0x2D6, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$P20UINavigationItemViewP13objc_selectorx', symObjAddr: 0x10C, symBinAddr: 0x410C, symSize: 0x8 }
+  - { offsetInCU: 0x2FF, offset: 0x2FF, size: 0x8, addend: 0x0, symName: '__ZL72_logos_method$_ungrouped$UINavigationItemView$_useSilverLookForBarStyle$P20UINavigationItemViewP13objc_selectorx', symObjAddr: 0x10C, symBinAddr: 0x410C, symSize: 0x8 }
+  - { offsetInCU: 0x33E, offset: 0x33E, size: 0x8, addend: 0x0, symName: '__ZL62_logos_method$_ungrouped$PUPhotoBrowserTitleView$setTextColor$P23PUPhotoBrowserTitleViewP13objc_selectorP11objc_object', symObjAddr: 0x114, symBinAddr: 0x4114, symSize: 0x5C }
+...

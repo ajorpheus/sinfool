@@ -1,0 +1,19 @@
+Package: com.sinfool.disablefullscreenmode
+Name: Disable Full Screen Mode  ₁₂₋₁₅₋₁₅ ⚑
+Author: Sinfool
+Description: Disables full screen mode (i.e. never hide bars). Disables full screen mode (i.e. never hide bars).
+ .
+ ⚑ UPDATES:
+ (12-10-15) *Initial release
+ (12-15-15) *Changed method so works on both iPhones & iPads
+ .
+ [v.2] Tested with an iP6+ 9.0.2.  Made after reading a similar inquiry on r/jailbreak.  (12-15-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26852
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.mobilesafari
+Homepage: https://ipadkid.cf/sinfool/index.html

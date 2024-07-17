@@ -1,0 +1,15 @@
+Package: com.sinfool.notablecellicons
+Name: No Table Cell Icons  ₁₀₋₁₈₋₁₅
+Author: Sinfool
+Description: Removes table cell icons.  Made as a request via email & r/flextweak. Removes table cell icons.  Made as a request via email & r/flextweak.
+ .
+ [v.1] Tested with an iP5 9.0.2.  (10-18-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 25204
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.Preferences
+Homepage: https://ipadkid.cf/sinfool/index.html

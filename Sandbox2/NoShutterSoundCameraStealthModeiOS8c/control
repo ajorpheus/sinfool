@@ -1,0 +1,13 @@
+Package: com.sinfool.noshuttersoundcamerastealthmodeios8
+Name: No Shutter Sound (Camera Stealth Mode) [iOS 8]
+Author: Sinfool
+Description: Disables the shutter sound when taking a picture (system wide).  Should work in some third party apps ie. Camera+ etc.  Tested with iP6+ on 8.1.   Disables the shutter sound when taking a picture (system wide).  Should work in some third party apps ie. Camera+ etc.  Tested with iP6+ on 8.1.  
+ .
+ NOTE:  The other patch titled "Disable Camera Sounds" doesn't work for me so I updated my original "No Shutter Sound" patches for iOS 8. patchID: 14326
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.2
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html

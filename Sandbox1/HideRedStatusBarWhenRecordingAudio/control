@@ -1,0 +1,21 @@
+Package: com.sinfool.hideredstatusbarwhenrecordingaudio
+Name: Hide Red Status Bar When Recording Audio  ₇₋₂₈₋₁₅
+Author: Sinfool
+Description: Stealth mode for some third party AppStore audio recording apps.  Disables the red double height status bar.  So therefore, you must use multitasking/the switcher to return to said app. Stealth mode for some third party AppStore audio recording apps.  Disables the red double height status bar.  So therefore, you must use multitasking/the switcher to return to said app.
+ .
+ [v.1] Tested w/iP6+ 8.1 & 8.4.  (7-28-15)
+ .
+ ⚑ UPDATES: 
+ (2-28-15) *Initial release
+ (7-28-15) *Confirmed working on 8.4
+ .
+ ● If you'd like to donate via PayPal, please send money to...
+ .
+ ☞  goin730@gmail.com patchID: 19240
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

@@ -1,0 +1,5 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/az/Desktop/sinfool/Sandbox4/SpotlightLessBlur/.theos/obj/arm64e/SpotlightLessBlur.dylib'
+relocations:     []
+...

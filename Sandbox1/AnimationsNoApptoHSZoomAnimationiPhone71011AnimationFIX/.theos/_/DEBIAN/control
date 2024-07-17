@@ -1,0 +1,18 @@
+Package: com.sinfool.animationsnoapptohszoomanimationiphone71011animationfix
+Name: Animations - No App to HS Zoom Animation (iPhone 7 10.1.1 Animation FIX)
+Author: Sinfool
+Description: Removes the App to HS zoom down animation.  Useful for those who don't want this animation or if you use an iP7 on 10.1.1 and are annoyed by the slight lag that occurs with this particular animation. Removes the App to HS zoom down animation.  Useful for those who don't want this animation or if you use an iP7 on 10.1.1 and are annoyed by the slight lag that occurs with this particular animation.
+ .
+ NOTE:  This might not work with Tage or other close app animation tweaks.
+ .
+ [v.1] Tested with an iPad mini 4 on 10.2.  Made as a request via r/jailbreak.  (10-23-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39810
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

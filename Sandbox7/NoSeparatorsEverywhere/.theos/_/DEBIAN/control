@@ -1,0 +1,28 @@
+Package: com.sinfool.noseparatorseverywhere
+Name: No Separators (Everywhere)
+Author: Sinfool
+Description: Removes separators from the following areas... Removes separators from the following areas...
+ .
+ * Notification Center/Spotlight
+ * Apps
+ * Music App
+ * Alerts
+ * Activity/Share Sheets
+ * Action/Edit Menu
+ .
+ To show separators, delete the units specified.  Message me/comment if you'd like additional separators removed/added to this patch and I'll try to do so.
+ .
+ [v.2] Tested with an iPad mini 4 on 10.2.  (4-20-17)
+ .
+ (4-4-17) *Initial release
+ (4-20-17) *Added Music app
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 36533
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 168

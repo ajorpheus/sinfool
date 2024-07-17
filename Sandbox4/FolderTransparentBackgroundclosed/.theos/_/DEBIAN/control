@@ -1,0 +1,21 @@
+Package: com.sinfool.foldertransparentbackgroundclosed
+Name: Folder - Transparent Background (closed)  ₉₋₃₀₋₁₆ ⚑
+Author: Sinfool
+Description: Removes the closed folder background on the home screen.  Unlike the other transparent folder patches, this one still shows Activator's icon BG. Removes the closed folder background on the home screen.  Unlike the other transparent folder patches, this one still shows Activator's icon BG.
+ .
+ ⚑UPDATES:
+ (8-5-16) *Initial release
+ (8-7-16) *Added support for reduce transparency users
+ (9-30-16) *Changed method to show Activator icon BG
+ .
+ [v.3] Tested with an iP6+ 9.3.3.  Made as a request via r/jailbreak.  (9-30-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 29689
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

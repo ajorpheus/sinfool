@@ -1,0 +1,16 @@
+Package: com.sinfool.kbenablepredictivetext
+Name: KB - Enable Predictive Text  ₁₁₋₁₆₋₁₆
+Author: Sinfool
+Description: Enables predictive text system wide. Enables predictive text system wide.
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Uploaded as a request via r/jailbreak & r/tweakbounty.  (11-16-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 32131
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 136

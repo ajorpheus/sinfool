@@ -1,0 +1,17 @@
+Package: com.sinfool.disablepowerdownmenu
+Name: Disable Power Down Menu  ₈₋₂₃₋₁₆
+Author: Sinfool
+Description: Disables the power down menu normally shown after holding the sleep button.  Disables the power down menu normally shown after holding the sleep button. 
+ .
+ This might be useful if you have the 7 day jailbreak cert and want a safeguard to help prevent turning off the device. 
+ .
+ [v.1] Tested with an iP6+ 9.3.3.  Made via an email request.  (8-23-16)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 30607
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html

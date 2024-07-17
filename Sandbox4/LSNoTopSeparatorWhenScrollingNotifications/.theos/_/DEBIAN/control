@@ -1,0 +1,20 @@
+Package: com.sinfool.lsnotopseparatorwhenscrollingnotifications
+Name: LS - No Top Separator When Scrolling Notifications
+Author: Sinfool
+Description: Removes the top separator when scrolling through notifications on the lockscreen. Removes the top separator when scrolling through notifications on the lockscreen.
+ .
+ UPDATES:
+ (10-7-17) *Initial release
+ (10-26-17) *Removed separator from showing when multiple notifications are present and notification is scrolled & stopped only partially shown
+ .
+ [v.2] Tested with an iPad mini 4 10.2.  Requested via r/jailbreak user /u/asoksevil.  (10-26-17)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 39636
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Section: Tweaks
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.springboard
+Homepage: https://ipadkid.cf/sinfool/index.html
+Architecture: iphoneos-arm
+Version: 0.0.1-1
+Installed-Size: 104

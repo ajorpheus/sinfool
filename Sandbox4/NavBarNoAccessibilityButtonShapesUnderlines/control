@@ -1,0 +1,17 @@
+Package: com.sinfool.navbarnoaccessibilitybuttonshapesunderlines
+Name: Nav Bar - No Accessibility Button Shapes/Underlines  ₁₂₋₆₋₁₅
+Author: Sinfool
+Description: Disables accessibility button shapes (& underlines) from the navigation bar. Disables accessibility button shapes (& underlines) from the navigation bar.
+ .
+ Useful for those who like the effects of having "Button Shapes" enabled @"Settings>General>Accessibility" but don't like the nav bar buttons.
+ .
+ [v.1] Tested with an iP6+ 9.0.2.  Made as a request via r/jailbreak.  (12-6-15)
+ .
+ ☞PayPal:  goin730@gmail.com patchID: 26774
+Depends: mobilesubstrate
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Icon: file:///private/var/mobile/Library/Sinfool/com.apple.UIKit
+Homepage: https://ipadkid.cf/sinfool/index.html
