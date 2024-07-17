@@ -3,7 +3,7 @@
 #include <sys/stat.h>
 
 // CHANGE ME to the root of this repo (as an absolute path)
-#define RUN_HOME "/Users/ipad_kid/Desktop/sinfool"
+#define RUN_HOME "/Users/az/Desktop/sinfool"
 // #error Once you've defined RUN_HOME, delete me
 
 /**
@@ -206,7 +206,7 @@ NSString *codeFromFlexPatch(NSDictionary *patch, BOOL *uikit, BOOL logos) {
     return ret;
 }
 
-int main() {
+int main(void) {
     CFTimeInterval topStartTime = CFAbsoluteTimeGetCurrent();
     
     NSFileManager *fileManager = NSFileManager.defaultManager;
@@ -266,8 +266,8 @@ int main() {
         // Makefile handling
         NSMutableString *makefile = NSMutableString.new;
         [makefile appendFormat:@""
-         "ARCHS = armv7 arm64\n"
-         "TARGET = iphone:clang:9.3:8.0\n"
+         "ARCHS = arm64 arm64e\n"
+         "TARGET = iphone:clang:14.5:14.5\n"
          "DEBUG = 0\n\n"
          "include $(THEOS)/makefiles/common.mk\n\n"
          "TWEAK_NAME = %@\n"
@@ -296,7 +296,7 @@ int main() {
                              "Package: com.sinfool.%@\n"
                              "Name: %@\n"
                              "Author: Sinfool\n"
-                             "Description: %@\n %@\n .\n patchID: %@\n"
+                             "Description: %@ %@ patchID: %@\n"
                              "Depends: mobilesubstrate\n"
                              "Maintainer: ipad_kid <ipadkid358@gmail.com>\n"
                              "Architecture: iphoneos-arm\n"
